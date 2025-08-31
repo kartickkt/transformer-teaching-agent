@@ -33,7 +33,7 @@ def extract_concepts_from_chunks(chunks: list) -> list:
     results = []
     for chunk in tqdm(chunks, desc="Extracting concepts"):
         prompt = build_concept_prompt(chunk)
-        response = call_llm(prompt, temperature=LLM_TEMPERATURE)
+        response = call_llm(prompt, temperature=LLM_TEMPERATURE, do_sample=False)
 
         # Attempt to parse JSON from LLM response
         try:

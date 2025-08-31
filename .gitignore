@@ -9,7 +9,6 @@ venv/
 
 # Data / outputs
 data/
-outputs/
 
 # Jupyter
 .ipynb_checkpoints/

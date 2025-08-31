@@ -12,6 +12,7 @@ data/
 
 outputs/*
 !outputs/attention_chunks.json
+!outputs/phase2_concepts.json
 
 # Jupyter
 .ipynb_checkpoints/

@@ -1,59 +1,57 @@
 import json
-import os
-import sys
 from pathlib import Path
 from tqdm import tqdm
+from transformers import pipeline, AutoTokenizer, AutoModelForCausalLM
 
-# ---------------- Path setup ----------------
-try:
-    # Works in normal Python scripts
-    REPO_ROOT = Path(__file__).resolve().parents[2]
-except NameError:
-    # Fallback for Colab / Jupyter (no __file__)
-    REPO_ROOT = Path.cwd()
-
-sys.path.append(str(REPO_ROOT))
-
-from src.utils import load_json, save_json
-from src.llm_utils import call_llm
-
-# ---------------- Files & settings ----------------
+# ---------------- Paths ----------------
+REPO_ROOT = Path(__file__).resolve().parents[1]  # assuming src/ is current folder
 CHUNKS_FILE = REPO_ROOT / "outputs/attention_chunks.json"
-OUTPUT_FILE = REPO_ROOT / "outputs/concepts_relationships.json"
+OUTPUT_FILE = REPO_ROOT / "outputs/concepts.json"
 
-# ---------------- Main logic ----------------
-def extract_concepts_and_relationships(chunks):
-    results = []
-    for chunk in tqdm(chunks, desc="Processing chunks"):
-        prompt = f"""
-        Extract key **concepts** and **relationships** between them from the following text:
+# ---------------- Load chunks ----------------
+with open(CHUNKS_FILE, "r") as f:
+    chunks = json.load(f)
 
-        {chunk['text']}
+# ---------------- Load Mistral model ----------------
+model_name = "mistralai/Mistral-7B-Instruct-v0"  # replace with your local path if needed
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForCausalLM.from_pretrained(
+    model_name,
+    device_map="auto",
+    load_in_4bit=True  # you can change to 8bit if needed
+)
+hf_pipe = pipeline(
+    "text-generation",
+    model=model,
+    tokenizer=tokenizer,
+    max_new_tokens=128,
+    temperature=0.0,
+)
 
-        Respond in JSON format with:
-        - "concepts": [list of concepts]
-        - "relationships": [list of relationships]
-        """
-        response = call_llm(prompt)
-        try:
-            data = json.loads(response)
-        except Exception:
-            data = {"concepts": [], "relationships": []}
-        results.append({
-            "chunk_id": chunk["id"],
-            "concepts": data.get("concepts", []),
-            "relationships": data.get("relationships", [])
-        })
-    return results
+# ---------------- Helper ----------------
+def extract_concepts(text):
+    prompt = (
+        f"Extract the main concepts from the following text as a JSON list of strings:\n\n{text}\n\nConcepts:"
+    )
+    output = hf_pipe(prompt)[0]["generated_text"]
+    try:
+        # Attempt to parse JSON directly from model output
+        start = output.find("[")
+        end = output.rfind("]") + 1
+        concepts = json.loads(output[start:end])
+    except Exception:
+        concepts = []
+    return concepts
 
+# ---------------- Run extraction ----------------
+results = []
+for chunk in tqdm(chunks, desc="Extracting concepts"):
+    text = chunk if isinstance(chunk, str) else chunk.get("text", "")
+    concepts = extract_concepts(text)
+    results.append({"text": text, "concepts": concepts})
 
-if __name__ == "__main__":
-    print(f"📂 Loading chunks from: {CHUNKS_FILE}")
-    chunks = load_json(CHUNKS_FILE)
+# ---------------- Save results ----------------
+with open(OUTPUT_FILE, "w") as f:
+    json.dump(results, f, indent=2)
 
-    print("🔍 Extracting concepts and relationships...")
-    results = extract_concepts_and_relationships(chunks)
-
-    print(f"💾 Saving output to: {OUTPUT_FILE}")
-    save_json(results, OUTPUT_FILE)
-    print("✅ Done")
+print(f"Saved extracted concepts to {OUTPUT_FILE}")

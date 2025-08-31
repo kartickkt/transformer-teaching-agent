@@ -1,116 +1,59 @@
-# phase2_concept_extraction_relationships.py
-
-import os
 import json
+import os
+import sys
+from pathlib import Path
 from tqdm import tqdm
-from pathlib import Path
-from langchain.prompts import PromptTemplate
-from langchain.chains import LLMChain
-from langchain import HuggingFacePipeline
-from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 
-# ================== Paths ==================
-from pathlib import Path
-
-if "__file__" in globals():  # running as a script
+# ---------------- Path setup ----------------
+try:
+    # Works in normal Python scripts
     REPO_ROOT = Path(__file__).resolve().parents[2]
-else:  # running in Colab / Jupyter
+except NameError:
+    # Fallback for Colab / Jupyter (no __file__)
     REPO_ROOT = Path.cwd()
 
+sys.path.append(str(REPO_ROOT))
+
+from src.utils import load_json, save_json
+from src.llm_utils import call_llm
+
+# ---------------- Files & settings ----------------
 CHUNKS_FILE = REPO_ROOT / "outputs/attention_chunks.json"
 OUTPUT_FILE = REPO_ROOT / "outputs/concepts_relationships.json"
 
-# ================== Load chunks ==================
-with open(CHUNKS_FILE, "r") as f:
-    chunks = json.load(f)  # List of strings
+# ---------------- Main logic ----------------
+def extract_concepts_and_relationships(chunks):
+    results = []
+    for chunk in tqdm(chunks, desc="Processing chunks"):
+        prompt = f"""
+        Extract key **concepts** and **relationships** between them from the following text:
 
-# ================== Load Mistral model locally ==================
-model_name = "mistral-7b-instruct"
-tokenizer = AutoTokenizer.from_pretrained(model_name)
-model = AutoModelForCausalLM.from_pretrained(
-    model_name,
-    device_map="auto",
-    load_in_4bit=True
-)
+        {chunk['text']}
 
-hf_pipe = pipeline(
-    "text-generation",
-    model=model,
-    tokenizer=tokenizer,
-    max_new_tokens=128,
-    temperature=0.0
-)
-
-llm = HuggingFacePipeline(pipeline=hf_pipe)
-
-# ================== Prompts ==================
-concept_prompt = PromptTemplate(
-    input_variables=["text"],
-    template="""
-Extract all the important concepts from the following text.
-Provide a comma-separated list of concepts. Only list concepts, no explanations.
-
-Text: {text}
-"""
-)
-
-relationship_prompt = PromptTemplate(
-    input_variables=["concepts", "text"],
-    template="""
-Given the following text:
-{text}
-
-And the list of concepts: {concepts}
-
-Identify meaningful relationships between the concepts in the text.
-Return output as JSON, where each concept is a key and the value is a dictionary of related concepts and their relationship.
-
-Example:
-"Self-Attention": {{
-    "related_to": {{
-        "RNNs": "better at handling long sequences",
-        "Attention Mechanism": "is a type of"
-    }}
-}}
-
-Only provide JSON output.
-"""
-)
-
-concept_chain = LLMChain(llm=llm, prompt=concept_prompt)
-relationship_chain = LLMChain(llm=llm, prompt=relationship_prompt)
-
-# ================== Processing ==================
-all_results = []
-
-for chunk in tqdm(chunks, desc="Processing chunks"):
-    text = chunk.strip()
-    if not text:
-        continue
-
-    # --- Extract concepts ---
-    concepts_text = concept_chain.run(text=text)
-    concepts_list = [c.strip() for c in concepts_text.split(",") if c.strip()]
-
-    # --- Extract relationships ---
-    if concepts_list:
-        relationships_json = relationship_chain.run(
-            concepts=", ".join(concepts_list),
-            text=text
-        )
+        Respond in JSON format with:
+        - "concepts": [list of concepts]
+        - "relationships": [list of relationships]
+        """
+        response = call_llm(prompt)
         try:
-            relationships = json.loads(relationships_json)
-        except json.JSONDecodeError:
-            relationships = {"error": "Invalid JSON from LLM", "raw_output": relationships_json}
-
-        all_results.append({
-            "chunk": text,
-            "concepts": concepts_list,
-            "relationships": relationships
+            data = json.loads(response)
+        except Exception:
+            data = {"concepts": [], "relationships": []}
+        results.append({
+            "chunk_id": chunk["id"],
+            "concepts": data.get("concepts", []),
+            "relationships": data.get("relationships", [])
         })
+    return results
 
-# ================== Save output ==================
-with open(OUTPUT_FILE, "w") as f:
-    json.dump(all_results, f, indent=2)
 
-print(f"Saved concepts and relationships for {len(all_results)} chunks to {OUTPUT_FILE}")
+if __name__ == "__main__":
+    print(f"📂 Loading chunks from: {CHUNKS_FILE}")
+    chunks = load_json(CHUNKS_FILE)
+
+    print("🔍 Extracting concepts and relationships...")
+    results = extract_concepts_and_relationships(chunks)
+
+    print(f"💾 Saving output to: {OUTPUT_FILE}")
+    save_json(results, OUTPUT_FILE)
+    print("✅ Done")

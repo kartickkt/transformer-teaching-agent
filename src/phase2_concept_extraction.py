@@ -5,15 +5,17 @@ from pathlib import Path
 from tqdm import tqdm
 import re
 
-# ----------------- LangChain & LangGraph -----------------
+# ----------------- LangChain Community -----------------
+from langchain_community.llms import HuggingFacePipeline
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
-from langchain.llms import HuggingFacePipeline
-from langgraph import Graph, Node, Edge
 
 # ----------------- Transformers -----------------
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 import torch
+
+# ----------------- NetworkX for knowledge graph -----------------
+import networkx as nx
 
 # ----------------- Paths -----------------
 repo_root = Path(__file__).resolve().parents[1]
@@ -51,14 +53,13 @@ def extract_concepts(chunk_text, llm_chain):
     return []
 
 def build_graph(concepts_per_chunk):
-    """Build LangGraph from extracted concepts."""
-    g = Graph()
-    all_concepts = set(c for chunk in concepts_per_chunk for c in chunk)
-    for c in all_concepts:
-        g.add_node(Node(id=c, label=c))
+    """Build a directed graph from extracted concepts using NetworkX."""
+    g = nx.DiGraph()
     for chunk in concepts_per_chunk:
+        for c in chunk:
+            g.add_node(c)
         for i in range(len(chunk)-1):
-            g.add_edge(Edge(source=chunk[i], target=chunk[i+1], relation="related"))
+            g.add_edge(chunk[i], chunk[i+1], relation="related")
     return g
 
 # ----------------- Main Pipeline -----------------
@@ -115,7 +116,14 @@ def main():
 
     # ----------------- Build concept graph -----------------
     graph = build_graph(concepts_per_chunk)
-    save_json(graph.to_dict(), OUTPUT_GRAPH_FILE)
+    graph_dict = {
+        "nodes": list(graph.nodes),
+        "edges": [
+            {"source": u, "target": v, "relation": graph[u][v]["relation"]}
+            for u, v in graph.edges
+        ]
+    }
+    save_json(graph_dict, OUTPUT_GRAPH_FILE)
     print(f"Saved concept graph to {OUTPUT_GRAPH_FILE}")
 
 if __name__ == "__main__":

@@ -1,6 +1,4 @@
 # ================== Setup ==================
-!pip install --quiet pypdf langchain openai
-
 import os
 import json
 from pypdf import PdfReader

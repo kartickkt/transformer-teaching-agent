@@ -1,49 +1,37 @@
 import json
-import os
 from pathlib import Path
-import sys
 from tqdm import tqdm
 
-# ---------------- Path setup ----------------
-repo_root = Path(__file__).resolve().parents[1]  # go up one level from src/
-sys.path.append(str(repo_root))
+# ----------------- LangChain & LangGraph imports -----------------
+from langchain.chains import LLMChain
+from langchain.prompts import PromptTemplate
+from langchain.llms import HuggingFacePipeline  # Use Hugging Face model
+from transformers import pipeline
+from langgraph import Graph, Node, Edge
 
-from src.llm_utils import call_llm  # assumes you have a wrapper for your LLM calls
+# ----------------- Local utils -----------------
 from src.utils import load_json, save_json
 
-# ---------------- Files ----------------
+# ----------------- Paths -----------------
+repo_root = Path(__file__).resolve().parents[1]
 INPUT_CHUNKS_FILE = repo_root / "outputs" / "attention_chunks.json"
 OUTPUT_CONCEPTS_FILE = repo_root / "outputs" / "concepts.json"
 OUTPUT_GRAPH_FILE = repo_root / "outputs" / "concept_graph.json"
 
-# ---------------- Utility functions ----------------
+# ----------------- Helper Functions -----------------
 def clean_chunk_text(text):
-    """
-    Remove section numbers, headings, and empty strings from a chunk.
-    """
+    """Remove empty strings and section numbers."""
+    import re
     if not text or not text.strip():
         return None
-    # Remove common patterns like "1. Introduction", "2.1 Something"
-    import re
     text = re.sub(r'^\d+(\.\d+)*\s+', '', text.strip())
     return text if text else None
 
-def extract_concepts_from_chunk(chunk_text):
-    """
-    Use an LLM to extract key concepts from a text chunk.
-    Returns a list of concepts.
-    """
+def extract_concepts_langchain(chunk_text, llm_chain):
+    """Use LangChain + Mistral to extract key concepts."""
     if not chunk_text:
         return []
-
-    prompt = f"""
-    Extract the key concepts from the following text. 
-    Only return a JSON list of concise concept names. Avoid hallucinations.
-    Text:
-    \"\"\"{chunk_text}\"\"\"
-    """
-
-    response = call_llm(prompt)  # your wrapper should return text
+    response = llm_chain.run({"chunk_text": chunk_text})
     try:
         concepts = json.loads(response)
         if isinstance(concepts, list):
@@ -52,57 +40,58 @@ def extract_concepts_from_chunk(chunk_text):
         print("LLM output could not be parsed as JSON:", response)
     return []
 
-def build_concept_graph(concepts_per_chunk):
-    """
-    Build a simple knowledge graph with edges:
-    - Prerequisite (A requires B)
-    - Related (A related B)
-    For starter, we just link consecutive concepts as related.
-    """
-    edges = []
-    all_concepts = set()
-    
-    for chunk_concepts in concepts_per_chunk:
-        for c in chunk_concepts:
-            all_concepts.add(c)
-        # Simple heuristic: link consecutive concepts in a chunk as related
-        for i in range(len(chunk_concepts) - 1):
-            edges.append({
-                "source": chunk_concepts[i],
-                "target": chunk_concepts[i+1],
-                "relation": "related"
-            })
-    return list(all_concepts), edges
+def build_langgraph(concepts_per_chunk):
+    """Build a LangGraph knowledge graph from concepts."""
+    g = Graph()
+    all_concepts = set(c for chunk in concepts_per_chunk for c in chunk)
+    for c in all_concepts:
+        g.add_node(Node(id=c, label=c))
+    for chunk in concepts_per_chunk:
+        for i in range(len(chunk)-1):
+            g.add_edge(Edge(source=chunk[i], target=chunk[i+1], relation="related"))
+    return g
 
-# ---------------- Main pipeline ----------------
+# ----------------- Main Pipeline -----------------
 def main():
-    print("Phase 2: Concept Extraction & Knowledge Graph Construction")
+    print("Phase 2: Concept Extraction & Knowledge Graph Construction (Mistral)")
 
-    # Load Phase 1 chunks
     chunks = load_json(INPUT_CHUNKS_FILE)
-    print(f"Loaded {len(chunks)} chunks from {INPUT_CHUNKS_FILE}")
+    print(f"Loaded {len(chunks)} chunks")
 
-    # Process chunks
+    # ----------------- Setup Mistral with LangChain -----------------
+    # Hugging Face pipeline
+    hf_pipe = pipeline(
+        "text-generation",
+        model="mistralai/Mistral-7B-v0.1",  # or your local Mistral path
+        max_new_tokens=128,
+        temperature=0.0
+    )
+    llm = HuggingFacePipeline(pipeline=hf_pipe)
+
+    # LangChain prompt
+    prompt_template = """
+    Extract the key concepts from the following text.
+    Only return a JSON list of concise concept names. Avoid hallucinations.
+    Text:
+    {chunk_text}
+    """
+    prompt = PromptTemplate(input_variables=["chunk_text"], template=prompt_template)
+    llm_chain = LLMChain(llm=llm, prompt=prompt)
+
+    # ----------------- Extract concepts -----------------
     concepts_per_chunk = []
-    for idx, chunk in enumerate(tqdm(chunks, desc="Extracting concepts")):
-        cleaned_text = clean_chunk_text(chunk.get("text", ""))
-        if not cleaned_text:
-            continue
-        concepts = extract_concepts_from_chunk(cleaned_text)
+    for chunk in tqdm(chunks, desc="Extracting concepts"):
+        text = clean_chunk_text(chunk.get("text", ""))
+        concepts = extract_concepts_langchain(text, llm_chain)
         if concepts:
             concepts_per_chunk.append(concepts)
 
-    # Save concepts per chunk
     save_json(concepts_per_chunk, OUTPUT_CONCEPTS_FILE)
-    print(f"Saved extracted concepts to {OUTPUT_CONCEPTS_FILE}")
+    print(f"Saved concepts to {OUTPUT_CONCEPTS_FILE}")
 
-    # Build concept graph
-    all_concepts, concept_edges = build_concept_graph(concepts_per_chunk)
-    concept_graph = {
-        "nodes": [{"id": c} for c in all_concepts],
-        "edges": concept_edges
-    }
-    save_json(concept_graph, OUTPUT_GRAPH_FILE)
+    # ----------------- Build LangGraph -----------------
+    graph = build_langgraph(concepts_per_chunk)
+    save_json(graph.to_dict(), OUTPUT_GRAPH_FILE)
     print(f"Saved concept graph to {OUTPUT_GRAPH_FILE}")
 
 if __name__ == "__main__":

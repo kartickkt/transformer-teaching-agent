@@ -6,4 +6,4 @@ transformers
 torch
 langgraph
 tqdm
-
+bitsandbytes

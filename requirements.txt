@@ -1,3 +1,4 @@
 pypdf
 langchain
 openai
+langchain_community

@@ -2,3 +2,7 @@ pypdf
 langchain
 openai
 langchain_community
+transformers
+torch
+langgraph
+tqdm

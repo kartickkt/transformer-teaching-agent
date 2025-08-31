@@ -88,7 +88,6 @@ def main():
         tokenizer=tokenizer,
         max_new_tokens=128,
         temperature=0.0,
-        device=0  # first GPU (A100)
     )
 
     llm = HuggingFacePipeline(pipeline=hf_pipe)

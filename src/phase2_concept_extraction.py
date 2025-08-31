@@ -13,7 +13,7 @@ with open(CHUNKS_FILE, "r") as f:
     chunks = json.load(f)
 
 # ---------------- Load Mistral model ----------------
-model_name = "mistralai/Mistral-7B-Instruct-v0"  # replace with your local path if needed
+model_name = "mistralai/Mistral-7B-Instruct-v0.3"  # replace with your local path if needed
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForCausalLM.from_pretrained(
     model_name,

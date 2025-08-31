@@ -1,129 +1,110 @@
-# src/phase2_concept_extraction.py
+# phase2_concept_extraction_relationships.py
 
+import os
 import json
-from pathlib import Path
 from tqdm import tqdm
-import re
-
-# ----------------- LangChain Community -----------------
-from langchain_community.llms import HuggingFacePipeline
+from pathlib import Path
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
-
-# ----------------- Transformers -----------------
+from langchain import HuggingFacePipeline
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
-import torch
 
-# ----------------- NetworkX for knowledge graph -----------------
-import networkx as nx
+# ================== Paths ==================
+REPO_ROOT = Path(__file__).resolve().parents[2]
+CHUNKS_FILE = REPO_ROOT / "outputs/attention_chunks.json"
+OUTPUT_FILE = REPO_ROOT / "outputs/concepts_relationships.json"
 
-# ----------------- Paths -----------------
-repo_root = Path(__file__).resolve().parents[1]
-INPUT_FILE = repo_root / "outputs" / "attention_chunks.json"
-OUTPUT_CONCEPTS_FILE = repo_root / "outputs" / "concepts.json"
-OUTPUT_GRAPH_FILE = repo_root / "outputs" / "concept_graph.json"
+# ================== Load chunks ==================
+with open(CHUNKS_FILE, "r") as f:
+    chunks = json.load(f)  # List of strings
 
-# ----------------- Helper Functions -----------------
-def load_json(path):
-    with open(path, "r", encoding="utf-8") as f:
-        return json.load(f)
+# ================== Load Mistral model locally ==================
+model_name = "mistral-7b-instruct"
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForCausalLM.from_pretrained(
+    model_name,
+    device_map="auto",
+    load_in_4bit=True
+)
 
-def save_json(obj, path):
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(obj, f, indent=2, ensure_ascii=False)
+hf_pipe = pipeline(
+    "text-generation",
+    model=model,
+    tokenizer=tokenizer,
+    max_new_tokens=128,
+    temperature=0.0
+)
 
-def clean_chunk_text(text):
-    """Remove empty strings and section numbers."""
-    if not text or not text.strip():
-        return None
-    text = re.sub(r'^\d+(\.\d+)*\s+', '', text.strip())
-    return text if text else None
+llm = HuggingFacePipeline(pipeline=hf_pipe)
 
-def extract_concepts(chunk_text, llm_chain):
-    """Extract concepts from a chunk using the LangChain + local Mistral model."""
-    if not chunk_text:
-        return []
-    response = llm_chain.run({"chunk_text": chunk_text})
-    try:
-        concepts = json.loads(response)
-        if isinstance(concepts, list):
-            return [c.strip() for c in concepts if c.strip()]
-    except json.JSONDecodeError:
-        print("Warning: LLM output could not be parsed as JSON:", response)
-    return []
+# ================== Prompts ==================
+concept_prompt = PromptTemplate(
+    input_variables=["text"],
+    template="""
+Extract all the important concepts from the following text.
+Provide a comma-separated list of concepts. Only list concepts, no explanations.
 
-def build_graph(concepts_per_chunk):
-    """Build a directed graph from extracted concepts using NetworkX."""
-    g = nx.DiGraph()
-    for chunk in concepts_per_chunk:
-        for c in chunk:
-            g.add_node(c)
-        for i in range(len(chunk)-1):
-            g.add_edge(chunk[i], chunk[i+1], relation="related")
-    return g
+Text: {text}
+"""
+)
 
-# ----------------- Main Pipeline -----------------
-def main():
-    print("Phase 2: Concept Extraction & Knowledge Graph (Local Mistral on A100)")
+relationship_prompt = PromptTemplate(
+    input_variables=["concepts", "text"],
+    template="""
+Given the following text:
+{text}
 
-    # ----------------- Load chunks -----------------
-    chunks = load_json(INPUT_FILE)
-    print(f"Loaded {len(chunks)} chunks")
+And the list of concepts: {concepts}
 
-    # ----------------- Load Mistral locally -----------------
-    print("Loading Mistral-7B model (4-bit, GPU)... This may take a minute")
-    model_name = "mistralai/Mistral-7B-Instruct-v0.2"
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
+Identify meaningful relationships between the concepts in the text.
+Return output as JSON, where each concept is a key and the value is a dictionary of related concepts and their relationship.
 
-    model = AutoModelForCausalLM.from_pretrained(
-        model_name,
-        load_in_4bit=True,          # 4-bit quantization for A100
-        device_map="auto",          # automatically place on GPU
-        torch_dtype=torch.float16
-    )
+Example:
+"Self-Attention": {{
+    "related_to": {{
+        "RNNs": "better at handling long sequences",
+        "Attention Mechanism": "is a type of"
+    }}
+}}
 
-    hf_pipe = pipeline(
-        "text-generation",
-        model=model,
-        tokenizer=tokenizer,
-        max_new_tokens=128,
-        temperature=0.0,
-    )
+Only provide JSON output.
+"""
+)
 
-    llm = HuggingFacePipeline(pipeline=hf_pipe)
+concept_chain = LLMChain(llm=llm, prompt=concept_prompt)
+relationship_chain = LLMChain(llm=llm, prompt=relationship_prompt)
 
-    # ----------------- LangChain prompt -----------------
-    prompt_template = """
-    Extract the key concepts from the following text.
-    Only return a JSON list of concise concept names. Avoid hallucinations.
-    Text:
-    {chunk_text}
-    """
-    prompt = PromptTemplate(input_variables=["chunk_text"], template=prompt_template)
-    llm_chain = LLMChain(llm=llm, prompt=prompt)
+# ================== Processing ==================
+all_results = []
 
-    # ----------------- Extract concepts -----------------
-    concepts_per_chunk = []
-    for chunk in tqdm(chunks, desc="Extracting concepts"):
-        text = clean_chunk_text(chunk.get("text", ""))
-        concepts = extract_concepts(text, llm_chain)
-        if concepts:
-            concepts_per_chunk.append(concepts)
+for chunk in tqdm(chunks, desc="Processing chunks"):
+    text = chunk.strip()
+    if not text:
+        continue
 
-    save_json(concepts_per_chunk, OUTPUT_CONCEPTS_FILE)
-    print(f"Saved concepts to {OUTPUT_CONCEPTS_FILE}")
+    # --- Extract concepts ---
+    concepts_text = concept_chain.run(text=text)
+    concepts_list = [c.strip() for c in concepts_text.split(",") if c.strip()]
 
-    # ----------------- Build concept graph -----------------
-    graph = build_graph(concepts_per_chunk)
-    graph_dict = {
-        "nodes": list(graph.nodes),
-        "edges": [
-            {"source": u, "target": v, "relation": graph[u][v]["relation"]}
-            for u, v in graph.edges
-        ]
-    }
-    save_json(graph_dict, OUTPUT_GRAPH_FILE)
-    print(f"Saved concept graph to {OUTPUT_GRAPH_FILE}")
+    # --- Extract relationships ---
+    if concepts_list:
+        relationships_json = relationship_chain.run(
+            concepts=", ".join(concepts_list),
+            text=text
+        )
+        try:
+            relationships = json.loads(relationships_json)
+        except json.JSONDecodeError:
+            relationships = {"error": "Invalid JSON from LLM", "raw_output": relationships_json}
 
-if __name__ == "__main__":
-    main()
+        all_results.append({
+            "chunk": text,
+            "concepts": concepts_list,
+            "relationships": relationships
+        })
+
+# ================== Save output ==================
+with open(OUTPUT_FILE, "w") as f:
+    json.dump(all_results, f, indent=2)
+
+print(f"Saved concepts and relationships for {len(all_results)} chunks to {OUTPUT_FILE}")

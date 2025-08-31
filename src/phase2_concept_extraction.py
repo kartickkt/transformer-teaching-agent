@@ -10,7 +10,13 @@ from langchain import HuggingFacePipeline
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 
 # ================== Paths ==================
-REPO_ROOT = Path(__file__).resolve().parents[2]
+from pathlib import Path
+
+if "__file__" in globals():  # running as a script
+    REPO_ROOT = Path(__file__).resolve().parents[2]
+else:  # running in Colab / Jupyter
+    REPO_ROOT = Path.cwd()
+
 CHUNKS_FILE = REPO_ROOT / "outputs/attention_chunks.json"
 OUTPUT_FILE = REPO_ROOT / "outputs/concepts_relationships.json"
 

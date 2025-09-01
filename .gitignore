@@ -16,3 +16,6 @@ outputs/*
 
 # Jupyter
 .ipynb_checkpoints/
+
+#scripts
+add_chunk_id.py

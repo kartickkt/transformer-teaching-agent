@@ -20,8 +20,8 @@ def build_concept_prompt(chunk_text: str) -> str:
     """
     return (
         "Extract only the important technical concepts related to deep learning, "
-        "transformers, large language models, mathematics from the following text."
-        "Do not include names, email addresses, citations or unrelated words"
+        "transformers, large language models, mathematics from the following text. "
+        "Do not include names, email addresses, citations or unrelated words. "
         "Return them as a JSON array of short strings, without any explanation.\n\n"
         f"Text:\n{chunk_text}\n\nConcepts:"
     )
@@ -30,11 +30,14 @@ def build_concept_prompt(chunk_text: str) -> str:
 def extract_concepts_from_chunks(chunks: list) -> list:
     """
     Takes a list of text chunks and extracts key concepts from each using the LLM.
-    Returns a list of dictionaries with 'chunk' and 'concepts'.
+    Returns a list of dictionaries with 'chunk_id', 'chunk', and 'concepts'.
     """
     results = []
-    for chunk in tqdm(chunks, desc="Extracting concepts"):
-        prompt = build_concept_prompt(chunk)
+    for entry in tqdm(chunks, desc="Extracting concepts"):
+        chunk_id = entry.get("chunk_id")
+        chunk_text = entry.get("chunk")
+
+        prompt = build_concept_prompt(chunk_text)
         response = call_llm(prompt, temperature=LLM_TEMPERATURE, do_sample=False)
 
         # Attempt to parse JSON from LLM response
@@ -48,7 +51,8 @@ def extract_concepts_from_chunks(chunks: list) -> list:
             concepts = [c.strip() for c in response.strip("[]").split(",") if c.strip()]
 
         results.append({
-            "chunk": chunk,
+            "chunk_id": chunk_id,
+            "chunk": chunk_text,
             "concepts": concepts
         })
     return results

@@ -19,7 +19,9 @@ def build_concept_prompt(chunk_text: str) -> str:
     Builds the prompt for the LLM to extract key concepts from a text chunk.
     """
     return (
-        "Extract the key concepts from the following text. "
+        "Extract only the important technical concepts related to deep learning, "
+        "transformers, large language models, mathematics from the following text."
+        "Do not include names, email addresses, citations or unrelated words"
         "Return them as a JSON array of short strings, without any explanation.\n\n"
         f"Text:\n{chunk_text}\n\nConcepts:"
     )

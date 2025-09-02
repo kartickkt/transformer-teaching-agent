@@ -5,8 +5,9 @@ from llama_index.core.graph_stores import SimpleGraphStore
 from llama_index.llms.huggingface import HuggingFaceLLM
 from llama_index.core.prompts.prompts import SimpleInputPrompt
 
-# Import the Knowledge Graph extractor classes from their correct location
-from llama_index.core.extractors import SimpleLLMKgExtractor, SchemaLLMKgExtractor
+# The correct import statement for the extractors.
+# This should now work after the pip install command you ran.
+from llama_index.extractors.entity import SimpleLLMKgExtractor, SchemaLLMKgExtractor
 
 # --- Load the JSON data from the file ---
 file_path = os.path.join("outputs", "phase2_concepts.json")

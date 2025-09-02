@@ -38,9 +38,12 @@ def safe_json_parse(response: str):
 # ---------------- Prompt ----------------
 def make_prompt(concepts):
     return (
-        "You are an expert in deep learning, transformer architecture, and attention mechanisms.\n"
-        "Given the following list of concepts, extract meaningful relationships that would help build a teaching agent.\n"
+        "Role: You are a teacher on Transformer architecture in deep learning.\n"
+        "Task: From the following concepts, extract relationships and dependencies between them, "
+        "so that you can teach a student in a systematic way.\n"
         "Focus on: hierarchical (part_of), dependency (depends_on), usage (used_for), and analogical (similar_to) relationships.\n"
+        "Special instruction: If a concept appears in multiple places (e.g., Multi-head attention is part of both "
+        "encoder and decoder layers), list all applicable relationships.\n"
         "Return ONLY a valid JSON array in this exact format:\n"
         "[\n"
         "  {\"subject\": \"ConceptA\", \"relation\": \"depends_on\", \"object\": \"ConceptB\"},\n"
@@ -53,6 +56,7 @@ def make_prompt(concepts):
         "- Avoid duplicates or reversed duplicates unless direction matters.\n\n"
         f"Concept list:\n{json.dumps(concepts, indent=2)}\n"
     )
+
 
 # ---------------- Main logic ----------------
 def extract_relationships(concepts):

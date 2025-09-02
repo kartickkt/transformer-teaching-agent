@@ -37,28 +37,57 @@ def safe_json_parse(response: str):
 
 # ---------------- Prompt ----------------
 def make_prompt(concepts):
-    return (
-        "Role: You are a teacher on Transformer architecture in deep learning.\n"
-        "Task: From the following concepts, extract relationships and dependencies between them, "
-        "so that you can teach a student in a systematic way.\n"
-        "Focus on: hierarchical (part_of), dependency (depends_on), usage (used_for), and analogical (similar_to) relationships.\n"
-        "Special instruction: If a concept appears in multiple places (e.g., Multi-head attention is part of both "
-        "encoder and decoder layers), list all applicable relationships.\n"
-        "Return ONLY a valid JSON array in this exact format:\n"
-        "[\n"
-        "  {\"subject\": \"ConceptA\", \"relation\": \"depends_on\", \"object\": \"ConceptB\"},\n"
-        "  {\"subject\": \"ConceptC\", \"relation\": \"part_of\", \"object\": \"ConceptD\"}\n"
-        "]\n\n"
-        "Guidelines:\n"
-        "- Use ONLY the provided concepts.\n"
-        "- Relations must be concise and meaningful.\n"
-        "- No self-relations (ConceptA → ConceptA).\n"
-        "- Avoid duplicates or reversed duplicates unless direction matters.\n\n"
-        f"Concept list:\n{json.dumps(concepts, indent=2)}\n"
-    )
+    """
+    Few-shot prompt for extracting concept relationships for a teaching agent.
+    """
+    examples = [
+        {
+            "concepts": ["Transformer encoder layer", "Multi-head attention", "Position-wise feed-forward"],
+            "relationships": [
+                {"subject": "Multi-head attention", "relation": "part_of", "object": "Transformer encoder layer"},
+                {"subject": "Position-wise feed-forward", "relation": "part_of", "object": "Transformer encoder layer"}
+            ]
+        },
+        {
+            "concepts": ["Self-attention", "Query", "Key", "Value"],
+            "relationships": [
+                {"subject": "Query", "relation": "used_for", "object": "Self-attention"},
+                {"subject": "Key", "relation": "used_for", "object": "Self-attention"},
+                {"subject": "Value", "relation": "used_for", "object": "Self-attention"}
+            ]
+        }
+    ]
+
+    # Convert few-shot examples to text
+    example_text = ""
+    for ex in examples:
+        example_text += "Concepts: " + ", ".join(ex["concepts"]) + "\n"
+        example_text += "Relationships: " + str(ex["relationships"]) + "\n\n"
+
+    # Prompt
+    prompt = f"""
+Role: You are a teacher in deep learning and transformer architectures.
+Task: From the following list of concepts, extract relationships that help a student understand
+the material systematically.
+
+Focus on: hierarchical (part_of), dependency (depends_on), usage (used_for), and analogical (similar_to) relationships.
+
+Output format: return ONLY a JSON array with objects like:
+[{{"subject": "ConceptA", "relation": "depends_on", "object": "ConceptB"}}]
+
+Examples:
+{example_text}
+
+Concepts to analyze:
+{json.dumps(concepts, indent=2)}
+
+Relationships:
+"""
+    return prompt
 
 
-# ---------------- Main logic ----------------
+
+# ---------------- Main logic ----------------  
 def extract_relationships(concepts):
     relationships = []
 

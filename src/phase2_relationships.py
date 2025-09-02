@@ -7,7 +7,7 @@ import sys
 from tqdm import tqdm
 
 # ---------------- Path setup for Colab / local ----------------
-repo_root = Path(__file__).resolve().parents[2]  # go up two levels from scripts/
+repo_root = Path(__file__).resolve().parents[1]  # go up one level from scripts/
 sys.path.append(str(repo_root))
 
 from src.utils import load_json, save_json

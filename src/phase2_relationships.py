@@ -2,13 +2,11 @@ import json
 import os
 from llama_index.core import Document, KnowledgeGraphIndex, StorageContext
 from llama_index.core.graph_stores import SimpleGraphStore
-
-# Import the correct class for running Hugging Face models locally
 from llama_index.llms.huggingface import HuggingFaceLLM
 from llama_index.core.prompts.prompts import SimpleInputPrompt
 
-# Import the new Knowledge Graph extractor classes
-from llama_index.core.extractors import SimpleLLMKgExtractor, SchemaLLMKgExtractor
+# Import the new Knowledge Graph extractor classes from their correct location
+from llama_index.readers.extractors.kg_extractor import SimpleLLMKgExtractor, SchemaLLMKgExtractor
 
 # --- Load the JSON data from the file ---
 file_path = os.path.join("outputs", "phase2_concepts.json")

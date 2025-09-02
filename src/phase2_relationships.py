@@ -1,6 +1,7 @@
 # scripts/phase2_relationships.py
 
 import json
+import re
 import os
 from pathlib import Path
 import sys
@@ -16,32 +17,43 @@ from src.llm_utils import call_llm
 # ---------------- Files & settings ----------------
 INPUT_FILE = "outputs/phase2_concepts.json"
 OUTPUT_FILE = "outputs/phase2_relationships.json"
-BATCH_SIZE = 30  # number of concepts per LLM call
+BATCH_SIZE = 10  # smaller batches improve JSON compliance
+
+
+# ---------------- JSON repair helper ----------------
+def safe_json_parse(response: str):
+    try:
+        return json.loads(response)
+    except Exception:
+        # Try to extract JSON array inside text
+        match = re.search(r"\[.*\]", response, re.DOTALL)
+        if match:
+            try:
+                return json.loads(match.group(0))
+            except Exception:
+                return []
+        return []
 
 
 # ---------------- Prompt ----------------
 def make_prompt(concepts):
-    return f"""
-You are a scientific assistant. Given the following list of concepts, extract meaningful relationships
-between them and return only a JSON list in the format:
-
-[
-  {{
-    "subject": "ConceptA",
-    "relation": "is related to",
-    "object": "ConceptB"
-  }}
-]
-
-Guidelines:
-- Use ONLY the provided concepts (no hallucinations).
-- Relations must be concise but meaningful (e.g., "is part of", "depends on", "interacts with").
-- Avoid duplicates or reversed duplicates (A→B, B→A unless both directions have distinct meanings).
-- Ensure every relation links two distinct concepts.
-
-Concept list:
-{json.dumps(concepts, indent=2)}
-"""
+    return (
+        "You are an expert in deep learning and knowledge graphs.\n"
+        "Given the following list of concepts, extract meaningful relationships "
+        "between them and return ONLY a JSON array.\n\n"
+        "The format must be strictly:\n"
+        "[\n"
+        "  {\"subject\": \"ConceptA\", \"relation\": \"depends_on\", \"object\": \"ConceptB\"},\n"
+        "  {\"subject\": \"ConceptC\", \"relation\": \"part_of\", \"object\": \"ConceptD\"}\n"
+        "]\n\n"
+        "Guidelines:\n"
+        "- Use ONLY the provided concepts (no hallucinations).\n"
+        "- Relations must be concise but meaningful (e.g., 'is part of', 'depends on').\n"
+        "- Avoid duplicates or reversed duplicates unless directionality matters.\n"
+        "- Ensure every relation links two distinct concepts.\n\n"
+        f"Concept list:\n{json.dumps(concepts, indent=2)}\n\n"
+        "Relationships:"
+    )
 
 
 # ---------------- Main logic ----------------
@@ -53,12 +65,11 @@ def extract_relationships(concepts):
         prompt = make_prompt(batch)
         response = call_llm(prompt)
 
-        try:
-            rels = json.loads(response)
-            if isinstance(rels, list):
-                relationships.extend(rels)
-        except json.JSONDecodeError:
-            print("⚠️ Failed to parse JSON for batch, skipping...")
+        rels = safe_json_parse(response)
+        if isinstance(rels, list):
+            relationships.extend(rels)
+        else:
+            print("⚠️ Could not parse relationships for this batch.")
 
     return relationships
 
@@ -67,7 +78,6 @@ def main():
     print("📂 Loading concepts...")
     concepts = load_json(INPUT_FILE)
 
-    # Handle dict (if saved with keys) vs list
     if isinstance(concepts, dict) and "concepts" in concepts:
         concepts = concepts["concepts"]
 

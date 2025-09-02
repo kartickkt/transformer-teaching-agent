@@ -1,5 +1,6 @@
 pypdf
 langchain
+llama-index
 openai
 langchain_community
 transformers

@@ -2,6 +2,7 @@ pypdf
 langchain
 llama-index
 llama-index-llms-mistralai
+llama-index-llms-huggingface
 openai
 langchain_community
 transformers

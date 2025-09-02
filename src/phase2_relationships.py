@@ -1,16 +1,15 @@
 import json
 import os
 from llama_index.core import Document, KnowledgeGraphIndex, StorageContext
-from llama_index.llms.mistralai import MistralAI
 from llama_index.core.graph_stores import SimpleGraphStore
 
-# --- Load the JSON data from the file ---
-# Define the path to the JSON file
-file_path = os.path.join("outputs", "phase2_concepts.json")
-with open(file_path, 'r') as f:
-    concepts_json = json.load(f)
+# Import the correct class for running Hugging Face models locally
+from llama_index.llms.huggingface import HuggingFaceLLM
+from llama_index.core.prompts.prompts import SimpleInputPrompt
 
-# Read the data from the file
+# --- Load the JSON data from the file ---
+# The logic to load your JSON file is correct, with a slight simplification
+file_path = os.path.join("outputs", "phase2_concepts.json")
 try:
     with open(file_path, 'r') as f:
         concepts_json = json.load(f)
@@ -18,27 +17,38 @@ except FileNotFoundError:
     print(f"Error: The file {file_path} was not found.")
     exit()
 
-# --- Setup ---
-# Define the LLM
-# Ensure you have your MISTRAL_API_KEY set up as an environment variable
-llm = MistralAI(model="mistralai/Mistral-7B-Instruct-v0.3")
+# --- Setup the LLM for Local Inference ---
+print("Setting up the Hugging Face LLM...")
+# Define the prompt templates required for the Hugging Face model
+system_prompt = "You are a helpful assistant. Your task is to extract relationships between concepts from the text."
+query_wrapper_prompt = SimpleInputPrompt("<|USER|>{query_str}<|ASSISTANT|>")
 
-# Define your documents from the chunks
+# Instantiate the HuggingFaceLLM class
+# This will automatically download and load the model onto your GPU
+llm = HuggingFaceLLM(
+    context_window=4096,
+    max_new_tokens=256,
+    generate_kwargs={"temperature": 0.2, "do_sample": True},
+    query_wrapper_prompt=query_wrapper_prompt,
+    tokenizer_name="mistralai/Mistral-7B-Instruct-v0.3",
+    model_name="mistralai/Mistral-7B-Instruct-v0.3",
+    device_map="auto"  # This is crucial for GPU usage
+)
+print("LLM setup complete!")
+
+# --- Define your documents from the chunks ---
 documents = [
     Document(text=d["chunk"], metadata={"chunk_id": d["chunk_id"]})
     for d in concepts_json
 ]
 
 # --- Build the Graph ---
-# Define a simple graph store
 graph_store = SimpleGraphStore()
 storage_context = StorageContext.from_defaults(graph_store=graph_store)
 
-# Define the relationship extraction schema
 entity_types = ["Concept"]
 relationship_types = ["IS_A", "REPLACES", "BENEFITS_FROM", "INVOLVES", "ACHIEVES"]
 
-# Create the Knowledge Graph Index
 print("Building the Knowledge Graph... This may take some time.")
 index = KnowledgeGraphIndex.from_documents(
     documents,

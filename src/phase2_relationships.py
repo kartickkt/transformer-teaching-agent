@@ -38,23 +38,21 @@ def safe_json_parse(response: str):
 # ---------------- Prompt ----------------
 def make_prompt(concepts):
     return (
-        "You are an expert in deep learning and knowledge graphs.\n"
-        "Given the following list of concepts, extract meaningful relationships "
-        "between them and return ONLY a JSON array.\n\n"
-        "The format must be strictly:\n"
+        "You are an expert in deep learning, transformer architecture, and attention mechanisms.\n"
+        "Given the following list of concepts, extract meaningful relationships that would help build a teaching agent.\n"
+        "Focus on: hierarchical (part_of), dependency (depends_on), usage (used_for), and analogical (similar_to) relationships.\n"
+        "Return ONLY a valid JSON array in this exact format:\n"
         "[\n"
         "  {\"subject\": \"ConceptA\", \"relation\": \"depends_on\", \"object\": \"ConceptB\"},\n"
         "  {\"subject\": \"ConceptC\", \"relation\": \"part_of\", \"object\": \"ConceptD\"}\n"
         "]\n\n"
         "Guidelines:\n"
-        "- Use ONLY the provided concepts (no hallucinations).\n"
-        "- Relations must be concise but meaningful (e.g., 'is part of', 'depends on').\n"
-        "- Avoid duplicates or reversed duplicates unless directionality matters.\n"
-        "- Ensure every relation links two distinct concepts.\n\n"
-        f"Concept list:\n{json.dumps(concepts, indent=2)}\n\n"
-        "Relationships:"
+        "- Use ONLY the provided concepts.\n"
+        "- Relations must be concise and meaningful.\n"
+        "- No self-relations (ConceptA → ConceptA).\n"
+        "- Avoid duplicates or reversed duplicates unless direction matters.\n\n"
+        f"Concept list:\n{json.dumps(concepts, indent=2)}\n"
     )
-
 
 # ---------------- Main logic ----------------
 def extract_relationships(concepts):

@@ -1,7 +1,7 @@
 import json
 import os
 from llama_index.core import Document, KnowledgeGraphIndex, StorageContext
-from llama_index.core.llms import MistralAI
+from llama_index.llms.mistralai import MistralAI
 from llama_index.core.graph_stores import SimpleGraphStore
 
 # --- Load the JSON data from the file ---

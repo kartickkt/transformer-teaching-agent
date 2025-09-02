@@ -6,7 +6,7 @@ from llama_index.llms.huggingface import HuggingFaceLLM
 from llama_index.core.prompts.prompts import SimpleInputPrompt
 
 # Import the new Knowledge Graph extractor classes from their correct location
-from llama_index.readers.extractors.kg_extractor import SimpleLLMKgExtractor, SchemaLLMKgExtractor
+from llama_index.extractors.entity import SimpleLLMKgExtractor, SchemaLLMKgExtractor
 
 # --- Load the JSON data from the file ---
 file_path = os.path.join("outputs", "phase2_concepts.json")

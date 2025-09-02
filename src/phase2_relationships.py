@@ -7,8 +7,10 @@ from llama_index.core.graph_stores import SimpleGraphStore
 from llama_index.llms.huggingface import HuggingFaceLLM
 from llama_index.core.prompts.prompts import SimpleInputPrompt
 
+# Import the new Knowledge Graph extractor classes
+from llama_index.core.extractors import SimpleLLMKgExtractor, SchemaLLMKgExtractor
+
 # --- Load the JSON data from the file ---
-# The logic to load your JSON file is correct, with a slight simplification
 file_path = os.path.join("outputs", "phase2_concepts.json")
 try:
     with open(file_path, 'r') as f:
@@ -19,12 +21,9 @@ except FileNotFoundError:
 
 # --- Setup the LLM for Local Inference ---
 print("Setting up the Hugging Face LLM...")
-# Define the prompt templates required for the Hugging Face model
 system_prompt = "You are a helpful assistant. Your task is to extract relationships between concepts from the text."
 query_wrapper_prompt = SimpleInputPrompt("<|USER|>{query_str}<|ASSISTANT|>")
 
-# Instantiate the HuggingFaceLLM class
-# This will automatically download and load the model onto your GPU
 llm = HuggingFaceLLM(
     context_window=4096,
     max_new_tokens=256,
@@ -32,7 +31,7 @@ llm = HuggingFaceLLM(
     query_wrapper_prompt=query_wrapper_prompt,
     tokenizer_name="mistralai/Mistral-7B-Instruct-v0.3",
     model_name="mistralai/Mistral-7B-Instruct-v0.3",
-    device_map="auto"  # This is crucial for GPU usage
+    device_map="auto"
 )
 print("LLM setup complete!")
 
@@ -49,16 +48,18 @@ storage_context = StorageContext.from_defaults(graph_store=graph_store)
 entity_types = ["Concept"]
 relationship_types = ["IS_A", "REPLACES", "BENEFITS_FROM", "INVOLVES", "ACHIEVES"]
 
+# Instantiate the extractors with your LLM and schema
+kg_extractors = [
+    SimpleLLMKgExtractor(llm=llm),
+    SchemaLLMKgExtractor(llm=llm, kg_rel_types=relationship_types),
+]
+
 print("Building the Knowledge Graph... This may take some time.")
 index = KnowledgeGraphIndex.from_documents(
     documents,
     llm=llm,
     storage_context=storage_context,
-    kg_extractors=KnowledgeGraphIndex.get_kg_extractors(
-        kg_extractors_list=["simple", "schema_enforced"],
-        llm=llm,
-        kg_rel_types=relationship_types,
-    ),
+    kg_extractors=kg_extractors,
 )
 print("Knowledge Graph built successfully! 🎉")
 

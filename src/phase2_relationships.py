@@ -1,127 +1,60 @@
-# scripts/phase2_relationships.py
-
-import json
-import re
+from llama_index.core import Document, KnowledgeGraphIndex, StorageContext
+from llama_index.core.llms import MistralAI
+from llama_index.core.graph_stores import SimpleGraphStore
 import os
-from pathlib import Path
-import sys
-from tqdm import tqdm
 
-# ---------------- Path setup for Colab / local ----------------
-repo_root = Path(__file__).resolve().parents[1]  # go up one level from scripts/
-sys.path.append(str(repo_root))
+# --- Setup ---
+# Define the LLM
+# This setup assumes you have the Mistral API key configured.
+# You might need to set it up like: os.environ['MISTRAL_API_KEY'] = 'YOUR_API_KEY'
+llm = MistralAI(model="mistralai/Mistral-7B-Instruct-v0.3")
 
-from src.utils import load_json, save_json
-from src.llm_utils import call_llm
+# Define your documents from the chunks
+# This part remains the same
+documents = [
+    Document(text=d["chunk"], metadata={"chunk_id": d["chunk_id"]})
+    for d in concepts_json
+]
 
-# ---------------- Files & settings ----------------
-INPUT_FILE = "outputs/phase2_concepts.json"
-OUTPUT_FILE = "outputs/phase2_relationships.json"
-BATCH_SIZE = 10  # smaller batches improve JSON compliance
+# --- Build the Graph ---
+# Define a simple graph store
+graph_store = SimpleGraphStore()
+storage_context = StorageContext.from_defaults(graph_store=graph_store)
 
+# Define the relationship extraction schema
+entity_types = ["Concept"]
+relationship_types = ["IS_A", "REPLACES", "BENEFITS_FROM", "INVOLVES", "ACHIEVES"]
 
-# ---------------- JSON repair helper ----------------
-def safe_json_parse(response: str):
-    try:
-        return json.loads(response)
-    except Exception:
-        # Try to extract JSON array inside text
-        match = re.search(r"\[.*\]", response, re.DOTALL)
-        if match:
-            try:
-                return json.loads(match.group(0))
-            except Exception:
-                return []
-        return []
+# Create the Knowledge Graph Index
+print("Building the Knowledge Graph... This may take some time.")
+index = KnowledgeGraphIndex.from_documents(
+    documents,
+    llm=llm,
+    storage_context=storage_context,
+    kg_extractors=KnowledgeGraphIndex.get_kg_extractors(
+        kg_extractors_list=["simple", "schema_enforced"],
+        llm=llm,
+        kg_rel_types=relationship_types,
+    ),
+)
+print("Knowledge Graph built successfully! 🎉")
 
+# --- Save the Output ---
+# 1. Define the directory to save the files
+persist_dir = "outputs/attention_kg_data"
 
-# ---------------- Prompt ----------------
-def make_prompt(concepts):
-    """
-    Few-shot prompt for extracting concept relationships for a teaching agent.
-    """
-    examples = [
-        {
-            "concepts": ["Transformer encoder layer", "Multi-head attention", "Position-wise feed-forward"],
-            "relationships": [
-                {"subject": "Multi-head attention", "relation": "part_of", "object": "Transformer encoder layer"},
-                {"subject": "Position-wise feed-forward", "relation": "part_of", "object": "Transformer encoder layer"}
-            ]
-        },
-        {
-            "concepts": ["Self-attention", "Query", "Key", "Value"],
-            "relationships": [
-                {"subject": "Query", "relation": "used_for", "object": "Self-attention"},
-                {"subject": "Key", "relation": "used_for", "object": "Self-attention"},
-                {"subject": "Value", "relation": "used_for", "object": "Self-attention"}
-            ]
-        }
-    ]
+# Ensure the directory exists
+if not os.path.exists(persist_dir):
+    os.makedirs(persist_dir)
 
-    # Convert few-shot examples to text
-    example_text = ""
-    for ex in examples:
-        example_text += "Concepts: " + ", ".join(ex["concepts"]) + "\n"
-        example_text += "Relationships: " + str(ex["relationships"]) + "\n\n"
+# 2. Persist the index to disk
+print(f"Persisting the knowledge graph to {persist_dir}...")
+index.storage_context.persist(persist_dir=persist_dir)
+print("Done! The graph has been saved to your local file system.")
 
-    # Prompt
-    prompt = f"""
-Role: You are a teacher in deep learning and transformer architectures.
-Task: From the following list of concepts, extract relationships that help a student understand
-the material systematically.
-
-Focus on: hierarchical (part_of), dependency (depends_on), usage (used_for), and analogical (similar_to) relationships.
-
-Output format: return ONLY a JSON array with objects like:
-[{{"subject": "ConceptA", "relation": "depends_on", "object": "ConceptB"}}]
-
-Examples:
-{example_text}
-
-Concepts to analyze:
-{json.dumps(concepts, indent=2)}
-
-Relationships:
-"""
-    return prompt
-
-
-
-# ---------------- Main logic ----------------  
-def extract_relationships(concepts):
-    relationships = []
-
-    for i in tqdm(range(0, len(concepts), BATCH_SIZE)):
-        batch = concepts[i : i + BATCH_SIZE]
-        prompt = make_prompt(batch)
-        response = call_llm(prompt)
-
-        rels = safe_json_parse(response)
-        if isinstance(rels, list):
-            relationships.extend(rels)
-        else:
-            print("⚠️ Could not parse relationships for this batch.")
-
-    return relationships
-
-
-def main():
-    print("📂 Loading concepts...")
-    concepts = load_json(INPUT_FILE)
-
-    if isinstance(concepts, dict) and "concepts" in concepts:
-        concepts = concepts["concepts"]
-
-    print(f"✅ Loaded {len(concepts)} concepts")
-
-    print("🔗 Extracting relationships...")
-    relationships = extract_relationships(concepts)
-
-    print(f"✅ Extracted {len(relationships)} relationships")
-
-    save_json(relationships, OUTPUT_FILE)
-    print(f"💾 Saved to {OUTPUT_FILE}")
-
-
-if __name__ == "__main__":
-    main()
+# --- Example of Loading it back ---
+# To demonstrate, here's how you would load the saved graph later
+# print("Now loading the saved graph from disk...")
+# loaded_storage_context = StorageContext.from_defaults(persist_dir=persist_dir)
+# loaded_index = load_index_from_storage(loaded_storage_context)
+# print("Graph loaded successfully!")

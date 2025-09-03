@@ -47,11 +47,14 @@ storage_context = StorageContext.from_defaults(graph_store=graph_store)
 relationship_types = ["IS_A", "REPLACES", "BENEFITS_FROM", "INVOLVES", "ACHIEVES"]
 
 # Instantiate the new EntityExtractor
-# This will extract relationships based on the provided types
+# This will use a dedicated span-marker model for extraction, not the main LLM
 kg_extractor = EntityExtractor(
-    llm=llm,
     kg_rel_types=relationship_types,
-    kg_triple_extract=True,  # This enables the extraction of (subject, predicate, object) triples
+    kg_triple_extract=True,
+    # Use a pre-trained span-marker model for entity extraction
+    # This avoids the conflict with the HuggingFaceLLM quantization config
+    model_name="tomaarsen/span-marker-mbert-base-multinerd", 
+    device="cuda",  # Set the device for the span-marker model
 )
 
 print("Building the Knowledge Graph... This may take some time.")
@@ -59,7 +62,7 @@ index = KnowledgeGraphIndex.from_documents(
     documents,
     llm=llm,
     storage_context=storage_context,
-    kg_extractors=[kg_extractor],  # Pass the single extractor in a list
+    kg_extractors=[kg_extractor],
 )
 print("Knowledge Graph built successfully! 🎉")
 

@@ -1,7 +1,7 @@
 import json
-from pathlib import Path
 from llama_index.core import KnowledgeGraphIndex, Document, Settings
 from llama_index.llms.huggingface import HuggingFaceLLM
+from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 
 # ---------------- Settings ----------------
 CONCEPTS_FILE = "outputs/phase2_concepts.json"
@@ -12,12 +12,17 @@ hf_llm = HuggingFaceLLM(
     model_name="mistralai/Mistral-7B-Instruct-v0.1",
     tokenizer_name="mistralai/Mistral-7B-Instruct-v0.1",
     max_new_tokens=512,
-    device_map="auto",                  # ✅ place device_map directly
-    model_kwargs={"torch_dtype": "auto"}  # optional but recommended
+    device_map="auto",
+    model_kwargs={"torch_dtype": "auto"}
 )
 
-# Register LLM globally (replaces ServiceContext)
+# ---------------- Hugging Face Embeddings ----------------
+# You can pick any lightweight embedding model (sentence-transformers recommended)
+hf_embed_model = HuggingFaceEmbedding(model_name="sentence-transformers/all-MiniLM-L6-v2")
+
+# Register globally (replaces ServiceContext)
 Settings.llm = hf_llm
+Settings.embed_model = hf_embed_model   # ✅ prevents fallback to OpenAI
 
 # ---------------- Load Concepts ----------------
 with open(CONCEPTS_FILE, "r") as f:
@@ -36,7 +41,12 @@ kg_index = KnowledgeGraphIndex.from_documents(documents)
 relationships_per_chunk = []
 
 for doc in documents:
-    triplets = kg_index.extract_triplets_from_text(doc.text)
+    try:
+        triplets = kg_index.extract_triplets_from_text(doc.text)
+    except Exception as e:
+        triplets = []
+        print(f"⚠️ Could not extract triplets for: {doc.text[:50]}... Error: {e}")
+    
     relationships_per_chunk.append({
         "text": doc.text,
         "triplets": triplets

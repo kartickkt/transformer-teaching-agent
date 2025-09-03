@@ -46,4 +46,4 @@ for doc in documents:
 with open(OUTPUT_FILE, "w") as f:
     json.dump(relationships_per_chunk, f, indent=2)
 
-print(f"✅ Relationships extracted and saved to {OUTPUT
+print(f"✅ Relationships extracted and saved to {OUTPUT_FILE}")

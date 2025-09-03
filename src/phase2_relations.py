@@ -4,8 +4,8 @@ from llama_index.core import KnowledgeGraphIndex, Document, Settings
 from llama_index.llms.huggingface import HuggingFaceLLM
 
 # ---------------- Settings ----------------
-CONCEPTS_FILE = "phase2_concepts.json"
-OUTPUT_FILE = "phase2_relationships.json"
+CONCEPTS_FILE = "outputs/phase2_concepts.json"
+OUTPUT_FILE = "outputs/phase2_relationships.json"
 
 # ---------------- Hugging Face LLM ----------------
 hf_llm = HuggingFaceLLM(

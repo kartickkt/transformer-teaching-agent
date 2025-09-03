@@ -1,72 +1,57 @@
-# src/phase2_relations.py
-
+# phase2_relations.py
 import json
 from pathlib import Path
 from tqdm import tqdm
-from llama_index import KnowledgeGraphIndex, LLMPredictor, ServiceContext, Document
-from llama_index.llms import HuggingFaceLLM
 
-# ---------------- Path setup ----------------
-repo_root = Path(__file__).resolve().parents[1]  # adjust if needed
-input_file = repo_root / "outputs/phase2_concepts.json"
-output_file = repo_root / "outputs/phase2_relations.json"
+from llama_index import LLMPredictor, ServiceContext, Document
+from llama_index.indices.knowledge_graph.base import KnowledgeGraphIndex
+from transformers import AutoTokenizer, AutoModelForCausalLM
+import torch
 
-# ---------------- Helper functions ----------------
-def load_json(path):
-    with open(path, "r", encoding="utf-8") as f:
-        return json.load(f)
+# ---------------- Paths ----------------
+ROOT_DIR = Path(__file__).resolve().parents[1]
+INPUT_FILE = ROOT_DIR / "outputs/phase2_concepts.json"
+OUTPUT_FILE = ROOT_DIR / "outputs/phase2_relationships.json"
 
-def save_json(data, path):
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
+# ---------------- Load concepts ----------------
+with open(INPUT_FILE, "r", encoding="utf-8") as f:
+    concept_chunks = json.load(f)
 
-# ---------------- Main extraction function ----------------
-def run_extraction(concepts_data):
-    """
-    Build Knowledge Graph from extracted concepts.
-    Each concept entry is joined into a document for the KG.
-    """
-    # Convert concepts_data to Document objects
-    documents = []
-    for entry in concepts_data:
-        # Some entries may be lists of strings inside "concepts"
-        if not entry["concepts"]:
-            continue
-        doc_text = "\n".join(entry["concepts"])
-        documents.append(Document(text=doc_text))
+documents = []
+for chunk in concept_chunks:
+    text = chunk.get("chunk", "")
+    documents.append(Document(text=text))
 
-    # Initialize HuggingFace LLM
-    llm = HuggingFaceLLM(
-        model_name="tiiuae/falcon-7b-instruct",
-        max_new_tokens=512,
-        temperature=0.0,
-        device_map="auto"  # GPU if available
-    )
+# ---------------- Setup LLM (Mistral-7B) ----------------
+tokenizer = AutoTokenizer.from_pretrained("mistralai/Mistral-7B-Instruct-v0")
+model = AutoModelForCausalLM.from_pretrained(
+    "mistralai/Mistral-7B-Instruct-v0",
+    torch_dtype=torch.float16,
+    device_map="auto",
+    trust_remote_code=True
+)
 
-    # Create service context for KG
-    service_context = ServiceContext.from_defaults(llm_predictor=LLMPredictor(llm=llm))
+llm_predictor = LLMPredictor(model=model, tokenizer=tokenizer)
+service_context = ServiceContext.from_defaults(llm_predictor=llm_predictor)
 
-    # Build Knowledge Graph Index
-    print("Building Knowledge Graph...")
-    kg_index = KnowledgeGraphIndex.from_documents(
-        documents,
-        service_context=service_context
-    )
+# ---------------- Build Knowledge Graph ----------------
+kg_index = KnowledgeGraphIndex.from_documents(
+    documents,
+    service_context=service_context
+)
 
-    # Extract relationships per chunk
-    per_chunk = []
-    for doc in tqdm(documents):
-        triplets = kg_index.get_triplets(doc.text)
-        per_chunk.append({"text": doc.text, "triplets": triplets})
+# ---------------- Extract relationships per chunk ----------------
+per_chunk_relationships = []
+for chunk in tqdm(concept_chunks):
+    doc = Document(text=chunk.get("chunk", ""))
+    relations = kg_index.extract_triplets_from_document(doc)
+    per_chunk_relationships.append({
+        "chunk_id": chunk["chunk_id"],
+        "relationships": relations
+    })
 
-    return per_chunk
+# ---------------- Save output ----------------
+with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+    json.dump(per_chunk_relationships, f, indent=2)
 
-# ---------------- Main ----------------
-def main():
-    concepts_data = load_json(input_file)
-    relations = run_extraction(concepts_data)
-    save_json(relations, output_file)
-    print(f"Saved {len(relations)} entries to {output_file}")
-
-if __name__ == "__main__":
-    main()
+print(f"✅ Relationships saved to {OUTPUT_FILE}")

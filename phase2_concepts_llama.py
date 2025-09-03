@@ -1,44 +1,54 @@
+# phase2_concepts_llama.py
+
 import json
 from pathlib import Path
-from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
-from llama_index.core.schema import Document
-from llama_index.core import PropertyGraphIndex
-from llama_index.core.indices.property_graph import SimpleLLMPathExtractor
+from llama_index.core import Document
+from llama_index.core.indices.property_graph import PropertyGraphIndex, SimpleLLMPathExtractor
+from llama_index.core.llms import HuggingFaceLLM
+from llama_index.core.node_parser import SentenceSplitter
 
-# ---------------- Settings ----------------
-CHUNKS_FILE = Path("outputs/attention_chunks.json")
-OUTPUT_DIR = Path("./storage")
-MODEL_NAME = "mistral-instruct-0.3"
-
-# ---------------- Load Mistral ----------------
-tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
-model = AutoModelForCausalLM.from_pretrained(MODEL_NAME)
-llm = pipeline("text-generation", model=model, tokenizer=tokenizer, device=0)
+# ---------------- Files ----------------
+INPUT_FILE = "attention_chunks.json"
+OUTPUT_INDEX_DIR = "./phase2_pg_index"
 
 # ---------------- Load chunks ----------------
-with open(CHUNKS_FILE, "r", encoding="utf-8") as f:
+with open(INPUT_FILE, "r", encoding="utf-8") as f:
     chunks = json.load(f)
 
-documents = []
-for chunk in chunks:
-    # wrap each chunk as a LlamaIndex Document
-    documents.append(Document(text=chunk["text"], doc_id=str(chunk["chunk_id"])))
+# ---------------- Create Documents ----------------
+documents = [
+    Document(text=chunk["text"], metadata={"chunk_id": chunk["chunk_id"]})
+    for chunk in chunks
+]
 
-# ---------------- Concept & Relationship Extraction ----------------
+# ---------------- Optional: Parse into Nodes ----------------
+# This splits text into smaller chunks for finer-grained relationship extraction
+parser = SentenceSplitter()
+nodes = parser.get_nodes_from_documents(documents)
+
+# ---------------- LLM setup ----------------
+# Use Mistral v0.3 Instruct (assuming HuggingFace LLM wrapper)
+llm = HuggingFaceLLM(
+    model_name="mistral-instruct-v0.3",
+    model_kwargs={"temperature": 0.0, "max_new_tokens": 256}
+)
+
+# ---------------- KG Extractor ----------------
+# Extract (entity, relation, entity) triples from text chunks
 kg_extractor = SimpleLLMPathExtractor(
     llm=llm,
     max_paths_per_chunk=10,
-    num_workers=1,  # adjust based on your resources
-    show_progress=True
+    num_workers=4,
+    show_progress=True,
 )
 
-# Build Property Graph Index
-index = PropertyGraphIndex.from_documents(
-    documents,
-    kg_extractors=[kg_extractor]
+# ---------------- Build Property Graph Index ----------------
+pg_index = PropertyGraphIndex.from_documents(
+    nodes,  # can also use 'documents' if you skip node parsing
+    kg_extractors=[kg_extractor],
 )
 
-# ---------------- Persist to disk ----------------
-index.storage_context.persist(persist_dir=OUTPUT_DIR)
+# ---------------- Save index ----------------
+pg_index.storage_context.persist(persist_dir=OUTPUT_INDEX_DIR)
 
-print(f"Property graph index saved to {OUTPUT_DIR}")
+print(f"Phase 2 Property Graph Index created and saved to {OUTPUT_INDEX_DIR}")

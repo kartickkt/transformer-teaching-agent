@@ -1,119 +1,72 @@
 # src/phase2_relations.py
+
 import json
 from pathlib import Path
-from typing import List, Dict, Any
+from tqdm import tqdm
+from llama_index import KnowledgeGraphIndex, LLMPredictor, ServiceContext, Document
+from llama_index.llms import HuggingFaceLLM
 
-import torch
-from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
+# ---------------- Path setup ----------------
+repo_root = Path(__file__).resolve().parents[1]  # adjust if needed
+input_file = repo_root / "outputs/phase2_concepts.json"
+output_file = repo_root / "outputs/phase2_relations.json"
 
-from llama_index.core import Document, Settings
-from llama_index.llms.huggingface import HuggingFaceLLM
-from llama_index.embeddings.huggingface import HuggingFaceEmbedding
-from llama_index.core.indices.knowledge_graph import KnowledgeGraphIndex
-
-# ---------- Paths ----------
-REPO_ROOT = Path(__file__).resolve().parents[1]
-INPUT_JSON = REPO_ROOT / "outputs" / "phase2_concepts.json"
-OUTPUT_JSON = REPO_ROOT / "outputs" / "phase2_relations.json"
-
-# ---------- Model names ----------
-HF_LLM = "mistralai/Mistral-7B-Instruct-v0.3"
-HF_EMB = "BAAI/bge-small-en-v1.5"   # embeddings not crucial for KG, but required by LlamaIndex
-
-# ---------- Config ----------
-MAX_TRIPLETS_PER_CHUNK = 8
-BATCH_LIMIT = None   # set to int for debugging smaller subsets
-
-
-# ---------- Helpers ----------
-def load_concepts(input_path: Path) -> List[Dict[str, Any]]:
-    """Load Phase 2 concepts JSON."""
-    with open(input_path, "r", encoding="utf-8") as f:
+# ---------------- Helper functions ----------------
+def load_json(path):
+    with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
+def save_json(data, path):
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
 
-def build_llm() -> HuggingFaceLLM:
-    """Load HuggingFace model with quantization for LlamaIndex."""
-    quant_config = BitsAndBytesConfig(load_in_4bit=True)
+# ---------------- Main extraction function ----------------
+def run_extraction(concepts_data):
+    """
+    Build Knowledge Graph from extracted concepts.
+    Each concept entry is joined into a document for the KG.
+    """
+    # Convert concepts_data to Document objects
+    documents = []
+    for entry in concepts_data:
+        # Some entries may be lists of strings inside "concepts"
+        if not entry["concepts"]:
+            continue
+        doc_text = "\n".join(entry["concepts"])
+        documents.append(Document(text=doc_text))
 
-    tokenizer = AutoTokenizer.from_pretrained(HF_LLM, use_fast=True)
-    model = AutoModelForCausalLM.from_pretrained(
-        HF_LLM,
-        device_map="auto",
-        torch_dtype=torch.float16,
-        quantization_config=quant_config,
+    # Initialize HuggingFace LLM
+    llm = HuggingFaceLLM(
+        model_name="tiiuae/falcon-7b-instruct",
+        max_new_tokens=512,
+        temperature=0.0,
+        device_map="auto"  # GPU if available
     )
 
-    return HuggingFaceLLM(
-        model=model,
-        tokenizer=tokenizer,
-        generate_kwargs={
-            "temperature": 0.1,
-            "top_p": 0.9,
-            "max_new_tokens": 512,
-        },
+    # Create service context for KG
+    service_context = ServiceContext.from_defaults(llm_predictor=LLMPredictor(llm=llm))
+
+    # Build Knowledge Graph Index
+    print("Building Knowledge Graph...")
+    kg_index = KnowledgeGraphIndex.from_documents(
+        documents,
+        service_context=service_context
     )
 
+    # Extract relationships per chunk
+    per_chunk = []
+    for doc in tqdm(documents):
+        triplets = kg_index.get_triplets(doc.text)
+        per_chunk.append({"text": doc.text, "triplets": triplets})
 
-def run_extraction(chunks: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
-    """Extract triples per chunk using KnowledgeGraphIndex."""
-    # Global settings for LlamaIndex
-    Settings.llm = build_llm()
-    Settings.embed_model = HuggingFaceEmbedding(model_name=HF_EMB)
+    return per_chunk
 
-    results: List[Dict[str, Any]] = []
-
-    for i, item in enumerate(chunks[: BATCH_LIMIT or len(chunks)]):
-        text = item["chunk"]
-
-        # Add concepts as optional hints
-        concepts = item.get("concepts", [])
-        concept_hint = ""
-        if concepts:
-            joined = ", ".join([c.strip("- ").strip() for c in concepts])[:1500]
-            concept_hint = f"\n\n[HINTS: Concepts detected -> {joined}]"
-
-        # ✅ Correct usage of LlamaIndex Document
-        doc = Document(
-            text=text + concept_hint,
-            metadata={"chunk_id": item.get("chunk_id", i)},
-        )
-
-        # Build KG index per doc
-        kg_index = KnowledgeGraphIndex.from_documents(
-            [doc],
-            max_triplets_per_chunk=MAX_TRIPLETS_PER_CHUNK,
-        )
-
-        triples = []
-        try:
-            graph_store = kg_index.get_graph_store()
-            for s, p, o in graph_store.get_triples():
-                triples.append({"subject": s, "predicate": p, "object": o})
-        except Exception:
-            # fallback if version mismatch
-            triples = []
-
-        results.append({
-            "chunk_id": doc.metadata["chunk_id"],
-            "triples": triples,
-        })
-
-    return results
-
-
+# ---------------- Main ----------------
 def main():
-    INPUT_JSON.parent.mkdir(parents=True, exist_ok=True)
-    OUTPUT_JSON.parent.mkdir(parents=True, exist_ok=True)
-
-    chunks = load_concepts(INPUT_JSON)
-    per_chunk = run_extraction(chunks)
-
-    with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
-        json.dump(per_chunk, f, ensure_ascii=False, indent=2)
-
-    print(f"✅ Saved {len(per_chunk)} chunks with triples → {OUTPUT_JSON}")
-
+    concepts_data = load_json(input_file)
+    relations = run_extraction(concepts_data)
+    save_json(relations, output_file)
+    print(f"Saved {len(relations)} entries to {output_file}")
 
 if __name__ == "__main__":
     main()

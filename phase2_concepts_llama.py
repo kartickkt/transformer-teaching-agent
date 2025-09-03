@@ -1,42 +1,44 @@
-# src/phase2_relations.py
 import json
 from pathlib import Path
-from llama_index.core import PropertyGraphIndex, StorageContext
+from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
+from llama_index.core import Document
+from llama_index.core import PropertyGraphIndex
 from llama_index.core.indices.property_graph import SimpleLLMPathExtractor
-from llama_index.core.schema import TextNode
 
-# Optional: your LLM setup
-from llama_index.langchain_helpers.chain_wrapper import LLMChain
-from langchain.chat_models import ChatOpenAI
-
-# -------------------- Settings --------------------
+# ---------------- Settings ----------------
 CHUNKS_FILE = Path("outputs/attention_chunks.json")
 OUTPUT_DIR = Path("./storage")
-MAX_PATHS_PER_CHUNK = 10
+MODEL_NAME = "mistral-instruct-0.3"
 
-# -------------------- Load chunks --------------------
+# ---------------- Load Mistral ----------------
+tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
+model = AutoModelForCausalLM.from_pretrained(MODEL_NAME)
+llm = pipeline("text-generation", model=model, tokenizer=tokenizer, device=0)
+
+# ---------------- Load chunks ----------------
 with open(CHUNKS_FILE, "r", encoding="utf-8") as f:
     chunks = json.load(f)
 
-# Convert chunks to LlamaIndex TextNode objects
-documents = [TextNode(id_=str(c["chunk_id"]), text=c["text"]) for c in chunks]
+documents = []
+for chunk in chunks:
+    # wrap each chunk as a LlamaIndex Document
+    documents.append(Document(text=chunk["text"], doc_id=str(chunk["chunk_id"])))
 
-# -------------------- Setup LLM --------------------
-llm = ChatOpenAI(temperature=0, model="gpt-3.5-turbo")  # adjust as needed
-
+# ---------------- Concept & Relationship Extraction ----------------
 kg_extractor = SimpleLLMPathExtractor(
     llm=llm,
-    max_paths_per_chunk=MAX_PATHS_PER_CHUNK,
-    num_workers=4,
-    show_progress=True,
+    max_paths_per_chunk=10,
+    num_workers=1,  # adjust based on your resources
+    show_progress=True
 )
 
-# -------------------- Build Property Graph Index --------------------
+# Build Property Graph Index
 index = PropertyGraphIndex.from_documents(
     documents,
-    kg_extractors=[kg_extractor],
+    kg_extractors=[kg_extractor]
 )
 
-# -------------------- Persist Index --------------------
+# ---------------- Persist to disk ----------------
 index.storage_context.persist(persist_dir=OUTPUT_DIR)
+
 print(f"Property graph index saved to {OUTPUT_DIR}")

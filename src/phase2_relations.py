@@ -11,7 +11,6 @@ OUTPUT_FILE = "phase2_relationships.json"
 # Using Mistral (or any HF model you have access to)
 hf_llm = HuggingFaceLLM(
     model_name="mistralai/Mistral-7B-Instruct-v0.1",
-    temperature=0,
     max_new_tokens=512,
     device="cuda"  # uses your A100
 )

@@ -6,7 +6,7 @@ from tqdm import tqdm
 from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
 
 # ============== Settings ==============
-INPUT_FILE = Path("outputs/phase2_concept.json")
+INPUT_FILE = Path("outputs/phase2_concepts.json")
 OUTPUT_FILE = Path("outputs/phase2_relations.json")
 MODEL_NAME = "mistralai/Mistral-7B-Instruct-v0.3"
 

@@ -3,19 +3,23 @@ from pathlib import Path
 from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
 
 # ---------------- Model & tokenizer ----------------
-MODEL_NAME = "mistralai/Mistral-7B-Instruct-v0.3"
-tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
-model = AutoModelForCausalLM.from_pretrained(MODEL_NAME, device_map="auto", torch_dtype="auto")
+from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 
+MODEL_NAME = "mistralai/Mistral-7B-Instruct-v0.3"
+
+# Load tokenizer and model with Accelerate
+tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
+model = AutoModelForCausalLM.from_pretrained(
+    MODEL_NAME,
+    device_map="auto",    # let HF Accelerate assign devices
+    torch_dtype="auto"    # optimize memory
+)
+
+# Create pipeline using the already-loaded model
 generator = pipeline(
     "text-generation",
-    model=model,
-    tokenizer=tokenizer,
-    device=0,
-    max_new_tokens=512,
-    temperature=0,   # deterministic output
-    top_p=1,
-    pad_token_id=tokenizer.eos_token_id
+    model=model,          # use the loaded model
+    tokenizer=tokenizer   # use the loaded tokenizer
 )
 
 # ---------------- Prompt template ----------------

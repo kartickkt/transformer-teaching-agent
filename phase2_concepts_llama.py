@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
-from llama_index.core import Document
+from llama_index.schema import Document
 from llama_index.core import PropertyGraphIndex
 from llama_index.core.indices.property_graph import SimpleLLMPathExtractor
 

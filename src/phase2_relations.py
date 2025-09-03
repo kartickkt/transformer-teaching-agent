@@ -1,6 +1,6 @@
 import json
 from pathlib import Path
-from llama_index import KnowledgeGraphIndex, Document, ServiceContext
+from llama_index.core import KnowledgeGraphIndex, Document, ServiceContext
 from llama_index.llms.huggingface import HuggingFaceLLM
 
 # ---------------- Settings ----------------

@@ -11,10 +11,10 @@ OUTPUT_FILE = "phase2_relationships.json"
 # Using Mistral (or any HF model you have access to)
 hf_llm = HuggingFaceLLM(
     model_name="mistralai/Mistral-7B-Instruct-v0.1",
+    tokenizer_name="mistralai/Mistral-7B-Instruct-v0.1",
     max_new_tokens=512,
-    model_kwargs={"device_map": "cuda"} 
+    device_map="auto"   
 )
-
 service_context = ServiceContext.from_defaults(llm=hf_llm)
 
 # ---------------- Load Concepts ----------------

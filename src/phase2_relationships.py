@@ -5,9 +5,8 @@ from llama_index.core.graph_stores import SimpleGraphStore
 from llama_index.llms.huggingface import HuggingFaceLLM
 from llama_index.core.prompts.prompts import SimpleInputPrompt
 
-# The correct import statement for the extractors.
-# This should now work after the pip install command you ran.
-from llama_index.extractors.entity import SimpleLLMKgExtractor, SchemaLLMKgExtractor
+# Import the new, unified EntityExtractor class
+from llama_index.extractors.entity import EntityExtractor
 
 # --- Load the JSON data from the file ---
 file_path = os.path.join("outputs", "phase2_concepts.json")
@@ -44,21 +43,23 @@ documents = [
 graph_store = SimpleGraphStore()
 storage_context = StorageContext.from_defaults(graph_store=graph_store)
 
-entity_types = ["Concept"]
+# Define relationship types for the extractor
 relationship_types = ["IS_A", "REPLACES", "BENEFITS_FROM", "INVOLVES", "ACHIEVES"]
 
-# Instantiate the extractors with your LLM and schema
-kg_extractors = [
-    SimpleLLMKgExtractor(llm=llm),
-    SchemaLLMKgExtractor(llm=llm, kg_rel_types=relationship_types),
-]
+# Instantiate the new EntityExtractor
+# This will extract relationships based on the provided types
+kg_extractor = EntityExtractor(
+    llm=llm,
+    kg_rel_types=relationship_types,
+    kg_triple_extract=True,  # This enables the extraction of (subject, predicate, object) triples
+)
 
 print("Building the Knowledge Graph... This may take some time.")
 index = KnowledgeGraphIndex.from_documents(
     documents,
     llm=llm,
     storage_context=storage_context,
-    kg_extractors=kg_extractors,
+    kg_extractors=[kg_extractor],  # Pass the single extractor in a list
 )
 print("Knowledge Graph built successfully! 🎉")
 

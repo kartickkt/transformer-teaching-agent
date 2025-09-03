@@ -1,59 +1,74 @@
+# src/phase2_relations.py
+
 import json
-from llama_index.core import KnowledgeGraphIndex, Document, Settings
-from llama_index.llms.huggingface import HuggingFaceLLM
-from llama_index.embeddings.huggingface import HuggingFaceEmbedding
+from pathlib import Path
+from tqdm import tqdm
+from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
 
-# ---------------- Settings ----------------
-CONCEPTS_FILE = "outputs/phase2_concepts.json"
-OUTPUT_FILE = "outputs/phase2_relationships.json"
+# ============== Settings ==============
+INPUT_FILE = Path("outputs/phase2_concept.json")
+OUTPUT_FILE = Path("outputs/phase2_relations.json")
+MODEL_NAME = "mistralai/Mistral-7B-Instruct-v0.3"
 
-# ---------------- Hugging Face LLM ----------------
-hf_llm = HuggingFaceLLM(
-    model_name="mistralai/Mistral-7B-Instruct-v0.1",
-    tokenizer_name="mistralai/Mistral-7B-Instruct-v0.1",
-    max_new_tokens=512,
+# ============== Load Model ==============
+print("Loading Mistral model...")
+tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
+model = AutoModelForCausalLM.from_pretrained(
+    MODEL_NAME,
     device_map="auto",
-    model_kwargs={"torch_dtype": "auto"}
+    torch_dtype="auto"
 )
+generator = pipeline("text-generation", model=model, tokenizer=tokenizer)
 
-# ---------------- Hugging Face Embeddings ----------------
-# You can pick any lightweight embedding model (sentence-transformers recommended)
-hf_embed_model = HuggingFaceEmbedding(model_name="sentence-transformers/all-MiniLM-L6-v2")
+# ============== Prompt Template ==============
+PROMPT_TEMPLATE = """
+You are an information extraction system.
+Given a list of concepts, extract relationships as JSON triplets.
 
-# Register globally (replaces ServiceContext)
-Settings.llm = hf_llm
-Settings.embed_model = hf_embed_model   # ✅ prevents fallback to OpenAI
+Concepts:
+{concepts}
 
-# ---------------- Load Concepts ----------------
-with open(CONCEPTS_FILE, "r") as f:
-    concept_chunks = json.load(f)
+Output format (JSON list):
+[
+  {{"subject": "...", "relation": "...", "object": "..."}},
+  ...
+]
+"""
 
-# Convert each chunk to a Document
-documents = []
-for chunk in concept_chunks:
-    text = "\n".join(chunk["concepts"])  # join the list of concepts into a single text
-    documents.append(Document(text=text))
+# ============== Load Phase 1 Concepts ==============
+with open(INPUT_FILE, "r") as f:
+    data = json.load(f)
 
-# ---------------- Build Knowledge Graph ----------------
-kg_index = KnowledgeGraphIndex.from_documents(documents)
+results = []
 
-# ---------------- Extract Relationships ----------------
-relationships_per_chunk = []
+# ============== Process Chunks ==============
+for ex in tqdm(data, desc="Extracting relations"):
+    concepts = ", ".join(ex["concepts"])
+    prompt = PROMPT_TEMPLATE.format(concepts=concepts)
 
-for doc in documents:
+    response = generator(
+        prompt,
+        max_new_tokens=512,
+        temperature=0.2,
+        do_sample=False
+    )[0]["generated_text"]
+
+    # Try to parse JSON
     try:
-        triplets = kg_index.extract_triplets_from_text(doc.text)
-    except Exception as e:
+        start = response.find("[")
+        end = response.rfind("]") + 1
+        triplets = json.loads(response[start:end])
+    except Exception:
         triplets = []
-        print(f"⚠️ Could not extract triplets for: {doc.text[:50]}... Error: {e}")
-    
-    relationships_per_chunk.append({
-        "text": doc.text,
-        "triplets": triplets
+
+    results.append({
+        "chunk_id": ex["chunk_id"],
+        "relationships": triplets
     })
 
-# ---------------- Save ----------------
+# ============== Save Output ==============
+OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
 with open(OUTPUT_FILE, "w") as f:
-    json.dump(relationships_per_chunk, f, indent=2)
+    json.dump(results, f, indent=2)
 
-print(f"✅ Relationships extracted and saved to {OUTPUT_FILE}")
+print(f"✅ Saved relations to {OUTPUT_FILE}")

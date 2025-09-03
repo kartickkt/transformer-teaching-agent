@@ -1,13 +1,12 @@
-pypdf
-langchain
-llama-index
-llama-index-llms-mistralai
-llama-index-llms-huggingface
-llama-index-extractors-entity
-openai
-langchain_community
-transformers
-torch
-langgraph
-tqdm
-bitsandbytes
+# ----- LlamaIndex + Hugging Face + graph + utils -----
+llama-index-core>=0.11.0
+llama-index-llms-huggingface>=0.2.0
+llama-index-embeddings-huggingface>=0.2.0
+transformers>=4.43.0
+accelerate>=0.33.0
+bitsandbytes>=0.43.0
+torch>=2.3.0
+networkx>=3.2
+pandas>=2.2.2
+neo4j>=5.22.0
+llama-index-graph-stores-neo4j>=0.2.0

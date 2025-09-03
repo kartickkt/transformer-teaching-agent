@@ -1,4 +1,5 @@
 # ----- LlamaIndex + Hugging Face + graph + utils -----
+llama-index>=0.10.0
 llama-index-core>=0.11.0
 llama-index-llms-huggingface>=0.2.0
 llama-index-embeddings-huggingface>=0.2.0

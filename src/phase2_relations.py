@@ -1,6 +1,6 @@
 import json
 from pathlib import Path
-from llama_index.core import KnowledgeGraphIndex, Document, ServiceContext
+from llama_index.core import KnowledgeGraphIndex, Document, Settings
 from llama_index.llms.huggingface import HuggingFaceLLM
 
 # ---------------- Settings ----------------
@@ -8,14 +8,16 @@ CONCEPTS_FILE = "phase2_concepts.json"
 OUTPUT_FILE = "phase2_relationships.json"
 
 # ---------------- Hugging Face LLM ----------------
-# Using Mistral (or any HF model you have access to)
 hf_llm = HuggingFaceLLM(
     model_name="mistralai/Mistral-7B-Instruct-v0.1",
     tokenizer_name="mistralai/Mistral-7B-Instruct-v0.1",
     max_new_tokens=512,
-    device_map="auto"   
+    device_map="auto",                  # ✅ place device_map directly
+    model_kwargs={"torch_dtype": "auto"}  # optional but recommended
 )
-service_context = ServiceContext.from_defaults(llm=hf_llm)
+
+# Register LLM globally (replaces ServiceContext)
+Settings.llm = hf_llm
 
 # ---------------- Load Concepts ----------------
 with open(CONCEPTS_FILE, "r") as f:
@@ -28,16 +30,12 @@ for chunk in concept_chunks:
     documents.append(Document(text=text))
 
 # ---------------- Build Knowledge Graph ----------------
-kg_index = KnowledgeGraphIndex.from_documents(
-    documents,
-    service_context=service_context
-)
+kg_index = KnowledgeGraphIndex.from_documents(documents)
 
 # ---------------- Extract Relationships ----------------
 relationships_per_chunk = []
 
 for doc in documents:
-    # Returns a dictionary with extracted triplets
     triplets = kg_index.extract_triplets_from_text(doc.text)
     relationships_per_chunk.append({
         "text": doc.text,
@@ -48,4 +46,4 @@ for doc in documents:
 with open(OUTPUT_FILE, "w") as f:
     json.dump(relationships_per_chunk, f, indent=2)
 
-print(f"✅ Relationships extracted and saved to {OUTPUT_FILE}")
+print(f"✅ Relationships extracted and saved to {OUTPUT

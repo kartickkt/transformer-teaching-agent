@@ -1,13 +1,19 @@
-# ----- LlamaIndex + Hugging Face + graph + utils -----
+# LlamaIndex
 llama-index>=0.10.0
 llama-index-core>=0.11.0
 llama-index-llms-huggingface>=0.2.0
 llama-index-embeddings-huggingface>=0.2.0
+llama-index-graph-stores-neo4j>=0.2.0
+
+# Hugging Face
 transformers>=4.43.0
 accelerate>=0.33.0
 bitsandbytes>=0.43.0
+
+# PyTorch
 torch>=2.3.0
+
+# Utilities
 networkx>=3.2
 pandas>=2.2.2
 neo4j>=5.22.0
-llama-index-graph-stores-neo4j>=0.2.0

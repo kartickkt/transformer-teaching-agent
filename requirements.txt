@@ -1,19 +1,14 @@
-# LlamaIndex
-llama-index==0.11.6
-llama-index-core>=0.11.0
-llama-index-llms-huggingface>=0.2.0
-llama-index-embeddings-huggingface>=0.2.0
-llama-index-graph-stores-neo4j>=0.2.0
+llama-index
+llama-index-core
+llama-index-llms-huggingface
+llama-index-embeddings-huggingface
+llama-index-graph-stores-neo4j
 
-# Hugging Face
-transformers>=4.43.0
-accelerate>=0.33.0
-bitsandbytes>=0.43.0
+transformers
+accelerate
+bitsandbytes
+torch
 
-# PyTorch
-torch>=2.3.0
-
-# Utilities
-networkx>=3.2
-pandas>=2.2.2
-neo4j>=5.22.0
+networkx
+pandas
+neo4j

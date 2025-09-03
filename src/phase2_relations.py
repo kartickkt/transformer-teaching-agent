@@ -12,7 +12,7 @@ OUTPUT_FILE = "phase2_relationships.json"
 hf_llm = HuggingFaceLLM(
     model_name="mistralai/Mistral-7B-Instruct-v0.1",
     max_new_tokens=512,
-    device="cuda"  # uses your A100
+    model_kwargs={"device_map": "cuda"} 
 )
 
 service_context = ServiceContext.from_defaults(llm=hf_llm)

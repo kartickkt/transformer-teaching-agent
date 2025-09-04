@@ -1,14 +1,13 @@
-llama-index
-llama-index-core
-llama-index-llms-huggingface
-llama-index-embeddings-huggingface
-llama-index-graph-stores-neo4j
-
+# --- Core libraries ---
+torch
 transformers
 accelerate
 bitsandbytes
-torch
-
-networkx
 pandas
+networkx
 neo4j
+# --- Phase 2: Concept & Relationship Extraction ---
+langextract
+openai
+python-dotenv
+tqdm

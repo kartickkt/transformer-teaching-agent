@@ -4,8 +4,7 @@ from dotenv import load_dotenv
 import os
 from tqdm import tqdm
 
-from langextract import Extractor
-from langextract.schema import Extraction, Entity, Relationship
+import langextract as lx
 
 # ---------------- Setup ----------------
 load_dotenv()  # load OPENAI_API_KEY from .env
@@ -14,26 +13,42 @@ repo_root = Path(__file__).resolve().parents[1]
 INPUT_FILE = repo_root / "outputs" / "attention_chunks.json"
 OUTPUT_FILE = repo_root / "outputs" / "phase2_concepts.json"
 
-# ---------------- LangExtract Config ----------------
-extractor = Extractor(
-    provider="openai",
-    model="gpt-4o-mini",  # cheapest reliable option
-)
+# ---------------- Prompt & Examples ----------------
+prompt = """Extract key concepts and relationships from the text.
+- List all important technical terms as 'concepts'.
+- Identify relationships between concepts as subject-predicate-object triples.
+- Use only terms from the text."""
 
-# Define schema (concepts = entities, links = relationships)
-schema = Extraction(
-    entities=[
-        Entity(name="Concept", description="Any important technical term or concept"),
-    ],
-    relationships=[
-        Relationship(
-            name="related_to",
-            description="Relationship between two concepts (e.g., 'uses', 'depends on', 'enables')",
-            source="Concept",
-            target="Concept",
-        ),
-    ],
-)
+# Optional: You can add a few-shot example to guide extraction
+examples = [
+    lx.data.ExampleData(
+        text="The Transformer uses self-attention and multi-head attention.",
+        extractions=[
+            lx.data.Extraction(
+                extraction_class="concept",
+                extraction_text="Transformer"
+            ),
+            lx.data.Extraction(
+                extraction_class="concept",
+                extraction_text="self-attention"
+            ),
+            lx.data.Extraction(
+                extraction_class="concept",
+                extraction_text="multi-head attention"
+            ),
+            lx.data.Extraction(
+                extraction_class="relationship",
+                extraction_text="Transformer uses self-attention",
+                attributes={"type": "uses"}
+            ),
+            lx.data.Extraction(
+                extraction_class="relationship",
+                extraction_text="Transformer uses multi-head attention",
+                attributes={"type": "uses"}
+            ),
+        ]
+    )
+]
 
 # ---------------- Load Chunks ----------------
 with open(INPUT_FILE, "r", encoding="utf-8") as f:
@@ -45,12 +60,12 @@ results = []
 for i, chunk in enumerate(tqdm(chunks, desc="Extracting concepts/relationships")):
     text = chunk["text"]
 
-    # Run LangExtract
-    extraction = extractor.extract(
-        schema=schema,
-        text=text,
-        instructions="Extract key concepts and relationships as subject-predicate-object triples. "
-                     "Be concise, use only terms from the text.",
+    extraction = lx.extract(
+        text_or_documents=text,
+        prompt_description=prompt,
+        examples=examples,
+        model_id="gpt-4o-mini",
+        api_key=os.environ.get("OPENAI_API_KEY")
     )
 
     results.append({

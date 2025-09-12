@@ -1,0 +1,27 @@
+[
+  {
+    "source": "parameter matrices",
+    "target": "positional embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameter matrices",
+    "target": "Transformer models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameter matrices",
+    "target": "linear transformations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameter matrices",
+    "target": "learned linear transformation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameter matrices",
+    "target": "dot-product attention",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "learned embeddings",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned embeddings",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned embeddings",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned embeddings",
+    "target": "Sequence to sequence learning with neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned embeddings",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "amount of computation that can be parallelized",
+    "target": "parallelizable",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "amount of computation that can be parallelized",
+    "target": "algorithms",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "amount of computation that can be parallelized",
+    "target": "multi-task",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "amount of computation that can be parallelized",
+    "target": "eight GPUs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "amount of computation that can be parallelized",
+    "target": "computation",
+    "relation": "prerequisite"
+  }
+]

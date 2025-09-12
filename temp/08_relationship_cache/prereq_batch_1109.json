@@ -1,0 +1,22 @@
+[
+  {
+    "source": "decoder layer",
+    "target": "softmax function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder layer",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder layer",
+    "target": "feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder layer",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  }
+]

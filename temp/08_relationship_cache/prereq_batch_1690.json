@@ -1,0 +1,22 @@
+[
+  {
+    "source": "dot-product attention",
+    "target": "weighted sum",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dot-product attention",
+    "target": "dot products",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dot-product attention",
+    "target": "dot product",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dot-product attention",
+    "target": "attention key and value dimensions",
+    "relation": "prerequisite"
+  }
+]

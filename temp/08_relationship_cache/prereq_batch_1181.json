@@ -1,0 +1,27 @@
+[
+  {
+    "source": "learned embeddings",
+    "target": "Deep residual learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned embeddings",
+    "target": "International Conference on Learning Representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned embeddings",
+    "target": "Learning Representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned embeddings",
+    "target": "structured self-attentive sentence embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned embeddings",
+    "target": "Multi-task sequence to sequence learning",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "memory constraints",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "memory constraints",
+    "target": "decoder stacks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "memory constraints",
+    "target": "long short-term memory",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "memory constraints",
+    "target": "Attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "memory constraints",
+    "target": "restricted self-attention",
+    "relation": "prerequisite"
+  }
+]

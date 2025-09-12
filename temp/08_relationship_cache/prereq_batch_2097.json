@@ -1,0 +1,27 @@
+[
+  {
+    "source": "input length",
+    "target": "sequence lengths",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input length",
+    "target": "memory constraints",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input length",
+    "target": "ByteNet",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input length",
+    "target": "kernel size 1",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input length",
+    "target": "512",
+    "relation": "prerequisite"
+  }
+]

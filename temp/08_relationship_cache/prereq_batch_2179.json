@@ -1,0 +1,7 @@
+[
+  {
+    "source": "sequence modeling",
+    "target": "encoder",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "amount of computation that can be parallelized",
+    "target": "parallelization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "amount of computation that can be parallelized",
+    "target": "computational efficiency",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "amount of computation that can be parallelized",
+    "target": "sequential computation",
+    "relation": "prerequisite"
+  }
+]

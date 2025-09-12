@@ -1,0 +1,17 @@
+[
+  {
+    "source": "forward signals",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer (base model)",
+    "target": "train",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer (base model)",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  }
+]

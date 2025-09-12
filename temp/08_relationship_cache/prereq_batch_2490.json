@@ -1,0 +1,17 @@
+[
+  {
+    "source": "neural machine translation architectures",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural machine translation architectures",
+    "target": "end-to-end memory networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural machine translation architectures",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  }
+]

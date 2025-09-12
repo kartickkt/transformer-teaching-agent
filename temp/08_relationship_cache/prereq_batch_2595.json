@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Deep recurrent models",
+    "target": "connected layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Deep recurrent models",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Deep recurrent models",
+    "target": "layer normalization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Deep recurrent models",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Deep recurrent models",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  }
+]

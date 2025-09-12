@@ -1,0 +1,22 @@
+[
+  {
+    "source": "attention layers",
+    "target": "single attention head",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention layers",
+    "target": "Attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention layers",
+    "target": "parallel attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention layers",
+    "target": "restricted self-attention",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "large inputs and outputs",
+    "target": "number of operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "large inputs and outputs",
+    "target": "theoretical complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "large inputs and outputs",
+    "target": "computational performance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "large inputs and outputs",
+    "target": "maximum output length",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "large inputs and outputs",
+    "target": "input length",
+    "relation": "prerequisite"
+  }
+]

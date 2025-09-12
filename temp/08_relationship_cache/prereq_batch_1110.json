@@ -1,0 +1,22 @@
+[
+  {
+    "source": "decoder layer",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder layer",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder layer",
+    "target": "decoder output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder layer",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  }
+]

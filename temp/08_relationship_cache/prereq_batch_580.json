@@ -1,0 +1,17 @@
+[
+  {
+    "source": "perplexity",
+    "target": "theoretical complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "perplexity",
+    "target": "computational complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "perplexity",
+    "target": "per-word perplexities",
+    "relation": "prerequisite"
+  }
+]

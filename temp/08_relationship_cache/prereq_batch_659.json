@@ -1,0 +1,22 @@
+[
+  {
+    "source": "task-specific tuning",
+    "target": "Attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "task-specific tuning",
+    "target": "additive attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "task-specific tuning",
+    "target": "parallel attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "task-specific tuning",
+    "target": "restricted self-attention",
+    "relation": "prerequisite"
+  }
+]

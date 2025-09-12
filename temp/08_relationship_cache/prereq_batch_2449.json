@@ -1,0 +1,17 @@
+[
+  {
+    "source": "recurrent language models",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent language models",
+    "target": "Gradient flow in recurrent nets",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent language models",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  }
+]

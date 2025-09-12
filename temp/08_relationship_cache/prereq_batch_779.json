@@ -1,0 +1,27 @@
+[
+  {
+    "source": "application",
+    "target": "information flow",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "application",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "application",
+    "target": "function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "application",
+    "target": "versions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "application",
+    "target": "sequence",
+    "relation": "prerequisite"
+  }
+]

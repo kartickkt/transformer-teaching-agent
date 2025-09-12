@@ -1,0 +1,27 @@
+[
+  {
+    "source": "previously reported ensembles",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "previously reported ensembles",
+    "target": "state-of-the-art models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "previously reported ensembles",
+    "target": "single model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "figures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  }
+]

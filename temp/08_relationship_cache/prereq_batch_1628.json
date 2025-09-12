@@ -1,0 +1,27 @@
+[
+  {
+    "source": "intra-attention",
+    "target": "Attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "intra-attention",
+    "target": "dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "intra-attention",
+    "target": "single attention head",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "intra-attention",
+    "target": "parallel attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "intra-attention",
+    "target": "restricted self-attention",
+    "relation": "prerequisite"
+  }
+]

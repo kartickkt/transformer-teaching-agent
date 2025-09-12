@@ -1,0 +1,12 @@
+[
+  {
+    "source": "training examples",
+    "target": "learning rate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training examples",
+    "target": "Learning Representations",
+    "relation": "prerequisite"
+  }
+]

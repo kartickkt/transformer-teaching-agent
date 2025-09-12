@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Multi-task sequence to sequence learning",
+    "target": "machine translation tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Multi-task sequence to sequence learning",
+    "target": "Effective approaches to attention-based neural machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Multi-task sequence to sequence learning",
+    "target": "Neural machine translation of rare words with subword units",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-training",
+    "target": "Training",
+    "relation": "prerequisite"
+  }
+]

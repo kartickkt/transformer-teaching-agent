@@ -1,0 +1,27 @@
+[
+  {
+    "source": "statistical machine translation",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "statistical machine translation",
+    "target": "self-training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "statistical machine translation",
+    "target": "linear transformations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "statistical machine translation",
+    "target": "learned linear transformation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "statistical machine translation",
+    "target": "sequence transduction encoder",
+    "relation": "prerequisite"
+  }
+]

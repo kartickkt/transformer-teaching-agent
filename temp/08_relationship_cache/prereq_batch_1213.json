@@ -1,0 +1,17 @@
+[
+  {
+    "source": "embedding layers",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "pre-softmax",
+    "target": "known outputs",
+    "relation": "prerequisite"
+  }
+]

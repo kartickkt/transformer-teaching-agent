@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Multi-task sequence to sequence learning",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Multi-task sequence to sequence learning",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Multi-task sequence to sequence learning",
+    "target": "semi-supervised setting",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Multi-task sequence to sequence learning",
+    "target": "learning phrase representations",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "deep learning",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "Extended Neural GPU",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "RNN sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  }
+]

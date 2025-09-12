@@ -1,0 +1,22 @@
+[
+  {
+    "source": "sinusoidal version",
+    "target": "sinusoid",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sinusoidal version",
+    "target": "sine functions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sinusoidal version",
+    "target": "cosine functions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sinusoidal version",
+    "target": "sinusoidal positional encoding",
+    "relation": "prerequisite"
+  }
+]

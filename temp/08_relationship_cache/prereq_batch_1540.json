@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence transduction tasks",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction tasks",
+    "target": "Multi-task sequence to sequence learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction tasks",
+    "target": "sequence transduction models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction tasks",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction tasks",
+    "target": "transduction problems",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "gradients",
+    "target": "learned linear projections",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "gradients",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "gradients",
+    "target": "convolutional layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "gradients",
+    "target": "linear transformations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "gradients",
+    "target": "Gradient flow in recurrent nets",
+    "relation": "prerequisite"
+  }
+]

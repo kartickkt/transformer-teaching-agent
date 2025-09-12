@@ -1,0 +1,22 @@
+[
+  {
+    "source": "attention-based models",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention-based models",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention-based models",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention-based models",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  }
+]

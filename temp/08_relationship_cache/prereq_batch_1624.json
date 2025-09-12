@@ -1,0 +1,22 @@
+[
+  {
+    "source": "averaging attention-weighted positions",
+    "target": "distance between positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "averaging attention-weighted positions",
+    "target": "weight matrix",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "averaging attention-weighted positions",
+    "target": "Effective approaches to attention-based neural machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "intra-attention",
+    "target": "task-specific tuning",
+    "relation": "prerequisite"
+  }
+]

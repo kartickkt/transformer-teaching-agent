@@ -1,0 +1,17 @@
+[
+  {
+    "source": "point-wise feed-forward layer",
+    "target": "rnn encoder-decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise feed-forward layer",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise feed-forward layer",
+    "target": "Convolutional sequence to sequence learning",
+    "relation": "prerequisite"
+  }
+]

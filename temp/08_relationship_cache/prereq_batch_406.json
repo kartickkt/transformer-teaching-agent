@@ -1,0 +1,17 @@
+[
+  {
+    "source": "function",
+    "target": "linear function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "function",
+    "target": "sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "function",
+    "target": "tasks",
+    "relation": "prerequisite"
+  }
+]

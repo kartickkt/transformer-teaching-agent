@@ -1,0 +1,17 @@
+[
+  {
+    "source": "RNN sequence-to-sequence models",
+    "target": "machine translation tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "RNN sequence-to-sequence models",
+    "target": "Effective approaches to attention-based neural machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "RNN sequence-to-sequence models",
+    "target": "Neural machine translation of rare words with subword units",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "application",
+    "target": "evaluate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "application",
+    "target": "algorithms",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "application",
+    "target": "machine reading",
+    "relation": "prerequisite"
+  }
+]

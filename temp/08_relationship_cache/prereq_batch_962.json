@@ -1,0 +1,27 @@
+[
+  {
+    "source": "connected layers",
+    "target": "Extended Neural GPU",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "connected layers",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "connected layers",
+    "target": "Gradient flow in recurrent nets",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "connected layers",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "connected layers",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  }
+]

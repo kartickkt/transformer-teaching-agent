@@ -1,0 +1,12 @@
+[
+  {
+    "source": "connected layers",
+    "target": "previous layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "connected layers",
+    "target": "sub-layer input",
+    "relation": "prerequisite"
+  }
+]

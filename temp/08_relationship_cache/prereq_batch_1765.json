@@ -1,0 +1,27 @@
+[
+  {
+    "source": "attention heads",
+    "target": "parallel attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention heads",
+    "target": "restricted self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention heads",
+    "target": "attention distributions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention heads",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention heads",
+    "target": "local, restricted attention mechanisms",
+    "relation": "prerequisite"
+  }
+]

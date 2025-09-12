@@ -1,0 +1,22 @@
+[
+  {
+    "source": "values",
+    "target": "model variants",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "values",
+    "target": "representation dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "values",
+    "target": "dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dot products",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  }
+]

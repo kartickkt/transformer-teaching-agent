@@ -1,0 +1,22 @@
+[
+  {
+    "source": "fixed offset k",
+    "target": "distance between positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fixed offset k",
+    "target": "sinusoidal positional encoding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fixed offset k",
+    "target": "parameter-free position representation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fixed offset k",
+    "target": "sequence-aligned recurrence",
+    "relation": "prerequisite"
+  }
+]

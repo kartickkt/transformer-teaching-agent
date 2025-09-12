@@ -1,0 +1,27 @@
+[
+  {
+    "source": "point-wise",
+    "target": "computational efficiency",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise",
+    "target": "factorization tricks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise",
+    "target": "sequential computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise",
+    "target": "distance between positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise",
+    "target": "sequence-aligned recurrence",
+    "relation": "prerequisite"
+  }
+]

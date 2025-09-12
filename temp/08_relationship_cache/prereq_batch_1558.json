@@ -1,0 +1,22 @@
+[
+  {
+    "source": "big transformer model",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "big transformer model",
+    "target": "sequence transduction models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "big transformer model",
+    "target": "tensor2tensor",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "big transformer model",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  }
+]

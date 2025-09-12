@@ -1,0 +1,12 @@
+[
+  {
+    "source": "encoder self-attention",
+    "target": "RNN sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder self-attention",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  }
+]

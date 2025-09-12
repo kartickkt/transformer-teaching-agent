@@ -1,0 +1,12 @@
+[
+  {
+    "source": "learning rate",
+    "target": "hyperparameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning rate",
+    "target": "training time",
+    "relation": "prerequisite"
+  }
+]

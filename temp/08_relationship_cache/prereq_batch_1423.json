@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Learning Representations",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Learning Representations",
+    "target": "Convolutional sequence to sequence learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Learning Representations",
+    "target": "Deep residual learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Learning Representations",
+    "target": "International Conference on Learning Representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Learning Representations",
+    "target": "Multi-task sequence to sequence learning",
+    "relation": "prerequisite"
+  }
+]

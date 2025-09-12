@@ -1,0 +1,12 @@
+[
+  {
+    "source": "complex recurrent neural networks",
+    "target": "layer normalization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "complex recurrent neural networks",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  }
+]

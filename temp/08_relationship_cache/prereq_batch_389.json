@@ -1,0 +1,27 @@
+[
+  {
+    "source": "pos",
+    "target": "position",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "pos",
+    "target": "query",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "pos",
+    "target": "queries",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "pos",
+    "target": "values",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "pos",
+    "target": "heads",
+    "relation": "prerequisite"
+  }
+]

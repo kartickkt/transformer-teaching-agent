@@ -1,0 +1,7 @@
+[
+  {
+    "source": "deep reinforced model for abstractive summarization",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  }
+]

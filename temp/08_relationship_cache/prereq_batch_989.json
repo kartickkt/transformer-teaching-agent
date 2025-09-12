@@ -1,0 +1,17 @@
+[
+  {
+    "source": "embedding",
+    "target": "normalized",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding",
+    "target": "dropout",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding",
+    "target": "params",
+    "relation": "prerequisite"
+  }
+]

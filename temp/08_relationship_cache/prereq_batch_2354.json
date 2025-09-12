@@ -1,0 +1,22 @@
+[
+  {
+    "source": "base models",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "base models",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "base models",
+    "target": "Transformer models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "base models",
+    "target": "Transformer (base model)",
+    "relation": "prerequisite"
+  }
+]

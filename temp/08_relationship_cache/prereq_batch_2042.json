@@ -1,0 +1,22 @@
+[
+  {
+    "source": "computational complexity",
+    "target": "O(n/r)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational complexity",
+    "target": "O(logk(n))",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational complexity",
+    "target": "TFLOPS",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational complexity",
+    "target": "dimensionality",
+    "relation": "prerequisite"
+  }
+]

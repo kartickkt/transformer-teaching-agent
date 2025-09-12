@@ -1,0 +1,22 @@
+[
+  {
+    "source": "output embeddings",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output embeddings",
+    "target": "pre-softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output embeddings",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output embeddings",
+    "target": "point-wise feed-forward layer",
+    "relation": "prerequisite"
+  }
+]

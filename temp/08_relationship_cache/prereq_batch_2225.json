@@ -1,0 +1,17 @@
+[
+  {
+    "source": "model performance",
+    "target": "dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model performance",
+    "target": "vectors of dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model performance",
+    "target": "representation dimension",
+    "relation": "prerequisite"
+  }
+]

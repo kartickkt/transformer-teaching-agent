@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Grammar as a foreign language",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Grammar as a foreign language",
+    "target": "Recurrent Neural Network Grammar",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Grammar as a foreign language",
+    "target": "machine translation tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Grammar as a foreign language",
+    "target": "WMT 2014 English-to-German translation task",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Grammar as a foreign language",
+    "target": "translation quality",
+    "relation": "prerequisite"
+  }
+]

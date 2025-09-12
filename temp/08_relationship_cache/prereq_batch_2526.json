@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition",
+    "target": "convolutional neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition",
+    "target": "image recognition",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition",
+    "target": "International Conference on Learning Representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition",
+    "target": "31st Conference on Neural Information Processing Systems (NIPS 2017)",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "embedding",
+    "target": "representation dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding",
+    "target": "dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding",
+    "target": "layer types",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding",
+    "target": "models",
+    "relation": "prerequisite"
+  }
+]

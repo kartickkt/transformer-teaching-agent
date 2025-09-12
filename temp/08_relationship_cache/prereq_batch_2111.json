@@ -1,0 +1,27 @@
+[
+  {
+    "source": "TFLOPS",
+    "target": "tensorflow",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "TFLOPS",
+    "target": "tensor2tensor",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "TFLOPS",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "TFLOPS",
+    "target": "softmax function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "TFLOPS",
+    "target": "convolutions",
+    "relation": "prerequisite"
+  }
+]

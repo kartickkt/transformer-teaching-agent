@@ -1,0 +1,22 @@
+[
+  {
+    "source": "connected layers",
+    "target": "convolutions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "connected layers",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "connected layers",
+    "target": "end-to-end memory networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "connected layers",
+    "target": "continuous representations",
+    "relation": "prerequisite"
+  }
+]

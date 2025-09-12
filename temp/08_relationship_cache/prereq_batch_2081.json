@@ -1,0 +1,17 @@
+[
+  {
+    "source": "FLOPs",
+    "target": "convolutions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "FLOPs",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "FLOPs",
+    "target": "forward signals",
+    "relation": "prerequisite"
+  }
+]

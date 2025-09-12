@@ -1,0 +1,17 @@
+[
+  {
+    "source": "rnn encoder-decoder",
+    "target": "RNNs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "rnn encoder-decoder",
+    "target": "gated recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "rnn encoder-decoder",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  }
+]

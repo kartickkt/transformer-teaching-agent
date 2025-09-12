@@ -1,0 +1,27 @@
+[
+  {
+    "source": "params",
+    "target": "dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "params",
+    "target": "dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "params",
+    "target": "base models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "development set",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "development set",
+    "target": "dot products",
+    "relation": "prerequisite"
+  }
+]

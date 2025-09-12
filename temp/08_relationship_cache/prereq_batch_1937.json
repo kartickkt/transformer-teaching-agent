@@ -1,0 +1,27 @@
+[
+  {
+    "source": "N = 6 identical layers",
+    "target": "sub-layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "N = 6 identical layers",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "N = 6 identical layers",
+    "target": "parallel attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "N = 6 identical layers",
+    "target": "previous layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "N = 6 identical layers",
+    "target": "sub-layer input",
+    "relation": "prerequisite"
+  }
+]

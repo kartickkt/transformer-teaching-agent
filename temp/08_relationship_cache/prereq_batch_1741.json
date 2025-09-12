@@ -1,0 +1,17 @@
+[
+  {
+    "source": "restricted self-attention",
+    "target": "single attention head",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "restricted self-attention",
+    "target": "Attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "restricted self-attention",
+    "target": "attention heads",
+    "relation": "prerequisite"
+  }
+]

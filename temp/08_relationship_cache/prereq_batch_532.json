@@ -1,0 +1,12 @@
+[
+  {
+    "source": "input",
+    "target": "sub-layer input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "input length",
+    "relation": "prerequisite"
+  }
+]

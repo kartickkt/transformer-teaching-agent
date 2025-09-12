@@ -1,0 +1,27 @@
+[
+  {
+    "source": "gated recurrent neural networks",
+    "target": "Sequence to sequence learning with neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "gated recurrent neural networks",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent language models",
+    "target": "recurrence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent language models",
+    "target": "auto-regressive",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent language models",
+    "target": "backward signals",
+    "relation": "prerequisite"
+  }
+]

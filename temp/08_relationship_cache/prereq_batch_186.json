@@ -1,0 +1,17 @@
+[
+  {
+    "source": "predictions",
+    "target": "predicted next-token probabilities",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "predictions",
+    "target": "attention distributions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "predictions",
+    "target": "models",
+    "relation": "prerequisite"
+  }
+]

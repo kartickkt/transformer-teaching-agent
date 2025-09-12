@@ -1,0 +1,22 @@
+[
+  {
+    "source": "recurrent attention mechanism",
+    "target": "gated recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent attention mechanism",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent attention mechanism",
+    "target": "Recurrent Neural Network Grammar",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent attention mechanism",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  }
+]

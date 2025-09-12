@@ -1,0 +1,17 @@
+[
+  {
+    "source": "learned linear transformation",
+    "target": "feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned linear transformation",
+    "target": "learned linear projections",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned linear transformation",
+    "target": "Position-wise Feed-Forward Networks",
+    "relation": "prerequisite"
+  }
+]

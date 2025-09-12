@@ -1,0 +1,17 @@
+[
+  {
+    "source": "machine translation tasks",
+    "target": "English-to-German base translation model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "machine translation tasks",
+    "target": "statistical machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "machine translation tasks",
+    "target": "Effective approaches to attention-based neural machine translation",
+    "relation": "prerequisite"
+  }
+]

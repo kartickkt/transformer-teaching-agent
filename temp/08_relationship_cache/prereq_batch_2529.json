@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Gradient flow in recurrent nets",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Gradient flow in recurrent nets",
+    "target": "end-to-end memory networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Gradient flow in recurrent nets",
+    "target": "connected layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Gradient flow in recurrent nets",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Gradient flow in recurrent nets",
+    "target": "feed-forward network",
+    "relation": "prerequisite"
+  }
+]

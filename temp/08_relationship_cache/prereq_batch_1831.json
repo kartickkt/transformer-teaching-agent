@@ -1,0 +1,27 @@
+[
+  {
+    "source": "layer 5",
+    "target": "connected layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer 5",
+    "target": "layer normalization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer 5",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer 5",
+    "target": "single hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer 5",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  }
+]

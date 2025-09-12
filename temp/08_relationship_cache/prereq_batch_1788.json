@@ -1,0 +1,22 @@
+[
+  {
+    "source": "local, restricted attention mechanisms",
+    "target": "long short-term memory",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "local, restricted attention mechanisms",
+    "target": "intra-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "local, restricted attention mechanisms",
+    "target": "recurrent attention mechanism",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "local, restricted attention mechanisms",
+    "target": "sub-layers",
+    "relation": "prerequisite"
+  }
+]

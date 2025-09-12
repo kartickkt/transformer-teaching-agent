@@ -1,0 +1,12 @@
+[
+  {
+    "source": "forward signals",
+    "target": "backward signals",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "forward signals",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  }
+]

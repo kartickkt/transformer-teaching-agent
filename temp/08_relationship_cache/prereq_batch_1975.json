@@ -1,0 +1,22 @@
+[
+  {
+    "source": "2048",
+    "target": "1024",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "2048",
+    "target": "dmodel = 1024",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "2048",
+    "target": "16K tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "maximum path lengths",
+    "target": "long-range dependencies",
+    "relation": "prerequisite"
+  }
+]

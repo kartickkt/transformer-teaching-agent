@@ -1,0 +1,27 @@
+[
+  {
+    "source": "figures",
+    "target": "decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "figures",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "figures",
+    "target": "continuous representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "figures",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "figures",
+    "target": "softmax function",
+    "relation": "prerequisite"
+  }
+]

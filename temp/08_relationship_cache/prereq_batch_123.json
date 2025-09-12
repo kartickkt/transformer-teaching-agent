@@ -1,0 +1,27 @@
+[
+  {
+    "source": "symbol representations",
+    "target": "figures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "symbol representations",
+    "target": "ensembles",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "symbol representations",
+    "target": "visualizations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "symbol representations",
+    "target": "symbol positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "symbol representations",
+    "target": "representation of the sequence",
+    "relation": "prerequisite"
+  }
+]

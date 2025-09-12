@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence transduction encoder",
+    "target": "big transformer model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction encoder",
+    "target": "4-layer transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction encoder",
+    "target": "sequence lengths",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction encoder",
+    "target": "sequential computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction encoder",
+    "target": "matrix multiplication code",
+    "relation": "prerequisite"
+  }
+]

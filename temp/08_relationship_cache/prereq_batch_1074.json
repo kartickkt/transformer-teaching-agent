@@ -1,0 +1,27 @@
+[
+  {
+    "source": "single hidden layer",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single hidden layer",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single hidden layer",
+    "target": "Position-wise Feed-Forward Networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single hidden layer",
+    "target": "ReLU activation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single hidden layer",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  }
+]

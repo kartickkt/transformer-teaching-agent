@@ -1,0 +1,7 @@
+[
+  {
+    "source": "softmax function",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  }
+]

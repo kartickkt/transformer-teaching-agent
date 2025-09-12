@@ -1,0 +1,27 @@
+[
+  {
+    "source": "input for position t",
+    "target": "simple, position-",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input for position t",
+    "target": "position",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input for position t",
+    "target": "vectors",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input for position t",
+    "target": "P E(pos,2i)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input for position t",
+    "target": "relative positions",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "language modeling",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "Recurrent Neural Network Grammar",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  }
+]

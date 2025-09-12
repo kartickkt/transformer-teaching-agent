@@ -1,0 +1,7 @@
+[
+  {
+    "source": "word-piece",
+    "target": "byte-pair",
+    "relation": "prerequisite"
+  }
+]

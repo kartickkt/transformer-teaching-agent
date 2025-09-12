@@ -1,0 +1,22 @@
+[
+  {
+    "source": "number of operations",
+    "target": "queries",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "number of operations",
+    "target": "dot product",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "number of operations",
+    "target": "order of the sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "number of operations",
+    "target": "output positions",
+    "relation": "prerequisite"
+  }
+]

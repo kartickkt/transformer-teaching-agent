@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence",
+    "target": "vectors",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "queries",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "values",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "scaling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "mean",
+    "relation": "prerequisite"
+  }
+]

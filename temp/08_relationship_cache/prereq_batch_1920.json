@@ -1,0 +1,27 @@
+[
+  {
+    "source": "distance between positions",
+    "target": "fixed offset k",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "distance between positions",
+    "target": "path length between long-range dependencies in the network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "distance between positions",
+    "target": "length of the paths",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "number of operations",
+    "target": "output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "number of operations",
+    "target": "known outputs",
+    "relation": "prerequisite"
+  }
+]

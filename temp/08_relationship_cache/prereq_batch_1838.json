@@ -1,0 +1,27 @@
+[
+  {
+    "source": "parallelizable",
+    "target": "ConvS2S",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallelizable",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallelizable",
+    "target": "continuous representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallelizable",
+    "target": "layer normalization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallelizable",
+    "target": "softmax",
+    "relation": "prerequisite"
+  }
+]

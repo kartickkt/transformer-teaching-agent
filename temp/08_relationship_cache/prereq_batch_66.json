@@ -1,0 +1,22 @@
+[
+  {
+    "source": "hidden",
+    "target": "single hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden",
+    "target": "sub-layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  }
+]

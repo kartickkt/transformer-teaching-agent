@@ -1,0 +1,17 @@
+[
+  {
+    "source": "sequence",
+    "target": "train",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "dropout",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "residual",
+    "relation": "prerequisite"
+  }
+]

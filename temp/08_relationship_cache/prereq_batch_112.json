@@ -1,0 +1,27 @@
+[
+  {
+    "source": "dependencies",
+    "target": "base models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dependencies",
+    "target": "shared source-target vocabulary",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "effective resolution",
+    "target": "existing best results",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "effective resolution",
+    "target": "residual connection",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "effective resolution",
+    "target": "compatibility function",
+    "relation": "prerequisite"
+  }
+]

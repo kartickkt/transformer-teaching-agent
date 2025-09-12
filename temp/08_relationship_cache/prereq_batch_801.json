@@ -1,0 +1,17 @@
+[
+  {
+    "source": "encoder",
+    "target": "decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder",
+    "target": "convolutional neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder",
+    "target": "convolutions",
+    "relation": "prerequisite"
+  }
+]

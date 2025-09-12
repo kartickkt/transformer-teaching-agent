@@ -1,0 +1,27 @@
+[
+  {
+    "source": "matrix Q",
+    "target": "parameter matrices",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "matrix Q",
+    "target": "dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "matrix Q",
+    "target": "dimensionality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "matrix Q",
+    "target": "vectors of dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "matrix Q",
+    "target": "weight matrix",
+    "relation": "prerequisite"
+  }
+]

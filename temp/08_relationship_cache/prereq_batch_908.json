@@ -1,0 +1,27 @@
+[
+  {
+    "source": "hidden representations",
+    "target": "local, restricted attention mechanisms",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden representations",
+    "target": "parallelizable",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden representations",
+    "target": "memory constraints",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden representations",
+    "target": "space-efficient",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden representations",
+    "target": "models",
+    "relation": "prerequisite"
+  }
+]

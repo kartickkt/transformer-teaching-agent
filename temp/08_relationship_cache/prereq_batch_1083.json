@@ -1,0 +1,17 @@
+[
+  {
+    "source": "single hidden layer",
+    "target": "RNN sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single hidden layer",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single hidden layer",
+    "target": "Gradient flow in recurrent nets",
+    "relation": "prerequisite"
+  }
+]

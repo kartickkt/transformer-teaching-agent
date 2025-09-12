@@ -1,0 +1,22 @@
+[
+  {
+    "source": "training examples",
+    "target": "Training Data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training examples",
+    "target": "model performance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training examples",
+    "target": "state-of-the-art models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training examples",
+    "target": "training batch",
+    "relation": "prerequisite"
+  }
+]

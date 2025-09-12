@@ -1,0 +1,12 @@
+[
+  {
+    "source": "RNN sequence-to-sequence models",
+    "target": "sequence transduction models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "RNN sequence-to-sequence models",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  }
+]

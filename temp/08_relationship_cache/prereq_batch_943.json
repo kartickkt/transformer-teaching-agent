@@ -1,0 +1,22 @@
+[
+  {
+    "source": "continuous representations",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "continuous representations",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "continuous representations",
+    "target": "positional embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "continuous representations",
+    "target": "learning phrase representations",
+    "relation": "prerequisite"
+  }
+]

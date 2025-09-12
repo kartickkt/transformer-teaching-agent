@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Deep recurrent models",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Deep recurrent models",
+    "target": "end-to-end memory networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Deep recurrent models",
+    "target": "continuous representations",
+    "relation": "prerequisite"
+  }
+]

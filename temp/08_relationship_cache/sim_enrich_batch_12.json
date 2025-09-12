@@ -1,0 +1,27 @@
+[
+  {
+    "source": "parallelizable",
+    "target": "parallelization",
+    "relation": "application_of"
+  },
+  {
+    "source": "eight GPUs",
+    "target": "eight P100 GPUs",
+    "relation": "example_of"
+  },
+  {
+    "source": "eight GPUs",
+    "target": "number of GPUs",
+    "relation": "related_topic"
+  },
+  {
+    "source": "computation",
+    "target": "computation time",
+    "relation": "related_topic"
+  },
+  {
+    "source": "sequence lengths",
+    "target": "sequence length n",
+    "relation": "related_topic"
+  }
+]

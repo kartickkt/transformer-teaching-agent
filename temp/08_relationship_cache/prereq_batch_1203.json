@@ -1,0 +1,22 @@
+[
+  {
+    "source": "embedding layers",
+    "target": "decoder stacks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "recurrent layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "convolutional layer",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "phrase \u00e2\u20ac\u02dcmaking...more difficult\u00e2\u20ac\u2122",
+    "target": "structural challenges",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "phrase \u00e2\u20ac\u02dcmaking...more difficult\u00e2\u20ac\u2122",
+    "target": "theoretical complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "anaphora resolution",
+    "target": "effective resolution",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "anaphora resolution",
+    "target": "abstractive summarization",
+    "relation": "prerequisite"
+  }
+]

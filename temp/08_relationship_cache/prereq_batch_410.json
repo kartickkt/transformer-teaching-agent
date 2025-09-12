@@ -1,0 +1,22 @@
+[
+  {
+    "source": "function",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "function",
+    "target": "tensorflow",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "function",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "function",
+    "target": "Attention",
+    "relation": "prerequisite"
+  }
+]

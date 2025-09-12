@@ -1,0 +1,17 @@
+[
+  {
+    "source": "theoretical complexity",
+    "target": "algorithms",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "theoretical complexity",
+    "target": "stochastic optimization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "theoretical complexity",
+    "target": "over-fitting",
+    "relation": "prerequisite"
+  }
+]

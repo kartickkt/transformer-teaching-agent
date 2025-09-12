@@ -1,0 +1,27 @@
+[
+  {
+    "source": "tasks",
+    "target": "Training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "Hardware and Schedule",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "step time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "dropout",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "training time",
+    "relation": "prerequisite"
+  }
+]

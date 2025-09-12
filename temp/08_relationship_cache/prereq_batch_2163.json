@@ -1,0 +1,17 @@
+[
+  {
+    "source": "large training data",
+    "target": "state-of-the-art models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "large training data",
+    "target": "big models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "large training data",
+    "target": "single model",
+    "relation": "prerequisite"
+  }
+]

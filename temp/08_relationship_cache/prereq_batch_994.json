@@ -1,0 +1,17 @@
+[
+  {
+    "source": "embedding",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding",
+    "target": "positional embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding",
+    "target": "Positional Encoding",
+    "relation": "prerequisite"
+  }
+]

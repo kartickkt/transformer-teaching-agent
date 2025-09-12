@@ -1,0 +1,27 @@
+[
+  {
+    "source": "evaluate",
+    "target": "decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "evaluate",
+    "target": "efficient inference",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "evaluate",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "evaluate",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "evaluate",
+    "target": "Attention",
+    "relation": "prerequisite"
+  }
+]

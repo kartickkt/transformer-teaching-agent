@@ -1,0 +1,611 @@
+{
+  "tables": [],
+  "figures": [],
+  "network architecture": [],
+  "recurrence": [],
+  "quality": [],
+  "significantly": [],
+  "existing best results": [],
+  "ensembles": [],
+  "literature": [],
+  "visualizations": [
+    "Attention Visualizations"
+  ],
+  "cs.CL": [],
+  "symbol positions": [],
+  "hidden": [],
+  "previous hidden state ht−1": [],
+  "input for position t": [],
+  "sequential nature": [],
+  "batching": [],
+  "conditional computation": [],
+  "global dependencies": [],
+  "state of the art": [],
+  "dependencies": [],
+  "effective resolution": [],
+  "representation of the sequence": [],
+  "abstractive summarization": [],
+  "symbol representations": [],
+  "output": [],
+  "auto-regressive": [
+    "auto-regressive property"
+  ],
+  "point-wise": [],
+  "stack": [],
+  "simple, position-": [],
+  "residual connection": [
+    "residual connections"
+  ],
+  "LayerNorm": [],
+  "masking": [],
+  "predictions": [],
+  "position": [],
+  "known outputs": [],
+  "query": [],
+  "key-value pairs": [],
+  "vectors": [],
+  "weighted sum": [],
+  "compatibility function": [
+    "compatibility"
+  ],
+  "queries": [],
+  "keys": [],
+  "values": [
+    "value"
+  ],
+  "dot products": [],
+  "matrices K and V": [],
+  "scaling": [],
+  "gradients": [],
+  "independent random variables": [],
+  "mean": [],
+  "variance": [],
+  "dot product": [],
+  "Concat(head1, ..., headh)WO": [],
+  "Concat": [],
+  "head1": [],
+  "headh": [],
+  "heads": [],
+  "memory keys and values": [],
+  "leftward": [],
+  "information flow": [],
+  "illegal connections": [],
+  "fully": [],
+  "parameters": [],
+  "tokens": [],
+  "output tokens": [],
+  "weights": [],
+  "Sequential": [],
+  "order of the sequence": [],
+  "sine functions": [],
+  "cosine functions": [],
+  "frequencies": [],
+  "P E(pos,2i)": [
+    "P E(pos,2i+1)"
+  ],
+  "pos": [],
+  "sinusoid": [
+    "sinusoids"
+  ],
+  "wavelengths": [],
+  "geometric progression": [],
+  "function": [],
+  "relative positions": [],
+  "P Epos+k": [],
+  "linear function": [],
+  "P Epos": [],
+  "versions": [],
+  "sinusoidal version": [],
+  "convolu-": [],
+  "sequence": [],
+  "desiderata": [],
+  "backward signals": [],
+  "network": [],
+  "long-range dependencies": [
+    "long-distance dependencies",
+    "long-term dependencies"
+  ],
+  "input positions": [],
+  "output positions": [
+    "output position"
+  ],
+  "byte-pair": [
+    "byte-pair encoding"
+  ],
+  "tasks": [],
+  "input": [],
+  "dilated convolutions": [],
+  "Training": [],
+  "Hardware and Schedule": [],
+  "hyperparameters": [],
+  "step time": [],
+  "Regularization": [],
+  "normalized": [],
+  "dropout": [],
+  "Pdrop": [],
+  "label smoothing": [],
+  "ϵls": [],
+  "perplexity": [
+    "perplexities"
+  ],
+  "accuracy": [],
+  "dropout rate": [],
+  "beam search": [],
+  "training time": [],
+  "P_drop": [],
+  "train": [],
+  "params": [],
+  "development set": [],
+  "checkpoint averaging": [],
+  "attention key and value dimensions": [],
+  "sinusoidal positional encoding": [],
+  "structural challenges": [],
+  "state-of-the-art results": [],
+  "vocabulary": [],
+  "residual": [],
+  "inference": [],
+  "discriminative": [],
+  "generative": [],
+  "task-specific tuning": [],
+  "input and output modalities": [],
+  "images": [],
+  "audio": [],
+  "video": [],
+  "research goals": [],
+  "code": [],
+  "evaluate": [],
+  "comments": [],
+  "corrections": [],
+  "inspiration": [],
+  "References": [],
+  "align and translate": [],
+  "machine reading": [],
+  "Xception": [],
+  "empirical evaluation": [],
+  "Recognition": [],
+  "algorithms": [],
+  "linear time": [],
+  "stochastic optimization": [],
+  "parsing": [],
+  "tree annotation": [],
+  "ACL": [],
+  "preprint": [],
+  "inception architecture": [],
+  "CoRR": [],
+  "fast-forward connections": [],
+  "pages 434–443": [],
+  "laws": [
+    "Law"
+  ],
+  "registration": [],
+  "voting process": [],
+  "verb ‘making’": [],
+  "phrase ‘making...more difficult’": [],
+  "anaphora resolution": [],
+  "application": [],
+  "convolutional neural networks": [
+    "Convolutional",
+    "convolutional layers"
+  ],
+  "encoder": [],
+  "decoder": [],
+  "convolutions": [
+    "convolution"
+  ],
+  "limited training data": [],
+  "parameter-free position representation": [],
+  "tensor2tensor": [],
+  "efficient inference": [],
+  "encoder-decoder architectures": [
+    "encoder-decoder structure"
+  ],
+  "input sequences": [
+    "input sequence"
+  ],
+  "output sequences": [],
+  "ConvS2S": [],
+  "hidden representations": [],
+  "learning task-independent sentence representations": [],
+  "end-to-end memory networks": [
+    "End-to-end memory"
+  ],
+  "continuous representations": [],
+  "connected layers": [],
+  "fully connected feed-forward network": [
+    "connected feed-forward network"
+  ],
+  "layer normalization": [],
+  "embedding": [],
+  "encoder stack": [
+    "decoder stack"
+  ],
+  "output embeddings": [
+    "input embeddings",
+    "output embedding"
+  ],
+  "softmax function": [],
+  "softmax": [],
+  "feed-forward network": [
+    "connected feed-forward network"
+  ],
+  "single hidden layer": [],
+  "learned linear projections": [],
+  "encoder-decoder attention": [
+    "encoder-decoder attention mechanisms"
+  ],
+  "decoder layer": [],
+  "sequence-to-sequence models": [],
+  "Position-wise Feed-Forward Networks": [],
+  "ReLU activation": [],
+  "Embeddings": [],
+  "learned embeddings": [
+    "learned positional embeddings"
+  ],
+  "decoder output": [],
+  "predicted next-token probabilities": [],
+  "embedding layers": [],
+  "pre-softmax": [],
+  "Positional Encoding": [
+    "positional encodings"
+  ],
+  "decoder stacks": [],
+  "hidden layer": [],
+  "recurrent layer": [
+    "recurrent layers",
+    "recurrent network"
+  ],
+  "convolutional layer": [
+    "convolutional layers"
+  ],
+  "Separable convolutions": [
+    "depthwise separable convolutions",
+    "separable convolution"
+  ],
+  "point-wise feed-forward layer": [],
+  "learning rate": [
+    "learning rates"
+  ],
+  "Deep-Att + PosUnk Ensemble": [
+    "Deep-Att + PosUnk"
+  ],
+  "ConvS2S Ensemble": [],
+  "Residual Dropout": [],
+  "positional embedding": [],
+  "over-fitting": [
+    "overfitting"
+  ],
+  "semi-supervised setting": [
+    "semi-supervised"
+  ],
+  "previously reported ensembles": [],
+  "tensorflow": [],
+  "learning phrase representations": [],
+  "rnn encoder-decoder": [],
+  "deep learning": [],
+  "Convolutional sequence to sequence learning": [],
+  "Deep residual learning": [],
+  "image recognition": [],
+  "International Conference on Learning Representations": [],
+  "Learning Representations": [],
+  "Factorization tricks for LSTM networks": [],
+  "structured self-attentive sentence embedding": [],
+  "Multi-task sequence to sequence learning": [],
+  "self-training": [],
+  "deep reinforced model for abstractive summarization": [],
+  "sparsely-gated mixture-of-experts": [],
+  "Input-Input Layer5": [],
+  "sequence transduction models": [
+    "neural sequence transduction models",
+    "sequence transduction model"
+  ],
+  "Transformer": [],
+  "Transformer models": [],
+  "transduction problems": [],
+  "transduc": [],
+  "linear transformations": [
+    "linear transformation"
+  ],
+  "learned linear transformation": [],
+  "sequence transduction encoder": [
+    "sequence transduction decoder"
+  ],
+  "sequence transduction tasks": [],
+  "forward signals": [],
+  "Transformer (base model)": [],
+  "Transformer (big)": [],
+  "big transformer model": [],
+  "Transformer architecture": [],
+  "4-layer transformer": [],
+  "Attention Is All You Need": [],
+  "attention mechanism": [
+    "attention mechanisms"
+  ],
+  "self-attention": [],
+  "scaled dot-product attention": [],
+  "multi-head attention": [
+    "multi-head self-attention mechanism",
+    "multi-headed self-attention"
+  ],
+  "long short-term memory": [],
+  "averaging attention-weighted positions": [],
+  "intra-attention": [],
+  "recurrent attention mechanism": [],
+  "sub-layers": [
+    "Sublayer",
+    "attention sub-layers"
+  ],
+  "self-attention sub-layer": [
+    "self-attention layer",
+    "self-attention layers"
+  ],
+  "attention function": [],
+  "attention layers": [],
+  "Attention(Q, K, V)": [],
+  "additive attention": [],
+  "dot-product attention": [],
+  "single attention head": [
+    "single-head attention"
+  ],
+  "MultiHead": [],
+  "Attention": [],
+  "parallel attention layers": [],
+  "previous layer": [],
+  "restricted self-attention": [],
+  "attention distributions": [],
+  "sub-layer input": [],
+  "attention heads": [],
+  "multi-task": [],
+  "attention-based models": [],
+  "local, restricted attention mechanisms": [],
+  "active memory": [],
+  "Structured attention networks": [],
+  "decomposable attention model": [],
+  "encoder self-attention": [],
+  "layer 5": [
+    "layer 5 of 6",
+    "layer 6"
+  ],
+  "parallelizable": [],
+  "eight GPUs": [],
+  "original codebase": [],
+  "computation": [],
+  "computation time": [],
+  "parallelization": [],
+  "sequence lengths": [
+    "sequence length"
+  ],
+  "memory constraints": [],
+  "computational efficiency": [],
+  "factorization tricks": [],
+  "sequential computation": [],
+  "eight P100 GPUs": [
+    "8 NVIDIA P100 GPUs",
+    "P100 GPUs"
+  ],
+  "ByteNet": [],
+  "distance between positions": [],
+  "number of operations": [],
+  "sequence-aligned recurrence": [],
+  "N = 6 identical layers": [],
+  "scaling factor": [],
+  "theoretical complexity": [],
+  "space-efficient": [],
+  "matrix multiplication code": [],
+  "kernel size 1": [
+    "kernel size"
+  ],
+  "512": [
+    "256"
+  ],
+  "2048": [],
+  "maximum path lengths": [
+    "Maximum Path Length"
+  ],
+  "per-layer complexity": [],
+  "minimum number of sequential operations": [
+    "minimum number of sequential operations required"
+  ],
+  "size of the neighborhood": [],
+  "Layer Type Complexity": [],
+  "fixed offset k": [],
+  "total computational complexity per layer": [],
+  "amount of computation that can be parallelized": [],
+  "path length between long-range dependencies in the network": [],
+  "length of the paths": [],
+  "constant number of sequentially executed operations": [],
+  "O(n) sequential operations": [],
+  "computational complexity": [],
+  "sequence length n": [],
+  "computational performance": [],
+  "neighborhood of size r": [],
+  "O(n/r)": [
+    "O(n/k)"
+  ],
+  "kernel width k": [],
+  "O(logk(n))": [],
+  "37000 tokens": [],
+  "25000 source tokens": [],
+  "25000 target tokens": [],
+  "100,000 steps": [
+    "300,000 steps"
+  ],
+  "step_num−0.5": [],
+  "warmup_steps−1.5": [
+    "warmup_steps"
+  ],
+  "FLOPs": [],
+  "averaging the last 5 checkpoints": [],
+  "length penalty": [],
+  "maximum output length": [],
+  "input length": [
+    "input length + 300"
+  ],
+  "floating point operations": [],
+  "number of GPUs": [],
+  "sustained single-precision floating-point capacity": [],
+  "TFLOPS": [],
+  "1024": [
+    "4096"
+  ],
+  "attention key size dk": [],
+  "16K tokens": [
+    "32K tokens"
+  ],
+  "large inputs and outputs": [],
+  "models": [
+    "model"
+  ],
+  "training costs": [
+    "Training Cost"
+  ],
+  "best models": [
+    "best model"
+  ],
+  "large training data": [],
+  "model variants": [
+    "Model Variations"
+  ],
+  "sequence modeling": [],
+  "language modeling": [
+    "language modeling tasks",
+    "language models"
+  ],
+  "training examples": [],
+  "model performance": [],
+  "model architecture": [
+    "model architectures"
+  ],
+  "dimension dk": [],
+  "matrix Q": [],
+  "dmodel-dimensional keys": [],
+  "parameter matrices": [],
+  "dmodel": [],
+  "dimensionality": [],
+  "vectors of dimension dmodel": [],
+  "weight matrix": [],
+  "√dmodel": [],
+  "layer types": [],
+  "representation dimension": [
+    "representation dimensionality d"
+  ],
+  "dimension dmodel": [],
+  "dimension": [],
+  "state-of-the-art models": [],
+  "Training Data": [],
+  "training batch": [],
+  "base models": [
+    "base model"
+  ],
+  "big models": [
+    "bigger models"
+  ],
+  "single model": [],
+  "model quality": [],
+  "dmodel = 1024": [],
+  "Google Brain": [],
+  "Google Research": [],
+  "complex recurrent neural networks": [
+    "Recurrent neural networks",
+    "recurrent network"
+  ],
+  "RNNs": [],
+  "31st Conference on Neural Information Processing Systems (NIPS 2017)": [],
+  "arXiv:1706.03762v7": [
+    "arXiv preprint",
+    "arXiv preprint arXiv:1508.04025",
+    "arXiv preprint arXiv:1511.06114",
+    "arXiv preprint arXiv:1705.04304",
+    "arXiv:1508.07909",
+    "arXiv:1608.05859",
+    "arXiv:1609.08144",
+    "arXiv:1703.03130"
+  ],
+  "gated recurrent neural networks": [],
+  "recurrent language models": [
+    "recurrent models"
+  ],
+  "Extended Neural GPU": [
+    "Neural GPUs"
+  ],
+  "Recurrent": [],
+  "GNMT + RL": [
+    "GNMT + RL Ensemble"
+  ],
+  "RNN sequence-to-sequence models": [],
+  "Recurrent Neural Network Grammar": [
+    "Recurrent neural network grammars"
+  ],
+  "neural machine translation architectures": [
+    "Neural machine translation"
+  ],
+  "Long short-term memory-networks": [],
+  "NAACL": [],
+  "arXiv": [
+    "arXiv preprint"
+  ],
+  "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition": [],
+  "Gradient flow in recurrent nets": [],
+  "Neural computation": [],
+  "Advances in Neural Information Processing Systems": [
+    "Advances in Neural Information Processing Systems 28"
+  ],
+  "Outrageously large neural networks": [],
+  "neural networks": [],
+  "Journal of Machine Learning Research": [],
+  "Sequence to sequence learning with neural networks": [],
+  "computer vision": [],
+  "Deep recurrent models": [],
+  "machine translation tasks": [
+    "machine translation",
+    "machine translations"
+  ],
+  "WMT 2014 English-to-German translation task": [
+    "WMT 2014 English-German dataset",
+    "WMT 2014 English-to-German"
+  ],
+  "28.4 BLEU": [
+    "41.8 BLEU score",
+    "state-of-the-art BLEU score of 28.4"
+  ],
+  "WMT 2014 English-to-French translation task": [
+    "WMT 2014 English-to-French"
+  ],
+  "English constituency parsing": [],
+  "translation quality": [],
+  "reading comprehension": [],
+  "textual entailment": [],
+  "simple-language question answering": [],
+  "sentence representations": [],
+  "word-piece": [],
+  "4.5 million sentence pairs": [],
+  "shared source-target vocabulary": [],
+  "2014 English-French dataset": [],
+  "36M sentences": [],
+  "32000 word-piece vocabulary": [],
+  "sentence pairs": [],
+  "English-to-German": [
+    "English-to-German translation"
+  ],
+  "English-to-French": [],
+  "per-wordpiece": [],
+  "per-word perplexities": [],
+  "Penn Treebank": [],
+  "BerkleyParser corpora": [],
+  "17M sentences": [],
+  "English-to-German base translation model": [],
+  "Parser Training": [],
+  "statistical machine translation": [],
+  "Self-training PCFG grammars with latent annotations across languages": [],
+  "2009 Conference on Empirical Methods in Natural Language Processing": [],
+  "Effective approaches to attention-based neural machine translation": [],
+  "Computational linguistics": [],
+  "Human Language Technology Conference": [],
+  "Empirical Methods in Natural Language Processing": [],
+  "21st International Conference on Computational Linguistics": [],
+  "Neural machine translation of rare words with subword units": [],
+  "Grammar as a foreign language": [],
+  "Google’s neural machine translation system": [],
+  "human and machine translation": [],
+  "fast and accurate shift-reduce constituent parsing": [],
+  "Proceedings of the 51st Annual Meeting of the ACL": []
+}

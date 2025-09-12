@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence-aligned recurrence",
+    "target": "Recurrent",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-aligned recurrence",
+    "target": "Recurrent Neural Network Grammar",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-aligned recurrence",
+    "target": "Gradient flow in recurrent nets",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-aligned recurrence",
+    "target": "Sequence to sequence learning with neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "N = 6 identical layers",
+    "target": "LayerNorm",
+    "relation": "prerequisite"
+  }
+]

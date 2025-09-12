@@ -1,0 +1,27 @@
+[
+  {
+    "source": "known outputs",
+    "target": "maximum output length",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "known outputs",
+    "target": "large inputs and outputs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "query",
+    "target": "tables",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "query",
+    "target": "figures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "query",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  }
+]

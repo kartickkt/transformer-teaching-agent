@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Learning Representations",
+    "target": "ReLU activation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Learning Representations",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Learning Representations",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Learning Representations",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Learning Representations",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  }
+]

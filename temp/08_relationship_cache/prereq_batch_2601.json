@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Deep recurrent models",
+    "target": "Learning Representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Deep recurrent models",
+    "target": "Factorization tricks for LSTM networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Deep recurrent models",
+    "target": "Multi-task sequence to sequence learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Deep recurrent models",
+    "target": "self-training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Deep recurrent models",
+    "target": "deep reinforced model for abstractive summarization",
+    "relation": "prerequisite"
+  }
+]

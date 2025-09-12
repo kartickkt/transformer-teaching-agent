@@ -1,0 +1,22 @@
+[
+  {
+    "source": "independent random variables",
+    "target": "efficient inference",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "independent random variables",
+    "target": "sparsely-gated mixture-of-experts",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "independent random variables",
+    "target": "parameter matrices",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "independent random variables",
+    "target": "single model",
+    "relation": "prerequisite"
+  }
+]

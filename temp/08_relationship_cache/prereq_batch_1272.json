@@ -1,0 +1,27 @@
+[
+  {
+    "source": "point-wise feed-forward layer",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise feed-forward layer",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise feed-forward layer",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise feed-forward layer",
+    "target": "softmax function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise feed-forward layer",
+    "target": "softmax",
+    "relation": "prerequisite"
+  }
+]

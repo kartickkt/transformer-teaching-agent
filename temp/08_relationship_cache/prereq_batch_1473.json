@@ -1,0 +1,12 @@
+[
+  {
+    "source": "sparsely-gated mixture-of-experts",
+    "target": "ConvS2S Ensemble",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sparsely-gated mixture-of-experts",
+    "target": "deep reinforced model for abstractive summarization",
+    "relation": "prerequisite"
+  }
+]

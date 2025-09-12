@@ -1,0 +1,22 @@
+[
+  {
+    "source": "minimum number of sequential operations",
+    "target": "O(n/r)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "minimum number of sequential operations",
+    "target": "O(logk(n))",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "size of the neighborhood",
+    "target": "distance between positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "size of the neighborhood",
+    "target": "scaling factor",
+    "relation": "prerequisite"
+  }
+]

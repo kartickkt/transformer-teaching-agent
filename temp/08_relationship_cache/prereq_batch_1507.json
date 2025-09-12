@@ -1,0 +1,7 @@
+[
+  {
+    "source": "Transformer models",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  }
+]

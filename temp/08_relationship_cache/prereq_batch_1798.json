@@ -1,0 +1,27 @@
+[
+  {
+    "source": "active memory",
+    "target": "multi-task",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "active memory",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "active memory",
+    "target": "local, restricted attention mechanisms",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "active memory",
+    "target": "Structured attention networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "active memory",
+    "target": "decomposable attention model",
+    "relation": "prerequisite"
+  }
+]

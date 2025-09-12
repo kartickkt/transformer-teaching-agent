@@ -1,0 +1,22 @@
+[
+  {
+    "source": "model architecture",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model architecture",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model architecture",
+    "target": "end-to-end memory networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model architecture",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  }
+]

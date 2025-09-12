@@ -1,0 +1,22 @@
+[
+  {
+    "source": "output",
+    "target": "mean",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output",
+    "target": "dot products",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output",
+    "target": "dot product",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output",
+    "target": "Concat",
+    "relation": "prerequisite"
+  }
+]

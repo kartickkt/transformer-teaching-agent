@@ -1,0 +1,27 @@
+[
+  {
+    "source": "normalized",
+    "target": "tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "normalized",
+    "target": "weights",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "normalized",
+    "target": "function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "normalized",
+    "target": "relative positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "normalized",
+    "target": "linear function",
+    "relation": "prerequisite"
+  }
+]

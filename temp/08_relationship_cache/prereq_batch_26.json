@@ -1,0 +1,22 @@
+[
+  {
+    "source": "network architecture",
+    "target": "per-layer complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "network architecture",
+    "target": "Layer Type Complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "network architecture",
+    "target": "model architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "network architecture",
+    "target": "layer types",
+    "relation": "prerequisite"
+  }
+]

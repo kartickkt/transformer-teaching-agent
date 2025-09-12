@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Attention",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention",
+    "target": "position",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention",
+    "target": "queries",
+    "relation": "prerequisite"
+  }
+]

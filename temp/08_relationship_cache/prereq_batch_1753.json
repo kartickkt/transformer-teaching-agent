@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sub-layer input",
+    "target": "connected layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layer input",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layer input",
+    "target": "feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layer input",
+    "target": "single hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layer input",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  }
+]

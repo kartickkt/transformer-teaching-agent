@@ -1,0 +1,27 @@
+[
+  {
+    "source": "dependencies",
+    "target": "long-range dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dependencies",
+    "target": "tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dependencies",
+    "target": "input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dependencies",
+    "target": "hyperparameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dependencies",
+    "target": "normalized",
+    "relation": "prerequisite"
+  }
+]

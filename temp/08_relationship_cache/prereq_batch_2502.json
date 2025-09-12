@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Long short-term memory-networks",
+    "target": "network architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Long short-term memory-networks",
+    "target": "memory keys and values",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Long short-term memory-networks",
+    "target": "long-range dependencies",
+    "relation": "prerequisite"
+  }
+]

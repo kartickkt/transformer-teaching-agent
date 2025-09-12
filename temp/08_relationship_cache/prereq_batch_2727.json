@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Computational linguistics",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Computational linguistics",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Computational linguistics",
+    "target": "Recurrent Neural Network Grammar",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Computational linguistics",
+    "target": "Neural computation",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "parallelization",
+    "target": "computational performance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallelization",
+    "target": "number of GPUs",
+    "relation": "prerequisite"
+  }
+]

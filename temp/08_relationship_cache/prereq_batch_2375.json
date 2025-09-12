@@ -1,0 +1,7 @@
+[
+  {
+    "source": "single model",
+    "target": "model quality",
+    "relation": "prerequisite"
+  }
+]

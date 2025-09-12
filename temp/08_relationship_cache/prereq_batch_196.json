@@ -1,0 +1,27 @@
+[
+  {
+    "source": "known outputs",
+    "target": "input and output modalities",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "known outputs",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "known outputs",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "known outputs",
+    "target": "decoder output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "known outputs",
+    "target": "pre-softmax",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "step time",
+    "target": "Sequential",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "step time",
+    "target": "sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "step time",
+    "target": "tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "step time",
+    "target": "training time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "step time",
+    "target": "task-specific tuning",
+    "relation": "prerequisite"
+  }
+]

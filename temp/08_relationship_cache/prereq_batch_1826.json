@@ -1,0 +1,27 @@
+[
+  {
+    "source": "encoder self-attention",
+    "target": "attention distributions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder self-attention",
+    "target": "attention heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder self-attention",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder self-attention",
+    "target": "local, restricted attention mechanisms",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder self-attention",
+    "target": "active memory",
+    "relation": "prerequisite"
+  }
+]

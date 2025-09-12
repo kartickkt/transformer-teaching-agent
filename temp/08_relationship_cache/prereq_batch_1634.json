@@ -1,0 +1,12 @@
+[
+  {
+    "source": "recurrent attention mechanism",
+    "target": "attention mechanism",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent attention mechanism",
+    "target": "long short-term memory",
+    "relation": "prerequisite"
+  }
+]

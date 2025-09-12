@@ -1,0 +1,22 @@
+[
+  {
+    "source": "input for position t",
+    "target": "Input-Input Layer5",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input for position t",
+    "target": "sub-layer input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input for position t",
+    "target": "distance between positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input for position t",
+    "target": "fixed offset k",
+    "relation": "prerequisite"
+  }
+]

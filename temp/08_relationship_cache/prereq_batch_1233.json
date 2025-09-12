@@ -1,0 +1,22 @@
+[
+  {
+    "source": "hidden layer",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden layer",
+    "target": "layer normalization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden layer",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden layer",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  }
+]

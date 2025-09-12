@@ -1,0 +1,27 @@
+[
+  {
+    "source": "symbol positions",
+    "target": "images",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "symbol positions",
+    "target": "code",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "symbol positions",
+    "target": "Recognition",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "symbol positions",
+    "target": "parameter-free position representation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "symbol positions",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "embedding layers",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  }
+]

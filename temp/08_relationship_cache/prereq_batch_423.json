@@ -1,0 +1,17 @@
+[
+  {
+    "source": "P Epos+k",
+    "target": "P Epos",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "P Epos+k",
+    "target": "fixed offset k",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "P Epos+k",
+    "target": "O(logk(n))",
+    "relation": "prerequisite"
+  }
+]

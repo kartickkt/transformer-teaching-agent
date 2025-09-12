@@ -1,0 +1,27 @@
+[
+  {
+    "source": "normalized",
+    "target": "queries",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "normalized",
+    "target": "values",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "normalized",
+    "target": "scaling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "normalized",
+    "target": "mean",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "normalized",
+    "target": "parameters",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "layer 5",
+    "target": "Layer Type Complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer 5",
+    "target": "total computational complexity per layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer 5",
+    "target": "FLOPs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer 5",
+    "target": "layer types",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallelizable",
+    "target": "batching",
+    "relation": "prerequisite"
+  }
+]

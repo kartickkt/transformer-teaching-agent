@@ -1,0 +1,22 @@
+[
+  {
+    "source": "averaging attention-weighted positions",
+    "target": "positional embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "averaging attention-weighted positions",
+    "target": "Attention Is All You Need",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "averaging attention-weighted positions",
+    "target": "attention mechanism",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "averaging attention-weighted positions",
+    "target": "scaled dot-product attention",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Residual Dropout",
+    "target": "dropout",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Residual Dropout",
+    "target": "Pdrop",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Residual Dropout",
+    "target": "dropout rate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Residual Dropout",
+    "target": "P_drop",
+    "relation": "prerequisite"
+  }
+]

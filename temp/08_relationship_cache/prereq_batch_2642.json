@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sentence representations",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sentence representations",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sentence representations",
+    "target": "textual entailment",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sentence representations",
+    "target": "simple-language question answering",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sentence representations",
+    "target": "4.5 million sentence pairs",
+    "relation": "prerequisite"
+  }
+]

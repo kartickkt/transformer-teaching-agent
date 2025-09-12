@@ -1,0 +1,12 @@
+[
+  {
+    "source": "heads",
+    "target": "attention heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "heads",
+    "target": "dimension",
+    "relation": "prerequisite"
+  }
+]

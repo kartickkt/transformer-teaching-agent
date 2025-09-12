@@ -1,0 +1,27 @@
+[
+  {
+    "source": "input",
+    "target": "decoder output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "Input-Input Layer5",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "sequence transduction encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "Attention",
+    "relation": "prerequisite"
+  }
+]

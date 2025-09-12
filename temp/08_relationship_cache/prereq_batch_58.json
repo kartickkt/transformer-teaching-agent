@@ -1,0 +1,27 @@
+[
+  {
+    "source": "symbol positions",
+    "target": "sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "symbol positions",
+    "target": "backward signals",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "symbol positions",
+    "target": "input positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "symbol positions",
+    "target": "output positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "symbol positions",
+    "target": "sinusoidal positional encoding",
+    "relation": "prerequisite"
+  }
+]

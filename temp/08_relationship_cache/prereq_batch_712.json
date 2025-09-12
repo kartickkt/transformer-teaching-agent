@@ -1,0 +1,27 @@
+[
+  {
+    "source": "References",
+    "target": "model variants",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "References",
+    "target": "model architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "References",
+    "target": "base models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "References",
+    "target": "Penn Treebank",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "align and translate",
+    "target": "simple, position-",
+    "relation": "prerequisite"
+  }
+]

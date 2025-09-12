@@ -1,0 +1,12 @@
+[
+  {
+    "source": "ByteNet",
+    "target": "byte-pair",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ByteNet",
+    "target": "input length",
+    "relation": "prerequisite"
+  }
+]

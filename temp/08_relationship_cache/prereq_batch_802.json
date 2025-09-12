@@ -1,0 +1,22 @@
+[
+  {
+    "source": "encoder",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder",
+    "target": "end-to-end memory networks",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "learned embeddings",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned embeddings",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned embeddings",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned embeddings",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned embeddings",
+    "target": "feed-forward network",
+    "relation": "prerequisite"
+  }
+]

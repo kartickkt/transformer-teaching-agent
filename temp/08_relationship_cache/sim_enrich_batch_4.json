@@ -1,0 +1,27 @@
+[
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "learning phrase representations",
+    "relation": "related_topic"
+  },
+  {
+    "source": "end-to-end memory networks",
+    "target": "Long short-term memory-networks",
+    "relation": "related_topic"
+  },
+  {
+    "source": "connected layers",
+    "target": "embedding layers",
+    "relation": "related_topic"
+  },
+  {
+    "source": "connected layers",
+    "target": "hidden layer",
+    "relation": "related_topic"
+  },
+  {
+    "source": "connected layers",
+    "target": "sub-layers",
+    "relation": "related_topic"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "convolutions",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutions",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  }
+]

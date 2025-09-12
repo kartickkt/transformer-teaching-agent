@@ -1,0 +1,12 @@
+[
+  {
+    "source": "learned linear projections",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned linear projections",
+    "target": "layer normalization",
+    "relation": "prerequisite"
+  }
+]

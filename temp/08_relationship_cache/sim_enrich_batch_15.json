@@ -1,0 +1,27 @@
+[
+  {
+    "source": "size of the neighborhood",
+    "target": "neighborhood of size r",
+    "relation": "example_of"
+  },
+  {
+    "source": "Layer Type Complexity",
+    "target": "layer types",
+    "relation": "related_topic"
+  },
+  {
+    "source": "computational complexity",
+    "target": "computational performance",
+    "relation": "related_topic"
+  },
+  {
+    "source": "37000 tokens",
+    "target": "25000 source tokens",
+    "relation": "contrasts_with"
+  },
+  {
+    "source": "37000 tokens",
+    "target": "25000 target tokens",
+    "relation": "contrasts_with"
+  }
+]

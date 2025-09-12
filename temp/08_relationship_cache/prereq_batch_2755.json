@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Google\u00e2\u20ac\u2122s neural machine translation system",
+    "target": "GNMT + RL",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Google\u00e2\u20ac\u2122s neural machine translation system",
+    "target": "Recurrent Neural Network Grammar",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Google\u00e2\u20ac\u2122s neural machine translation system",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Google\u00e2\u20ac\u2122s neural machine translation system",
+    "target": "Neural computation",
+    "relation": "prerequisite"
+  }
+]

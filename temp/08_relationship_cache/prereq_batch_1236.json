@@ -1,0 +1,27 @@
+[
+  {
+    "source": "hidden layer",
+    "target": "decoder output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden layer",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden layer",
+    "target": "pre-softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden layer",
+    "target": "decoder stacks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden layer",
+    "target": "recurrent layer",
+    "relation": "prerequisite"
+  }
+]

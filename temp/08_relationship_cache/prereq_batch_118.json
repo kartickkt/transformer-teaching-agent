@@ -1,0 +1,27 @@
+[
+  {
+    "source": "representation of the sequence",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation of the sequence",
+    "target": "learning phrase representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation of the sequence",
+    "target": "Convolutional sequence to sequence learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation of the sequence",
+    "target": "Multi-task sequence to sequence learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation of the sequence",
+    "target": "sequence transduction encoder",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "decoder",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder",
+    "target": "decoder output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder",
+    "target": "decoder stacks",
+    "relation": "prerequisite"
+  }
+]

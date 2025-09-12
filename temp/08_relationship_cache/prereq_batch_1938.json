@@ -1,0 +1,27 @@
+[
+  {
+    "source": "N = 6 identical layers",
+    "target": "layer 5",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "N = 6 identical layers",
+    "target": "per-layer complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "N = 6 identical layers",
+    "target": "Layer Type Complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "N = 6 identical layers",
+    "target": "total computational complexity per layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "N = 6 identical layers",
+    "target": "sequence length n",
+    "relation": "prerequisite"
+  }
+]

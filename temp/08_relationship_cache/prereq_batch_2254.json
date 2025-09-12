@@ -1,0 +1,17 @@
+[
+  {
+    "source": "parameter matrices",
+    "target": "tensor2tensor",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameter matrices",
+    "target": "learned linear projections",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameter matrices",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  }
+]

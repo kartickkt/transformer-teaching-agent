@@ -1,0 +1,27 @@
+[
+  {
+    "source": "efficient inference",
+    "target": "existing best results",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "efficient inference",
+    "target": "conditional computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "efficient inference",
+    "target": "predictions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "efficient inference",
+    "target": "queries",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "efficient inference",
+    "target": "independent random variables",
+    "relation": "prerequisite"
+  }
+]

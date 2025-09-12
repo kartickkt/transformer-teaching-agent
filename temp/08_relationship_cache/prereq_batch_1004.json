@@ -1,0 +1,12 @@
+[
+  {
+    "source": "encoder stack",
+    "target": "decoder stacks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder stack",
+    "target": "Positional Encoding",
+    "relation": "prerequisite"
+  }
+]

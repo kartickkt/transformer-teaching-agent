@@ -1,0 +1,17 @@
+[
+  {
+    "source": "linear transformations",
+    "target": "learned linear transformation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear transformations",
+    "target": "big transformer model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear transformations",
+    "target": "scaling factor",
+    "relation": "prerequisite"
+  }
+]

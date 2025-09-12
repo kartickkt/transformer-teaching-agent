@@ -1,0 +1,12 @@
+[
+  {
+    "source": "positional embedding",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "positional embedding",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  }
+]

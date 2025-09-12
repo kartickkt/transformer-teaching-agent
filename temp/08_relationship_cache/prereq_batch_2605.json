@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Deep recurrent models",
+    "target": "RNN sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Deep recurrent models",
+    "target": "Recurrent Neural Network Grammar",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Deep recurrent models",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  }
+]

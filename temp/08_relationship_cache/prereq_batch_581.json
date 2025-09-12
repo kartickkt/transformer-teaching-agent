@@ -1,0 +1,12 @@
+[
+  {
+    "source": "accuracy",
+    "target": "quality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "accuracy",
+    "target": "predictions",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "computation",
+    "target": "point-wise",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computation",
+    "target": "weighted sum",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computation",
+    "target": "dot product",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computation",
+    "target": "cosine functions",
+    "relation": "prerequisite"
+  }
+]

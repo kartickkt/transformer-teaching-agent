@@ -1,0 +1,12 @@
+[
+  {
+    "source": "parameters",
+    "target": "hyperparameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameters",
+    "target": "Training",
+    "relation": "prerequisite"
+  }
+]

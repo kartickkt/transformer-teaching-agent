@@ -1,0 +1,17 @@
+[
+  {
+    "source": "comments",
+    "target": "output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "comments",
+    "target": "queries",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "comments",
+    "target": "tokens",
+    "relation": "prerequisite"
+  }
+]

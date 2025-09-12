@@ -1,0 +1,22 @@
+[
+  {
+    "source": "pre-softmax",
+    "target": "forward signals",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "pre-softmax",
+    "target": "scaled dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Positional Encoding",
+    "target": "symbol positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Positional Encoding",
+    "target": "input for position t",
+    "relation": "prerequisite"
+  }
+]

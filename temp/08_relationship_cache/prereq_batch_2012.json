@@ -1,0 +1,7 @@
+[
+  {
+    "source": "amount of computation that can be parallelized",
+    "target": "conditional computation",
+    "relation": "prerequisite"
+  }
+]

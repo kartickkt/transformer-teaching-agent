@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Sequential",
+    "target": "tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequential",
+    "target": "input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequential",
+    "target": "step time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequential",
+    "target": "dropout",
+    "relation": "prerequisite"
+  }
+]

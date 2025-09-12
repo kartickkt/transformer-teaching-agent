@@ -1,0 +1,27 @@
+[
+  {
+    "source": "model performance",
+    "target": "tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model performance",
+    "target": "hyperparameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model performance",
+    "target": "train",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model performance",
+    "target": "params",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model performance",
+    "target": "development set",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "input",
+    "target": "development set",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "input and output modalities",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "images",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "audio",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "video",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "dimension dmodel",
+    "target": "kernel width k",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension dmodel",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension dmodel",
+    "target": "best models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension dmodel",
+    "target": "model variants",
+    "relation": "prerequisite"
+  }
+]

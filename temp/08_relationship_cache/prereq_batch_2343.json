@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Training Data",
+    "target": "development set",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Training Data",
+    "target": "task-specific tuning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Training Data",
+    "target": "machine reading",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Training Data",
+    "target": "limited training data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Training Data",
+    "target": "learning rate",
+    "relation": "prerequisite"
+  }
+]

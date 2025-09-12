@@ -1,0 +1,12 @@
+[
+  {
+    "source": "encoder-decoder architectures",
+    "target": "RNN sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder architectures",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  }
+]

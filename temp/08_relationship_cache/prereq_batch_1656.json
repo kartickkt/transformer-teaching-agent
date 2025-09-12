@@ -1,0 +1,7 @@
+[
+  {
+    "source": "self-attention sub-layer",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "learned linear projections",
+    "target": "dmodel-dimensional keys",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned linear projections",
+    "target": "parameter matrices",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned linear projections",
+    "target": "vectors of dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned linear projections",
+    "target": "layer types",
+    "relation": "prerequisite"
+  }
+]

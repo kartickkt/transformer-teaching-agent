@@ -1,0 +1,17 @@
+[
+  {
+    "source": "4-layer transformer",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "4-layer transformer",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "4-layer transformer",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "sequence",
+    "target": "code",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "evaluate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "algorithms",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "linear time",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "training examples",
+    "target": "Training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training examples",
+    "target": "training time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training examples",
+    "target": "train",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training examples",
+    "target": "development set",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training examples",
+    "target": "task-specific tuning",
+    "relation": "prerequisite"
+  }
+]

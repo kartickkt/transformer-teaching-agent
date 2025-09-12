@@ -1,0 +1,27 @@
+[
+  {
+    "source": "single model",
+    "target": "big transformer model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single model",
+    "target": "single attention head",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single model",
+    "target": "MultiHead",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single model",
+    "target": "multi-task",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single model",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  }
+]

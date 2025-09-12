@@ -1,0 +1,27 @@
+[
+  {
+    "source": "embedding",
+    "target": "input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding",
+    "target": "sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding",
+    "target": "network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding",
+    "target": "input positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding",
+    "target": "tasks",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "input sequences",
+    "target": "sub-layer input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input sequences",
+    "target": "sequence lengths",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input sequences",
+    "target": "sequential computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input sequences",
+    "target": "sequence-aligned recurrence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input sequences",
+    "target": "minimum number of sequential operations",
+    "relation": "prerequisite"
+  }
+]

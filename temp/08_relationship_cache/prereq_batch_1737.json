@@ -1,0 +1,17 @@
+[
+  {
+    "source": "restricted self-attention",
+    "target": "task-specific tuning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "restricted self-attention",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "restricted self-attention",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  }
+]

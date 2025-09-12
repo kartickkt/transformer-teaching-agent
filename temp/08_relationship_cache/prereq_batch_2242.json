@@ -1,0 +1,27 @@
+[
+  {
+    "source": "matrix Q",
+    "target": "representation dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "matrix Q",
+    "target": "dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "matrix Q",
+    "target": "dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "matrix Q",
+    "target": "base models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "matrix Q",
+    "target": "single model",
+    "relation": "prerequisite"
+  }
+]

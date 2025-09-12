@@ -1,0 +1,22 @@
+[
+  {
+    "source": "information flow",
+    "target": "FLOPs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "illegal connections",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "illegal connections",
+    "target": "residual connection",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "illegal connections",
+    "target": "queries",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "dot-product attention",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dot-product attention",
+    "target": "attention key size dk",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dot-product attention",
+    "target": "dmodel-dimensional keys",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dot-product attention",
+    "target": "parameter matrices",
+    "relation": "prerequisite"
+  }
+]

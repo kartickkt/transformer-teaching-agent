@@ -1,0 +1,22 @@
+[
+  {
+    "source": "queries",
+    "target": "tables",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "queries",
+    "target": "figures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "queries",
+    "target": "quality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "queries",
+    "target": "existing best results",
+    "relation": "prerequisite"
+  }
+]

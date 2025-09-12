@@ -1,0 +1,27 @@
+[
+  {
+    "source": "RNNs",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "RNNs",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "RNNs",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "RNNs",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "RNNs",
+    "target": "recurrent layer",
+    "relation": "prerequisite"
+  }
+]

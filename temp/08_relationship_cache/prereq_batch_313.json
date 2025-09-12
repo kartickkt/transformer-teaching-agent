@@ -1,0 +1,12 @@
+[
+  {
+    "source": "memory keys and values",
+    "target": "key-value pairs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "memory keys and values",
+    "target": "keys",
+    "relation": "prerequisite"
+  }
+]

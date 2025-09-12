@@ -1,0 +1,12 @@
+[
+  {
+    "source": "dropout",
+    "target": "function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dropout",
+    "target": "network",
+    "relation": "prerequisite"
+  }
+]

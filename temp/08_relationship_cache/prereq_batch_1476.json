@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sparsely-gated mixture-of-experts",
+    "target": "gated recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sparsely-gated mixture-of-experts",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sparsely-gated mixture-of-experts",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Input-Input Layer5",
+    "target": "input for position t",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Input-Input Layer5",
+    "target": "information flow",
+    "relation": "prerequisite"
+  }
+]

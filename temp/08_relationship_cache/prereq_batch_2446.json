@@ -1,0 +1,17 @@
+[
+  {
+    "source": "recurrent language models",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent language models",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent language models",
+    "target": "model architecture",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "model variants",
+    "target": "params",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model variants",
+    "target": "development set",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model variants",
+    "target": "evaluate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model variants",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  }
+]

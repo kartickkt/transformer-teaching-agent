@@ -1,0 +1,17 @@
+[
+  {
+    "source": "residual",
+    "target": "Residual Dropout",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "residual",
+    "target": "Deep residual learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "residual",
+    "target": "previous layer",
+    "relation": "prerequisite"
+  }
+]

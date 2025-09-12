@@ -1,0 +1,22 @@
+[
+  {
+    "source": "tasks",
+    "target": "global dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "stack",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "4.5 million sentence pairs",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "4.5 million sentence pairs",
+    "target": "learning phrase representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "4.5 million sentence pairs",
+    "target": "structured self-attentive sentence embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "4.5 million sentence pairs",
+    "target": "deep reinforced model for abstractive summarization",
+    "relation": "prerequisite"
+  }
+]

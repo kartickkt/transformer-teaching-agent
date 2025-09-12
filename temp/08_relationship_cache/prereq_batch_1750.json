@@ -1,0 +1,27 @@
+[
+  {
+    "source": "attention distributions",
+    "target": "local, restricted attention mechanisms",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention distributions",
+    "target": "active memory",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention distributions",
+    "target": "Structured attention networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention distributions",
+    "target": "decomposable attention model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention distributions",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  }
+]

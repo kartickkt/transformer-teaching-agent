@@ -1,0 +1,17 @@
+[
+  {
+    "source": "attention layers",
+    "target": "attention mechanism",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention layers",
+    "target": "self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention layers",
+    "target": "Attention Is All You Need",
+    "relation": "prerequisite"
+  }
+]

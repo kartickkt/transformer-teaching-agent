@@ -1,0 +1,27 @@
+[
+  {
+    "source": "hyperparameters",
+    "target": "sparsely-gated mixture-of-experts",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hyperparameters",
+    "target": "parallelization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hyperparameters",
+    "target": "theoretical complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hyperparameters",
+    "target": "maximum path lengths",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hyperparameters",
+    "target": "amount of computation that can be parallelized",
+    "relation": "prerequisite"
+  }
+]

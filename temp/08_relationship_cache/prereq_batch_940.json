@@ -1,0 +1,22 @@
+[
+  {
+    "source": "continuous representations",
+    "target": "convolutional neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "continuous representations",
+    "target": "convolutions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "continuous representations",
+    "target": "parameter-free position representation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "continuous representations",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  }
+]

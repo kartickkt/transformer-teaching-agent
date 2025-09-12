@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Transformer",
+    "target": "residual connection",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer",
+    "target": "queries",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer",
+    "target": "output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer",
+    "target": "figures",
+    "relation": "prerequisite"
+  }
+]

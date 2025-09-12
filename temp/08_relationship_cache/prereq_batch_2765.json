@@ -1,0 +1,22 @@
+[
+  {
+    "source": "fast and accurate shift-reduce constituent parsing",
+    "target": "conditional computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fast and accurate shift-reduce constituent parsing",
+    "target": "abstractive summarization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fast and accurate shift-reduce constituent parsing",
+    "target": "parsing",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fast and accurate shift-reduce constituent parsing",
+    "target": "learning task-independent sentence representations",
+    "relation": "prerequisite"
+  }
+]

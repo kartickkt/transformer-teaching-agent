@@ -1,0 +1,22 @@
+[
+  {
+    "source": "factorization tricks",
+    "target": "Factorization tricks for LSTM networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "factorization tricks",
+    "target": "computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "factorization tricks",
+    "target": "computation time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "factorization tricks",
+    "target": "parallelization",
+    "relation": "prerequisite"
+  }
+]

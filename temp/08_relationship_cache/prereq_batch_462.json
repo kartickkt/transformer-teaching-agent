@@ -1,0 +1,12 @@
+[
+  {
+    "source": "sequence",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "Recurrent",
+    "relation": "prerequisite"
+  }
+]

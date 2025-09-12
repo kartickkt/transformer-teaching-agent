@@ -1,0 +1,27 @@
+[
+  {
+    "source": "input length",
+    "target": "maximum path lengths",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input length",
+    "target": "fixed offset k",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input length",
+    "target": "path length between long-range dependencies in the network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input length",
+    "target": "length of the paths",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input length",
+    "target": "sequence length n",
+    "relation": "prerequisite"
+  }
+]

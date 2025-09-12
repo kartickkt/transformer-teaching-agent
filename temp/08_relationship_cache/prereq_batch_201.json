@@ -1,0 +1,12 @@
+[
+  {
+    "source": "query",
+    "target": "sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "query",
+    "target": "function",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "training examples",
+    "target": "self-training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training examples",
+    "target": "Transformer models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training examples",
+    "target": "learned linear transformation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training examples",
+    "target": "sequence transduction tasks",
+    "relation": "prerequisite"
+  }
+]

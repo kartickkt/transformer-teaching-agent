@@ -1,0 +1,17 @@
+[
+  {
+    "source": "parallel attention layers",
+    "target": "attention heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallel attention layers",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallel attention layers",
+    "target": "local, restricted attention mechanisms",
+    "relation": "prerequisite"
+  }
+]

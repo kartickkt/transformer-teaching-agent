@@ -1,0 +1,17 @@
+[
+  {
+    "source": "learned linear transformation",
+    "target": "point-wise feed-forward layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned linear transformation",
+    "target": "learning phrase representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned linear transformation",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  }
+]

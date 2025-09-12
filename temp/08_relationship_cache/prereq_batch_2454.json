@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Extended Neural GPU",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Extended Neural GPU",
+    "target": "end-to-end memory networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Extended Neural GPU",
+    "target": "connected layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Extended Neural GPU",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Extended Neural GPU",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  }
+]

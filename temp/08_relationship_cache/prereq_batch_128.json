@@ -1,0 +1,17 @@
+[
+  {
+    "source": "symbol representations",
+    "target": "sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output",
+    "target": "quality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output",
+    "target": "existing best results",
+    "relation": "prerequisite"
+  }
+]

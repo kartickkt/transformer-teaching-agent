@@ -1,0 +1,7 @@
+[
+  {
+    "source": "human and machine translation",
+    "target": "translation quality",
+    "relation": "prerequisite"
+  }
+]

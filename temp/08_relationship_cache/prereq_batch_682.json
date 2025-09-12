@@ -1,0 +1,12 @@
+[
+  {
+    "source": "code",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "code",
+    "target": "function",
+    "relation": "prerequisite"
+  }
+]

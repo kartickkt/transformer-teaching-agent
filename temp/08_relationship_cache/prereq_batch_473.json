@@ -1,0 +1,17 @@
+[
+  {
+    "source": "network",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "network",
+    "target": "feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "network",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "2014 English-French dataset",
+    "target": "WMT 2014 English-to-French translation task",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "2014 English-French dataset",
+    "target": "4.5 million sentence pairs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "2014 English-French dataset",
+    "target": "32000 word-piece vocabulary",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "2014 English-French dataset",
+    "target": "English-to-French",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "scaled dot-product attention",
+    "target": "dot products",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaled dot-product attention",
+    "target": "dot product",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaled dot-product attention",
+    "target": "weighted sum",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-attention",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  }
+]

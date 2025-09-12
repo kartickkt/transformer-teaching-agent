@@ -1,0 +1,7 @@
+[
+  {
+    "source": "encoder-decoder attention",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "convolutional neural networks",
+    "target": "convolutional layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutional neural networks",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutional neural networks",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  }
+]

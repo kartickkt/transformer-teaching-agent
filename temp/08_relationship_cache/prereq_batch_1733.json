@@ -1,0 +1,22 @@
+[
+  {
+    "source": "previous layer",
+    "target": "convolutional layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "previous layer",
+    "target": "point-wise feed-forward layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "previous layer",
+    "target": "Deep residual learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "previous layer",
+    "target": "4-layer transformer",
+    "relation": "prerequisite"
+  }
+]

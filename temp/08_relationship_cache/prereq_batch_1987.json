@@ -1,0 +1,22 @@
+[
+  {
+    "source": "minimum number of sequential operations",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "minimum number of sequential operations",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "minimum number of sequential operations",
+    "target": "computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "minimum number of sequential operations",
+    "target": "computation time",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Human Language Technology Conference",
+    "target": "2009 Conference on Empirical Methods in Natural Language Processing",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Human Language Technology Conference",
+    "target": "Effective approaches to attention-based neural machine translation",
+    "relation": "prerequisite"
+  }
+]

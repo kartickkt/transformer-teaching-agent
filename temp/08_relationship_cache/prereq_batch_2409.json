@@ -1,0 +1,22 @@
+[
+  {
+    "source": "complex recurrent neural networks",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "complex recurrent neural networks",
+    "target": "Gradient flow in recurrent nets",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "complex recurrent neural networks",
+    "target": "Neural computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "complex recurrent neural networks",
+    "target": "Advances in Neural Information Processing Systems",
+    "relation": "prerequisite"
+  }
+]

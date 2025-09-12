@@ -1,0 +1,27 @@
+[
+  {
+    "source": "input",
+    "target": "function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "versions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "input positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "output positions",
+    "relation": "prerequisite"
+  }
+]

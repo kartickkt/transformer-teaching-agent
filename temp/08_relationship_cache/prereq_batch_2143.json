@@ -1,0 +1,27 @@
+[
+  {
+    "source": "models",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "continuous representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "learned linear projections",
+    "relation": "prerequisite"
+  }
+]

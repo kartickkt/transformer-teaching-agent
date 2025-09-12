@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Positional Encoding",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Positional Encoding",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Positional Encoding",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Positional Encoding",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Positional Encoding",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  }
+]

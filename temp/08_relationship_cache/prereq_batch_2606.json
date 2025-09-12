@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Deep recurrent models",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Deep recurrent models",
+    "target": "Gradient flow in recurrent nets",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Deep recurrent models",
+    "target": "Neural computation",
+    "relation": "prerequisite"
+  }
+]

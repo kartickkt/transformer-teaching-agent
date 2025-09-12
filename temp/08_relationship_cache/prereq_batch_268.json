@@ -1,0 +1,12 @@
+[
+  {
+    "source": "scaling",
+    "target": "dimensionality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaling",
+    "target": "representation dimension",
+    "relation": "prerequisite"
+  }
+]

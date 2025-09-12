@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence transduction encoder",
+    "target": "sequence transduction tasks",
+    "relation": "application_of"
+  },
+  {
+    "source": "Transformer (base model)",
+    "target": "Transformer (big)",
+    "relation": "related_topic"
+  },
+  {
+    "source": "Transformer (base model)",
+    "target": "big transformer model",
+    "relation": "related_topic"
+  },
+  {
+    "source": "attention mechanism",
+    "target": "attention function",
+    "relation": "related_topic"
+  },
+  {
+    "source": "self-attention",
+    "target": "intra-attention",
+    "relation": "related_topic"
+  }
+]

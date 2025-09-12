@@ -1,0 +1,17 @@
+[
+  {
+    "source": "constant number of sequentially executed operations",
+    "target": "sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "constant number of sequentially executed operations",
+    "target": "tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "constant number of sequentially executed operations",
+    "target": "step time",
+    "relation": "prerequisite"
+  }
+]

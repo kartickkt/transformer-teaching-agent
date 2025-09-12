@@ -1,0 +1,27 @@
+[
+  {
+    "source": "WMT 2014 English-to-German translation task",
+    "target": "machine translation tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "WMT 2014 English-to-German translation task",
+    "target": "WMT 2014 English-to-French translation task",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "WMT 2014 English-to-German translation task",
+    "target": "translation quality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "WMT 2014 English-to-German translation task",
+    "target": "2014 English-French dataset",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "WMT 2014 English-to-German translation task",
+    "target": "English-to-German",
+    "relation": "prerequisite"
+  }
+]

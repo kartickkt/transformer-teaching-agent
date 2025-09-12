@@ -1,0 +1,22 @@
+[
+  {
+    "source": "sub-layer input",
+    "target": "input length",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layer input",
+    "target": "attention key size dk",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layer input",
+    "target": "large inputs and outputs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layer input",
+    "target": "layer types",
+    "relation": "prerequisite"
+  }
+]

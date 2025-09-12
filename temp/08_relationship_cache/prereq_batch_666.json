@@ -1,0 +1,17 @@
+[
+  {
+    "source": "input and output modalities",
+    "target": "input length",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input and output modalities",
+    "target": "maximum output length",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input and output modalities",
+    "target": "large inputs and outputs",
+    "relation": "prerequisite"
+  }
+]

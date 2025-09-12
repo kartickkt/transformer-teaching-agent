@@ -1,0 +1,22 @@
+[
+  {
+    "source": "hidden layer",
+    "target": "sub-layer input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden layer",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden layer",
+    "target": "N = 6 identical layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden layer",
+    "target": "per-layer complexity",
+    "relation": "prerequisite"
+  }
+]

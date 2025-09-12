@@ -1,0 +1,12 @@
+[
+  {
+    "source": "efficient inference",
+    "target": "state-of-the-art models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder architectures",
+    "target": "network architecture",
+    "relation": "prerequisite"
+  }
+]

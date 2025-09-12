@@ -1,0 +1,12 @@
+[
+  {
+    "source": "P_drop",
+    "target": "dropout",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "P_drop",
+    "target": "Pdrop",
+    "relation": "prerequisite"
+  }
+]

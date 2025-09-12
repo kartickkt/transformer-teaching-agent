@@ -1,0 +1,7 @@
+[
+  {
+    "source": "softmax function",
+    "target": "softmax",
+    "relation": "prerequisite"
+  }
+]

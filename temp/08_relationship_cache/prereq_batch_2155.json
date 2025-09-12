@@ -1,0 +1,27 @@
+[
+  {
+    "source": "best models",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "best models",
+    "target": "sequence transduction models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "best models",
+    "target": "Transformer models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "best models",
+    "target": "Transformer (base model)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "best models",
+    "target": "big transformer model",
+    "relation": "prerequisite"
+  }
+]

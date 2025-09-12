@@ -1,0 +1,27 @@
+[
+  {
+    "source": "input",
+    "target": "vectors",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "queries",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "keys",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "values",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "mean",
+    "relation": "prerequisite"
+  }
+]

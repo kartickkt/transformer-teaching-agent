@@ -1,0 +1,17 @@
+[
+  {
+    "source": "ConvS2S Ensemble",
+    "target": "Convolutional sequence to sequence learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ConvS2S Ensemble",
+    "target": "rnn encoder-decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ConvS2S Ensemble",
+    "target": "sparsely-gated mixture-of-experts",
+    "relation": "prerequisite"
+  }
+]

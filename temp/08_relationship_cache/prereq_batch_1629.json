@@ -1,0 +1,22 @@
+[
+  {
+    "source": "intra-attention",
+    "target": "attention distributions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "intra-attention",
+    "target": "attention heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "intra-attention",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "intra-attention",
+    "target": "local, restricted attention mechanisms",
+    "relation": "prerequisite"
+  }
+]

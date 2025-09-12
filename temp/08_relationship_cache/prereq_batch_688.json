@@ -1,0 +1,17 @@
+[
+  {
+    "source": "code",
+    "target": "matrix multiplication code",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "code",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "code",
+    "target": "dimension",
+    "relation": "prerequisite"
+  }
+]

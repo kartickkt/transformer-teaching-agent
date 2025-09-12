@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequential nature",
+    "target": "Sequential",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential nature",
+    "target": "order of the sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential nature",
+    "target": "sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential nature",
+    "target": "linear time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential nature",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  }
+]

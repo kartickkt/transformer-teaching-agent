@@ -1,0 +1,7 @@
+[
+  {
+    "source": "multi-head attention",
+    "target": "self-attention sub-layer",
+    "relation": "prerequisite"
+  }
+]

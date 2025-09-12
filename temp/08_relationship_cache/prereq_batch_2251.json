@@ -1,0 +1,22 @@
+[
+  {
+    "source": "dmodel-dimensional keys",
+    "target": "model quality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel-dimensional keys",
+    "target": "dmodel = 1024",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel-dimensional keys",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameter matrices",
+    "target": "key-value pairs",
+    "relation": "prerequisite"
+  }
+]

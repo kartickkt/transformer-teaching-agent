@@ -1,0 +1,22 @@
+[
+  {
+    "source": "decoder",
+    "target": "dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder",
+    "target": "representation dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder",
+    "target": "dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder",
+    "target": "dimension",
+    "relation": "prerequisite"
+  }
+]

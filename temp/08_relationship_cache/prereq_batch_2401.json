@@ -1,0 +1,17 @@
+[
+  {
+    "source": "complex recurrent neural networks",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "complex recurrent neural networks",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "complex recurrent neural networks",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  }
+]

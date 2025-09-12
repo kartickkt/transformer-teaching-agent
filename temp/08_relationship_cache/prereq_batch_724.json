@@ -1,0 +1,27 @@
+[
+  {
+    "source": "machine reading",
+    "target": "Parser Training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "machine reading",
+    "target": "statistical machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "machine reading",
+    "target": "Neural machine translation of rare words with subword units",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "machine reading",
+    "target": "Google\u00e2\u20ac\u2122s neural machine translation system",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "machine reading",
+    "target": "human and machine translation",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "versions",
+    "target": "normalized",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "versions",
+    "target": "dropout",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "versions",
+    "target": "accuracy",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "versions",
+    "target": "train",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "versions",
+    "target": "params",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "averaging attention-weighted positions",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "averaging attention-weighted positions",
+    "target": "Attention(Q, K, V)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "averaging attention-weighted positions",
+    "target": "additive attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "averaging attention-weighted positions",
+    "target": "dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "averaging attention-weighted positions",
+    "target": "single attention head",
+    "relation": "prerequisite"
+  }
+]

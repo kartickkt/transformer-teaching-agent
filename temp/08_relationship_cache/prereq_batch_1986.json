@@ -1,0 +1,17 @@
+[
+  {
+    "source": "minimum number of sequential operations",
+    "target": "order of the sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "minimum number of sequential operations",
+    "target": "algorithms",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "minimum number of sequential operations",
+    "target": "linear time",
+    "relation": "prerequisite"
+  }
+]

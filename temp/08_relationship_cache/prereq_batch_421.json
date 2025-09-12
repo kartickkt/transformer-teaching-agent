@@ -1,0 +1,12 @@
+[
+  {
+    "source": "relative positions",
+    "target": "distance between positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "relative positions",
+    "target": "fixed offset k",
+    "relation": "prerequisite"
+  }
+]

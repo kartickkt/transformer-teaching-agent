@@ -1,0 +1,22 @@
+[
+  {
+    "source": "residual connection",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "residual connection",
+    "target": "recurrent attention mechanism",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "residual connection",
+    "target": "previous layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "residual connection",
+    "target": "path length between long-range dependencies in the network",
+    "relation": "prerequisite"
+  }
+]

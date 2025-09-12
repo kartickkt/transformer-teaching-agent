@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Effective approaches to attention-based neural machine translation",
+    "target": "Attention Is All You Need",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Effective approaches to attention-based neural machine translation",
+    "target": "attention mechanism",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Effective approaches to attention-based neural machine translation",
+    "target": "scaled dot-product attention",
+    "relation": "prerequisite"
+  }
+]

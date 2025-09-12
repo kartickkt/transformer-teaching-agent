@@ -1,0 +1,22 @@
+[
+  {
+    "source": "research goals",
+    "target": "existing best results",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "research goals",
+    "target": "effective resolution",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "research goals",
+    "target": "structural challenges",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "research goals",
+    "target": "state-of-the-art results",
+    "relation": "prerequisite"
+  }
+]

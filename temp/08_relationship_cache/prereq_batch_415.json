@@ -1,0 +1,27 @@
+[
+  {
+    "source": "relative positions",
+    "target": "vectors",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "relative positions",
+    "target": "compatibility function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "relative positions",
+    "target": "queries",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "relative positions",
+    "target": "values",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "relative positions",
+    "target": "gradients",
+    "relation": "prerequisite"
+  }
+]

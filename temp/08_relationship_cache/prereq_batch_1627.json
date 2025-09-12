@@ -1,0 +1,27 @@
+[
+  {
+    "source": "intra-attention",
+    "target": "self-attention sub-layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "intra-attention",
+    "target": "attention function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "intra-attention",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "intra-attention",
+    "target": "Attention(Q, K, V)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "intra-attention",
+    "target": "additive attention",
+    "relation": "prerequisite"
+  }
+]

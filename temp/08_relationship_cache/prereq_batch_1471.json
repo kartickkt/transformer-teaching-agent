@@ -1,0 +1,7 @@
+[
+  {
+    "source": "sparsely-gated mixture-of-experts",
+    "target": "softmax",
+    "relation": "prerequisite"
+  }
+]

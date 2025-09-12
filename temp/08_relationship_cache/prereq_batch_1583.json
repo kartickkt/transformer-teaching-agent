@@ -1,0 +1,27 @@
+[
+  {
+    "source": "attention mechanism",
+    "target": "attention key and value dimensions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention mechanism",
+    "target": "discriminative",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention mechanism",
+    "target": "task-specific tuning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention mechanism",
+    "target": "machine reading",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention mechanism",
+    "target": "application",
+    "relation": "prerequisite"
+  }
+]

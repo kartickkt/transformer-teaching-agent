@@ -1,0 +1,17 @@
+[
+  {
+    "source": "scaling",
+    "target": "geometric progression",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaling",
+    "target": "linear function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaling",
+    "target": "sequence",
+    "relation": "prerequisite"
+  }
+]

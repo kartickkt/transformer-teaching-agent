@@ -1,0 +1,12 @@
+[
+  {
+    "source": "stack",
+    "target": "decoder stacks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "stack",
+    "target": "multi-task",
+    "relation": "prerequisite"
+  }
+]

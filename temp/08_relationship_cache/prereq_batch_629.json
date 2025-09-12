@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sinusoidal positional encoding",
+    "target": "input for position t",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sinusoidal positional encoding",
+    "target": "representation of the sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sinusoidal positional encoding",
+    "target": "simple, position-",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sinusoidal positional encoding",
+    "target": "position",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sinusoidal positional encoding",
+    "target": "vectors",
+    "relation": "prerequisite"
+  }
+]

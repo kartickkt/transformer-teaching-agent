@@ -1,0 +1,27 @@
+[
+  {
+    "source": "single model",
+    "target": "figures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single model",
+    "target": "sequential nature",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single model",
+    "target": "auto-regressive",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single model",
+    "target": "stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single model",
+    "target": "simple, position-",
+    "relation": "prerequisite"
+  }
+]

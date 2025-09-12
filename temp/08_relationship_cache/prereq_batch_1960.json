@@ -1,0 +1,22 @@
+[
+  {
+    "source": "matrix multiplication code",
+    "target": "weight matrix",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "matrix multiplication code",
+    "target": "parameter matrices",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "matrix multiplication code",
+    "target": "matrix Q",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "matrix multiplication code",
+    "target": "floating point operations",
+    "relation": "prerequisite"
+  }
+]

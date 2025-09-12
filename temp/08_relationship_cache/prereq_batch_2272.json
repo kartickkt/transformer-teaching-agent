@@ -1,0 +1,22 @@
+[
+  {
+    "source": "dimensionality",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimensionality",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimensionality",
+    "target": "positional embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimensionality",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  }
+]

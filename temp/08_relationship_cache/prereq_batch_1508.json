@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Transformer models",
+    "target": "RNN sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer models",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer models",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer models",
+    "target": "English-to-German base translation model",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "pos",
+    "target": "Positional Encoding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Positional Encoding",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Positional Encoding",
+    "target": "parameter-free position representation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Positional Encoding",
+    "target": "comments",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Positional Encoding",
+    "target": "evaluate",
+    "relation": "prerequisite"
+  }
+]

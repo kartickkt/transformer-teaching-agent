@@ -1,0 +1,17 @@
+[
+  {
+    "source": "length penalty",
+    "target": "learning rate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "length penalty",
+    "target": "params",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "length penalty",
+    "target": "sequence lengths",
+    "relation": "prerequisite"
+  }
+]

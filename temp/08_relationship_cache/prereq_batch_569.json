@@ -1,0 +1,17 @@
+[
+  {
+    "source": "dropout",
+    "target": "Xception",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dropout",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dropout",
+    "target": "decoder",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "semi-supervised setting",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "semi-supervised setting",
+    "target": "Learning Representations",
+    "relation": "prerequisite"
+  }
+]

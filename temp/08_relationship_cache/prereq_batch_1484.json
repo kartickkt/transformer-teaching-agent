@@ -1,0 +1,17 @@
+[
+  {
+    "source": "sequence transduction models",
+    "target": "sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction models",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction models",
+    "target": "feed-forward network",
+    "relation": "prerequisite"
+  }
+]

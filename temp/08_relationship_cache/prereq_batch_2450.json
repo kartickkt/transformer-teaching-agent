@@ -1,0 +1,27 @@
+[
+  {
+    "source": "recurrent language models",
+    "target": "Sequence to sequence learning with neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent language models",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent language models",
+    "target": "machine translation tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent language models",
+    "target": "shared source-target vocabulary",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent language models",
+    "target": "32000 word-piece vocabulary",
+    "relation": "prerequisite"
+  }
+]

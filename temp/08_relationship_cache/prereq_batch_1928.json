@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence-aligned recurrence",
+    "target": "representation of the sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-aligned recurrence",
+    "target": "auto-regressive",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-aligned recurrence",
+    "target": "point-wise",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-aligned recurrence",
+    "target": "Sequential",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-aligned recurrence",
+    "target": "order of the sequence",
+    "relation": "prerequisite"
+  }
+]

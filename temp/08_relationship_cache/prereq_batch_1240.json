@@ -1,0 +1,27 @@
+[
+  {
+    "source": "hidden layer",
+    "target": "sub-layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden layer",
+    "target": "self-attention sub-layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden layer",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden layer",
+    "target": "parallel attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden layer",
+    "target": "previous layer",
+    "relation": "prerequisite"
+  }
+]

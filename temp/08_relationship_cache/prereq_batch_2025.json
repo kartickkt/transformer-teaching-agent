@@ -1,0 +1,12 @@
+[
+  {
+    "source": "constant number of sequentially executed operations",
+    "target": "Sequential",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "constant number of sequentially executed operations",
+    "target": "order of the sequence",
+    "relation": "prerequisite"
+  }
+]

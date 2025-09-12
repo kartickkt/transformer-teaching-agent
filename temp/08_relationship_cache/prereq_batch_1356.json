@@ -1,0 +1,27 @@
+[
+  {
+    "source": "learning phrase representations",
+    "target": "Parser Training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning phrase representations",
+    "target": "Self-training PCFG grammars with latent annotations across languages",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning phrase representations",
+    "target": "Effective approaches to attention-based neural machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning phrase representations",
+    "target": "Empirical Methods in Natural Language Processing",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning phrase representations",
+    "target": "Neural machine translation of rare words with subword units",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence-to-sequence models",
+    "target": "representation of the sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-to-sequence models",
+    "target": "Sequential",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-to-sequence models",
+    "target": "order of the sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-to-sequence models",
+    "target": "sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-to-sequence models",
+    "target": "algorithms",
+    "relation": "prerequisite"
+  }
+]

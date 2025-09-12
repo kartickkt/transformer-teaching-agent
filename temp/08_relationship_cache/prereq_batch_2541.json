@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Neural computation",
+    "target": "total computational complexity per layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural computation",
+    "target": "amount of computation that can be parallelized",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural computation",
+    "target": "computational complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural computation",
+    "target": "computational performance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural computation",
+    "target": "Google Brain",
+    "relation": "prerequisite"
+  }
+]

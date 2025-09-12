@@ -1,0 +1,22 @@
+[
+  {
+    "source": "vectors",
+    "target": "weight matrix",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "vectors",
+    "target": "dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "vectors",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "weighted sum",
+    "target": "abstractive summarization",
+    "relation": "prerequisite"
+  }
+]

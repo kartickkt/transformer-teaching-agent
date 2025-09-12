@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Separable convolutions",
+    "target": "convolutional neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Separable convolutions",
+    "target": "convolutions",
+    "relation": "prerequisite"
+  }
+]

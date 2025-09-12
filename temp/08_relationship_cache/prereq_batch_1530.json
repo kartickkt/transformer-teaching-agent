@@ -1,0 +1,27 @@
+[
+  {
+    "source": "learned linear transformation",
+    "target": "weight matrix",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned linear transformation",
+    "target": "vectors of dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned linear transformation",
+    "target": "Training Data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned linear transformation",
+    "target": "machine translation tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned linear transformation",
+    "target": "statistical machine translation",
+    "relation": "prerequisite"
+  }
+]

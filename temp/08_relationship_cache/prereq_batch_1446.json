@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Multi-task sequence to sequence learning",
+    "target": "rnn encoder-decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Multi-task sequence to sequence learning",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Multi-task sequence to sequence learning",
+    "target": "Convolutional sequence to sequence learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Multi-task sequence to sequence learning",
+    "target": "Deep residual learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Multi-task sequence to sequence learning",
+    "target": "Learning Representations",
+    "relation": "prerequisite"
+  }
+]

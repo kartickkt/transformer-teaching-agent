@@ -1,0 +1,27 @@
+[
+  {
+    "source": "tokens",
+    "target": "normalized",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tokens",
+    "target": "params",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tokens",
+    "target": "code",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tokens",
+    "target": "evaluate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tokens",
+    "target": "comments",
+    "relation": "prerequisite"
+  }
+]

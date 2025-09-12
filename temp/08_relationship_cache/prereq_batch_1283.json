@@ -1,0 +1,12 @@
+[
+  {
+    "source": "point-wise feed-forward layer",
+    "target": "RNN sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise feed-forward layer",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  }
+]

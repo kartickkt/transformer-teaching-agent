@@ -1,0 +1,17 @@
+[
+  {
+    "source": "rnn encoder-decoder",
+    "target": "Sequence to sequence learning with neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "rnn encoder-decoder",
+    "target": "Gradient flow in recurrent nets",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "rnn encoder-decoder",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  }
+]

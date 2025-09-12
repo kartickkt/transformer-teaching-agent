@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Recognition",
+    "target": "accuracy",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Recognition",
+    "target": "evaluate",
+    "relation": "prerequisite"
+  }
+]

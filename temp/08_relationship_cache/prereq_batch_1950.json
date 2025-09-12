@@ -1,0 +1,27 @@
+[
+  {
+    "source": "theoretical complexity",
+    "target": "dimensionality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "theoretical complexity",
+    "target": "dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "theoretical complexity",
+    "target": "state-of-the-art models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "theoretical complexity",
+    "target": "model quality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "theoretical complexity",
+    "target": "Neural computation",
+    "relation": "prerequisite"
+  }
+]

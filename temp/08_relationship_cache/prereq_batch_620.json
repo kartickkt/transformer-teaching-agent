@@ -1,0 +1,22 @@
+[
+  {
+    "source": "checkpoint averaging",
+    "target": "hyperparameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "checkpoint averaging",
+    "target": "Regularization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "checkpoint averaging",
+    "target": "dropout",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "checkpoint averaging",
+    "target": "label smoothing",
+    "relation": "prerequisite"
+  }
+]

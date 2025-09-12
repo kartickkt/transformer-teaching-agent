@@ -1,0 +1,12 @@
+[
+  {
+    "source": "geometric progression",
+    "target": "representation of the sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "geometric progression",
+    "target": "scaling",
+    "relation": "prerequisite"
+  }
+]

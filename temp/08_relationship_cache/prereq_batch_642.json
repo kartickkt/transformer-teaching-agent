@@ -1,0 +1,17 @@
+[
+  {
+    "source": "vocabulary",
+    "target": "reading comprehension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "vocabulary",
+    "target": "active memory",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "vocabulary",
+    "target": "shared source-target vocabulary",
+    "relation": "prerequisite"
+  }
+]

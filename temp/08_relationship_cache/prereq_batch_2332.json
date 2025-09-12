@@ -1,0 +1,17 @@
+[
+  {
+    "source": "dimension",
+    "target": "weight matrix",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension",
+    "target": "representation dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension",
+    "target": "dimension dmodel",
+    "relation": "prerequisite"
+  }
+]

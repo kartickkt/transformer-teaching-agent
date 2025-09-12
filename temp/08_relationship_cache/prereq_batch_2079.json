@@ -1,0 +1,22 @@
+[
+  {
+    "source": "FLOPs",
+    "target": "output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "FLOPs",
+    "target": "known outputs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "FLOPs",
+    "target": "information flow",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "FLOPs",
+    "target": "function",
+    "relation": "prerequisite"
+  }
+]

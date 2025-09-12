@@ -1,0 +1,22 @@
+[
+  {
+    "source": "ensembles",
+    "target": "tables",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ensembles",
+    "target": "figures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ensembles",
+    "target": "visualizations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ensembles",
+    "target": "symbol positions",
+    "relation": "prerequisite"
+  }
+]

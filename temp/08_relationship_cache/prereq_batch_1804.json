@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Structured attention networks",
+    "target": "Attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Structured attention networks",
+    "target": "dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Structured attention networks",
+    "target": "single attention head",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Structured attention networks",
+    "target": "parallel attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Structured attention networks",
+    "target": "restricted self-attention",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "learning rate",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning rate",
+    "target": "Deep residual learning",
+    "relation": "prerequisite"
+  }
+]

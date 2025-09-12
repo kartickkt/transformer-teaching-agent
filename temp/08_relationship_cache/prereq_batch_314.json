@@ -1,0 +1,27 @@
+[
+  {
+    "source": "memory keys and values",
+    "target": "tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "memory keys and values",
+    "target": "params",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "memory keys and values",
+    "target": "attention key and value dimensions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "memory keys and values",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "memory keys and values",
+    "target": "end-to-end memory networks",
+    "relation": "prerequisite"
+  }
+]

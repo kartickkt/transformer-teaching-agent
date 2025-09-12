@@ -1,0 +1,27 @@
+[
+  {
+    "source": "input positions",
+    "target": "Positional Encoding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input positions",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input positions",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input positions",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input positions",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  }
+]

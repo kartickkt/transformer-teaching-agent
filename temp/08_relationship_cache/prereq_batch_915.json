@@ -1,0 +1,22 @@
+[
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "structured self-attentive sentence embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "Multi-task sequence to sequence learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "self-training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "deep reinforced model for abstractive summarization",
+    "relation": "prerequisite"
+  }
+]

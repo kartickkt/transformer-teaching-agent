@@ -1,0 +1,17 @@
+[
+  {
+    "source": "English-to-German",
+    "target": "WMT 2014 English-to-German translation task",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "English-to-German",
+    "target": "WMT 2014 English-to-French translation task",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "English-to-German",
+    "target": "English constituency parsing",
+    "relation": "prerequisite"
+  }
+]

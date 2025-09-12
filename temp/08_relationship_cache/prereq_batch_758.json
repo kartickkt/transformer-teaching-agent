@@ -1,0 +1,12 @@
+[
+  {
+    "source": "preprint",
+    "target": "arXiv",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "inception architecture",
+    "target": "network architecture",
+    "relation": "prerequisite"
+  }
+]

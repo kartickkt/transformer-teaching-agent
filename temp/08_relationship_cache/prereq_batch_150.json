@@ -1,0 +1,27 @@
+[
+  {
+    "source": "point-wise",
+    "target": "scaled dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise",
+    "target": "dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise",
+    "target": "parallelizable",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise",
+    "target": "computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise",
+    "target": "parallelization",
+    "relation": "prerequisite"
+  }
+]

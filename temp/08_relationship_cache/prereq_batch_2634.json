@@ -1,0 +1,27 @@
+[
+  {
+    "source": "textual entailment",
+    "target": "sentence pairs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "textual entailment",
+    "target": "sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "textual entailment",
+    "target": "reading comprehension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "textual entailment",
+    "target": "machine translation tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "textual entailment",
+    "target": "structured self-attentive sentence embedding",
+    "relation": "prerequisite"
+  }
+]

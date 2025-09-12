@@ -1,0 +1,27 @@
+[
+  {
+    "source": "total computational complexity per layer",
+    "target": "TFLOPS",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "total computational complexity per layer",
+    "target": "dimensionality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "total computational complexity per layer",
+    "target": "layer types",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "total computational complexity per layer",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "total computational complexity per layer",
+    "target": "Neural computation",
+    "relation": "prerequisite"
+  }
+]

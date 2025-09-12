@@ -1,0 +1,27 @@
+[
+  {
+    "source": "decoder",
+    "target": "query",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder",
+    "target": "queries",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder",
+    "target": "keys",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder",
+    "target": "heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder",
+    "target": "parameters",
+    "relation": "prerequisite"
+  }
+]

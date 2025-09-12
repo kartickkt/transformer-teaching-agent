@@ -1,0 +1,27 @@
+[
+  {
+    "source": "encoder-decoder architectures",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder architectures",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder architectures",
+    "target": "Position-wise Feed-Forward Networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder architectures",
+    "target": "ReLU activation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder architectures",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  }
+]

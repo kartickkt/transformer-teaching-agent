@@ -1,0 +1,22 @@
+[
+  {
+    "source": "training time",
+    "target": "step time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training time",
+    "target": "train",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training time",
+    "target": "task-specific tuning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training time",
+    "target": "linear time",
+    "relation": "prerequisite"
+  }
+]

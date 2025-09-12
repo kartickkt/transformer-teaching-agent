@@ -1,0 +1,12 @@
+[
+  {
+    "source": "recurrent layer",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent layer",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  }
+]

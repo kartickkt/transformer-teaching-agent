@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Parser Training",
+    "target": "Training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Parser Training",
+    "target": "train",
+    "relation": "prerequisite"
+  }
+]

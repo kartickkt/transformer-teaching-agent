@@ -1,0 +1,27 @@
+[
+  {
+    "source": "attention-based models",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention-based models",
+    "target": "Attention(Q, K, V)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention-based models",
+    "target": "additive attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention-based models",
+    "target": "dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention-based models",
+    "target": "single attention head",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "multi-head attention",
+    "target": "Effective approaches to attention-based neural machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "long short-term memory",
+    "target": "memory keys and values",
+    "relation": "prerequisite"
+  }
+]

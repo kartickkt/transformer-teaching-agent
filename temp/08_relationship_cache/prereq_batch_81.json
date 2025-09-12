@@ -1,0 +1,22 @@
+[
+  {
+    "source": "batching",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "batching",
+    "target": "Sequential",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "batching",
+    "target": "sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "batching",
+    "target": "tasks",
+    "relation": "prerequisite"
+  }
+]

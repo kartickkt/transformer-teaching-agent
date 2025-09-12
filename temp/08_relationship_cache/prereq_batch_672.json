@@ -1,0 +1,17 @@
+[
+  {
+    "source": "images",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "images",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "images",
+    "target": "image recognition",
+    "relation": "prerequisite"
+  }
+]

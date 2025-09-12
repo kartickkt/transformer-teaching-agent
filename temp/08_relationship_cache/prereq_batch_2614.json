@@ -1,0 +1,27 @@
+[
+  {
+    "source": "machine translation tasks",
+    "target": "translation quality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "machine translation tasks",
+    "target": "textual entailment",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "machine translation tasks",
+    "target": "simple-language question answering",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "machine translation tasks",
+    "target": "4.5 million sentence pairs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "machine translation tasks",
+    "target": "English-to-German",
+    "relation": "prerequisite"
+  }
+]

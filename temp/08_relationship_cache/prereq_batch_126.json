@@ -1,0 +1,27 @@
+[
+  {
+    "source": "symbol representations",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "symbol representations",
+    "target": "continuous representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "symbol representations",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "symbol representations",
+    "target": "learning phrase representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "symbol representations",
+    "target": "Learning Representations",
+    "relation": "prerequisite"
+  }
+]

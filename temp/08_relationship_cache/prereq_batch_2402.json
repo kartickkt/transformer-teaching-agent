@@ -1,0 +1,12 @@
+[
+  {
+    "source": "complex recurrent neural networks",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "complex recurrent neural networks",
+    "target": "recurrent layer",
+    "relation": "prerequisite"
+  }
+]

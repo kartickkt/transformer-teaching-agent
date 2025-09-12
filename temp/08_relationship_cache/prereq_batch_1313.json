@@ -1,0 +1,17 @@
+[
+  {
+    "source": "over-fitting",
+    "target": "Regularization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "over-fitting",
+    "target": "hyperparameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "over-fitting",
+    "target": "parameters",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "softmax",
+    "target": "predicted next-token probabilities",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "softmax",
+    "target": "pre-softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "softmax",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  }
+]

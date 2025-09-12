@@ -1,0 +1,12 @@
+[
+  {
+    "source": "parameter-free position representation",
+    "target": "Positional Encoding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameter-free position representation",
+    "target": "positional embedding",
+    "relation": "prerequisite"
+  }
+]

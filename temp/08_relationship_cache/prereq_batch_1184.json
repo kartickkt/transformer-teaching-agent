@@ -1,0 +1,22 @@
+[
+  {
+    "source": "learned embeddings",
+    "target": "gated recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned embeddings",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned embeddings",
+    "target": "RNN sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned embeddings",
+    "target": "Recurrent Neural Network Grammar",
+    "relation": "prerequisite"
+  }
+]

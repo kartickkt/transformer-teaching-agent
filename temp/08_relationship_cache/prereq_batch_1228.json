@@ -1,0 +1,22 @@
+[
+  {
+    "source": "decoder stacks",
+    "target": "Transformer architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder stacks",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder stacks",
+    "target": "parallel attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder stacks",
+    "target": "sub-layer input",
+    "relation": "prerequisite"
+  }
+]

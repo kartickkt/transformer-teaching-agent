@@ -1,0 +1,17 @@
+[
+  {
+    "source": "softmax",
+    "target": "softmax function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "softmax",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "softmax",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  }
+]

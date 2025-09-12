@@ -1,0 +1,27 @@
+[
+  {
+    "source": "4-layer transformer",
+    "target": "Transformer models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "4-layer transformer",
+    "target": "sequence transduction encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "4-layer transformer",
+    "target": "Transformer (base model)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "4-layer transformer",
+    "target": "Transformer (big)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "4-layer transformer",
+    "target": "big transformer model",
+    "relation": "prerequisite"
+  }
+]

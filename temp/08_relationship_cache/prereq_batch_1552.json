@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Transformer (base model)",
+    "target": "Transformer architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer (base model)",
+    "target": "4-layer transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer (base model)",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer (base model)",
+    "target": "best models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer (base model)",
+    "target": "model variants",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "learning phrase representations",
+    "target": "structured self-attentive sentence embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning phrase representations",
+    "target": "Multi-task sequence to sequence learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning phrase representations",
+    "target": "self-training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning phrase representations",
+    "target": "deep reinforced model for abstractive summarization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning phrase representations",
+    "target": "learned linear transformation",
+    "relation": "prerequisite"
+  }
+]

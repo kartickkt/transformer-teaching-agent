@@ -1,0 +1,22 @@
+[
+  {
+    "source": "total computational complexity per layer",
+    "target": "previous layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "total computational complexity per layer",
+    "target": "sub-layer input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "total computational complexity per layer",
+    "target": "layer 5",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "total computational complexity per layer",
+    "target": "computation",
+    "relation": "prerequisite"
+  }
+]

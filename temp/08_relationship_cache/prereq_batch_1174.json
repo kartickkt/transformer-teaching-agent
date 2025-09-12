@@ -1,0 +1,12 @@
+[
+  {
+    "source": "learned embeddings",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned embeddings",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  }
+]

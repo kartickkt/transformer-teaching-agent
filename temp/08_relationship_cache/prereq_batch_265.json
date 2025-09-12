@@ -1,0 +1,27 @@
+[
+  {
+    "source": "scaling",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaling",
+    "target": "layer normalization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaling",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaling",
+    "target": "softmax function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaling",
+    "target": "softmax",
+    "relation": "prerequisite"
+  }
+]

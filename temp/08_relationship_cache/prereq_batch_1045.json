@@ -1,0 +1,12 @@
+[
+  {
+    "source": "softmax",
+    "target": "stochastic optimization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "softmax",
+    "target": "convolutional neural networks",
+    "relation": "prerequisite"
+  }
+]

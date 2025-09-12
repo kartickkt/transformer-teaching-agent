@@ -1,0 +1,17 @@
+[
+  {
+    "source": "previously reported ensembles",
+    "target": "Deep-Att + PosUnk Ensemble",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "previously reported ensembles",
+    "target": "ConvS2S Ensemble",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "previously reported ensembles",
+    "target": "sparsely-gated mixture-of-experts",
+    "relation": "prerequisite"
+  }
+]

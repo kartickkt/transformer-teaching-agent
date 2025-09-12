@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Long short-term memory-networks",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Long short-term memory-networks",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Long short-term memory-networks",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Long short-term memory-networks",
+    "target": "point-wise feed-forward layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Long short-term memory-networks",
+    "target": "learning phrase representations",
+    "relation": "prerequisite"
+  }
+]

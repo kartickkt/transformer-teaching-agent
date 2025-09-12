@@ -1,0 +1,22 @@
+[
+  {
+    "source": "output tokens",
+    "target": "input positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output tokens",
+    "target": "output positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output tokens",
+    "target": "input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output tokens",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  }
+]

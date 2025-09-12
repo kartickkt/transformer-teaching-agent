@@ -1,0 +1,12 @@
+[
+  {
+    "source": "O(n) sequential operations",
+    "target": "computational complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "O(n) sequential operations",
+    "target": "sequence length n",
+    "relation": "prerequisite"
+  }
+]

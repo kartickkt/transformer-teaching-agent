@@ -1,0 +1,27 @@
+[
+  {
+    "source": "fixed offset k",
+    "target": "length penalty",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fixed offset k",
+    "target": "input length",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fixed offset k",
+    "target": "floating point operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fixed offset k",
+    "target": "attention key size dk",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fixed offset k",
+    "target": "dmodel-dimensional keys",
+    "relation": "prerequisite"
+  }
+]

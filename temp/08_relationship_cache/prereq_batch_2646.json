@@ -1,0 +1,22 @@
+[
+  {
+    "source": "4.5 million sentence pairs",
+    "target": "byte-pair",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "4.5 million sentence pairs",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "4.5 million sentence pairs",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "4.5 million sentence pairs",
+    "target": "learning task-independent sentence representations",
+    "relation": "prerequisite"
+  }
+]

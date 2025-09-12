@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Attention",
+    "target": "Training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention",
+    "target": "dropout",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention",
+    "target": "training time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention",
+    "target": "params",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention",
+    "target": "attention key and value dimensions",
+    "relation": "prerequisite"
+  }
+]

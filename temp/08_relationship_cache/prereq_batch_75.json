@@ -1,0 +1,22 @@
+[
+  {
+    "source": "input for position t",
+    "target": "sequence length n",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input for position t",
+    "target": "input length",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input for position t",
+    "target": "vectors of dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential nature",
+    "target": "recurrence",
+    "relation": "prerequisite"
+  }
+]

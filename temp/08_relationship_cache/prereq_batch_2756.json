@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Google\u00e2\u20ac\u2122s neural machine translation system",
+    "target": "machine translation tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Google\u00e2\u20ac\u2122s neural machine translation system",
+    "target": "WMT 2014 English-to-German translation task",
+    "relation": "prerequisite"
+  }
+]

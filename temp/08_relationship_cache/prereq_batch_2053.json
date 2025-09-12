@@ -1,0 +1,12 @@
+[
+  {
+    "source": "computational performance",
+    "target": "computational efficiency",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational performance",
+    "target": "number of operations",
+    "relation": "prerequisite"
+  }
+]

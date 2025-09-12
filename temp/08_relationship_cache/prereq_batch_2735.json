@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Empirical Methods in Natural Language Processing",
+    "target": "empirical evaluation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Empirical Methods in Natural Language Processing",
+    "target": "learning task-independent sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Empirical Methods in Natural Language Processing",
+    "target": "learning phrase representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Empirical Methods in Natural Language Processing",
+    "target": "deep reinforced model for abstractive summarization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Empirical Methods in Natural Language Processing",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  }
+]

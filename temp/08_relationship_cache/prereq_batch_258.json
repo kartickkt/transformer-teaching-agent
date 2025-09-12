@@ -1,0 +1,12 @@
+[
+  {
+    "source": "matrices K and V",
+    "target": "linear transformations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "matrices K and V",
+    "target": "matrix Q",
+    "relation": "prerequisite"
+  }
+]

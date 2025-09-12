@@ -1,0 +1,17 @@
+[
+  {
+    "source": "continuous representations",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "continuous representations",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "continuous representations",
+    "target": "model variants",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "point-wise feed-forward layer",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise feed-forward layer",
+    "target": "Gradient flow in recurrent nets",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise feed-forward layer",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise feed-forward layer",
+    "target": "Sequence to sequence learning with neural networks",
+    "relation": "prerequisite"
+  }
+]

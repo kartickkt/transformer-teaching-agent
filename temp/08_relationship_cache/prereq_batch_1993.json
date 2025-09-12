@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Layer Type Complexity",
+    "target": "LayerNorm",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Layer Type Complexity",
+    "target": "layer normalization",
+    "relation": "prerequisite"
+  }
+]

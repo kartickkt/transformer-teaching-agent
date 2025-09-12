@@ -1,0 +1,27 @@
+[
+  {
+    "source": "head1",
+    "target": "previous hidden state ht\u00e2\u02c6\u20191",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "head1",
+    "target": "Concat(head1, ..., headh)WO",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "head1",
+    "target": "headh",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "head1",
+    "target": "heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "head1",
+    "target": "leftward",
+    "relation": "prerequisite"
+  }
+]

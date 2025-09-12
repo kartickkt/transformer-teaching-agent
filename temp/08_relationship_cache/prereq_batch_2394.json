@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Google Brain",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Google Brain",
+    "target": "machine translation tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Google Brain",
+    "target": "Effective approaches to attention-based neural machine translation",
+    "relation": "prerequisite"
+  }
+]

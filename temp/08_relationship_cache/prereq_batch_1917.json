@@ -1,0 +1,22 @@
+[
+  {
+    "source": "distance between positions",
+    "target": "relative positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "distance between positions",
+    "target": "long-range dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "distance between positions",
+    "target": "input positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "distance between positions",
+    "target": "output positions",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "convolutions",
+    "target": "number of operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutions",
+    "target": "theoretical complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutions",
+    "target": "per-layer complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutions",
+    "target": "total computational complexity per layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutions",
+    "target": "computational complexity",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "TFLOPS",
+    "target": "total computational complexity per layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "TFLOPS",
+    "target": "amount of computation that can be parallelized",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "TFLOPS",
+    "target": "computational complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "TFLOPS",
+    "target": "computational performance",
+    "relation": "prerequisite"
+  }
+]

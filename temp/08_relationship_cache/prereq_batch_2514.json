@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Long short-term memory-networks",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Long short-term memory-networks",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Long short-term memory-networks",
+    "target": "Sequence to sequence learning with neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Long short-term memory-networks",
+    "target": "Effective approaches to attention-based neural machine translation",
+    "relation": "prerequisite"
+  }
+]

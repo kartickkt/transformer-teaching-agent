@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Training Data",
+    "target": "tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Training Data",
+    "target": "Training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Training Data",
+    "target": "training time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Training Data",
+    "target": "train",
+    "relation": "prerequisite"
+  }
+]

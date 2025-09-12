@@ -1,0 +1,17 @@
+[
+  {
+    "source": "layer normalization",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer normalization",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer normalization",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  }
+]

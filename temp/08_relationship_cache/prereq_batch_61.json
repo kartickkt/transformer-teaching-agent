@@ -1,0 +1,22 @@
+[
+  {
+    "source": "symbol positions",
+    "target": "forward signals",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "symbol positions",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "symbol positions",
+    "target": "sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "symbol positions",
+    "target": "sentence pairs",
+    "relation": "prerequisite"
+  }
+]

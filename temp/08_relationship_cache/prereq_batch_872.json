@@ -1,0 +1,27 @@
+[
+  {
+    "source": "encoder-decoder architectures",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder architectures",
+    "target": "Gradient flow in recurrent nets",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder architectures",
+    "target": "Neural computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder architectures",
+    "target": "Outrageously large neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder architectures",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "ByteNet",
+    "target": "network architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ByteNet",
+    "target": "LayerNorm",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ByteNet",
+    "target": "tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ByteNet",
+    "target": "network",
+    "relation": "prerequisite"
+  }
+]

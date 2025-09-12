@@ -1,0 +1,17 @@
+[
+  {
+    "source": "models",
+    "target": "train",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "params",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "code",
+    "relation": "prerequisite"
+  }
+]

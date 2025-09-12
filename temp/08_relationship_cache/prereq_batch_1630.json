@@ -1,0 +1,7 @@
+[
+  {
+    "source": "intra-attention",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "length of the paths",
+    "target": "long-range dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "length of the paths",
+    "target": "sequence lengths",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "length of the paths",
+    "target": "distance between positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "length of the paths",
+    "target": "maximum path lengths",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "length of the paths",
+    "target": "path length between long-range dependencies in the network",
+    "relation": "prerequisite"
+  }
+]

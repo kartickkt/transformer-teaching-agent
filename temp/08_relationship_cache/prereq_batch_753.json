@@ -1,0 +1,27 @@
+[
+  {
+    "source": "ACL",
+    "target": "query",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ACL",
+    "target": "queries",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ACL",
+    "target": "Concat",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ACL",
+    "target": "Sequential",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ACL",
+    "target": "tasks",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Computational linguistics",
+    "target": "machine translation tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Computational linguistics",
+    "target": "Penn Treebank",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Computational linguistics",
+    "target": "BerkleyParser corpora",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Computational linguistics",
+    "target": "Parser Training",
+    "relation": "prerequisite"
+  }
+]

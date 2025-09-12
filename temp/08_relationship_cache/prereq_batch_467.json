@@ -1,0 +1,27 @@
+[
+  {
+    "source": "backward signals",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "backward signals",
+    "target": "decoder output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "backward signals",
+    "target": "decoder stacks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "backward signals",
+    "target": "Position-wise Feed-Forward Networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "backward signals",
+    "target": "sequence transduction models",
+    "relation": "prerequisite"
+  }
+]

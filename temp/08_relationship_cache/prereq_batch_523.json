@@ -1,0 +1,27 @@
+[
+  {
+    "source": "input",
+    "target": "Concat",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "head1",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "information flow",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "parameters",
+    "relation": "prerequisite"
+  }
+]

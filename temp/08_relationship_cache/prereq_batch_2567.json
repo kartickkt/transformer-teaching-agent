@@ -1,0 +1,22 @@
+[
+  {
+    "source": "neural networks",
+    "target": "sparsely-gated mixture-of-experts",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "sequence transduction models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "multi-head attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "recurrent attention mechanism",
+    "relation": "prerequisite"
+  }
+]

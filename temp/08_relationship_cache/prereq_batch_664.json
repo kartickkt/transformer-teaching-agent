@@ -1,0 +1,27 @@
+[
+  {
+    "source": "input and output modalities",
+    "target": "visualizations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input and output modalities",
+    "target": "output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input and output modalities",
+    "target": "known outputs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input and output modalities",
+    "target": "information flow",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input and output modalities",
+    "target": "input positions",
+    "relation": "prerequisite"
+  }
+]

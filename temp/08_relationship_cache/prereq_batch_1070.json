@@ -1,0 +1,17 @@
+[
+  {
+    "source": "single hidden layer",
+    "target": "previous hidden state ht\u00e2\u02c6\u20191",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single hidden layer",
+    "target": "linear function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single hidden layer",
+    "target": "encoder",
+    "relation": "prerequisite"
+  }
+]

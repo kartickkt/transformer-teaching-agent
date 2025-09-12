@@ -1,0 +1,12 @@
+[
+  {
+    "source": "WMT 2014 English-to-German translation task",
+    "target": "learning task-independent sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "WMT 2014 English-to-German translation task",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  }
+]

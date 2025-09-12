@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Attention",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention",
+    "target": "tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention",
+    "target": "function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention",
+    "target": "tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention",
+    "target": "input",
+    "relation": "prerequisite"
+  }
+]

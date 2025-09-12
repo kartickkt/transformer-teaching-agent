@@ -1,0 +1,17 @@
+[
+  {
+    "source": "training batch",
+    "target": "train",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training batch",
+    "target": "training time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training batch",
+    "target": "task-specific tuning",
+    "relation": "prerequisite"
+  }
+]

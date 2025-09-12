@@ -1,0 +1,17 @@
+[
+  {
+    "source": "sentence pairs",
+    "target": "learning phrase representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sentence pairs",
+    "target": "structured self-attentive sentence embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sentence pairs",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  }
+]

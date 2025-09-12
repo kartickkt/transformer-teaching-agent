@@ -1,0 +1,17 @@
+[
+  {
+    "source": "cosine functions",
+    "target": "dot product",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "cosine functions",
+    "target": "sine functions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "cosine functions",
+    "target": "sinusoid",
+    "relation": "prerequisite"
+  }
+]

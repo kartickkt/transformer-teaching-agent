@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Gradient flow in recurrent nets",
+    "target": "RNNs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Gradient flow in recurrent nets",
+    "target": "gated recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Gradient flow in recurrent nets",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Gradient flow in recurrent nets",
+    "target": "Extended Neural GPU",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Gradient flow in recurrent nets",
+    "target": "Recurrent",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "vectors",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "vectors",
+    "target": "positional embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "vectors",
+    "target": "linear transformations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "vectors",
+    "target": "learned linear transformation",
+    "relation": "prerequisite"
+  }
+]

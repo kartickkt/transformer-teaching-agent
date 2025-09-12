@@ -1,0 +1,17 @@
+[
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "Parser Training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "Self-training PCFG grammars with latent annotations across languages",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "2009 Conference on Empirical Methods in Natural Language Processing",
+    "relation": "prerequisite"
+  }
+]

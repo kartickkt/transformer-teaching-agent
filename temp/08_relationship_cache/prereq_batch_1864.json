@@ -1,0 +1,22 @@
+[
+  {
+    "source": "parallelization",
+    "target": "convolutions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallelization",
+    "target": "layer normalization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallelization",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallelization",
+    "target": "softmax",
+    "relation": "prerequisite"
+  }
+]

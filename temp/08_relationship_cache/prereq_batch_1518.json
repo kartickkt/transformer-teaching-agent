@@ -1,0 +1,27 @@
+[
+  {
+    "source": "linear transformations",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear transformations",
+    "target": "positional embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear transformations",
+    "target": "Learning Representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear transformations",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear transformations",
+    "target": "Transformer models",
+    "relation": "prerequisite"
+  }
+]

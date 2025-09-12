@@ -1,0 +1,22 @@
+[
+  {
+    "source": "transduc",
+    "target": "train",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "transduc",
+    "target": "decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "transduc",
+    "target": "sequence transduction models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "transduc",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  }
+]

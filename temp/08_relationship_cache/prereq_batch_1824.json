@@ -1,0 +1,22 @@
+[
+  {
+    "source": "encoder self-attention",
+    "target": "self-attention sub-layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder self-attention",
+    "target": "attention function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder self-attention",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder self-attention",
+    "target": "Attention(Q, K, V)",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "align and translate",
+    "target": "positional embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "align and translate",
+    "target": "linear transformations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "align and translate",
+    "target": "learned linear transformation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "align and translate",
+    "target": "sequence transduction tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "align and translate",
+    "target": "distance between positions",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "translation quality",
+    "target": "28.4 BLEU",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "translation quality",
+    "target": "WMT 2014 English-to-French translation task",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "translation quality",
+    "target": "4.5 million sentence pairs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "translation quality",
+    "target": "shared source-target vocabulary",
+    "relation": "prerequisite"
+  }
+]

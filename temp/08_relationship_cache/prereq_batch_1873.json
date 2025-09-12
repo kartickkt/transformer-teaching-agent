@@ -1,0 +1,12 @@
+[
+  {
+    "source": "sequence lengths",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence lengths",
+    "target": "sequence transduction encoder",
+    "relation": "prerequisite"
+  }
+]

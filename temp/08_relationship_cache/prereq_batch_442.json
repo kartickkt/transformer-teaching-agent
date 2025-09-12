@@ -1,0 +1,12 @@
+[
+  {
+    "source": "versions",
+    "target": "dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "versions",
+    "target": "\u00e2\u02c6\u0161dmodel",
+    "relation": "prerequisite"
+  }
+]

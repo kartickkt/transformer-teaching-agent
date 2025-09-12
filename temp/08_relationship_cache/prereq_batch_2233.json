@@ -1,0 +1,27 @@
+[
+  {
+    "source": "model architecture",
+    "target": "dmodel-dimensional keys",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model architecture",
+    "target": "parameter matrices",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model architecture",
+    "target": "dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model architecture",
+    "target": "vectors of dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model architecture",
+    "target": "\u00e2\u02c6\u0161dmodel",
+    "relation": "prerequisite"
+  }
+]

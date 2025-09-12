@@ -1,0 +1,22 @@
+[
+  {
+    "source": "models",
+    "target": "laws",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "application",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "decoder",
+    "relation": "prerequisite"
+  }
+]

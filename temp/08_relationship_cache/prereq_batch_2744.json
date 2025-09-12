@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Neural machine translation of rare words with subword units",
+    "target": "RNNs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural machine translation of rare words with subword units",
+    "target": "RNN sequence-to-sequence models",
+    "relation": "prerequisite"
+  }
+]

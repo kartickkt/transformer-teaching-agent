@@ -1,0 +1,17 @@
+[
+  {
+    "source": "computer vision",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computer vision",
+    "target": "image recognition",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computer vision",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  }
+]

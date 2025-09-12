@@ -1,0 +1,17 @@
+[
+  {
+    "source": "encoder self-attention",
+    "target": "scaled dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder self-attention",
+    "target": "multi-head attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder self-attention",
+    "target": "intra-attention",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "positional embedding",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "positional embedding",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  }
+]

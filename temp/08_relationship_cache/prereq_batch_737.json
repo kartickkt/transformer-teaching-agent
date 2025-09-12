@@ -1,0 +1,12 @@
+[
+  {
+    "source": "algorithms",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "algorithms",
+    "target": "models",
+    "relation": "prerequisite"
+  }
+]

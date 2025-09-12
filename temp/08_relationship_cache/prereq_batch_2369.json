@@ -1,0 +1,17 @@
+[
+  {
+    "source": "single model",
+    "target": "over-fitting",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single model",
+    "target": "semi-supervised setting",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single model",
+    "target": "previously reported ensembles",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Xception",
+    "target": "inception architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Xception",
+    "target": "dropout",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Xception",
+    "target": "softmax",
+    "relation": "prerequisite"
+  }
+]

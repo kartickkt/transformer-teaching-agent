@@ -1,0 +1,22 @@
+[
+  {
+    "source": "figures",
+    "target": "computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "figures",
+    "target": "FLOPs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "figures",
+    "target": "TFLOPS",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "figures",
+    "target": "models",
+    "relation": "prerequisite"
+  }
+]

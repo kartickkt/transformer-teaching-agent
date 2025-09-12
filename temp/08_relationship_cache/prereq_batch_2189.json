@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence modeling",
+    "target": "dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "state-of-the-art models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "Training Data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "base models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "big models",
+    "relation": "prerequisite"
+  }
+]

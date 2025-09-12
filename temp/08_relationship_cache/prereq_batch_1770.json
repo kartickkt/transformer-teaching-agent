@@ -1,0 +1,22 @@
+[
+  {
+    "source": "multi-task",
+    "target": "recurrent attention mechanism",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "multi-task",
+    "target": "attention function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "multi-task",
+    "target": "additive attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "multi-task",
+    "target": "MultiHead",
+    "relation": "prerequisite"
+  }
+]

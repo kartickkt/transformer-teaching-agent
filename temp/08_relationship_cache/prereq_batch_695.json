@@ -1,0 +1,12 @@
+[
+  {
+    "source": "evaluate",
+    "target": "empirical evaluation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "evaluate",
+    "target": "inference",
+    "relation": "prerequisite"
+  }
+]

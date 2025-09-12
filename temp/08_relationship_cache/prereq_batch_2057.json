@@ -1,0 +1,27 @@
+[
+  {
+    "source": "computational performance",
+    "target": "model performance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational performance",
+    "target": "state-of-the-art models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational performance",
+    "target": "Extended Neural GPU",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational performance",
+    "target": "Neural computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational performance",
+    "target": "Advances in Neural Information Processing Systems",
+    "relation": "prerequisite"
+  }
+]

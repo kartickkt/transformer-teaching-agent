@@ -1,0 +1,17 @@
+[
+  {
+    "source": "textual entailment",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "textual entailment",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "textual entailment",
+    "target": "positional embedding",
+    "relation": "prerequisite"
+  }
+]

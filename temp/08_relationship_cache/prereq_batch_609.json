@@ -1,0 +1,17 @@
+[
+  {
+    "source": "params",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "params",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "params",
+    "target": "Attention",
+    "relation": "prerequisite"
+  }
+]

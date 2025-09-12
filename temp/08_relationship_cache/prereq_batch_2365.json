@@ -1,0 +1,12 @@
+[
+  {
+    "source": "big models",
+    "target": "Outrageously large neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "big models",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  }
+]

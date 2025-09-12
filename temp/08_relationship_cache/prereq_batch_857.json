@@ -1,0 +1,27 @@
+[
+  {
+    "source": "efficient inference",
+    "target": "discriminative",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "efficient inference",
+    "target": "evaluate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "efficient inference",
+    "target": "empirical evaluation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "efficient inference",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "efficient inference",
+    "target": "limited training data",
+    "relation": "prerequisite"
+  }
+]

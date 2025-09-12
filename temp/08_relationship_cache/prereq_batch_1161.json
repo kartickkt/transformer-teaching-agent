@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Embeddings",
+    "target": "input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Embeddings",
+    "target": "params",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Embeddings",
+    "target": "sinusoidal positional encoding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Embeddings",
+    "target": "encoder",
+    "relation": "prerequisite"
+  }
+]

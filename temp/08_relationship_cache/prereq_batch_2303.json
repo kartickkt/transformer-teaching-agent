@@ -1,0 +1,17 @@
+[
+  {
+    "source": "layer types",
+    "target": "model architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer types",
+    "target": "weight matrix",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer types",
+    "target": "base models",
+    "relation": "prerequisite"
+  }
+]

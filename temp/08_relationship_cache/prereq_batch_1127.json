@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence-to-sequence models",
+    "target": "sequence transduction tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-to-sequence models",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-to-sequence models",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-to-sequence models",
+    "target": "sequence lengths",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-to-sequence models",
+    "target": "sequential computation",
+    "relation": "prerequisite"
+  }
+]

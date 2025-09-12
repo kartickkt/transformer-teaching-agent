@@ -1,0 +1,22 @@
+[
+  {
+    "source": "memory constraints",
+    "target": "sequential computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "memory constraints",
+    "target": "theoretical complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "memory constraints",
+    "target": "space-efficient",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "memory constraints",
+    "target": "minimum number of sequential operations",
+    "relation": "prerequisite"
+  }
+]

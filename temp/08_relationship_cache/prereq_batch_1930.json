@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence-aligned recurrence",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-aligned recurrence",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-aligned recurrence",
+    "target": "continuous representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-aligned recurrence",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-aligned recurrence",
+    "target": "recurrent layer",
+    "relation": "prerequisite"
+  }
+]

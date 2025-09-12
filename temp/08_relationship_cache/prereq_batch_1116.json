@@ -1,0 +1,27 @@
+[
+  {
+    "source": "decoder layer",
+    "target": "N = 6 identical layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder layer",
+    "target": "per-layer complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder layer",
+    "target": "Layer Type Complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder layer",
+    "target": "total computational complexity per layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder layer",
+    "target": "dmodel",
+    "relation": "prerequisite"
+  }
+]

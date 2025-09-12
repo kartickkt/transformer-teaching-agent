@@ -1,0 +1,7 @@
+[
+  {
+    "source": "machine reading",
+    "target": "large training data",
+    "relation": "prerequisite"
+  }
+]

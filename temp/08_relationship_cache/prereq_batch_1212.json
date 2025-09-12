@@ -1,0 +1,22 @@
+[
+  {
+    "source": "embedding layers",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "RNN sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  }
+]

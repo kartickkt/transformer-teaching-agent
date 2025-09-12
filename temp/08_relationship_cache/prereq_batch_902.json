@@ -1,0 +1,22 @@
+[
+  {
+    "source": "hidden representations",
+    "target": "relative positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden representations",
+    "target": "backward signals",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden representations",
+    "target": "params",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden representations",
+    "target": "residual",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "hyperparameters",
+    "target": "learning rate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hyperparameters",
+    "target": "over-fitting",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hyperparameters",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hyperparameters",
+    "target": "tensorflow",
+    "relation": "prerequisite"
+  }
+]

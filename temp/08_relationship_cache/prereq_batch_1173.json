@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Embeddings",
+    "target": "sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned embeddings",
+    "target": "convolutional neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned embeddings",
+    "target": "encoder",
+    "relation": "prerequisite"
+  }
+]

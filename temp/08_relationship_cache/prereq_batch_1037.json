@@ -1,0 +1,12 @@
+[
+  {
+    "source": "softmax function",
+    "target": "statistical machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "softmax",
+    "target": "hidden",
+    "relation": "prerequisite"
+  }
+]

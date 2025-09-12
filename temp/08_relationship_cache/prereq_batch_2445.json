@@ -1,0 +1,17 @@
+[
+  {
+    "source": "recurrent language models",
+    "target": "recurrent attention mechanism",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent language models",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent language models",
+    "target": "Transformer models",
+    "relation": "prerequisite"
+  }
+]

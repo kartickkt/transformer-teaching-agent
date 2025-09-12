@@ -1,0 +1,12 @@
+[
+  {
+    "source": "convolutional layer",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutional layer",
+    "target": "Separable convolutions",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "machine reading",
+    "target": "reading comprehension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "machine reading",
+    "target": "machine translation tasks",
+    "relation": "prerequisite"
+  }
+]

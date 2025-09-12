@@ -1,0 +1,22 @@
+[
+  {
+    "source": "training time",
+    "target": "learning rate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training time",
+    "target": "self-training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training time",
+    "target": "long short-term memory",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training time",
+    "target": "Attention",
+    "relation": "prerequisite"
+  }
+]

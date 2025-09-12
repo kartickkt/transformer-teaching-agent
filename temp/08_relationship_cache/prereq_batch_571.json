@@ -1,0 +1,17 @@
+[
+  {
+    "source": "dropout",
+    "target": "Residual Dropout",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dropout",
+    "target": "Attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dropout",
+    "target": "restricted self-attention",
+    "relation": "prerequisite"
+  }
+]

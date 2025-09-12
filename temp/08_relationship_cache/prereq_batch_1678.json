@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Attention(Q, K, V)",
+    "target": "dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention(Q, K, V)",
+    "target": "single attention head",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention(Q, K, V)",
+    "target": "Attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention(Q, K, V)",
+    "target": "parallel attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention(Q, K, V)",
+    "target": "restricted self-attention",
+    "relation": "prerequisite"
+  }
+]

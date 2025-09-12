@@ -1,0 +1,22 @@
+[
+  {
+    "source": "tokens",
+    "target": "sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tokens",
+    "target": "input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tokens",
+    "target": "output positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tokens",
+    "target": "tasks",
+    "relation": "prerequisite"
+  }
+]

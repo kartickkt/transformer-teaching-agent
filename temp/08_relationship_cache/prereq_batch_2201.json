@@ -1,0 +1,12 @@
+[
+  {
+    "source": "language modeling",
+    "target": "Transformer models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "sequence transduction models",
+    "relation": "prerequisite"
+  }
+]

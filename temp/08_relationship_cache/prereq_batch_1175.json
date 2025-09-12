@@ -1,0 +1,27 @@
+[
+  {
+    "source": "learned embeddings",
+    "target": "learning task-independent sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned embeddings",
+    "target": "end-to-end memory networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned embeddings",
+    "target": "continuous representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned embeddings",
+    "target": "connected layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned embeddings",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  }
+]

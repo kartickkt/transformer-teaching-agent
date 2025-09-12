@@ -1,0 +1,12 @@
+[
+  {
+    "source": "self-training",
+    "target": "machine translation tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-training",
+    "target": "Parser Training",
+    "relation": "prerequisite"
+  }
+]

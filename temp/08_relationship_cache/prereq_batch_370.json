@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Sequential",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequential",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequential",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequential",
+    "target": "continuous representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequential",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  }
+]

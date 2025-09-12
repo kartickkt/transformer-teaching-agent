@@ -1,0 +1,22 @@
+[
+  {
+    "source": "deep learning",
+    "target": "Parser Training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "Neural machine translation of rare words with subword units",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Convolutional sequence to sequence learning",
+    "target": "convolutional neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Convolutional sequence to sequence learning",
+    "target": "encoder",
+    "relation": "prerequisite"
+  }
+]

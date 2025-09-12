@@ -1,0 +1,27 @@
+[
+  {
+    "source": "layer types",
+    "target": "per-layer complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer types",
+    "target": "Layer Type Complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer types",
+    "target": "total computational complexity per layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer types",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer types",
+    "target": "model variants",
+    "relation": "prerequisite"
+  }
+]

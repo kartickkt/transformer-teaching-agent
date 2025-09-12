@@ -1,0 +1,22 @@
+[
+  {
+    "source": "fast-forward connections",
+    "target": "Position-wise Feed-Forward Networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fast-forward connections",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fast-forward connections",
+    "target": "parallel attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fast-forward connections",
+    "target": "path length between long-range dependencies in the network",
+    "relation": "prerequisite"
+  }
+]

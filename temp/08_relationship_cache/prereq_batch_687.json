@@ -1,0 +1,27 @@
+[
+  {
+    "source": "code",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "code",
+    "target": "decoder output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "code",
+    "target": "sequence transduction encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "code",
+    "target": "original codebase",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "code",
+    "target": "computation",
+    "relation": "prerequisite"
+  }
+]

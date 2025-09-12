@@ -1,0 +1,7 @@
+[
+  {
+    "source": "gated recurrent neural networks",
+    "target": "rnn encoder-decoder",
+    "relation": "prerequisite"
+  }
+]

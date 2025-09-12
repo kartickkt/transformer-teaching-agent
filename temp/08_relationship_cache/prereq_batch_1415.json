@@ -1,0 +1,17 @@
+[
+  {
+    "source": "International Conference on Learning Representations",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "International Conference on Learning Representations",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "International Conference on Learning Representations",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  }
+]

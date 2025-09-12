@@ -1,0 +1,22 @@
+[
+  {
+    "source": "multi-task",
+    "target": "parallelizable",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "multi-task",
+    "target": "parallelization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "multi-task",
+    "target": "space-efficient",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "multi-task",
+    "target": "amount of computation that can be parallelized",
+    "relation": "prerequisite"
+  }
+]

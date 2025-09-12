@@ -1,0 +1,22 @@
+[
+  {
+    "source": "linear time",
+    "target": "sequential nature",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear time",
+    "target": "point-wise",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear time",
+    "target": "Sequential",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear time",
+    "target": "geometric progression",
+    "relation": "prerequisite"
+  }
+]

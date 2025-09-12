@@ -1,0 +1,27 @@
+[
+  {
+    "source": "application",
+    "target": "registration",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "application",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "application",
+    "target": "attention mechanism",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "application",
+    "target": "multi-task",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "application",
+    "target": "models",
+    "relation": "prerequisite"
+  }
+]

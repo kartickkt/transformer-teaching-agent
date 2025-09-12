@@ -1,0 +1,12 @@
+[
+  {
+    "source": "models",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "weights",
+    "relation": "prerequisite"
+  }
+]

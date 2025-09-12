@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Embeddings",
+    "target": "learned linear transformation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Embeddings",
+    "target": "sequence transduction encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Embeddings",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  }
+]

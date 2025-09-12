@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Positional Encoding",
+    "target": "P E(pos,2i)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Positional Encoding",
+    "target": "relative positions",
+    "relation": "prerequisite"
+  }
+]

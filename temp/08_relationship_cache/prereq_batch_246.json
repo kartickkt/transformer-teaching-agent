@@ -1,0 +1,27 @@
+[
+  {
+    "source": "values",
+    "target": "vectors",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "values",
+    "target": "queries",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "values",
+    "target": "keys",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "values",
+    "target": "scaling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "values",
+    "target": "gradients",
+    "relation": "prerequisite"
+  }
+]

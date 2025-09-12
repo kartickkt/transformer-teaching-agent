@@ -1,0 +1,12 @@
+[
+  {
+    "source": "long short-term memory",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "averaging attention-weighted positions",
+    "target": "abstractive summarization",
+    "relation": "prerequisite"
+  }
+]

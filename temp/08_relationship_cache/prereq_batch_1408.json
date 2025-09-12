@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Deep residual learning",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Deep residual learning",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  }
+]

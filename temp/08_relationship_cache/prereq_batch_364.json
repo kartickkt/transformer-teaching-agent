@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Sequential",
+    "target": "point-wise",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequential",
+    "target": "stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequential",
+    "target": "simple, position-",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequential",
+    "target": "predictions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequential",
+    "target": "query",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "input length",
+    "target": "maximum output length",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input length",
+    "target": "length penalty",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input length",
+    "target": "attention key size dk",
+    "relation": "prerequisite"
+  }
+]

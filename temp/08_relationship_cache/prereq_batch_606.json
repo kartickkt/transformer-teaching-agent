@@ -1,0 +1,17 @@
+[
+  {
+    "source": "params",
+    "target": "normalized",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "params",
+    "target": "task-specific tuning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "params",
+    "target": "evaluate",
+    "relation": "prerequisite"
+  }
+]

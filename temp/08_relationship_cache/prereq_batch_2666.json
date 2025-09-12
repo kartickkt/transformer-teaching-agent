@@ -1,0 +1,17 @@
+[
+  {
+    "source": "sentence pairs",
+    "target": "textual entailment",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sentence pairs",
+    "target": "simple-language question answering",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sentence pairs",
+    "target": "sentence representations",
+    "relation": "prerequisite"
+  }
+]

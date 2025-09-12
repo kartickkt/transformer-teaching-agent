@@ -1,0 +1,22 @@
+[
+  {
+    "source": "4-layer transformer",
+    "target": "N = 6 identical layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "4-layer transformer",
+    "target": "per-layer complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "4-layer transformer",
+    "target": "Layer Type Complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "4-layer transformer",
+    "target": "total computational complexity per layer",
+    "relation": "prerequisite"
+  }
+]

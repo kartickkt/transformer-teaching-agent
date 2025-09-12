@@ -1,0 +1,22 @@
+[
+  {
+    "source": "output sequences",
+    "target": "sequence transduction tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output sequences",
+    "target": "sequence lengths",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output sequences",
+    "target": "sequential computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output sequences",
+    "target": "number of operations",
+    "relation": "prerequisite"
+  }
+]

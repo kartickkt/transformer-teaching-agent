@@ -1,0 +1,27 @@
+[
+  {
+    "source": "parallel attention layers",
+    "target": "attention mechanism",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallel attention layers",
+    "target": "self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallel attention layers",
+    "target": "scaled dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallel attention layers",
+    "target": "multi-head attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallel attention layers",
+    "target": "averaging attention-weighted positions",
+    "relation": "prerequisite"
+  }
+]

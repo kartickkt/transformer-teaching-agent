@@ -1,0 +1,27 @@
+[
+  {
+    "source": "representation dimension",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation dimension",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation dimension",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation dimension",
+    "target": "scaling factor",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation dimension",
+    "target": "models",
+    "relation": "prerequisite"
+  }
+]

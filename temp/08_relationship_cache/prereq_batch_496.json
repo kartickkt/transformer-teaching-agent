@@ -1,0 +1,17 @@
+[
+  {
+    "source": "output positions",
+    "target": "Positional Encoding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output positions",
+    "target": "decoder stacks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output positions",
+    "target": "attention distributions",
+    "relation": "prerequisite"
+  }
+]

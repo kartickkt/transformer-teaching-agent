@@ -1,0 +1,27 @@
+[
+  {
+    "source": "neural networks",
+    "target": "hyperparameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "algorithms",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "convolutional neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "convolutions",
+    "relation": "prerequisite"
+  }
+]

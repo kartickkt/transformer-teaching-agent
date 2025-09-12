@@ -1,0 +1,27 @@
+[
+  {
+    "source": "previous layer",
+    "target": "single hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "previous layer",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "previous layer",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "previous layer",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "previous layer",
+    "target": "recurrent layer",
+    "relation": "prerequisite"
+  }
+]

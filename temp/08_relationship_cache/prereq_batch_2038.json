@@ -1,0 +1,12 @@
+[
+  {
+    "source": "computational complexity",
+    "target": "algorithms",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational complexity",
+    "target": "stochastic optimization",
+    "relation": "prerequisite"
+  }
+]

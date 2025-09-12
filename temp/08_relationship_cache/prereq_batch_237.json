@@ -1,0 +1,22 @@
+[
+  {
+    "source": "queries",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "queries",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "queries",
+    "target": "Attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "queries",
+    "target": "attention distributions",
+    "relation": "prerequisite"
+  }
+]

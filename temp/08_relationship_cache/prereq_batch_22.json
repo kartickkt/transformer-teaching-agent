@@ -1,0 +1,27 @@
+[
+  {
+    "source": "figures",
+    "target": "big models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "figures",
+    "target": "single model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "figures",
+    "target": "model quality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "network architecture",
+    "target": "information flow",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "network architecture",
+    "target": "network",
+    "relation": "prerequisite"
+  }
+]

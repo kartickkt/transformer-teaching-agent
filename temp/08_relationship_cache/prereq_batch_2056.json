@@ -1,0 +1,27 @@
+[
+  {
+    "source": "computational performance",
+    "target": "floating point operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational performance",
+    "target": "number of GPUs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational performance",
+    "target": "sustained single-precision floating-point capacity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational performance",
+    "target": "TFLOPS",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational performance",
+    "target": "large inputs and outputs",
+    "relation": "prerequisite"
+  }
+]

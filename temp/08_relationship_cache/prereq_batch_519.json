@@ -1,0 +1,17 @@
+[
+  {
+    "source": "tasks",
+    "target": "dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "Training Data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "training batch",
+    "relation": "prerequisite"
+  }
+]

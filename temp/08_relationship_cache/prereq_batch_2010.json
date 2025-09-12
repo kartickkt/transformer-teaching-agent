@@ -1,0 +1,17 @@
+[
+  {
+    "source": "total computational complexity per layer",
+    "target": "computational complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "total computational complexity per layer",
+    "target": "computational performance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "total computational complexity per layer",
+    "target": "O(logk(n))",
+    "relation": "prerequisite"
+  }
+]

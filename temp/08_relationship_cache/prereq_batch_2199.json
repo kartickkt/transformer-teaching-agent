@@ -1,0 +1,22 @@
+[
+  {
+    "source": "language modeling",
+    "target": "Positional Encoding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "positional embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "over-fitting",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "semi-supervised setting",
+    "relation": "prerequisite"
+  }
+]

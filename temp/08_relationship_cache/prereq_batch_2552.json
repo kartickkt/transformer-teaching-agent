@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Outrageously large neural networks",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Outrageously large neural networks",
+    "target": "end-to-end memory networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Outrageously large neural networks",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Outrageously large neural networks",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Outrageously large neural networks",
+    "target": "feed-forward network",
+    "relation": "prerequisite"
+  }
+]

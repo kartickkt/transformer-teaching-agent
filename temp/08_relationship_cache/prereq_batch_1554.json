@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Transformer (base model)",
+    "target": "\u00e2\u02c6\u0161dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer (base model)",
+    "target": "dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer (base model)",
+    "target": "state-of-the-art models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer (base model)",
+    "target": "base models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer (base model)",
+    "target": "big models",
+    "relation": "prerequisite"
+  }
+]

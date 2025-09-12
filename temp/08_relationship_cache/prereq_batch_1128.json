@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence-to-sequence models",
+    "target": "sequence-aligned recurrence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-to-sequence models",
+    "target": "sequence length n",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-to-sequence models",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-to-sequence models",
+    "target": "best models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-to-sequence models",
+    "target": "model variants",
+    "relation": "prerequisite"
+  }
+]

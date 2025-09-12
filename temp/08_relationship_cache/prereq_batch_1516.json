@@ -1,0 +1,27 @@
+[
+  {
+    "source": "linear transformations",
+    "target": "linear time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear transformations",
+    "target": "convolutions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear transformations",
+    "target": "tensor2tensor",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear transformations",
+    "target": "continuous representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear transformations",
+    "target": "connected layers",
+    "relation": "prerequisite"
+  }
+]

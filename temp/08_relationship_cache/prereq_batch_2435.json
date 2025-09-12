@@ -1,0 +1,17 @@
+[
+  {
+    "source": "gated recurrent neural networks",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "gated recurrent neural networks",
+    "target": "RNN sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "gated recurrent neural networks",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  }
+]

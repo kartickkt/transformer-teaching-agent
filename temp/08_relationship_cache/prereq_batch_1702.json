@@ -1,0 +1,22 @@
+[
+  {
+    "source": "single attention head",
+    "target": "attention distributions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single attention head",
+    "target": "attention heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single attention head",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single attention head",
+    "target": "local, restricted attention mechanisms",
+    "relation": "prerequisite"
+  }
+]

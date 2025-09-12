@@ -1,0 +1,17 @@
+[
+  {
+    "source": "hidden layer",
+    "target": "convolutional layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden layer",
+    "target": "point-wise feed-forward layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden layer",
+    "target": "over-fitting",
+    "relation": "prerequisite"
+  }
+]

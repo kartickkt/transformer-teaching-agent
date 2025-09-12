@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Structured attention networks",
+    "target": "Recurrent Neural Network Grammar",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Structured attention networks",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Structured attention networks",
+    "target": "Effective approaches to attention-based neural machine translation",
+    "relation": "prerequisite"
+  }
+]

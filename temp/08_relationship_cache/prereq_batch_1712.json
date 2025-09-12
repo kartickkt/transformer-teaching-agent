@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Attention",
+    "target": "self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention",
+    "target": "scaled dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention",
+    "target": "multi-head attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention",
+    "target": "intra-attention",
+    "relation": "prerequisite"
+  }
+]

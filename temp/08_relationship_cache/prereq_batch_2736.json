@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Empirical Methods in Natural Language Processing",
+    "target": "NAACL",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Empirical Methods in Natural Language Processing",
+    "target": "Journal of Machine Learning Research",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Empirical Methods in Natural Language Processing",
+    "target": "Penn Treebank",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "model variants",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model variants",
+    "target": "sequence transduction models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model variants",
+    "target": "Transformer models",
+    "relation": "prerequisite"
+  }
+]

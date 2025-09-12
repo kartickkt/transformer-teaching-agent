@@ -1,0 +1,22 @@
+[
+  {
+    "source": "normalized",
+    "target": "softmax function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "normalized",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "normalized",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "normalized",
+    "target": "linear transformations",
+    "relation": "prerequisite"
+  }
+]

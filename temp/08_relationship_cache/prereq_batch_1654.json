@@ -1,0 +1,12 @@
+[
+  {
+    "source": "self-attention sub-layer",
+    "target": "Attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-attention sub-layer",
+    "target": "attention distributions",
+    "relation": "prerequisite"
+  }
+]

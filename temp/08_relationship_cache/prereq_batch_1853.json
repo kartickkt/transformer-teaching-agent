@@ -1,0 +1,17 @@
+[
+  {
+    "source": "computation",
+    "target": "computational complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computation",
+    "target": "computational performance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computation",
+    "target": "Neural computation",
+    "relation": "prerequisite"
+  }
+]

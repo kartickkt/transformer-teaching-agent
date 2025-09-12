@@ -1,0 +1,17 @@
+[
+  {
+    "source": "restricted self-attention",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "restricted self-attention",
+    "target": "memory constraints",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention distributions",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  }
+]

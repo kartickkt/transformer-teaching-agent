@@ -1,0 +1,22 @@
+[
+  {
+    "source": "deep learning",
+    "target": "Deep residual learning",
+    "relation": "example_of"
+  },
+  {
+    "source": "Convolutional sequence to sequence learning",
+    "target": "Multi-task sequence to sequence learning",
+    "relation": "related_topic"
+  },
+  {
+    "source": "Deep residual learning",
+    "target": "Deep recurrent models",
+    "relation": "related_topic"
+  },
+  {
+    "source": "sequence transduction models",
+    "target": "sequence transduction tasks",
+    "relation": "application_of"
+  }
+]

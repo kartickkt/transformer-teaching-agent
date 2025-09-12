@@ -1,0 +1,27 @@
+[
+  {
+    "source": "scaled dot-product attention",
+    "target": "attention distributions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaled dot-product attention",
+    "target": "attention heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaled dot-product attention",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaled dot-product attention",
+    "target": "local, restricted attention mechanisms",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaled dot-product attention",
+    "target": "Structured attention networks",
+    "relation": "prerequisite"
+  }
+]

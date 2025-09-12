@@ -1,0 +1,17 @@
+[
+  {
+    "source": "gated recurrent neural networks",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "gated recurrent neural networks",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "gated recurrent neural networks",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  }
+]

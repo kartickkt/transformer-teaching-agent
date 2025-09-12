@@ -1,0 +1,22 @@
+[
+  {
+    "source": "connected layers",
+    "target": "sub-layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layers",
+    "target": "self-attention sub-layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "connected layers",
+    "target": "Transformer architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer architecture",
+    "target": "4-layer transformer",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "output sequences",
+    "target": "RNNs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output sequences",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output sequences",
+    "target": "RNN sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output sequences",
+    "target": "Sequence to sequence learning with neural networks",
+    "relation": "prerequisite"
+  }
+]

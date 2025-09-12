@@ -1,0 +1,22 @@
+[
+  {
+    "source": "point-wise feed-forward layer",
+    "target": "feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise feed-forward layer",
+    "target": "single hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise feed-forward layer",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise feed-forward layer",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  }
+]

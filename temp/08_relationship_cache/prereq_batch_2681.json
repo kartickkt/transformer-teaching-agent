@@ -1,0 +1,22 @@
+[
+  {
+    "source": "BerkleyParser corpora",
+    "target": "2009 Conference on Empirical Methods in Natural Language Processing",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "BerkleyParser corpora",
+    "target": "Empirical Methods in Natural Language Processing",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "BerkleyParser corpora",
+    "target": "fast and accurate shift-reduce constituent parsing",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "17M sentences",
+    "target": "learning task-independent sentence representations",
+    "relation": "prerequisite"
+  }
+]

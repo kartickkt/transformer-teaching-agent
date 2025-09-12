@@ -1,0 +1,22 @@
+[
+  {
+    "source": "encoder-decoder attention",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder attention",
+    "target": "Position-wise Feed-Forward Networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder attention",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder attention",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  }
+]

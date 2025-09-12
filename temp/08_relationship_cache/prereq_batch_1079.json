@@ -1,0 +1,27 @@
+[
+  {
+    "source": "single hidden layer",
+    "target": "4-layer transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single hidden layer",
+    "target": "sub-layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single hidden layer",
+    "target": "self-attention sub-layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single hidden layer",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single hidden layer",
+    "target": "parallel attention layers",
+    "relation": "prerequisite"
+  }
+]

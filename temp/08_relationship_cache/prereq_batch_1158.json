@@ -1,0 +1,12 @@
+[
+  {
+    "source": "ReLU activation",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Embeddings",
+    "target": "figures",
+    "relation": "prerequisite"
+  }
+]

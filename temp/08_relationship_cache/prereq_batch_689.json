@@ -1,0 +1,27 @@
+[
+  {
+    "source": "evaluate",
+    "target": "quality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "evaluate",
+    "target": "tables",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "evaluate",
+    "target": "figures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "evaluate",
+    "target": "visualizations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "evaluate",
+    "target": "conditional computation",
+    "relation": "prerequisite"
+  }
+]

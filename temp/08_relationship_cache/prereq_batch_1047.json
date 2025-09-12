@@ -1,0 +1,22 @@
+[
+  {
+    "source": "softmax",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "softmax",
+    "target": "layer normalization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "softmax",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "softmax",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  }
+]

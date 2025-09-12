@@ -1,0 +1,17 @@
+[
+  {
+    "source": "dependencies",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dependencies",
+    "target": "weights",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dependencies",
+    "target": "Sequential",
+    "relation": "prerequisite"
+  }
+]

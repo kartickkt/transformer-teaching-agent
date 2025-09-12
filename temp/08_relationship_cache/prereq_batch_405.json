@@ -1,0 +1,17 @@
+[
+  {
+    "source": "function",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "function",
+    "target": "weights",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "function",
+    "target": "Sequential",
+    "relation": "prerequisite"
+  }
+]

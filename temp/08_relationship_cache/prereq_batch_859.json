@@ -1,0 +1,17 @@
+[
+  {
+    "source": "efficient inference",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "efficient inference",
+    "target": "predicted next-token probabilities",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "efficient inference",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "active memory",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Structured attention networks",
+    "target": "network architecture",
+    "relation": "prerequisite"
+  }
+]

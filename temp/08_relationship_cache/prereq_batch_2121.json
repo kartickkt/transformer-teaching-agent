@@ -1,0 +1,12 @@
+[
+  {
+    "source": "attention key size dk",
+    "target": "dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention key size dk",
+    "target": "attention heads",
+    "relation": "prerequisite"
+  }
+]

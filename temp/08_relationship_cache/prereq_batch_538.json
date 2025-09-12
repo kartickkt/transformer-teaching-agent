@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Training",
+    "target": "training costs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Training",
+    "target": "large training data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Training",
+    "target": "training examples",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Training",
+    "target": "Training Data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Training",
+    "target": "training batch",
+    "relation": "prerequisite"
+  }
+]

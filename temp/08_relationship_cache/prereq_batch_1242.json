@@ -1,0 +1,22 @@
+[
+  {
+    "source": "hidden layer",
+    "target": "Layer Type Complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden layer",
+    "target": "total computational complexity per layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden layer",
+    "target": "layer types",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden layer",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  }
+]

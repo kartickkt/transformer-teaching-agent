@@ -1,0 +1,22 @@
+[
+  {
+    "source": "computer vision",
+    "target": "convolutional neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computer vision",
+    "target": "convolutions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computer vision",
+    "target": "convolutional layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computer vision",
+    "target": "tensorflow",
+    "relation": "prerequisite"
+  }
+]

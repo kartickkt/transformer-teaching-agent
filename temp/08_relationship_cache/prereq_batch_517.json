@@ -1,0 +1,27 @@
+[
+  {
+    "source": "tasks",
+    "target": "constant number of sequentially executed operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "O(n) sequential operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "25000 target tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "FLOPs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "TFLOPS",
+    "relation": "prerequisite"
+  }
+]

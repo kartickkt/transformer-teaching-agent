@@ -1,0 +1,27 @@
+[
+  {
+    "source": "effective resolution",
+    "target": "representation dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation of the sequence",
+    "target": "figures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation of the sequence",
+    "target": "recurrence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation of the sequence",
+    "target": "symbol positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation of the sequence",
+    "target": "input for position t",
+    "relation": "prerequisite"
+  }
+]

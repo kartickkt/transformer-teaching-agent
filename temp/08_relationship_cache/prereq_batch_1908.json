@@ -1,0 +1,22 @@
+[
+  {
+    "source": "sequential computation",
+    "target": "sequence-aligned recurrence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "space-efficient",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "minimum number of sequential operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "total computational complexity per layer",
+    "relation": "prerequisite"
+  }
+]

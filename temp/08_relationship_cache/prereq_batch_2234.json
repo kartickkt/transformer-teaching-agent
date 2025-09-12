@@ -1,0 +1,27 @@
+[
+  {
+    "source": "model architecture",
+    "target": "layer types",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model architecture",
+    "target": "representation dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model architecture",
+    "target": "dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model architecture",
+    "target": "state-of-the-art models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model architecture",
+    "target": "base models",
+    "relation": "prerequisite"
+  }
+]

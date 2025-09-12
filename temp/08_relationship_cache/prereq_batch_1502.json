@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Transformer models",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer models",
+    "target": "sequence transduction models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer models",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer models",
+    "target": "linear transformations",
+    "relation": "prerequisite"
+  }
+]

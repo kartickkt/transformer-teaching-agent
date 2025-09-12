@@ -1,0 +1,7 @@
+[
+  {
+    "source": "recurrent layer",
+    "target": "rnn encoder-decoder",
+    "relation": "prerequisite"
+  }
+]

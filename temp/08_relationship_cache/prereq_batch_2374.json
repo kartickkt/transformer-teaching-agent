@@ -1,0 +1,27 @@
+[
+  {
+    "source": "single model",
+    "target": "dmodel-dimensional keys",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single model",
+    "target": "dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single model",
+    "target": "dimensionality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single model",
+    "target": "vectors of dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single model",
+    "target": "\u00e2\u02c6\u0161dmodel",
+    "relation": "prerequisite"
+  }
+]

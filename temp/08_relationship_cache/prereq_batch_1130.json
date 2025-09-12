@@ -1,0 +1,12 @@
+[
+  {
+    "source": "sequence-to-sequence models",
+    "target": "state-of-the-art models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-to-sequence models",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  }
+]

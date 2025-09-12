@@ -1,0 +1,17 @@
+[
+  {
+    "source": "fully connected feed-forward network",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fully connected feed-forward network",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fully connected feed-forward network",
+    "target": "learning task-independent sentence representations",
+    "relation": "prerequisite"
+  }
+]

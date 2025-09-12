@@ -1,0 +1,27 @@
+[
+  {
+    "source": "algorithms",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "algorithms",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "algorithms",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "algorithms",
+    "target": "linear transformations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "algorithms",
+    "target": "computation",
+    "relation": "prerequisite"
+  }
+]

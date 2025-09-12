@@ -1,0 +1,22 @@
+[
+  {
+    "source": "recurrent language models",
+    "target": "long-range dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent language models",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent language models",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent language models",
+    "target": "learning task-independent sentence representations",
+    "relation": "prerequisite"
+  }
+]

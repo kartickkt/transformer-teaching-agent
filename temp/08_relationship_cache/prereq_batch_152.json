@@ -1,0 +1,12 @@
+[
+  {
+    "source": "point-wise",
+    "target": "minimum number of sequential operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise",
+    "target": "O(n) sequential operations",
+    "relation": "prerequisite"
+  }
+]

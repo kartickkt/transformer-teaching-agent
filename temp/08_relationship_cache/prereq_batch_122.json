@@ -1,0 +1,17 @@
+[
+  {
+    "source": "abstractive summarization",
+    "target": "additive attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "abstractive summarization",
+    "target": "restricted self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "abstractive summarization",
+    "target": "sentence representations",
+    "relation": "prerequisite"
+  }
+]

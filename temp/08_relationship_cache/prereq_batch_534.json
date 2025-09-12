@@ -1,0 +1,22 @@
+[
+  {
+    "source": "dilated convolutions",
+    "target": "convolutions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dilated convolutions",
+    "target": "convolutional layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dilated convolutions",
+    "target": "Separable convolutions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Training",
+    "target": "parameters",
+    "relation": "prerequisite"
+  }
+]

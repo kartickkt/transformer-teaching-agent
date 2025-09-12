@@ -1,0 +1,7 @@
+[
+  {
+    "source": "feed-forward network",
+    "target": "single hidden layer",
+    "relation": "prerequisite"
+  }
+]

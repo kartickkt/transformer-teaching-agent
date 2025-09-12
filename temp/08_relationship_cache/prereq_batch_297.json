@@ -1,0 +1,27 @@
+[
+  {
+    "source": "head1",
+    "target": "attention heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "head1",
+    "target": "kernel size 1",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "headh",
+    "target": "Concat(head1, ..., headh)WO",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "headh",
+    "target": "head1",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "headh",
+    "target": "heads",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "sequence-to-sequence models",
+    "target": "Transformer models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-to-sequence models",
+    "target": "sequence transduction models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-to-sequence models",
+    "target": "sequence transduction encoder",
+    "relation": "prerequisite"
+  }
+]

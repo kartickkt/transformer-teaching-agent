@@ -1,0 +1,12 @@
+[
+  {
+    "source": "generative",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "generative",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  }
+]

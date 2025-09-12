@@ -1,0 +1,22 @@
+[
+  {
+    "source": "statistical machine translation",
+    "target": "large training data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "statistical machine translation",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "statistical machine translation",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "statistical machine translation",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  }
+]

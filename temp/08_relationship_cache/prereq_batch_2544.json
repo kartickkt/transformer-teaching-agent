@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Neural computation",
+    "target": "Gradient flow in recurrent nets",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural computation",
+    "target": "Advances in Neural Information Processing Systems",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural computation",
+    "target": "Outrageously large neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural computation",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural computation",
+    "target": "Sequence to sequence learning with neural networks",
+    "relation": "prerequisite"
+  }
+]

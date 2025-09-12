@@ -1,0 +1,17 @@
+[
+  {
+    "source": "single hidden layer",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single hidden layer",
+    "target": "learning task-independent sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single hidden layer",
+    "target": "end-to-end memory networks",
+    "relation": "prerequisite"
+  }
+]

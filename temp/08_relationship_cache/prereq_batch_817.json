@@ -1,0 +1,12 @@
+[
+  {
+    "source": "decoder",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  }
+]

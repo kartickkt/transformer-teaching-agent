@@ -1,0 +1,22 @@
+[
+  {
+    "source": "model performance",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model performance",
+    "target": "function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model performance",
+    "target": "versions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model performance",
+    "target": "sequence",
+    "relation": "prerequisite"
+  }
+]

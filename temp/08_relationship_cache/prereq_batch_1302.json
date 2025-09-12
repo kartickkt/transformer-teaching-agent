@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Residual Dropout",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Residual Dropout",
+    "target": "Deep residual learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Residual Dropout",
+    "target": "RNNs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Residual Dropout",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  }
+]

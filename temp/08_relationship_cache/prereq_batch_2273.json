@@ -1,0 +1,17 @@
+[
+  {
+    "source": "dimensionality",
+    "target": "theoretical complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimensionality",
+    "target": "per-layer complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimensionality",
+    "target": "size of the neighborhood",
+    "relation": "prerequisite"
+  }
+]

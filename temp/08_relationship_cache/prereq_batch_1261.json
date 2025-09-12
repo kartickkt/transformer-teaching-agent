@@ -1,0 +1,22 @@
+[
+  {
+    "source": "convolutional layer",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutional layer",
+    "target": "Convolutional sequence to sequence learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutional layer",
+    "target": "Deep residual learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutional layer",
+    "target": "learned linear transformation",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "human and machine translation",
+    "target": "English-to-German base translation model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "human and machine translation",
+    "target": "Parser Training",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "parameters",
+    "target": "sparsely-gated mixture-of-experts",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameters",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameters",
+    "target": "Attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameters",
+    "target": "parallelization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameters",
+    "target": "memory constraints",
+    "relation": "prerequisite"
+  }
+]

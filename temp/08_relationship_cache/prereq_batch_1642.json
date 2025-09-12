@@ -1,0 +1,12 @@
+[
+  {
+    "source": "sub-layers",
+    "target": "LayerNorm",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layers",
+    "target": "layer normalization",
+    "relation": "prerequisite"
+  }
+]

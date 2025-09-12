@@ -1,0 +1,27 @@
+[
+  {
+    "source": "tasks",
+    "target": "application",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "tensorflow",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "params",
+    "target": "key-value pairs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "params",
+    "target": "queries",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "params",
+    "target": "keys",
+    "relation": "prerequisite"
+  }
+]

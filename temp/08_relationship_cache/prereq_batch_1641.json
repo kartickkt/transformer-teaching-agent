@@ -1,0 +1,22 @@
+[
+  {
+    "source": "recurrent attention mechanism",
+    "target": "Gradient flow in recurrent nets",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent attention mechanism",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent attention mechanism",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent attention mechanism",
+    "target": "Effective approaches to attention-based neural machine translation",
+    "relation": "prerequisite"
+  }
+]

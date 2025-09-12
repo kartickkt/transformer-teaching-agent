@@ -1,0 +1,7 @@
+[
+  {
+    "source": "ConvS2S",
+    "target": "sinusoidal positional encoding",
+    "relation": "prerequisite"
+  }
+]

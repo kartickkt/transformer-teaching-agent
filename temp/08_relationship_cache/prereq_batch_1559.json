@@ -1,0 +1,17 @@
+[
+  {
+    "source": "big transformer model",
+    "target": "Transformer models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "big transformer model",
+    "target": "transduction problems",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "big transformer model",
+    "target": "learned linear transformation",
+    "relation": "prerequisite"
+  }
+]

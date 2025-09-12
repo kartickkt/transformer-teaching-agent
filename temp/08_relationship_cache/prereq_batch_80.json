@@ -1,0 +1,22 @@
+[
+  {
+    "source": "sequential nature",
+    "target": "Recurrent",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "batching",
+    "target": "stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "batching",
+    "target": "masking",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "batching",
+    "target": "scaling",
+    "relation": "prerequisite"
+  }
+]

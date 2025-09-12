@@ -1,0 +1,17 @@
+[
+  {
+    "source": "symbol positions",
+    "target": "Positional Encoding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "symbol positions",
+    "target": "positional embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "symbol positions",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  }
+]

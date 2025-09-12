@@ -1,0 +1,12 @@
+[
+  {
+    "source": "positional embedding",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "positional embedding",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "sequence transduction tasks",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction tasks",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction tasks",
+    "target": "align and translate",
+    "relation": "prerequisite"
+  }
+]

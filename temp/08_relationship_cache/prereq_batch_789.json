@@ -1,0 +1,27 @@
+[
+  {
+    "source": "convolutional neural networks",
+    "target": "Separable convolutions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutional neural networks",
+    "target": "point-wise feed-forward layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutional neural networks",
+    "target": "ConvS2S Ensemble",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutional neural networks",
+    "target": "tensorflow",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutional neural networks",
+    "target": "learning phrase representations",
+    "relation": "prerequisite"
+  }
+]

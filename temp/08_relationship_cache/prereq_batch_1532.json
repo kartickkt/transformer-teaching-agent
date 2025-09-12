@@ -1,0 +1,22 @@
+[
+  {
+    "source": "sequence transduction encoder",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction encoder",
+    "target": "decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction encoder",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction encoder",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  }
+]

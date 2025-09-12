@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Recurrent Neural Network Grammar",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Recurrent Neural Network Grammar",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Recurrent Neural Network Grammar",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "self-attention sub-layer",
+    "target": "attention heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-attention sub-layer",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-attention sub-layer",
+    "target": "local, restricted attention mechanisms",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-attention sub-layer",
+    "target": "Structured attention networks",
+    "relation": "prerequisite"
+  }
+]

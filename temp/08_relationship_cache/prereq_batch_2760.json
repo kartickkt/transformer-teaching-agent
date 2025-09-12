@@ -1,0 +1,27 @@
+[
+  {
+    "source": "human and machine translation",
+    "target": "learning phrase representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "human and machine translation",
+    "target": "self-training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "human and machine translation",
+    "target": "sequence transduction encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "human and machine translation",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "human and machine translation",
+    "target": "Google Brain",
+    "relation": "prerequisite"
+  }
+]

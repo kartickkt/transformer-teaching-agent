@@ -1,0 +1,17 @@
+[
+  {
+    "source": "distance between positions",
+    "target": "sinusoidal positional encoding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "distance between positions",
+    "target": "Positional Encoding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "distance between positions",
+    "target": "positional embedding",
+    "relation": "prerequisite"
+  }
+]

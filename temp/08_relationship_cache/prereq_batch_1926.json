@@ -1,0 +1,27 @@
+[
+  {
+    "source": "number of operations",
+    "target": "O(n/r)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "number of operations",
+    "target": "O(logk(n))",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "number of operations",
+    "target": "FLOPs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "number of operations",
+    "target": "floating point operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "number of operations",
+    "target": "number of GPUs",
+    "relation": "prerequisite"
+  }
+]

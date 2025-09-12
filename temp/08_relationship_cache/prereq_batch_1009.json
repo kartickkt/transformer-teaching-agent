@@ -1,0 +1,27 @@
+[
+  {
+    "source": "encoder stack",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder stack",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output embeddings",
+    "target": "output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output embeddings",
+    "target": "known outputs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output embeddings",
+    "target": "vectors",
+    "relation": "prerequisite"
+  }
+]

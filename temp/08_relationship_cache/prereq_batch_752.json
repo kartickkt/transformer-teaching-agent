@@ -1,0 +1,12 @@
+[
+  {
+    "source": "tree annotation",
+    "target": "Penn Treebank",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ACL",
+    "target": "cs.CL",
+    "relation": "prerequisite"
+  }
+]

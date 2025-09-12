@@ -1,0 +1,27 @@
+[
+  {
+    "source": "local, restricted attention mechanisms",
+    "target": "Attention Is All You Need",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "local, restricted attention mechanisms",
+    "target": "attention mechanism",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "local, restricted attention mechanisms",
+    "target": "self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "local, restricted attention mechanisms",
+    "target": "scaled dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "local, restricted attention mechanisms",
+    "target": "multi-head attention",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "parallelization",
+    "target": "hyperparameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallelization",
+    "target": "Regularization",
+    "relation": "prerequisite"
+  }
+]

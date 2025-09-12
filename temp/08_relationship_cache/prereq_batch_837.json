@@ -1,0 +1,27 @@
+[
+  {
+    "source": "limited training data",
+    "target": "training examples",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "limited training data",
+    "target": "model performance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "limited training data",
+    "target": "Training Data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "limited training data",
+    "target": "training batch",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "limited training data",
+    "target": "single model",
+    "relation": "prerequisite"
+  }
+]

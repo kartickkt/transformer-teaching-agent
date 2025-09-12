@@ -1,0 +1,27 @@
+[
+  {
+    "source": "attention layers",
+    "target": "attention heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention layers",
+    "target": "attention distributions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention layers",
+    "target": "sub-layer input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention layers",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention layers",
+    "target": "local, restricted attention mechanisms",
+    "relation": "prerequisite"
+  }
+]

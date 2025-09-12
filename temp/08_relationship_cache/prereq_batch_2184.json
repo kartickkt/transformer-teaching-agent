@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence modeling",
+    "target": "sequence transduction models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "Transformer models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "sequence transduction encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "sequence transduction tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "Transformer (base model)",
+    "relation": "prerequisite"
+  }
+]

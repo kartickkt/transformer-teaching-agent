@@ -1,0 +1,22 @@
+[
+  {
+    "source": "input positions",
+    "target": "symbol positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input positions",
+    "target": "input for position t",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input positions",
+    "target": "simple, position-",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input positions",
+    "target": "position",
+    "relation": "prerequisite"
+  }
+]

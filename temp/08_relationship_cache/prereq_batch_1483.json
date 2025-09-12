@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Input-Input Layer5",
+    "target": "total computational complexity per layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Input-Input Layer5",
+    "target": "input length",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Input-Input Layer5",
+    "target": "large inputs and outputs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Input-Input Layer5",
+    "target": "layer types",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction models",
+    "target": "sequential nature",
+    "relation": "prerequisite"
+  }
+]

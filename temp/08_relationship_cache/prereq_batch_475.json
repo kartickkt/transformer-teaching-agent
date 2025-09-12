@@ -1,0 +1,27 @@
+[
+  {
+    "source": "long-range dependencies",
+    "target": "global dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "long-range dependencies",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "long-range dependencies",
+    "target": "auto-regressive",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "long-range dependencies",
+    "target": "residual connection",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "long-range dependencies",
+    "target": "compatibility function",
+    "relation": "prerequisite"
+  }
+]

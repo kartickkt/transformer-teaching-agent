@@ -1,0 +1,27 @@
+[
+  {
+    "source": "total computational complexity per layer",
+    "target": "theoretical complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "total computational complexity per layer",
+    "target": "per-layer complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "total computational complexity per layer",
+    "target": "minimum number of sequential operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "total computational complexity per layer",
+    "target": "Layer Type Complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "total computational complexity per layer",
+    "target": "amount of computation that can be parallelized",
+    "relation": "prerequisite"
+  }
+]

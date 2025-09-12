@@ -1,0 +1,17 @@
+[
+  {
+    "source": "deep learning",
+    "target": "Deep residual learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "image recognition",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "Multi-task sequence to sequence learning",
+    "relation": "prerequisite"
+  }
+]

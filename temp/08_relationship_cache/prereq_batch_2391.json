@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Google Brain",
+    "target": "tensorflow",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Google Brain",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Google Brain",
+    "target": "Deep residual learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Google Brain",
+    "target": "multi-head attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Google Brain",
+    "target": "ByteNet",
+    "relation": "prerequisite"
+  }
+]

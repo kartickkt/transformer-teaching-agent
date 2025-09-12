@@ -1,0 +1,22 @@
+[
+  {
+    "source": "model variants",
+    "target": "Transformer (base model)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model variants",
+    "target": "big transformer model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model variants",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model variants",
+    "target": "best models",
+    "relation": "prerequisite"
+  }
+]

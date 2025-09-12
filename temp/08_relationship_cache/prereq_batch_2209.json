@@ -1,0 +1,27 @@
+[
+  {
+    "source": "language modeling",
+    "target": "simple-language question answering",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "shared source-target vocabulary",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "sentence pairs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "English-to-German base translation model",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "byte-pair",
+    "target": "Concat",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "byte-pair",
+    "target": "params",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "byte-pair",
+    "target": "code",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "byte-pair",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "byte-pair",
+    "target": "dot-product attention",
+    "relation": "prerequisite"
+  }
+]

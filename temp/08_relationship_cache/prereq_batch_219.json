@@ -1,0 +1,17 @@
+[
+  {
+    "source": "weighted sum",
+    "target": "weights",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "weighted sum",
+    "target": "mean",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "weighted sum",
+    "target": "dot product",
+    "relation": "prerequisite"
+  }
+]

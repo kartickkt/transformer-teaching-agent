@@ -1,0 +1,22 @@
+[
+  {
+    "source": "output",
+    "target": "predictions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output",
+    "target": "known outputs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output",
+    "target": "query",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output",
+    "target": "queries",
+    "relation": "prerequisite"
+  }
+]

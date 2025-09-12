@@ -1,0 +1,27 @@
+[
+  {
+    "source": "computation time",
+    "target": "algorithms",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computation time",
+    "target": "linear time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computation time",
+    "target": "convolutions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computation time",
+    "target": "computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computation time",
+    "target": "parallelization",
+    "relation": "prerequisite"
+  }
+]

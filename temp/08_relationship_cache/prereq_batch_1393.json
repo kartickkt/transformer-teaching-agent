@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Convolutional sequence to sequence learning",
+    "target": "RNNs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Convolutional sequence to sequence learning",
+    "target": "gated recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Convolutional sequence to sequence learning",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Convolutional sequence to sequence learning",
+    "target": "RNN sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Convolutional sequence to sequence learning",
+    "target": "Recurrent Neural Network Grammar",
+    "relation": "prerequisite"
+  }
+]

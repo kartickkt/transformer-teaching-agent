@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Transformer",
+    "target": "input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer",
+    "target": "Training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer",
+    "target": "train",
+    "relation": "prerequisite"
+  }
+]

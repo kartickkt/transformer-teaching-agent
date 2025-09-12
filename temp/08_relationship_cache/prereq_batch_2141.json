@@ -1,0 +1,17 @@
+[
+  {
+    "source": "models",
+    "target": "evaluate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "algorithms",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "stochastic optimization",
+    "relation": "prerequisite"
+  }
+]

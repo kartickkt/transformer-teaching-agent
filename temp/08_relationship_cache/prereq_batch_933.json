@@ -1,0 +1,12 @@
+[
+  {
+    "source": "end-to-end memory networks",
+    "target": "model architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "end-to-end memory networks",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  }
+]

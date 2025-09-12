@@ -1,0 +1,17 @@
+[
+  {
+    "source": "sequence transduction models",
+    "target": "state-of-the-art models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction models",
+    "target": "big models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction models",
+    "target": "single model",
+    "relation": "prerequisite"
+  }
+]

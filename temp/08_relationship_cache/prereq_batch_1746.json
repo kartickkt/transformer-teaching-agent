@@ -1,0 +1,27 @@
+[
+  {
+    "source": "attention distributions",
+    "target": "Attention Is All You Need",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention distributions",
+    "target": "attention mechanism",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention distributions",
+    "target": "self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention distributions",
+    "target": "scaled dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention distributions",
+    "target": "multi-head attention",
+    "relation": "prerequisite"
+  }
+]

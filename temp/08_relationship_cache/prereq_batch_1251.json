@@ -1,0 +1,27 @@
+[
+  {
+    "source": "recurrent layer",
+    "target": "recurrent attention mechanism",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent layer",
+    "target": "sub-layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent layer",
+    "target": "self-attention sub-layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent layer",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent layer",
+    "target": "parallel attention layers",
+    "relation": "prerequisite"
+  }
+]

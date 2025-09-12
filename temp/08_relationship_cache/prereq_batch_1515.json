@@ -1,0 +1,17 @@
+[
+  {
+    "source": "linear transformations",
+    "target": "linear function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear transformations",
+    "target": "relative positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear transformations",
+    "target": "align and translate",
+    "relation": "prerequisite"
+  }
+]

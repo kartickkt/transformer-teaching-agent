@@ -1,0 +1,22 @@
+[
+  {
+    "source": "encoder-decoder architectures",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder architectures",
+    "target": "Transformer architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder architectures",
+    "target": "Multi-task sequence to sequence learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder architectures",
+    "target": "sequence transduction encoder",
+    "relation": "prerequisite"
+  }
+]

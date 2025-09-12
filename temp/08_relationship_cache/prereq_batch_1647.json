@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sub-layers",
+    "target": "per-layer complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layers",
+    "target": "Layer Type Complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layers",
+    "target": "total computational complexity per layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layers",
+    "target": "layer types",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layers",
+    "target": "base models",
+    "relation": "prerequisite"
+  }
+]

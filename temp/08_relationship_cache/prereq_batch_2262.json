@@ -1,0 +1,22 @@
+[
+  {
+    "source": "dmodel",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel",
+    "target": "decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  }
+]

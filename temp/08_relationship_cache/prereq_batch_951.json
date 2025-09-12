@@ -1,0 +1,7 @@
+[
+  {
+    "source": "connected layers",
+    "target": "convolutional neural networks",
+    "relation": "prerequisite"
+  }
+]

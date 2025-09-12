@@ -1,0 +1,27 @@
+[
+  {
+    "source": "tensor2tensor",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensor2tensor",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensor2tensor",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensor2tensor",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensor2tensor",
+    "target": "convolutional layer",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Advances in Neural Information Processing Systems",
+    "target": "2009 Conference on Empirical Methods in Natural Language Processing",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Advances in Neural Information Processing Systems",
+    "target": "Effective approaches to attention-based neural machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Advances in Neural Information Processing Systems",
+    "target": "Human Language Technology Conference",
+    "relation": "prerequisite"
+  }
+]

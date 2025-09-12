@@ -1,0 +1,17 @@
+[
+  {
+    "source": "fully connected feed-forward network",
+    "target": "Transformer architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fully connected feed-forward network",
+    "target": "scaled dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fully connected feed-forward network",
+    "target": "multi-head attention",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "tables",
+    "target": "images",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tables",
+    "target": "evaluate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tables",
+    "target": "tree annotation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tables",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "figures",
+    "target": "tables",
+    "relation": "prerequisite"
+  }
+]

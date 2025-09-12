@@ -1,0 +1,22 @@
+[
+  {
+    "source": "dot-product attention",
+    "target": "softmax function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dot-product attention",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dot-product attention",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dot-product attention",
+    "target": "Attention Is All You Need",
+    "relation": "prerequisite"
+  }
+]

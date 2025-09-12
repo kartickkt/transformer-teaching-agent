@@ -1,0 +1,12 @@
+[
+  {
+    "source": "sequential computation",
+    "target": "auto-regressive",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "order of the sequence",
+    "relation": "prerequisite"
+  }
+]

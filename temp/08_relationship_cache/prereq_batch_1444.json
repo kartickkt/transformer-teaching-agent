@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Multi-task sequence to sequence learning",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Multi-task sequence to sequence learning",
+    "target": "learning task-independent sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Multi-task sequence to sequence learning",
+    "target": "end-to-end memory networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Multi-task sequence to sequence learning",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Multi-task sequence to sequence learning",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  }
+]

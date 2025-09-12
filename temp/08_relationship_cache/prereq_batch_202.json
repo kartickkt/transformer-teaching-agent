@@ -1,0 +1,27 @@
+[
+  {
+    "source": "query",
+    "target": "output positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "query",
+    "target": "tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "query",
+    "target": "input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "query",
+    "target": "params",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "query",
+    "target": "code",
+    "relation": "prerequisite"
+  }
+]

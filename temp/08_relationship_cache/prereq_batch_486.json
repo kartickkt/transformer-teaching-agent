@@ -1,0 +1,17 @@
+[
+  {
+    "source": "input positions",
+    "target": "positional embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input positions",
+    "target": "attention function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input positions",
+    "target": "attention distributions",
+    "relation": "prerequisite"
+  }
+]

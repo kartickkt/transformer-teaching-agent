@@ -1,0 +1,17 @@
+[
+  {
+    "source": "vocabulary",
+    "target": "queries",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "vocabulary",
+    "target": "vectors",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "vocabulary",
+    "target": "values",
+    "relation": "prerequisite"
+  }
+]

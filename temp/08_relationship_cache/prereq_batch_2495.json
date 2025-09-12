@@ -1,0 +1,17 @@
+[
+  {
+    "source": "neural machine translation architectures",
+    "target": "Transformer models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural machine translation architectures",
+    "target": "sequence transduction models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural machine translation architectures",
+    "target": "sequence transduction encoder",
+    "relation": "prerequisite"
+  }
+]

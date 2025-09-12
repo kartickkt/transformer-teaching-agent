@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Positional Encoding",
+    "target": "sequence transduction encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Positional Encoding",
+    "target": "averaging attention-weighted positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Positional Encoding",
+    "target": "distance between positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Positional Encoding",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Positional Encoding",
+    "target": "sentence representations",
+    "relation": "prerequisite"
+  }
+]

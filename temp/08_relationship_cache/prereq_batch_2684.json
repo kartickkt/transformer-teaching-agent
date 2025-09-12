@@ -1,0 +1,7 @@
+[
+  {
+    "source": "English-to-German base translation model",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  }
+]

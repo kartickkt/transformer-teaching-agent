@@ -1,0 +1,27 @@
+[
+  {
+    "source": "output positions",
+    "target": "dot products",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output positions",
+    "target": "dot product",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output positions",
+    "target": "heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output positions",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output positions",
+    "target": "tokens",
+    "relation": "prerequisite"
+  }
+]

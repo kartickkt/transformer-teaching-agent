@@ -1,0 +1,17 @@
+[
+  {
+    "source": "decomposable attention model",
+    "target": "attention function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decomposable attention model",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decomposable attention model",
+    "target": "Attention(Q, K, V)",
+    "relation": "prerequisite"
+  }
+]

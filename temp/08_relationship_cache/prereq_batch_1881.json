@@ -1,0 +1,27 @@
+[
+  {
+    "source": "memory constraints",
+    "target": "structural challenges",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "memory constraints",
+    "target": "task-specific tuning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "memory constraints",
+    "target": "corrections",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "memory constraints",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "memory constraints",
+    "target": "limited training data",
+    "relation": "prerequisite"
+  }
+]

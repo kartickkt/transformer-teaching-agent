@@ -1,0 +1,17 @@
+[
+  {
+    "source": "query",
+    "target": "parsing",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "query",
+    "target": "ACL",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "query",
+    "target": "application",
+    "relation": "prerequisite"
+  }
+]

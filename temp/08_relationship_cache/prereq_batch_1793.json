@@ -1,0 +1,22 @@
+[
+  {
+    "source": "active memory",
+    "target": "memory keys and values",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "active memory",
+    "target": "tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "active memory",
+    "target": "vocabulary",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "active memory",
+    "target": "residual",
+    "relation": "prerequisite"
+  }
+]

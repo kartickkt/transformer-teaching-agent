@@ -1,0 +1,7 @@
+[
+  {
+    "source": "attention-based models",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  }
+]

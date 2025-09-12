@@ -1,0 +1,12 @@
+[
+  {
+    "source": "existing best results",
+    "target": "best models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "existing best results",
+    "target": "state-of-the-art models",
+    "relation": "prerequisite"
+  }
+]

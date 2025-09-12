@@ -1,0 +1,12 @@
+[
+  {
+    "source": "restricted self-attention",
+    "target": "intra-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "restricted self-attention",
+    "target": "multi-head attention",
+    "relation": "prerequisite"
+  }
+]

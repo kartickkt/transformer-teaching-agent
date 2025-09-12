@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Structured attention networks",
+    "target": "self-attention sub-layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Structured attention networks",
+    "target": "attention function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Structured attention networks",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Structured attention networks",
+    "target": "Attention(Q, K, V)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Structured attention networks",
+    "target": "additive attention",
+    "relation": "prerequisite"
+  }
+]

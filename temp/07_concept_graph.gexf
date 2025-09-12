@@ -1,0 +1,550 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-09-11">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="tables" label="tables" />
+      <node id="figures" label="figures" />
+      <node id="network architecture" label="network architecture" />
+      <node id="recurrence" label="recurrence" />
+      <node id="quality" label="quality" />
+      <node id="significantly" label="significantly" />
+      <node id="existing best results" label="existing best results" />
+      <node id="ensembles" label="ensembles" />
+      <node id="literature" label="literature" />
+      <node id="visualizations" label="visualizations" />
+      <node id="cs.CL" label="cs.CL" />
+      <node id="symbol positions" label="symbol positions" />
+      <node id="hidden" label="hidden" />
+      <node id="previous hidden state htâˆ’1" label="previous hidden state htâˆ’1" />
+      <node id="input for position t" label="input for position t" />
+      <node id="sequential nature" label="sequential nature" />
+      <node id="batching" label="batching" />
+      <node id="conditional computation" label="conditional computation" />
+      <node id="global dependencies" label="global dependencies" />
+      <node id="state of the art" label="state of the art" />
+      <node id="dependencies" label="dependencies" />
+      <node id="effective resolution" label="effective resolution" />
+      <node id="representation of the sequence" label="representation of the sequence" />
+      <node id="abstractive summarization" label="abstractive summarization" />
+      <node id="symbol representations" label="symbol representations" />
+      <node id="output" label="output" />
+      <node id="auto-regressive" label="auto-regressive" />
+      <node id="point-wise" label="point-wise" />
+      <node id="stack" label="stack" />
+      <node id="simple, position-" label="simple, position-" />
+      <node id="residual connection" label="residual connection" />
+      <node id="LayerNorm" label="LayerNorm" />
+      <node id="masking" label="masking" />
+      <node id="predictions" label="predictions" />
+      <node id="position" label="position" />
+      <node id="known outputs" label="known outputs" />
+      <node id="query" label="query" />
+      <node id="key-value pairs" label="key-value pairs" />
+      <node id="vectors" label="vectors" />
+      <node id="weighted sum" label="weighted sum" />
+      <node id="compatibility function" label="compatibility function" />
+      <node id="queries" label="queries" />
+      <node id="keys" label="keys" />
+      <node id="values" label="values" />
+      <node id="dot products" label="dot products" />
+      <node id="matrices K and V" label="matrices K and V" />
+      <node id="scaling" label="scaling" />
+      <node id="gradients" label="gradients" />
+      <node id="independent random variables" label="independent random variables" />
+      <node id="mean" label="mean" />
+      <node id="variance" label="variance" />
+      <node id="dot product" label="dot product" />
+      <node id="Concat(head1, ..., headh)WO" label="Concat(head1, ..., headh)WO" />
+      <node id="Concat" label="Concat" />
+      <node id="head1" label="head1" />
+      <node id="headh" label="headh" />
+      <node id="heads" label="heads" />
+      <node id="memory keys and values" label="memory keys and values" />
+      <node id="leftward" label="leftward" />
+      <node id="information flow" label="information flow" />
+      <node id="illegal connections" label="illegal connections" />
+      <node id="fully" label="fully" />
+      <node id="parameters" label="parameters" />
+      <node id="tokens" label="tokens" />
+      <node id="output tokens" label="output tokens" />
+      <node id="weights" label="weights" />
+      <node id="Sequential" label="Sequential" />
+      <node id="order of the sequence" label="order of the sequence" />
+      <node id="sine functions" label="sine functions" />
+      <node id="cosine functions" label="cosine functions" />
+      <node id="frequencies" label="frequencies" />
+      <node id="P E(pos,2i)" label="P E(pos,2i)" />
+      <node id="pos" label="pos" />
+      <node id="sinusoid" label="sinusoid" />
+      <node id="wavelengths" label="wavelengths" />
+      <node id="geometric progression" label="geometric progression" />
+      <node id="function" label="function" />
+      <node id="relative positions" label="relative positions" />
+      <node id="P Epos+k" label="P Epos+k" />
+      <node id="linear function" label="linear function" />
+      <node id="P Epos" label="P Epos" />
+      <node id="versions" label="versions" />
+      <node id="sinusoidal version" label="sinusoidal version" />
+      <node id="convolu-" label="convolu-" />
+      <node id="sequence" label="sequence" />
+      <node id="desiderata" label="desiderata" />
+      <node id="backward signals" label="backward signals" />
+      <node id="network" label="network" />
+      <node id="long-range dependencies" label="long-range dependencies" />
+      <node id="input positions" label="input positions" />
+      <node id="output positions" label="output positions" />
+      <node id="byte-pair" label="byte-pair" />
+      <node id="tasks" label="tasks" />
+      <node id="input" label="input" />
+      <node id="dilated convolutions" label="dilated convolutions" />
+      <node id="Training" label="Training" />
+      <node id="Hardware and Schedule" label="Hardware and Schedule" />
+      <node id="hyperparameters" label="hyperparameters" />
+      <node id="step time" label="step time" />
+      <node id="Regularization" label="Regularization" />
+      <node id="normalized" label="normalized" />
+      <node id="dropout" label="dropout" />
+      <node id="Pdrop" label="Pdrop" />
+      <node id="label smoothing" label="label smoothing" />
+      <node id="Ïµls" label="Ïµls" />
+      <node id="perplexity" label="perplexity" />
+      <node id="accuracy" label="accuracy" />
+      <node id="dropout rate" label="dropout rate" />
+      <node id="beam search" label="beam search" />
+      <node id="training time" label="training time" />
+      <node id="P_drop" label="P_drop" />
+      <node id="train" label="train" />
+      <node id="params" label="params" />
+      <node id="development set" label="development set" />
+      <node id="checkpoint averaging" label="checkpoint averaging" />
+      <node id="attention key and value dimensions" label="attention key and value dimensions" />
+      <node id="sinusoidal positional encoding" label="sinusoidal positional encoding" />
+      <node id="structural challenges" label="structural challenges" />
+      <node id="state-of-the-art results" label="state-of-the-art results" />
+      <node id="vocabulary" label="vocabulary" />
+      <node id="residual" label="residual" />
+      <node id="inference" label="inference" />
+      <node id="discriminative" label="discriminative" />
+      <node id="generative" label="generative" />
+      <node id="task-specific tuning" label="task-specific tuning" />
+      <node id="input and output modalities" label="input and output modalities" />
+      <node id="images" label="images" />
+      <node id="audio" label="audio" />
+      <node id="video" label="video" />
+      <node id="research goals" label="research goals" />
+      <node id="code" label="code" />
+      <node id="evaluate" label="evaluate" />
+      <node id="comments" label="comments" />
+      <node id="corrections" label="corrections" />
+      <node id="inspiration" label="inspiration" />
+      <node id="References" label="References" />
+      <node id="align and translate" label="align and translate" />
+      <node id="machine reading" label="machine reading" />
+      <node id="Xception" label="Xception" />
+      <node id="empirical evaluation" label="empirical evaluation" />
+      <node id="Recognition" label="Recognition" />
+      <node id="algorithms" label="algorithms" />
+      <node id="linear time" label="linear time" />
+      <node id="stochastic optimization" label="stochastic optimization" />
+      <node id="parsing" label="parsing" />
+      <node id="tree annotation" label="tree annotation" />
+      <node id="ACL" label="ACL" />
+      <node id="preprint" label="preprint" />
+      <node id="inception architecture" label="inception architecture" />
+      <node id="CoRR" label="CoRR" />
+      <node id="fast-forward connections" label="fast-forward connections" />
+      <node id="pages 434â€“443" label="pages 434â€“443" />
+      <node id="laws" label="laws" />
+      <node id="registration" label="registration" />
+      <node id="voting process" label="voting process" />
+      <node id="verb â€˜makingâ€™" label="verb â€˜makingâ€™" />
+      <node id="phrase â€˜making...more difficultâ€™" label="phrase â€˜making...more difficultâ€™" />
+      <node id="anaphora resolution" label="anaphora resolution" />
+      <node id="application" label="application" />
+      <node id="convolutional neural networks" label="convolutional neural networks" />
+      <node id="encoder" label="encoder" />
+      <node id="decoder" label="decoder" />
+      <node id="convolutions" label="convolutions" />
+      <node id="limited training data" label="limited training data" />
+      <node id="parameter-free position representation" label="parameter-free position representation" />
+      <node id="tensor2tensor" label="tensor2tensor" />
+      <node id="efficient inference" label="efficient inference" />
+      <node id="encoder-decoder architectures" label="encoder-decoder architectures" />
+      <node id="input sequences" label="input sequences" />
+      <node id="output sequences" label="output sequences" />
+      <node id="ConvS2S" label="ConvS2S" />
+      <node id="hidden representations" label="hidden representations" />
+      <node id="learning task-independent sentence representations" label="learning task-independent sentence representations" />
+      <node id="end-to-end memory networks" label="end-to-end memory networks" />
+      <node id="continuous representations" label="continuous representations" />
+      <node id="connected layers" label="connected layers" />
+      <node id="fully connected feed-forward network" label="fully connected feed-forward network" />
+      <node id="layer normalization" label="layer normalization" />
+      <node id="embedding" label="embedding" />
+      <node id="encoder stack" label="encoder stack" />
+      <node id="output embeddings" label="output embeddings" />
+      <node id="softmax function" label="softmax function" />
+      <node id="softmax" label="softmax" />
+      <node id="feed-forward network" label="feed-forward network" />
+      <node id="single hidden layer" label="single hidden layer" />
+      <node id="learned linear projections" label="learned linear projections" />
+      <node id="encoder-decoder attention" label="encoder-decoder attention" />
+      <node id="decoder layer" label="decoder layer" />
+      <node id="sequence-to-sequence models" label="sequence-to-sequence models" />
+      <node id="Position-wise Feed-Forward Networks" label="Position-wise Feed-Forward Networks" />
+      <node id="ReLU activation" label="ReLU activation" />
+      <node id="Embeddings" label="Embeddings" />
+      <node id="learned embeddings" label="learned embeddings" />
+      <node id="decoder output" label="decoder output" />
+      <node id="predicted next-token probabilities" label="predicted next-token probabilities" />
+      <node id="embedding layers" label="embedding layers" />
+      <node id="pre-softmax" label="pre-softmax" />
+      <node id="Positional Encoding" label="Positional Encoding" />
+      <node id="decoder stacks" label="decoder stacks" />
+      <node id="hidden layer" label="hidden layer" />
+      <node id="recurrent layer" label="recurrent layer" />
+      <node id="convolutional layer" label="convolutional layer" />
+      <node id="Separable convolutions" label="Separable convolutions" />
+      <node id="point-wise feed-forward layer" label="point-wise feed-forward layer" />
+      <node id="learning rate" label="learning rate" />
+      <node id="Deep-Att + PosUnk Ensemble" label="Deep-Att + PosUnk Ensemble" />
+      <node id="ConvS2S Ensemble" label="ConvS2S Ensemble" />
+      <node id="Residual Dropout" label="Residual Dropout" />
+      <node id="positional embedding" label="positional embedding" />
+      <node id="over-fitting" label="over-fitting" />
+      <node id="semi-supervised setting" label="semi-supervised setting" />
+      <node id="previously reported ensembles" label="previously reported ensembles" />
+      <node id="tensorflow" label="tensorflow" />
+      <node id="learning phrase representations" label="learning phrase representations" />
+      <node id="rnn encoder-decoder" label="rnn encoder-decoder" />
+      <node id="deep learning" label="deep learning" />
+      <node id="Convolutional sequence to sequence learning" label="Convolutional sequence to sequence learning" />
+      <node id="Deep residual learning" label="Deep residual learning" />
+      <node id="image recognition" label="image recognition" />
+      <node id="International Conference on Learning Representations" label="International Conference on Learning Representations" />
+      <node id="Learning Representations" label="Learning Representations" />
+      <node id="Factorization tricks for LSTM networks" label="Factorization tricks for LSTM networks" />
+      <node id="structured self-attentive sentence embedding" label="structured self-attentive sentence embedding" />
+      <node id="Multi-task sequence to sequence learning" label="Multi-task sequence to sequence learning" />
+      <node id="self-training" label="self-training" />
+      <node id="deep reinforced model for abstractive summarization" label="deep reinforced model for abstractive summarization" />
+      <node id="sparsely-gated mixture-of-experts" label="sparsely-gated mixture-of-experts" />
+      <node id="Input-Input Layer5" label="Input-Input Layer5" />
+      <node id="sequence transduction models" label="sequence transduction models" />
+      <node id="Transformer" label="Transformer" />
+      <node id="Transformer models" label="Transformer models" />
+      <node id="transduction problems" label="transduction problems" />
+      <node id="transduc" label="transduc" />
+      <node id="linear transformations" label="linear transformations" />
+      <node id="learned linear transformation" label="learned linear transformation" />
+      <node id="sequence transduction encoder" label="sequence transduction encoder" />
+      <node id="sequence transduction tasks" label="sequence transduction tasks" />
+      <node id="forward signals" label="forward signals" />
+      <node id="Transformer (base model)" label="Transformer (base model)" />
+      <node id="Transformer (big)" label="Transformer (big)" />
+      <node id="big transformer model" label="big transformer model" />
+      <node id="Transformer architecture" label="Transformer architecture" />
+      <node id="4-layer transformer" label="4-layer transformer" />
+      <node id="Attention Is All You Need" label="Attention Is All You Need" />
+      <node id="attention mechanism" label="attention mechanism" />
+      <node id="self-attention" label="self-attention" />
+      <node id="scaled dot-product attention" label="scaled dot-product attention" />
+      <node id="multi-head attention" label="multi-head attention" />
+      <node id="long short-term memory" label="long short-term memory" />
+      <node id="averaging attention-weighted positions" label="averaging attention-weighted positions" />
+      <node id="intra-attention" label="intra-attention" />
+      <node id="recurrent attention mechanism" label="recurrent attention mechanism" />
+      <node id="sub-layers" label="sub-layers" />
+      <node id="self-attention sub-layer" label="self-attention sub-layer" />
+      <node id="attention function" label="attention function" />
+      <node id="attention layers" label="attention layers" />
+      <node id="Attention(Q, K, V)" label="Attention(Q, K, V)" />
+      <node id="additive attention" label="additive attention" />
+      <node id="dot-product attention" label="dot-product attention" />
+      <node id="single attention head" label="single attention head" />
+      <node id="MultiHead" label="MultiHead" />
+      <node id="Attention" label="Attention" />
+      <node id="parallel attention layers" label="parallel attention layers" />
+      <node id="previous layer" label="previous layer" />
+      <node id="restricted self-attention" label="restricted self-attention" />
+      <node id="attention distributions" label="attention distributions" />
+      <node id="sub-layer input" label="sub-layer input" />
+      <node id="attention heads" label="attention heads" />
+      <node id="multi-task" label="multi-task" />
+      <node id="attention-based models" label="attention-based models" />
+      <node id="local, restricted attention mechanisms" label="local, restricted attention mechanisms" />
+      <node id="active memory" label="active memory" />
+      <node id="Structured attention networks" label="Structured attention networks" />
+      <node id="decomposable attention model" label="decomposable attention model" />
+      <node id="encoder self-attention" label="encoder self-attention" />
+      <node id="layer 5" label="layer 5" />
+      <node id="parallelizable" label="parallelizable" />
+      <node id="eight GPUs" label="eight GPUs" />
+      <node id="original codebase" label="original codebase" />
+      <node id="computation" label="computation" />
+      <node id="computation time" label="computation time" />
+      <node id="parallelization" label="parallelization" />
+      <node id="sequence lengths" label="sequence lengths" />
+      <node id="memory constraints" label="memory constraints" />
+      <node id="computational efficiency" label="computational efficiency" />
+      <node id="factorization tricks" label="factorization tricks" />
+      <node id="sequential computation" label="sequential computation" />
+      <node id="eight P100 GPUs" label="eight P100 GPUs" />
+      <node id="ByteNet" label="ByteNet" />
+      <node id="distance between positions" label="distance between positions" />
+      <node id="number of operations" label="number of operations" />
+      <node id="sequence-aligned recurrence" label="sequence-aligned recurrence" />
+      <node id="N = 6 identical layers" label="N = 6 identical layers" />
+      <node id="scaling factor" label="scaling factor" />
+      <node id="theoretical complexity" label="theoretical complexity" />
+      <node id="space-efficient" label="space-efficient" />
+      <node id="matrix multiplication code" label="matrix multiplication code" />
+      <node id="kernel size 1" label="kernel size 1" />
+      <node id="512" label="512" />
+      <node id="2048" label="2048" />
+      <node id="maximum path lengths" label="maximum path lengths" />
+      <node id="per-layer complexity" label="per-layer complexity" />
+      <node id="minimum number of sequential operations" label="minimum number of sequential operations" />
+      <node id="size of the neighborhood" label="size of the neighborhood" />
+      <node id="Layer Type Complexity" label="Layer Type Complexity" />
+      <node id="fixed offset k" label="fixed offset k" />
+      <node id="total computational complexity per layer" label="total computational complexity per layer" />
+      <node id="amount of computation that can be parallelized" label="amount of computation that can be parallelized" />
+      <node id="path length between long-range dependencies in the network" label="path length between long-range dependencies in the network" />
+      <node id="length of the paths" label="length of the paths" />
+      <node id="constant number of sequentially executed operations" label="constant number of sequentially executed operations" />
+      <node id="O(n) sequential operations" label="O(n) sequential operations" />
+      <node id="computational complexity" label="computational complexity" />
+      <node id="sequence length n" label="sequence length n" />
+      <node id="computational performance" label="computational performance" />
+      <node id="neighborhood of size r" label="neighborhood of size r" />
+      <node id="O(n/r)" label="O(n/r)" />
+      <node id="kernel width k" label="kernel width k" />
+      <node id="O(logk(n))" label="O(logk(n))" />
+      <node id="37000 tokens" label="37000 tokens" />
+      <node id="25000 source tokens" label="25000 source tokens" />
+      <node id="25000 target tokens" label="25000 target tokens" />
+      <node id="100,000 steps" label="100,000 steps" />
+      <node id="step_numâˆ’0.5" label="step_numâˆ’0.5" />
+      <node id="warmup_stepsâˆ’1.5" label="warmup_stepsâˆ’1.5" />
+      <node id="FLOPs" label="FLOPs" />
+      <node id="averaging the last 5 checkpoints" label="averaging the last 5 checkpoints" />
+      <node id="length penalty" label="length penalty" />
+      <node id="maximum output length" label="maximum output length" />
+      <node id="input length" label="input length" />
+      <node id="floating point operations" label="floating point operations" />
+      <node id="number of GPUs" label="number of GPUs" />
+      <node id="sustained single-precision floating-point capacity" label="sustained single-precision floating-point capacity" />
+      <node id="TFLOPS" label="TFLOPS" />
+      <node id="1024" label="1024" />
+      <node id="attention key size dk" label="attention key size dk" />
+      <node id="16K tokens" label="16K tokens" />
+      <node id="large inputs and outputs" label="large inputs and outputs" />
+      <node id="models" label="models" />
+      <node id="training costs" label="training costs" />
+      <node id="best models" label="best models" />
+      <node id="large training data" label="large training data" />
+      <node id="model variants" label="model variants" />
+      <node id="sequence modeling" label="sequence modeling" />
+      <node id="language modeling" label="language modeling" />
+      <node id="training examples" label="training examples" />
+      <node id="model performance" label="model performance" />
+      <node id="model architecture" label="model architecture" />
+      <node id="dimension dk" label="dimension dk" />
+      <node id="matrix Q" label="matrix Q" />
+      <node id="dmodel-dimensional keys" label="dmodel-dimensional keys" />
+      <node id="parameter matrices" label="parameter matrices" />
+      <node id="dmodel" label="dmodel" />
+      <node id="dimensionality" label="dimensionality" />
+      <node id="vectors of dimension dmodel" label="vectors of dimension dmodel" />
+      <node id="weight matrix" label="weight matrix" />
+      <node id="âˆšdmodel" label="âˆšdmodel" />
+      <node id="layer types" label="layer types" />
+      <node id="representation dimension" label="representation dimension" />
+      <node id="dimension dmodel" label="dimension dmodel" />
+      <node id="dimension" label="dimension" />
+      <node id="state-of-the-art models" label="state-of-the-art models" />
+      <node id="Training Data" label="Training Data" />
+      <node id="training batch" label="training batch" />
+      <node id="base models" label="base models" />
+      <node id="big models" label="big models" />
+      <node id="single model" label="single model" />
+      <node id="model quality" label="model quality" />
+      <node id="dmodel = 1024" label="dmodel = 1024" />
+      <node id="Google Brain" label="Google Brain" />
+      <node id="Google Research" label="Google Research" />
+      <node id="complex recurrent neural networks" label="complex recurrent neural networks" />
+      <node id="RNNs" label="RNNs" />
+      <node id="31st Conference on Neural Information Processing Systems (NIPS 2017)" label="31st Conference on Neural Information Processing Systems (NIPS 2017)" />
+      <node id="arXiv:1706.03762v7" label="arXiv:1706.03762v7" />
+      <node id="gated recurrent neural networks" label="gated recurrent neural networks" />
+      <node id="recurrent language models" label="recurrent language models" />
+      <node id="Extended Neural GPU" label="Extended Neural GPU" />
+      <node id="Recurrent" label="Recurrent" />
+      <node id="GNMT + RL" label="GNMT + RL" />
+      <node id="RNN sequence-to-sequence models" label="RNN sequence-to-sequence models" />
+      <node id="Recurrent Neural Network Grammar" label="Recurrent Neural Network Grammar" />
+      <node id="neural machine translation architectures" label="neural machine translation architectures" />
+      <node id="Long short-term memory-networks" label="Long short-term memory-networks" />
+      <node id="NAACL" label="NAACL" />
+      <node id="arXiv" label="arXiv" />
+      <node id="Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition" label="Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition" />
+      <node id="Gradient flow in recurrent nets" label="Gradient flow in recurrent nets" />
+      <node id="Neural computation" label="Neural computation" />
+      <node id="Advances in Neural Information Processing Systems" label="Advances in Neural Information Processing Systems" />
+      <node id="Outrageously large neural networks" label="Outrageously large neural networks" />
+      <node id="neural networks" label="neural networks" />
+      <node id="Journal of Machine Learning Research" label="Journal of Machine Learning Research" />
+      <node id="Sequence to sequence learning with neural networks" label="Sequence to sequence learning with neural networks" />
+      <node id="computer vision" label="computer vision" />
+      <node id="Deep recurrent models" label="Deep recurrent models" />
+      <node id="machine translation tasks" label="machine translation tasks" />
+      <node id="WMT 2014 English-to-German translation task" label="WMT 2014 English-to-German translation task" />
+      <node id="28.4 BLEU" label="28.4 BLEU" />
+      <node id="WMT 2014 English-to-French translation task" label="WMT 2014 English-to-French translation task" />
+      <node id="English constituency parsing" label="English constituency parsing" />
+      <node id="translation quality" label="translation quality" />
+      <node id="reading comprehension" label="reading comprehension" />
+      <node id="textual entailment" label="textual entailment" />
+      <node id="simple-language question answering" label="simple-language question answering" />
+      <node id="sentence representations" label="sentence representations" />
+      <node id="word-piece" label="word-piece" />
+      <node id="4.5 million sentence pairs" label="4.5 million sentence pairs" />
+      <node id="shared source-target vocabulary" label="shared source-target vocabulary" />
+      <node id="2014 English-French dataset" label="2014 English-French dataset" />
+      <node id="36M sentences" label="36M sentences" />
+      <node id="32000 word-piece vocabulary" label="32000 word-piece vocabulary" />
+      <node id="sentence pairs" label="sentence pairs" />
+      <node id="English-to-German" label="English-to-German" />
+      <node id="English-to-French" label="English-to-French" />
+      <node id="per-wordpiece" label="per-wordpiece" />
+      <node id="per-word perplexities" label="per-word perplexities" />
+      <node id="Penn Treebank" label="Penn Treebank" />
+      <node id="BerkleyParser corpora" label="BerkleyParser corpora" />
+      <node id="17M sentences" label="17M sentences" />
+      <node id="English-to-German base translation model" label="English-to-German base translation model" />
+      <node id="Parser Training" label="Parser Training" />
+      <node id="statistical machine translation" label="statistical machine translation" />
+      <node id="Self-training PCFG grammars with latent annotations across languages" label="Self-training PCFG grammars with latent annotations across languages" />
+      <node id="2009 Conference on Empirical Methods in Natural Language Processing" label="2009 Conference on Empirical Methods in Natural Language Processing" />
+      <node id="Effective approaches to attention-based neural machine translation" label="Effective approaches to attention-based neural machine translation" />
+      <node id="Computational linguistics" label="Computational linguistics" />
+      <node id="Human Language Technology Conference" label="Human Language Technology Conference" />
+      <node id="Empirical Methods in Natural Language Processing" label="Empirical Methods in Natural Language Processing" />
+      <node id="21st International Conference on Computational Linguistics" label="21st International Conference on Computational Linguistics" />
+      <node id="Neural machine translation of rare words with subword units" label="Neural machine translation of rare words with subword units" />
+      <node id="Grammar as a foreign language" label="Grammar as a foreign language" />
+      <node id="Googleâ€™s neural machine translation system" label="Googleâ€™s neural machine translation system" />
+      <node id="human and machine translation" label="human and machine translation" />
+      <node id="fast and accurate shift-reduce constituent parsing" label="fast and accurate shift-reduce constituent parsing" />
+      <node id="Proceedings of the 51st Annual Meeting of the ACL" label="Proceedings of the 51st Annual Meeting of the ACL" />
+    </nodes>
+    <edges>
+      <edge source="symbol positions" target="symbol representations" id="0" weight="0.7945714884163622" />
+      <edge source="global dependencies" target="long-range dependencies" id="1" weight="0.7075865550033401" />
+      <edge source="abstractive summarization" target="deep reinforced model for abstractive summarization" id="2" weight="0.7744161148034691" />
+      <edge source="residual connection" target="residual" id="3" weight="0.7325738741941421" />
+      <edge source="query" target="queries" id="4" weight="0.7828529526813144" />
+      <edge source="dot products" target="dot product" id="5" weight="0.7186921529310283" />
+      <edge source="dot product" target="dot-product attention" id="6" weight="0.7624691281966315" />
+      <edge source="parameters" target="params" id="7" weight="0.7891316425505459" />
+      <edge source="Sequential" target="sequence" id="8" weight="0.7374948113121842" />
+      <edge source="sinusoid" target="sinusoidal version" id="9" weight="0.7922516210134606" />
+      <edge source="P Epos+k" target="P Epos" id="10" weight="0.773453499760603" />
+      <edge source="backward signals" target="forward signals" id="11" weight="0.7790844280313673" />
+      <edge source="long-range dependencies" target="path length between long-range dependencies in the network" id="12" weight="0.7353103013533756" />
+      <edge source="Pdrop" target="P_drop" id="13" weight="0.7228572209851933" />
+      <edge source="convolutional neural networks" target="convolutional layer" id="14" weight="0.7785320666435628" />
+      <edge source="encoder" target="decoder" id="15" weight="0.713056684775896" />
+      <edge source="limited training data" target="large training data" id="16" weight="0.7961237189225011" />
+      <edge source="encoder-decoder architectures" target="encoder-decoder attention" id="17" weight="0.7424753099756749" />
+      <edge source="input sequences" target="output sequences" id="18" weight="0.7646568387429062" />
+      <edge source="ConvS2S" target="ConvS2S Ensemble" id="19" weight="0.7970117621148449" />
+      <edge source="learning task-independent sentence representations" target="learning phrase representations" id="20" weight="0.7284302559789374" />
+      <edge source="end-to-end memory networks" target="Long short-term memory-networks" id="21" weight="0.700944016422204" />
+      <edge source="connected layers" target="embedding layers" id="22" weight="0.7482130477917255" />
+      <edge source="connected layers" target="hidden layer" id="23" weight="0.7079850901680569" />
+      <edge source="connected layers" target="sub-layers" id="24" weight="0.7076546233354603" />
+      <edge source="connected layers" target="layer types" id="25" weight="0.7085173311355205" />
+      <edge source="fully connected feed-forward network" target="feed-forward network" id="26" weight="0.7742262415608823" />
+      <edge source="fully connected feed-forward network" target="Position-wise Feed-Forward Networks" id="27" weight="0.7475850240109694" />
+      <edge source="fully connected feed-forward network" target="point-wise feed-forward layer" id="28" weight="0.7329471990028015" />
+      <edge source="encoder stack" target="decoder stacks" id="29" weight="0.7544621003133348" />
+      <edge source="output embeddings" target="learned embeddings" id="30" weight="0.7032164385594023" />
+      <edge source="single hidden layer" target="hidden layer" id="31" weight="0.7967990942155571" />
+      <edge source="learned linear projections" target="learned linear transformation" id="32" weight="0.7596275408177634" />
+      <edge source="decoder layer" target="embedding layers" id="33" weight="0.7201459277791578" />
+      <edge source="decoder layer" target="hidden layer" id="34" weight="0.706616709440602" />
+      <edge source="sequence-to-sequence models" target="RNN sequence-to-sequence models" id="35" weight="0.7734286915395278" />
+      <edge source="Position-wise Feed-Forward Networks" target="point-wise feed-forward layer" id="36" weight="0.7556716912950248" />
+      <edge source="embedding layers" target="hidden layer" id="37" weight="0.764119642849281" />
+      <edge source="Positional Encoding" target="positional embedding" id="38" weight="0.7188422503657879" />
+      <edge source="hidden layer" target="previous layer" id="39" weight="0.7026292138832558" />
+      <edge source="deep learning" target="Deep residual learning" id="40" weight="0.743656633469625" />
+      <edge source="Convolutional sequence to sequence learning" target="Multi-task sequence to sequence learning" id="41" weight="0.7173971589256334" />
+      <edge source="Deep residual learning" target="Deep recurrent models" id="42" weight="0.7557787506772813" />
+      <edge source="Input-Input Layer5" target="sub-layer input" id="43" weight="0.726417825136148" />
+      <edge source="sequence transduction models" target="sequence transduction tasks" id="44" weight="0.7954712597298987" />
+      <edge source="Transformer" target="Transformer (big)" id="45" weight="0.7254189211614082" />
+      <edge source="Transformer models" target="Transformer (base model)" id="46" weight="0.7539086667015604" />
+      <edge source="Transformer models" target="big transformer model" id="47" weight="0.7017279130317885" />
+      <edge source="Transformer models" target="Transformer architecture" id="48" weight="0.7023704565171094" />
+      <edge source="linear transformations" target="learned linear transformation" id="49" weight="0.7146550845769619" />
+      <edge source="sequence transduction encoder" target="sequence transduction tasks" id="50" weight="0.7222871321914355" />
+      <edge source="Transformer (base model)" target="Transformer (big)" id="51" weight="0.7071123458572794" />
+      <edge source="Transformer (base model)" target="big transformer model" id="52" weight="0.7011179350594141" />
+      <edge source="attention mechanism" target="attention function" id="53" weight="0.7709426599707979" />
+      <edge source="self-attention" target="intra-attention" id="54" weight="0.7163029002956914" />
+      <edge source="self-attention" target="self-attention sub-layer" id="55" weight="0.7722435056410828" />
+      <edge source="self-attention" target="restricted self-attention" id="56" weight="0.7868393028090948" />
+      <edge source="scaled dot-product attention" target="dot-product attention" id="57" weight="0.7800820768286556" />
+      <edge source="long short-term memory" target="Long short-term memory-networks" id="58" weight="0.7174921991134184" />
+      <edge source="self-attention sub-layer" target="restricted self-attention" id="59" weight="0.7032302708024591" />
+      <edge source="parallelizable" target="parallelization" id="60" weight="0.7125137899887589" />
+      <edge source="eight GPUs" target="eight P100 GPUs" id="61" weight="0.791381036783475" />
+      <edge source="eight GPUs" target="number of GPUs" id="62" weight="0.7659267144135472" />
+      <edge source="computation" target="computation time" id="63" weight="0.7408254188394079" />
+      <edge source="sequence lengths" target="sequence length n" id="64" weight="0.7355863781988496" />
+      <edge source="computational efficiency" target="computational complexity" id="65" weight="0.7305521329831087" />
+      <edge source="computational efficiency" target="computational performance" id="66" weight="0.7924787289616904" />
+      <edge source="eight P100 GPUs" target="number of GPUs" id="67" weight="0.7056688234641122" />
+      <edge source="number of operations" target="minimum number of sequential operations" id="68" weight="0.72978263108158" />
+      <edge source="number of operations" target="constant number of sequentially executed operations" id="69" weight="0.7215593104286229" />
+      <edge source="2048" target="1024" id="70" weight="0.7487348812569278" />
+      <edge source="maximum path lengths" target="length of the paths" id="71" weight="0.7393914957218353" />
+      <edge source="per-layer complexity" target="total computational complexity per layer" id="72" weight="0.7519400050406052" />
+      <edge source="minimum number of sequential operations" target="constant number of sequentially executed operations" id="73" weight="0.7851343437148354" />
+      <edge source="minimum number of sequential operations" target="O(n) sequential operations" id="74" weight="0.7179997607101364" />
+      <edge source="size of the neighborhood" target="neighborhood of size r" id="75" weight="0.7115891270621468" />
+      <edge source="Layer Type Complexity" target="layer types" id="76" weight="0.7492192215966229" />
+      <edge source="computational complexity" target="computational performance" id="77" weight="0.7008133813169299" />
+      <edge source="37000 tokens" target="25000 source tokens" id="78" weight="0.7963737539574395" />
+      <edge source="37000 tokens" target="25000 target tokens" id="79" weight="0.7806798439267706" />
+      <edge source="37000 tokens" target="16K tokens" id="80" weight="0.7887968218150271" />
+      <edge source="25000 source tokens" target="25000 target tokens" id="81" weight="0.7687723991613075" />
+      <edge source="25000 source tokens" target="16K tokens" id="82" weight="0.717655169676773" />
+      <edge source="FLOPs" target="TFLOPS" id="83" weight="0.7709613144187948" />
+      <edge source="best models" target="state-of-the-art models" id="84" weight="0.7095857682345711" />
+      <edge source="best models" target="big models" id="85" weight="0.7765849151608066" />
+      <edge source="model variants" target="model quality" id="86" weight="0.7030323400449621" />
+      <edge source="sequence modeling" target="language modeling" id="87" weight="0.7496329453602724" />
+      <edge source="model performance" target="model quality" id="88" weight="0.796591610000376" />
+      <edge source="dmodel" target="âˆšdmodel" id="89" weight="0.7350125723650854" />
+      <edge source="dmodel" target="dimension dmodel" id="90" weight="0.7374939616113905" />
+      <edge source="dmodel" target="dmodel = 1024" id="91" weight="0.712016782731131" />
+      <edge source="complex recurrent neural networks" target="gated recurrent neural networks" id="92" weight="0.7989487443389006" />
+      <edge source="complex recurrent neural networks" target="Deep recurrent models" id="93" weight="0.728084138895479" />
+      <edge source="RNNs" target="RNN sequence-to-sequence models" id="94" weight="0.7415149560937279" />
+      <edge source="arXiv:1706.03762v7" target="arXiv" id="95" weight="0.7559134588784824" />
+      <edge source="machine translation tasks" target="human and machine translation" id="96" weight="0.7440283881806578" />
+      <edge source="WMT 2014 English-to-German translation task" target="WMT 2014 English-to-French translation task" id="97" weight="0.7849078299931966" />
+      <edge source="word-piece" target="per-wordpiece" id="98" weight="0.7864080275558984" />
+      <edge source="statistical machine translation" target="human and machine translation" id="99" weight="0.7160186304565661" />
+      <edge source="2009 Conference on Empirical Methods in Natural Language Processing" target="Empirical Methods in Natural Language Processing" id="100" weight="0.7396716904333787" />
+      <edge source="Computational linguistics" target="21st International Conference on Computational Linguistics" id="101" weight="0.7097998849107515" />
+    </edges>
+  </graph>
+</gexf>

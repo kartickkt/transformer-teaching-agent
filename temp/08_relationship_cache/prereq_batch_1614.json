@@ -1,0 +1,27 @@
+[
+  {
+    "source": "long short-term memory",
+    "target": "restricted self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "long short-term memory",
+    "target": "local, restricted attention mechanisms",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "long short-term memory",
+    "target": "active memory",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "long short-term memory",
+    "target": "sequence lengths",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "long short-term memory",
+    "target": "memory constraints",
+    "relation": "prerequisite"
+  }
+]

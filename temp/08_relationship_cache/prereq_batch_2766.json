@@ -1,0 +1,7 @@
+[
+  {
+    "source": "fast and accurate shift-reduce constituent parsing",
+    "target": "English constituency parsing",
+    "relation": "prerequisite"
+  }
+]

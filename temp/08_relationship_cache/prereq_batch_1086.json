@@ -1,0 +1,27 @@
+[
+  {
+    "source": "learned linear projections",
+    "target": "sinusoidal positional encoding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned linear projections",
+    "target": "align and translate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned linear projections",
+    "target": "parameter-free position representation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned linear projections",
+    "target": "continuous representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned linear projections",
+    "target": "connected layers",
+    "relation": "prerequisite"
+  }
+]

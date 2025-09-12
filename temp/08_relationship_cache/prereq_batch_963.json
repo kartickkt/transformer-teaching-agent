@@ -1,0 +1,27 @@
+[
+  {
+    "source": "fully connected feed-forward network",
+    "target": "network architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fully connected feed-forward network",
+    "target": "conditional computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fully connected feed-forward network",
+    "target": "residual connection",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fully connected feed-forward network",
+    "target": "linear function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fully connected feed-forward network",
+    "target": "fast-forward connections",
+    "relation": "prerequisite"
+  }
+]

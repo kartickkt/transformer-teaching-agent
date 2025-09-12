@@ -1,0 +1,17 @@
+[
+  {
+    "source": "parallelization",
+    "target": "computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallelization",
+    "target": "computation time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallelization",
+    "target": "computational efficiency",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "fully connected feed-forward network",
+    "target": "feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fully connected feed-forward network",
+    "target": "single hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fully connected feed-forward network",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fully connected feed-forward network",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  }
+]

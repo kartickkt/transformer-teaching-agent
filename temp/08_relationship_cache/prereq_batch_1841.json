@@ -1,0 +1,7 @@
+[
+  {
+    "source": "parallelizable",
+    "target": "amount of computation that can be parallelized",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "order of the sequence",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "order of the sequence",
+    "target": "sequence lengths",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "order of the sequence",
+    "target": "sequential computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "order of the sequence",
+    "target": "number of operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "order of the sequence",
+    "target": "sequence-aligned recurrence",
+    "relation": "prerequisite"
+  }
+]

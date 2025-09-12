@@ -1,0 +1,27 @@
+[
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "Position-wise Feed-Forward Networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "ReLU activation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "ACL",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ACL",
+    "target": "Attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ACL",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ACL",
+    "target": "decoder",
+    "relation": "prerequisite"
+  }
+]

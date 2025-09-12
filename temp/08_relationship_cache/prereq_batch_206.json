@@ -1,0 +1,27 @@
+[
+  {
+    "source": "key-value pairs",
+    "target": "values",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "key-value pairs",
+    "target": "matrices K and V",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "key-value pairs",
+    "target": "memory keys and values",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "key-value pairs",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "key-value pairs",
+    "target": "tokens",
+    "relation": "prerequisite"
+  }
+]

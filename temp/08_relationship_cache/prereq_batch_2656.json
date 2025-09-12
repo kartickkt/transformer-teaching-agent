@@ -1,0 +1,17 @@
+[
+  {
+    "source": "36M sentences",
+    "target": "learning task-independent sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "36M sentences",
+    "target": "learning phrase representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "36M sentences",
+    "target": "structured self-attentive sentence embedding",
+    "relation": "prerequisite"
+  }
+]

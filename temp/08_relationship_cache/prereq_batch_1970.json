@@ -1,0 +1,27 @@
+[
+  {
+    "source": "512",
+    "target": "space-efficient",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "512",
+    "target": "kernel size 1",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "512",
+    "target": "2048",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "512",
+    "target": "fixed offset k",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "512",
+    "target": "constant number of sequentially executed operations",
+    "relation": "prerequisite"
+  }
+]

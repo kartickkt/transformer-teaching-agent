@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence",
+    "target": "sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "sentence pairs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "desiderata",
+    "target": "values",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "desiderata",
+    "target": "anaphora resolution",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "backward signals",
+    "target": "existing best results",
+    "relation": "prerequisite"
+  }
+]

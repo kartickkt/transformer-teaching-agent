@@ -1,0 +1,27 @@
+[
+  {
+    "source": "decoder layer",
+    "target": "Transformer architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder layer",
+    "target": "4-layer transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder layer",
+    "target": "sub-layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder layer",
+    "target": "self-attention sub-layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder layer",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  }
+]

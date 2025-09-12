@@ -1,0 +1,22 @@
+[
+  {
+    "source": "position",
+    "target": "Positional Encoding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "position",
+    "target": "positional embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "position",
+    "target": "Attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "position",
+    "target": "distance between positions",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "input sequences",
+    "target": "sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input sequences",
+    "target": "input positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input sequences",
+    "target": "output positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input sequences",
+    "target": "input",
+    "relation": "prerequisite"
+  }
+]

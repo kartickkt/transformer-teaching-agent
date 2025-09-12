@@ -1,0 +1,27 @@
+[
+  {
+    "source": "quality",
+    "target": "output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "quality",
+    "target": "queries",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "quality",
+    "target": "values",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "quality",
+    "target": "mean",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "quality",
+    "target": "parameters",
+    "relation": "prerequisite"
+  }
+]

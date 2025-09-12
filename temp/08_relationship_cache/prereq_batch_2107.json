@@ -1,0 +1,17 @@
+[
+  {
+    "source": "sustained single-precision floating-point capacity",
+    "target": "eight GPUs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sustained single-precision floating-point capacity",
+    "target": "eight P100 GPUs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sustained single-precision floating-point capacity",
+    "target": "512",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "linear time",
+    "target": "minimum number of sequential operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear time",
+    "target": "constant number of sequentially executed operations",
+    "relation": "prerequisite"
+  }
+]

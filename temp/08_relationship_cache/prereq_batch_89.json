@@ -1,0 +1,12 @@
+[
+  {
+    "source": "conditional computation",
+    "target": "computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "conditional computation",
+    "target": "computational efficiency",
+    "relation": "prerequisite"
+  }
+]

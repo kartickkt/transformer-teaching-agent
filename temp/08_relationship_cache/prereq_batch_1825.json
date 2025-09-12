@@ -1,0 +1,22 @@
+[
+  {
+    "source": "encoder self-attention",
+    "target": "Attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder self-attention",
+    "target": "dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder self-attention",
+    "target": "single attention head",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder self-attention",
+    "target": "parallel attention layers",
+    "relation": "prerequisite"
+  }
+]

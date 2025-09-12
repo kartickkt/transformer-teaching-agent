@@ -1,0 +1,27 @@
+[
+  {
+    "source": "512",
+    "target": "memory keys and values",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "512",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "512",
+    "target": "tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "512",
+    "target": "weights",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "512",
+    "target": "Sequential",
+    "relation": "prerequisite"
+  }
+]

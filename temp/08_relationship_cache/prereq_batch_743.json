@@ -1,0 +1,27 @@
+[
+  {
+    "source": "stochastic optimization",
+    "target": "task-specific tuning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "stochastic optimization",
+    "target": "algorithms",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "stochastic optimization",
+    "target": "softmax function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "stochastic optimization",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "stochastic optimization",
+    "target": "sparsely-gated mixture-of-experts",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Sequence to sequence learning with neural networks",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequence to sequence learning with neural networks",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequence to sequence learning with neural networks",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "attention-based models",
+    "target": "Attention Is All You Need",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention-based models",
+    "target": "attention mechanism",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention-based models",
+    "target": "self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention-based models",
+    "target": "scaled dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention-based models",
+    "target": "multi-head attention",
+    "relation": "prerequisite"
+  }
+]

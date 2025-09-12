@@ -1,0 +1,12 @@
+[
+  {
+    "source": "decoder layer",
+    "target": "rnn encoder-decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder layer",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  }
+]

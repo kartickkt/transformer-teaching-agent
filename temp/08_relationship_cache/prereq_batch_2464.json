@@ -1,0 +1,7 @@
+[
+  {
+    "source": "Recurrent",
+    "target": "recurrent layer",
+    "relation": "prerequisite"
+  }
+]

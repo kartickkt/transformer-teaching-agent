@@ -1,0 +1,27 @@
+[
+  {
+    "source": "models",
+    "target": "model architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "matrix Q",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "dmodel-dimensional keys",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "parameter matrices",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "dmodel",
+    "relation": "prerequisite"
+  }
+]

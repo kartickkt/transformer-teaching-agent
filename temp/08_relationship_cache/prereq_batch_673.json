@@ -1,0 +1,17 @@
+[
+  {
+    "source": "images",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "images",
+    "target": "state-of-the-art models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "images",
+    "target": "computer vision",
+    "relation": "prerequisite"
+  }
+]

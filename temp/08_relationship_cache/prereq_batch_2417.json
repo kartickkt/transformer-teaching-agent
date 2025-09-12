@@ -1,0 +1,27 @@
+[
+  {
+    "source": "RNNs",
+    "target": "learning phrase representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "RNNs",
+    "target": "rnn encoder-decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "RNNs",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "RNNs",
+    "target": "Convolutional sequence to sequence learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "RNNs",
+    "target": "Deep residual learning",
+    "relation": "prerequisite"
+  }
+]

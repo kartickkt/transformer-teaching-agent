@@ -1,0 +1,12 @@
+[
+  {
+    "source": "2048",
+    "target": "decoder output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "2048",
+    "target": "ByteNet",
+    "relation": "prerequisite"
+  }
+]

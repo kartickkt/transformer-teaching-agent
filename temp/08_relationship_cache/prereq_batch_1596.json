@@ -1,0 +1,12 @@
+[
+  {
+    "source": "scaled dot-product attention",
+    "target": "softmax function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaled dot-product attention",
+    "target": "softmax",
+    "relation": "prerequisite"
+  }
+]

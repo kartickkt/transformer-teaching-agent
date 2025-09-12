@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence modeling",
+    "target": "step time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "checkpoint averaging",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "generative",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "task-specific tuning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "machine reading",
+    "relation": "prerequisite"
+  }
+]

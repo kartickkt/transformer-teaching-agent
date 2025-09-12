@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Input-Input Layer5",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Input-Input Layer5",
+    "target": "feed-forward network",
+    "relation": "prerequisite"
+  }
+]

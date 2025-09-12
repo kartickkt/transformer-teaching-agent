@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Convolutional sequence to sequence learning",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Convolutional sequence to sequence learning",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Convolutional sequence to sequence learning",
+    "target": "Position-wise Feed-Forward Networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Convolutional sequence to sequence learning",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Convolutional sequence to sequence learning",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  }
+]

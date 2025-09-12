@@ -1,0 +1,22 @@
+[
+  {
+    "source": "representation of the sequence",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation of the sequence",
+    "target": "RNN sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation of the sequence",
+    "target": "Sequence to sequence learning with neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation of the sequence",
+    "target": "sentence representations",
+    "relation": "prerequisite"
+  }
+]

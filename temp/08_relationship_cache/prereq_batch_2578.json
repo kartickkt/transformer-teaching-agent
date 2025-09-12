@@ -1,0 +1,7 @@
+[
+  {
+    "source": "Journal of Machine Learning Research",
+    "target": "Empirical Methods in Natural Language Processing",
+    "relation": "prerequisite"
+  }
+]

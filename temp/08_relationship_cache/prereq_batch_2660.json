@@ -1,0 +1,17 @@
+[
+  {
+    "source": "32000 word-piece vocabulary",
+    "target": "shared source-target vocabulary",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "32000 word-piece vocabulary",
+    "target": "2014 English-French dataset",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "32000 word-piece vocabulary",
+    "target": "36M sentences",
+    "relation": "prerequisite"
+  }
+]

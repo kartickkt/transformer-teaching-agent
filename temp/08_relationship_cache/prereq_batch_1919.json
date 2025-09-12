@@ -1,0 +1,27 @@
+[
+  {
+    "source": "distance between positions",
+    "target": "linear transformations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "distance between positions",
+    "target": "averaging attention-weighted positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "distance between positions",
+    "target": "sequence lengths",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "distance between positions",
+    "target": "maximum path lengths",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "distance between positions",
+    "target": "size of the neighborhood",
+    "relation": "prerequisite"
+  }
+]

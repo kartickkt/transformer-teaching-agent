@@ -1,0 +1,12 @@
+[
+  {
+    "source": "attention heads",
+    "target": "input positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention heads",
+    "target": "input",
+    "relation": "prerequisite"
+  }
+]

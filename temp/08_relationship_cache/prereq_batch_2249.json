@@ -1,0 +1,22 @@
+[
+  {
+    "source": "dmodel-dimensional keys",
+    "target": "dimensionality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel-dimensional keys",
+    "target": "vectors of dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel-dimensional keys",
+    "target": "representation dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel-dimensional keys",
+    "target": "dimension dmodel",
+    "relation": "prerequisite"
+  }
+]

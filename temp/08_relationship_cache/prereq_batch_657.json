@@ -1,0 +1,22 @@
+[
+  {
+    "source": "task-specific tuning",
+    "target": "limited training data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "task-specific tuning",
+    "target": "over-fitting",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "task-specific tuning",
+    "target": "self-training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "task-specific tuning",
+    "target": "sparsely-gated mixture-of-experts",
+    "relation": "prerequisite"
+  }
+]

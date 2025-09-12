@@ -1,0 +1,22 @@
+[
+  {
+    "source": "additive attention",
+    "target": "attention mechanism",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "additive attention",
+    "target": "self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "additive attention",
+    "target": "scaled dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "additive attention",
+    "target": "multi-head attention",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "source": "representation dimension",
+    "target": "attention key and value dimensions",
+    "relation": "prerequisite"
+  }
+]

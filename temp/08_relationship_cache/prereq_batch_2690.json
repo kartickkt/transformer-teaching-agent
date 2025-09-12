@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Parser Training",
+    "target": "rnn encoder-decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Parser Training",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Parser Training",
+    "target": "Deep residual learning",
+    "relation": "prerequisite"
+  }
+]

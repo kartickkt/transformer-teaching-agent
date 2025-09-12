@@ -1,0 +1,12 @@
+[
+  {
+    "source": "dimension dmodel",
+    "target": "dmodel = 1024",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension",
+    "target": "LayerNorm",
+    "relation": "prerequisite"
+  }
+]

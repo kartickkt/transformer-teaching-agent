@@ -1,0 +1,22 @@
+[
+  {
+    "source": "convolutions",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutions",
+    "target": "ConvS2S",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutions",
+    "target": "continuous representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutions",
+    "target": "connected layers",
+    "relation": "prerequisite"
+  }
+]

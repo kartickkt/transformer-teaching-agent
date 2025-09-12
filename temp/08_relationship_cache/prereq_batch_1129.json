@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence-to-sequence models",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-to-sequence models",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-to-sequence models",
+    "target": "model performance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-to-sequence models",
+    "target": "model architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-to-sequence models",
+    "target": "dmodel-dimensional keys",
+    "relation": "prerequisite"
+  }
+]

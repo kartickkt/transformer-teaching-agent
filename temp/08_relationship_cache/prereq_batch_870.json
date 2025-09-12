@@ -1,0 +1,17 @@
+[
+  {
+    "source": "encoder-decoder architectures",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder architectures",
+    "target": "RNNs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder architectures",
+    "target": "gated recurrent neural networks",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "head1",
+    "target": "function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "head1",
+    "target": "single attention head",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "head1",
+    "target": "MultiHead",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "head1",
+    "target": "Attention",
+    "relation": "prerequisite"
+  }
+]

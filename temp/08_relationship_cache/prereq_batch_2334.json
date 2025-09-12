@@ -1,0 +1,22 @@
+[
+  {
+    "source": "state-of-the-art models",
+    "target": "versions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "state-of-the-art models",
+    "target": "hyperparameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "state-of-the-art models",
+    "target": "state-of-the-art results",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "state-of-the-art models",
+    "target": "evaluate",
+    "relation": "prerequisite"
+  }
+]

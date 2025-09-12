@@ -1,0 +1,22 @@
+[
+  {
+    "source": "learning rate",
+    "target": "training examples",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning rate",
+    "target": "Training Data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning rate",
+    "target": "training batch",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning rate",
+    "target": "RNNs",
+    "relation": "prerequisite"
+  }
+]

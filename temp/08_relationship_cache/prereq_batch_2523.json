@@ -1,0 +1,12 @@
+[
+  {
+    "source": "NAACL",
+    "target": "2009 Conference on Empirical Methods in Natural Language Processing",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "NAACL",
+    "target": "Effective approaches to attention-based neural machine translation",
+    "relation": "prerequisite"
+  }
+]

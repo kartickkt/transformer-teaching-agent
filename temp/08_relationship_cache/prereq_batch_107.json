@@ -1,0 +1,27 @@
+[
+  {
+    "source": "dependencies",
+    "target": "decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dependencies",
+    "target": "continuous representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dependencies",
+    "target": "connected layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dependencies",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dependencies",
+    "target": "softmax",
+    "relation": "prerequisite"
+  }
+]

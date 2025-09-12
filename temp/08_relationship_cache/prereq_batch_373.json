@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Sequential",
+    "target": "sequence-aligned recurrence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequential",
+    "target": "minimum number of sequential operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequential",
+    "target": "constant number of sequentially executed operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequential",
+    "target": "O(n) sequential operations",
+    "relation": "prerequisite"
+  }
+]

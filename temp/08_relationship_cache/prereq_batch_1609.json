@@ -1,0 +1,17 @@
+[
+  {
+    "source": "multi-head attention",
+    "target": "attention distributions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "multi-head attention",
+    "target": "attention heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "multi-head attention",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  }
+]

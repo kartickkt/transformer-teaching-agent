@@ -1,0 +1,27 @@
+[
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "long short-term memory",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "recurrent attention mechanism",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "Structured attention networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  }
+]

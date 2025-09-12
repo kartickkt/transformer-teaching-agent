@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Attention Is All You Need",
+    "target": "attention distributions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention Is All You Need",
+    "target": "attention heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention Is All You Need",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention Is All You Need",
+    "target": "local, restricted attention mechanisms",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention Is All You Need",
+    "target": "Structured attention networks",
+    "relation": "prerequisite"
+  }
+]

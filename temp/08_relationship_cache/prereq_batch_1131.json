@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence-to-sequence models",
+    "target": "RNNs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-to-sequence models",
+    "target": "gated recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-to-sequence models",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-to-sequence models",
+    "target": "RNN sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-to-sequence models",
+    "target": "Recurrent Neural Network Grammar",
+    "relation": "prerequisite"
+  }
+]

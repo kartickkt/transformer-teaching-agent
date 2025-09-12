@@ -1,0 +1,27 @@
+[
+  {
+    "source": "symbol positions",
+    "target": "simple, position-",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "symbol positions",
+    "target": "predictions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "symbol positions",
+    "target": "position",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "symbol positions",
+    "target": "key-value pairs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "symbol positions",
+    "target": "keys",
+    "relation": "prerequisite"
+  }
+]

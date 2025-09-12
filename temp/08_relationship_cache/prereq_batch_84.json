@@ -1,0 +1,17 @@
+[
+  {
+    "source": "batching",
+    "target": "training batch",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "conditional computation",
+    "target": "previous hidden state ht\u00e2\u02c6\u20191",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "conditional computation",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  }
+]

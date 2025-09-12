@@ -1,0 +1,22 @@
+[
+  {
+    "source": "quality",
+    "target": "model quality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "quality",
+    "target": "translation quality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "significantly",
+    "target": "mean",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "significantly",
+    "target": "discriminative",
+    "relation": "prerequisite"
+  }
+]

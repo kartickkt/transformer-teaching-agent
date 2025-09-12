@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Recurrent Neural Network Grammar",
+    "target": "fast and accurate shift-reduce constituent parsing",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural machine translation architectures",
+    "target": "align and translate",
+    "relation": "prerequisite"
+  }
+]

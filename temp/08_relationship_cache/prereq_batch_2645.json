@@ -1,0 +1,17 @@
+[
+  {
+    "source": "word-piece",
+    "target": "vocabulary",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "word-piece",
+    "target": "32000 word-piece vocabulary",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "word-piece",
+    "target": "per-wordpiece",
+    "relation": "prerequisite"
+  }
+]

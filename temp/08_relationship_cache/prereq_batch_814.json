@@ -1,0 +1,12 @@
+[
+  {
+    "source": "decoder",
+    "target": "function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder",
+    "target": "input",
+    "relation": "prerequisite"
+  }
+]

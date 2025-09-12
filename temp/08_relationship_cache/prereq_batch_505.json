@@ -1,0 +1,22 @@
+[
+  {
+    "source": "tasks",
+    "target": "predictions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "known outputs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "query",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "vectors",
+    "relation": "prerequisite"
+  }
+]

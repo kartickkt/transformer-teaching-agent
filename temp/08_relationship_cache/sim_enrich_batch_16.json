@@ -1,0 +1,27 @@
+[
+  {
+    "source": "37000 tokens",
+    "target": "16K tokens",
+    "relation": "contrasts_with"
+  },
+  {
+    "source": "25000 source tokens",
+    "target": "25000 target tokens",
+    "relation": "example_of"
+  },
+  {
+    "source": "25000 source tokens",
+    "target": "16K tokens",
+    "relation": "related_topic"
+  },
+  {
+    "source": "FLOPs",
+    "target": "TFLOPS",
+    "relation": "related_topic"
+  },
+  {
+    "source": "best models",
+    "target": "state-of-the-art models",
+    "relation": "related_topic"
+  }
+]

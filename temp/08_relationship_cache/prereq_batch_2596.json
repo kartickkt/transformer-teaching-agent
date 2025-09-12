@@ -1,0 +1,7 @@
+[
+  {
+    "source": "Deep recurrent models",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  }
+]

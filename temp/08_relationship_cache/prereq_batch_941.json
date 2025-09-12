@@ -1,0 +1,27 @@
+[
+  {
+    "source": "continuous representations",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "continuous representations",
+    "target": "learning task-independent sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "continuous representations",
+    "target": "end-to-end memory networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "continuous representations",
+    "target": "connected layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "continuous representations",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  }
+]

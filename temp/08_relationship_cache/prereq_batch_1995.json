@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Layer Type Complexity",
+    "target": "convolutional layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Layer Type Complexity",
+    "target": "Transformer architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Layer Type Complexity",
+    "target": "4-layer transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Layer Type Complexity",
+    "target": "sub-layers",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "sinusoidal positional encoding",
+    "target": "fixed offset k",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "structural challenges",
+    "target": "network architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "structural challenges",
+    "target": "global dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "structural challenges",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Separable convolutions",
+    "target": "Factorization tricks for LSTM networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Separable convolutions",
+    "target": "factorization tricks",
+    "relation": "prerequisite"
+  }
+]

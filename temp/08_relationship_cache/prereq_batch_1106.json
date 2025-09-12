@@ -1,0 +1,12 @@
+[
+  {
+    "source": "decoder layer",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder layer",
+    "target": "decoder",
+    "relation": "prerequisite"
+  }
+]

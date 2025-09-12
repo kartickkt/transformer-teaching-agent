@@ -1,0 +1,22 @@
+[
+  {
+    "source": "sentence representations",
+    "target": "learning task-independent sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sentence representations",
+    "target": "continuous representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sentence representations",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sentence representations",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  }
+]

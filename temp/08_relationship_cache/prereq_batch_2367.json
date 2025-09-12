@@ -1,0 +1,12 @@
+[
+  {
+    "source": "single model",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single model",
+    "target": "linear function",
+    "relation": "prerequisite"
+  }
+]

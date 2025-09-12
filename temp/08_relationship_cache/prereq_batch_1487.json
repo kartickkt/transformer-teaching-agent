@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence transduction models",
+    "target": "big transformer model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction models",
+    "target": "Transformer architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction models",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction models",
+    "target": "sequential computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction models",
+    "target": "models",
+    "relation": "prerequisite"
+  }
+]

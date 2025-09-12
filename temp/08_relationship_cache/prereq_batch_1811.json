@@ -1,0 +1,22 @@
+[
+  {
+    "source": "decomposable attention model",
+    "target": "additive attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decomposable attention model",
+    "target": "dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decomposable attention model",
+    "target": "Attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decomposable attention model",
+    "target": "parallel attention layers",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "eight GPUs",
+    "target": "amount of computation that can be parallelized",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "eight GPUs",
+    "target": "eight P100 GPUs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "eight GPUs",
+    "target": "512",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "eight GPUs",
+    "target": "2048",
+    "relation": "prerequisite"
+  }
+]

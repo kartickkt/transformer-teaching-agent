@@ -1,0 +1,27 @@
+[
+  {
+    "source": "ConvS2S Ensemble",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ConvS2S Ensemble",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ConvS2S Ensemble",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ConvS2S Ensemble",
+    "target": "Separable convolutions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ConvS2S Ensemble",
+    "target": "Deep-Att + PosUnk Ensemble",
+    "relation": "prerequisite"
+  }
+]

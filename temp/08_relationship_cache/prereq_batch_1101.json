@@ -1,0 +1,17 @@
+[
+  {
+    "source": "encoder-decoder attention",
+    "target": "Attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder attention",
+    "target": "attention distributions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder attention",
+    "target": "attention heads",
+    "relation": "prerequisite"
+  }
+]

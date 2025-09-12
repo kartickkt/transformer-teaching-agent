@@ -1,0 +1,27 @@
+[
+  {
+    "source": "registration",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "registration",
+    "target": "training batch",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "verb \u00e2\u20ac\u02dcmaking\u00e2\u20ac\u2122",
+    "target": "function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "verb \u00e2\u20ac\u02dcmaking\u00e2\u20ac\u2122",
+    "target": "generative",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "verb \u00e2\u20ac\u02dcmaking\u00e2\u20ac\u2122",
+    "target": "parsing",
+    "relation": "prerequisite"
+  }
+]

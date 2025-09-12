@@ -1,0 +1,27 @@
+[
+  {
+    "source": "compatibility function",
+    "target": "global dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "compatibility function",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "compatibility function",
+    "target": "effective resolution",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "compatibility function",
+    "target": "cosine functions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "compatibility function",
+    "target": "function",
+    "relation": "prerequisite"
+  }
+]

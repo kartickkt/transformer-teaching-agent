@@ -1,0 +1,17 @@
+[
+  {
+    "source": "point-wise feed-forward layer",
+    "target": "Transformer architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise feed-forward layer",
+    "target": "4-layer transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise feed-forward layer",
+    "target": "scaled dot-product attention",
+    "relation": "prerequisite"
+  }
+]

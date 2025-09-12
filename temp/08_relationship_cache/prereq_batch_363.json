@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Sequential",
+    "target": "conditional computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequential",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequential",
+    "target": "representation of the sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequential",
+    "target": "output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequential",
+    "target": "auto-regressive",
+    "relation": "prerequisite"
+  }
+]

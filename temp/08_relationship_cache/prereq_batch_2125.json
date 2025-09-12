@@ -1,0 +1,17 @@
+[
+  {
+    "source": "16K tokens",
+    "target": "25000 source tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "16K tokens",
+    "target": "25000 target tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "16K tokens",
+    "target": "32000 word-piece vocabulary",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence modeling",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "training examples",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "model performance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "model architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "dmodel-dimensional keys",
+    "relation": "prerequisite"
+  }
+]

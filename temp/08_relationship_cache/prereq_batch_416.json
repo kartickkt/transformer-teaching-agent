@@ -1,0 +1,17 @@
+[
+  {
+    "source": "relative positions",
+    "target": "order of the sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "relative positions",
+    "target": "P E(pos,2i)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "relative positions",
+    "target": "pos",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "dmodel-dimensional keys",
+    "target": "keys",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel-dimensional keys",
+    "target": "matrices K and V",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel-dimensional keys",
+    "target": "dot product",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel-dimensional keys",
+    "target": "memory keys and values",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel-dimensional keys",
+    "target": "parameters",
+    "relation": "prerequisite"
+  }
+]

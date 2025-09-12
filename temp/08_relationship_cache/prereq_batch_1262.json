@@ -1,0 +1,22 @@
+[
+  {
+    "source": "convolutional layer",
+    "target": "sub-layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutional layer",
+    "target": "self-attention sub-layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutional layer",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutional layer",
+    "target": "parallel attention layers",
+    "relation": "prerequisite"
+  }
+]

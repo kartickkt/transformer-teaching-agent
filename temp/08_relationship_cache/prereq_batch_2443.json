@@ -1,0 +1,12 @@
+[
+  {
+    "source": "recurrent language models",
+    "target": "rnn encoder-decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent language models",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  }
+]

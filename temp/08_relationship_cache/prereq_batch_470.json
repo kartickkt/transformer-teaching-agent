@@ -1,0 +1,27 @@
+[
+  {
+    "source": "network",
+    "target": "LayerNorm",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "network",
+    "target": "queries",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "network",
+    "target": "information flow",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "network",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "network",
+    "target": "function",
+    "relation": "prerequisite"
+  }
+]

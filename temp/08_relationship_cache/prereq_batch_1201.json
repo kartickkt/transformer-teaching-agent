@@ -1,0 +1,27 @@
+[
+  {
+    "source": "embedding layers",
+    "target": "softmax function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "single hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  }
+]

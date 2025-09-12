@@ -1,0 +1,27 @@
+[
+  {
+    "source": "algorithms",
+    "target": "gradients",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "algorithms",
+    "target": "order of the sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "algorithms",
+    "target": "sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "algorithms",
+    "target": "tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "algorithms",
+    "target": "code",
+    "relation": "prerequisite"
+  }
+]

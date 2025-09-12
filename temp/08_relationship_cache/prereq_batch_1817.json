@@ -1,0 +1,17 @@
+[
+  {
+    "source": "encoder self-attention",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder self-attention",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder self-attention",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  }
+]

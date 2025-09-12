@@ -1,0 +1,27 @@
+[
+  {
+    "source": "model quality",
+    "target": "big transformer model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model quality",
+    "target": "theoretical complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model quality",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model quality",
+    "target": "best models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model quality",
+    "target": "model variants",
+    "relation": "prerequisite"
+  }
+]

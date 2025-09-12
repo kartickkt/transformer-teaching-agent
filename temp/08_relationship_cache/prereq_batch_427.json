@@ -1,0 +1,27 @@
+[
+  {
+    "source": "linear function",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear function",
+    "target": "single hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear function",
+    "target": "learned linear projections",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear function",
+    "target": "linear transformations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear function",
+    "target": "learned linear transformation",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "input and output modalities",
+    "target": "input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input and output modalities",
+    "target": "audio",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input and output modalities",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input and output modalities",
+    "target": "decoder output",
+    "relation": "prerequisite"
+  }
+]

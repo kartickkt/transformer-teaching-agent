@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence-to-sequence models",
+    "target": "Self-training PCFG grammars with latent annotations across languages",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-to-sequence models",
+    "target": "Effective approaches to attention-based neural machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-to-sequence models",
+    "target": "Neural machine translation of rare words with subword units",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-to-sequence models",
+    "target": "human and machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Position-wise Feed-Forward Networks",
+    "target": "point-wise",
+    "relation": "prerequisite"
+  }
+]

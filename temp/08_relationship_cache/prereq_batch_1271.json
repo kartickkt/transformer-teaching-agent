@@ -1,0 +1,17 @@
+[
+  {
+    "source": "point-wise feed-forward layer",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise feed-forward layer",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise feed-forward layer",
+    "target": "connected layers",
+    "relation": "prerequisite"
+  }
+]

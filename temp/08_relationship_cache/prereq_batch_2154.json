@@ -1,0 +1,22 @@
+[
+  {
+    "source": "training costs",
+    "target": "Training Data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training costs",
+    "target": "training batch",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "best models",
+    "target": "existing best results",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "best models",
+    "target": "versions",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "dmodel",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel",
+    "target": "dot products",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel",
+    "target": "function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel",
+    "target": "versions",
+    "relation": "prerequisite"
+  }
+]

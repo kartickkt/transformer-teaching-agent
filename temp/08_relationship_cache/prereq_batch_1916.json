@@ -1,0 +1,17 @@
+[
+  {
+    "source": "distance between positions",
+    "target": "input for position t",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "distance between positions",
+    "target": "point-wise",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "distance between positions",
+    "target": "simple, position-",
+    "relation": "prerequisite"
+  }
+]

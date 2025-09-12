@@ -1,0 +1,12 @@
+[
+  {
+    "source": "human and machine translation",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "human and machine translation",
+    "target": "machine translation tasks",
+    "relation": "prerequisite"
+  }
+]

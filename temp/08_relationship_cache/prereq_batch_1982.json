@@ -1,0 +1,27 @@
+[
+  {
+    "source": "per-layer complexity",
+    "target": "previous layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "per-layer complexity",
+    "target": "sub-layer input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "per-layer complexity",
+    "target": "layer 5",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "per-layer complexity",
+    "target": "parallelization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "per-layer complexity",
+    "target": "computational efficiency",
+    "relation": "prerequisite"
+  }
+]

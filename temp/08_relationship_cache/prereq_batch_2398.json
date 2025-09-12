@@ -1,0 +1,12 @@
+[
+  {
+    "source": "complex recurrent neural networks",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "complex recurrent neural networks",
+    "target": "end-to-end memory networks",
+    "relation": "prerequisite"
+  }
+]

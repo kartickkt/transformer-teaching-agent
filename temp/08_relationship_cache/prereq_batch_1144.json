@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Position-wise Feed-Forward Networks",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Position-wise Feed-Forward Networks",
+    "target": "parameter matrices",
+    "relation": "prerequisite"
+  }
+]

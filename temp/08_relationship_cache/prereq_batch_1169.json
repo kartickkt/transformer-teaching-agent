@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Embeddings",
+    "target": "International Conference on Learning Representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Embeddings",
+    "target": "Learning Representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Embeddings",
+    "target": "structured self-attentive sentence embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Embeddings",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "learning phrase representations",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning phrase representations",
+    "target": "RNNs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning phrase representations",
+    "target": "gated recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning phrase representations",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning phrase representations",
+    "target": "RNN sequence-to-sequence models",
+    "relation": "prerequisite"
+  }
+]

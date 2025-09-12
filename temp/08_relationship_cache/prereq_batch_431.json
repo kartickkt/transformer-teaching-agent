@@ -1,0 +1,27 @@
+[
+  {
+    "source": "versions",
+    "target": "output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "versions",
+    "target": "stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "versions",
+    "target": "predictions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "versions",
+    "target": "known outputs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "versions",
+    "target": "query",
+    "relation": "prerequisite"
+  }
+]

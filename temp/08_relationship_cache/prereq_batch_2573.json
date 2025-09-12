@@ -1,0 +1,22 @@
+[
+  {
+    "source": "neural networks",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "Effective approaches to attention-based neural machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "Neural machine translation of rare words with subword units",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "Google\u00e2\u20ac\u2122s neural machine translation system",
+    "relation": "prerequisite"
+  }
+]

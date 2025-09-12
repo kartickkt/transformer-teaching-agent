@@ -1,0 +1,27 @@
+[
+  {
+    "source": "large inputs and outputs",
+    "target": "global dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "large inputs and outputs",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "large inputs and outputs",
+    "target": "output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "large inputs and outputs",
+    "target": "known outputs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "large inputs and outputs",
+    "target": "information flow",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "recurrent language models",
+    "target": "gated recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent language models",
+    "target": "RNN sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent language models",
+    "target": "Recurrent Neural Network Grammar",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent language models",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  }
+]

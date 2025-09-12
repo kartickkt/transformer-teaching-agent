@@ -1,0 +1,27 @@
+[
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "machine translation tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "WMT 2014 English-to-German translation task",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "textual entailment",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "simple-language question answering",
+    "relation": "prerequisite"
+  }
+]

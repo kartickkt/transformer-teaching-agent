@@ -1,0 +1,7 @@
+[
+  {
+    "source": "learning rate",
+    "target": "Training",
+    "relation": "prerequisite"
+  }
+]

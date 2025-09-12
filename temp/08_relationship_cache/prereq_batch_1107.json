@@ -1,0 +1,17 @@
+[
+  {
+    "source": "decoder layer",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder layer",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder layer",
+    "target": "end-to-end memory networks",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "output positions",
+    "target": "input and output modalities",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output positions",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output positions",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  }
+]

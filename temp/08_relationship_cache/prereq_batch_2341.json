@@ -1,0 +1,12 @@
+[
+  {
+    "source": "state-of-the-art models",
+    "target": "model quality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "state-of-the-art models",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  }
+]

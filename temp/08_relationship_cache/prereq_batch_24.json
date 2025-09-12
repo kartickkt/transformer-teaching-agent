@@ -1,0 +1,22 @@
+[
+  {
+    "source": "network architecture",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "network architecture",
+    "target": "feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "network architecture",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "network architecture",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  }
+]

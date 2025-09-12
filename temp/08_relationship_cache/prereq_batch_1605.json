@@ -1,0 +1,22 @@
+[
+  {
+    "source": "multi-head attention",
+    "target": "Attention Is All You Need",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "multi-head attention",
+    "target": "attention mechanism",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "multi-head attention",
+    "target": "self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "multi-head attention",
+    "target": "scaled dot-product attention",
+    "relation": "prerequisite"
+  }
+]

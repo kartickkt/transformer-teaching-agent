@@ -1,0 +1,17 @@
+[
+  {
+    "source": "machine translation tasks",
+    "target": "human and machine translation",
+    "relation": "related_topic"
+  },
+  {
+    "source": "WMT 2014 English-to-German translation task",
+    "target": "WMT 2014 English-to-French translation task",
+    "relation": "related_topic"
+  },
+  {
+    "source": "statistical machine translation",
+    "target": "human and machine translation",
+    "relation": "related_topic"
+  }
+]

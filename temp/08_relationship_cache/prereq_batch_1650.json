@@ -1,0 +1,12 @@
+[
+  {
+    "source": "self-attention sub-layer",
+    "target": "Attention Is All You Need",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-attention sub-layer",
+    "target": "structured self-attentive sentence embedding",
+    "relation": "prerequisite"
+  }
+]

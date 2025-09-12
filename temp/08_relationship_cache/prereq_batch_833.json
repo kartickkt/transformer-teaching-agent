@@ -1,0 +1,27 @@
+[
+  {
+    "source": "limited training data",
+    "target": "task-specific tuning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "limited training data",
+    "target": "efficient inference",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "limited training data",
+    "target": "learning task-independent sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "limited training data",
+    "target": "single hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "limited training data",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  }
+]

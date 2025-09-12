@@ -1,0 +1,17 @@
+[
+  {
+    "source": "hidden",
+    "target": "dropout",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden",
+    "target": "residual",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden",
+    "target": "params",
+    "relation": "prerequisite"
+  }
+]

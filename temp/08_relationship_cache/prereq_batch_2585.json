@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Sequence to sequence learning with neural networks",
+    "target": "RNNs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequence to sequence learning with neural networks",
+    "target": "gated recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequence to sequence learning with neural networks",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequence to sequence learning with neural networks",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  }
+]

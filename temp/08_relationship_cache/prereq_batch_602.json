@@ -1,0 +1,27 @@
+[
+  {
+    "source": "params",
+    "target": "values",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "params",
+    "target": "scaling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "params",
+    "target": "mean",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "params",
+    "target": "Concat",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "params",
+    "target": "heads",
+    "relation": "prerequisite"
+  }
+]

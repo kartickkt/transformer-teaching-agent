@@ -1,0 +1,27 @@
+[
+  {
+    "source": "embedding",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding",
+    "target": "structured self-attentive sentence embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding",
+    "target": "Input-Input Layer5",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding",
+    "target": "sub-layers",
+    "relation": "prerequisite"
+  }
+]

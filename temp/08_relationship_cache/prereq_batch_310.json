@@ -1,0 +1,17 @@
+[
+  {
+    "source": "heads",
+    "target": "multi-head attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "heads",
+    "target": "attention mechanism",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "heads",
+    "target": "attention function",
+    "relation": "prerequisite"
+  }
+]

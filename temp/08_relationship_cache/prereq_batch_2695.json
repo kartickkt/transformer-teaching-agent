@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Parser Training",
+    "target": "Empirical Methods in Natural Language Processing",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Parser Training",
+    "target": "Grammar as a foreign language",
+    "relation": "prerequisite"
+  }
+]

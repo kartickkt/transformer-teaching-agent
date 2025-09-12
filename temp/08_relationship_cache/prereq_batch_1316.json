@@ -1,0 +1,22 @@
+[
+  {
+    "source": "over-fitting",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "over-fitting",
+    "target": "Residual Dropout",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "over-fitting",
+    "target": "self-training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "over-fitting",
+    "target": "semi-supervised setting",
+    "relation": "prerequisite"
+  }
+]

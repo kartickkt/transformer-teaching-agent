@@ -1,0 +1,22 @@
+[
+  {
+    "source": "decoder layer",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder layer",
+    "target": "layer normalization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder layer",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder layer",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  }
+]

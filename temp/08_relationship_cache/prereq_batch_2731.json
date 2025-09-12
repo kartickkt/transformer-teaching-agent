@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Computational linguistics",
+    "target": "fast and accurate shift-reduce constituent parsing",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Human Language Technology Conference",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  }
+]

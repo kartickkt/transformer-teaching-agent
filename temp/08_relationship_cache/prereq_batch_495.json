@@ -1,0 +1,22 @@
+[
+  {
+    "source": "output positions",
+    "target": "decoder output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output positions",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output positions",
+    "target": "softmax function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output positions",
+    "target": "softmax",
+    "relation": "prerequisite"
+  }
+]

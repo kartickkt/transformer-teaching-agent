@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Outrageously large neural networks",
+    "target": "Position-wise Feed-Forward Networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Outrageously large neural networks",
+    "target": "ReLU activation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Outrageously large neural networks",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Outrageously large neural networks",
+    "target": "tensorflow",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Outrageously large neural networks",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  }
+]

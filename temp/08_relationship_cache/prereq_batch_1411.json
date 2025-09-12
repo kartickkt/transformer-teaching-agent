@@ -1,0 +1,12 @@
+[
+  {
+    "source": "image recognition",
+    "target": "computer vision",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "International Conference on Learning Representations",
+    "target": "convolutional neural networks",
+    "relation": "prerequisite"
+  }
+]

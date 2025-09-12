@@ -1,0 +1,22 @@
+[
+  {
+    "source": "dmodel = 1024",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel = 1024",
+    "target": "N = 6 identical layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel = 1024",
+    "target": "scaling factor",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model quality",
+    "target": "translation quality",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "encoder-decoder attention",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder attention",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "versions",
+    "target": "state-of-the-art models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "versions",
+    "target": "base models",
+    "relation": "prerequisite"
+  }
+]

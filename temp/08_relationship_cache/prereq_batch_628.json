@@ -1,0 +1,27 @@
+[
+  {
+    "source": "attention key and value dimensions",
+    "target": "dimensionality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention key and value dimensions",
+    "target": "representation dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention key and value dimensions",
+    "target": "dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention key and value dimensions",
+    "target": "dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sinusoidal positional encoding",
+    "target": "symbol positions",
+    "relation": "prerequisite"
+  }
+]

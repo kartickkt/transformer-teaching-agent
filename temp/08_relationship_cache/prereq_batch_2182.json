@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence modeling",
+    "target": "positional embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "over-fitting",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "semi-supervised setting",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "learning phrase representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  }
+]

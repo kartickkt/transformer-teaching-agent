@@ -1,0 +1,17 @@
+[
+  {
+    "source": "BerkleyParser corpora",
+    "target": "English constituency parsing",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "BerkleyParser corpora",
+    "target": "sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "BerkleyParser corpora",
+    "target": "4.5 million sentence pairs",
+    "relation": "prerequisite"
+  }
+]

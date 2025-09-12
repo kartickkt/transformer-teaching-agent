@@ -1,0 +1,17 @@
+[
+  {
+    "source": "large inputs and outputs",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "large inputs and outputs",
+    "target": "point-wise feed-forward layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "large inputs and outputs",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  }
+]

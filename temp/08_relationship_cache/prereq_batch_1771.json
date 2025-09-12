@@ -1,0 +1,12 @@
+[
+  {
+    "source": "multi-task",
+    "target": "Attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "multi-task",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  }
+]

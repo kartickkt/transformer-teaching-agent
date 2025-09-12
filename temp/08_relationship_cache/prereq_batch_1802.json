@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Structured attention networks",
+    "target": "scaled dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Structured attention networks",
+    "target": "multi-head attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Structured attention networks",
+    "target": "intra-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Structured attention networks",
+    "target": "recurrent attention mechanism",
+    "relation": "prerequisite"
+  }
+]

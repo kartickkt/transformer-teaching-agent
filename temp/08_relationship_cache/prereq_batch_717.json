@@ -1,0 +1,22 @@
+[
+  {
+    "source": "align and translate",
+    "target": "Effective approaches to attention-based neural machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "align and translate",
+    "target": "Google\u00e2\u20ac\u2122s neural machine translation system",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "align and translate",
+    "target": "human and machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "machine reading",
+    "target": "auto-regressive",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "continuous representations",
+    "target": "Sequential",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "continuous representations",
+    "target": "relative positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "continuous representations",
+    "target": "sequence",
+    "relation": "prerequisite"
+  }
+]

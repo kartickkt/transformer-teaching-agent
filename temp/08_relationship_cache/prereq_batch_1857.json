@@ -1,0 +1,27 @@
+[
+  {
+    "source": "computation time",
+    "target": "theoretical complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computation time",
+    "target": "space-efficient",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computation time",
+    "target": "minimum number of sequential operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computation time",
+    "target": "total computational complexity per layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computation time",
+    "target": "amount of computation that can be parallelized",
+    "relation": "prerequisite"
+  }
+]

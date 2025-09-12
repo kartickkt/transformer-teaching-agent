@@ -1,0 +1,27 @@
+[
+  {
+    "source": "embedding",
+    "target": "base models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding",
+    "target": "textual entailment",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder stack",
+    "target": "representation of the sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder stack",
+    "target": "stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder stack",
+    "target": "input positions",
+    "relation": "prerequisite"
+  }
+]

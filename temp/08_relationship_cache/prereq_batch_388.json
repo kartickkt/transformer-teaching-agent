@@ -1,0 +1,27 @@
+[
+  {
+    "source": "pos",
+    "target": "hidden",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "pos",
+    "target": "output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "pos",
+    "target": "stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "pos",
+    "target": "simple, position-",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "pos",
+    "target": "predictions",
+    "relation": "prerequisite"
+  }
+]

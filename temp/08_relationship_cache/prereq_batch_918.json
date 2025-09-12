@@ -1,0 +1,27 @@
+[
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "RNNs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "gated recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "RNN sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "Recurrent Neural Network Grammar",
+    "relation": "prerequisite"
+  }
+]

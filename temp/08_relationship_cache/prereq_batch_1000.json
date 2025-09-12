@@ -1,0 +1,22 @@
+[
+  {
+    "source": "encoder stack",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder stack",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder stack",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder stack",
+    "target": "continuous representations",
+    "relation": "prerequisite"
+  }
+]

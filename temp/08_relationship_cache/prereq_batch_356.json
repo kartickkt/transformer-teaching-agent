@@ -1,0 +1,27 @@
+[
+  {
+    "source": "weights",
+    "target": "vectors",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "weights",
+    "target": "weighted sum",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "weights",
+    "target": "queries",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "weights",
+    "target": "keys",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "weights",
+    "target": "values",
+    "relation": "prerequisite"
+  }
+]

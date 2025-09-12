@@ -1,0 +1,17 @@
+[
+  {
+    "source": "input positions",
+    "target": "large inputs and outputs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input positions",
+    "target": "parameter matrices",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input positions",
+    "target": "sentence pairs",
+    "relation": "prerequisite"
+  }
+]

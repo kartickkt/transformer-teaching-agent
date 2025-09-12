@@ -1,0 +1,17 @@
+[
+  {
+    "source": "algorithms",
+    "target": "stochastic optimization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "algorithms",
+    "target": "application",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "algorithms",
+    "target": "convolutions",
+    "relation": "prerequisite"
+  }
+]

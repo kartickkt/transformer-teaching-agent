@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence-aligned recurrence",
+    "target": "O(n/r)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-aligned recurrence",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-aligned recurrence",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-aligned recurrence",
+    "target": "gated recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-aligned recurrence",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  }
+]

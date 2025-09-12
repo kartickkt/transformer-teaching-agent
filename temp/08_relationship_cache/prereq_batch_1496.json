@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Transformer",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer",
+    "target": "feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer",
+    "target": "ReLU activation",
+    "relation": "prerequisite"
+  }
+]

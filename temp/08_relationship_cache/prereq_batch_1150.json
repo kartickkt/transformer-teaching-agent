@@ -1,0 +1,7 @@
+[
+  {
+    "source": "ReLU activation",
+    "target": "feed-forward network",
+    "relation": "prerequisite"
+  }
+]

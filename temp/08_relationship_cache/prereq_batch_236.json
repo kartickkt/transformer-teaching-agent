@@ -1,0 +1,12 @@
+[
+  {
+    "source": "queries",
+    "target": "decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "queries",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  }
+]

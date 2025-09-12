@@ -1,0 +1,12 @@
+[
+  {
+    "source": "ConvS2S",
+    "target": "ConvS2S Ensemble",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ConvS2S",
+    "target": "sentence pairs",
+    "relation": "prerequisite"
+  }
+]

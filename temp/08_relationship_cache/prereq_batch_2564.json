@@ -1,0 +1,27 @@
+[
+  {
+    "source": "neural networks",
+    "target": "ReLU activation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "function",
+    "target": "code",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "function",
+    "target": "evaluate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "function",
+    "target": "comments",
+    "relation": "prerequisite"
+  }
+]

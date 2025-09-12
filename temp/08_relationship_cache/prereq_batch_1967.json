@@ -1,0 +1,27 @@
+[
+  {
+    "source": "512",
+    "target": "byte-pair",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "512",
+    "target": "input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "512",
+    "target": "params",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "512",
+    "target": "development set",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "512",
+    "target": "code",
+    "relation": "prerequisite"
+  }
+]

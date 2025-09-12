@@ -1,0 +1,22 @@
+[
+  {
+    "source": "RNNs",
+    "target": "Sequence to sequence learning with neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "RNNs",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "RNNs",
+    "target": "Neural machine translation of rare words with subword units",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "31st Conference on Neural Information Processing Systems (NIPS 2017)",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  }
+]

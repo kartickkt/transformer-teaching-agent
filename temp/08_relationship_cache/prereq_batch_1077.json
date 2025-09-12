@@ -1,0 +1,22 @@
+[
+  {
+    "source": "single hidden layer",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single hidden layer",
+    "target": "rnn encoder-decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single hidden layer",
+    "target": "Convolutional sequence to sequence learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single hidden layer",
+    "target": "Deep residual learning",
+    "relation": "prerequisite"
+  }
+]

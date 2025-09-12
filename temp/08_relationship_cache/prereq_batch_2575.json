@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Journal of Machine Learning Research",
+    "target": "International Conference on Learning Representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Journal of Machine Learning Research",
+    "target": "Learning Representations",
+    "relation": "prerequisite"
+  }
+]

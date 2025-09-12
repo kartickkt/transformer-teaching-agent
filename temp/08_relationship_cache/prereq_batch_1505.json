@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Transformer models",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer models",
+    "target": "model architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer models",
+    "target": "parameter matrices",
+    "relation": "prerequisite"
+  }
+]

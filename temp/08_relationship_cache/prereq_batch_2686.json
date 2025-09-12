@@ -1,0 +1,12 @@
+[
+  {
+    "source": "English-to-German base translation model",
+    "target": "shared source-target vocabulary",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "English-to-German base translation model",
+    "target": "English-to-German",
+    "relation": "prerequisite"
+  }
+]

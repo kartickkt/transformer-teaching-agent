@@ -1,0 +1,27 @@
+[
+  {
+    "source": "deep learning",
+    "target": "additive attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "sequential computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "total computational complexity per layer",
+    "relation": "prerequisite"
+  }
+]

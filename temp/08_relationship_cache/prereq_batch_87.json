@@ -1,0 +1,22 @@
+[
+  {
+    "source": "conditional computation",
+    "target": "decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "conditional computation",
+    "target": "efficient inference",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "conditional computation",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "conditional computation",
+    "target": "continuous representations",
+    "relation": "prerequisite"
+  }
+]

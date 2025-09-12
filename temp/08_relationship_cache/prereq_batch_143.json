@@ -1,0 +1,12 @@
+[
+  {
+    "source": "auto-regressive",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "auto-regressive",
+    "target": "RNNs",
+    "relation": "prerequisite"
+  }
+]

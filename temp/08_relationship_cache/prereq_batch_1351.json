@@ -1,0 +1,27 @@
+[
+  {
+    "source": "learning phrase representations",
+    "target": "long short-term memory",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning phrase representations",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning phrase representations",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning phrase representations",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning phrase representations",
+    "target": "training examples",
+    "relation": "prerequisite"
+  }
+]

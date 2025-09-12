@@ -1,0 +1,27 @@
+[
+  {
+    "source": "convolutions",
+    "target": "learned linear transformation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutions",
+    "target": "computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutions",
+    "target": "computation time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutions",
+    "target": "parallelization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutions",
+    "target": "sequential computation",
+    "relation": "prerequisite"
+  }
+]

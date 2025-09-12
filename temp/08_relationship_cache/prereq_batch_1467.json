@@ -1,0 +1,17 @@
+[
+  {
+    "source": "deep reinforced model for abstractive summarization",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep reinforced model for abstractive summarization",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep reinforced model for abstractive summarization",
+    "target": "sentence representations",
+    "relation": "prerequisite"
+  }
+]

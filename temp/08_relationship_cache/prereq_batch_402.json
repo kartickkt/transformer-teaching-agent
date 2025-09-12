@@ -1,0 +1,22 @@
+[
+  {
+    "source": "function",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "function",
+    "target": "output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "function",
+    "target": "LayerNorm",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "function",
+    "target": "position",
+    "relation": "prerequisite"
+  }
+]

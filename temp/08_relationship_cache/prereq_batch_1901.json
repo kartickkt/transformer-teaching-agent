@@ -1,0 +1,22 @@
+[
+  {
+    "source": "sequential computation",
+    "target": "algorithms",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "linear time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "convolutional neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "encoder",
+    "relation": "prerequisite"
+  }
+]

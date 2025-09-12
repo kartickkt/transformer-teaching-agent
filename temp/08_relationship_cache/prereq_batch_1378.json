@@ -1,0 +1,27 @@
+[
+  {
+    "source": "deep learning",
+    "target": "self-training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "deep reinforced model for abstractive summarization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "learned linear transformation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "multi-head attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "sub-layers",
+    "relation": "prerequisite"
+  }
+]

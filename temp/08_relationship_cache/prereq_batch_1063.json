@@ -1,0 +1,22 @@
+[
+  {
+    "source": "feed-forward network",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "feed-forward network",
+    "target": "Deep residual learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "feed-forward network",
+    "target": "self-training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "feed-forward network",
+    "target": "sparsely-gated mixture-of-experts",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "\u00e2\u02c6\u0161dmodel",
+    "target": "single model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "\u00e2\u02c6\u0161dmodel",
+    "target": "model quality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "\u00e2\u02c6\u0161dmodel",
+    "target": "dmodel = 1024",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "\u00e2\u02c6\u0161dmodel",
+    "target": "English-to-German base translation model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer types",
+    "target": "network architecture",
+    "relation": "prerequisite"
+  }
+]

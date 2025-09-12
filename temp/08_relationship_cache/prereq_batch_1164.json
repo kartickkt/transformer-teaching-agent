@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Embeddings",
+    "target": "connected layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Embeddings",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Embeddings",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Embeddings",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Embeddings",
+    "target": "softmax",
+    "relation": "prerequisite"
+  }
+]

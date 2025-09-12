@@ -1,0 +1,22 @@
+[
+  {
+    "source": "parameters",
+    "target": "weights",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameters",
+    "target": "tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameters",
+    "target": "output tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameters",
+    "target": "frequencies",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Long short-term memory-networks",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Long short-term memory-networks",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  }
+]

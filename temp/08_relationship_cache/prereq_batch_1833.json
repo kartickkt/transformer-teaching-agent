@@ -1,0 +1,27 @@
+[
+  {
+    "source": "layer 5",
+    "target": "Input-Input Layer5",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer 5",
+    "target": "4-layer transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer 5",
+    "target": "sub-layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer 5",
+    "target": "self-attention sub-layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer 5",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  }
+]

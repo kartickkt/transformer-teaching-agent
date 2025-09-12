@@ -1,0 +1,27 @@
+[
+  {
+    "source": "simple, position-",
+    "target": "point-wise",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "simple, position-",
+    "target": "stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "simple, position-",
+    "target": "position",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "simple, position-",
+    "target": "heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "simple, position-",
+    "target": "parameters",
+    "relation": "prerequisite"
+  }
+]

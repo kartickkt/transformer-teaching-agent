@@ -1,0 +1,27 @@
+[
+  {
+    "source": "input",
+    "target": "decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  }
+]

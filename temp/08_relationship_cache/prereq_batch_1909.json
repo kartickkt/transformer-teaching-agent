@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequential computation",
+    "target": "constant number of sequentially executed operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "O(n) sequential operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "computational complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "sequence length n",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "computational performance",
+    "relation": "prerequisite"
+  }
+]

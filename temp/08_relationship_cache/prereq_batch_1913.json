@@ -1,0 +1,22 @@
+[
+  {
+    "source": "eight P100 GPUs",
+    "target": "number of GPUs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "eight P100 GPUs",
+    "target": "sustained single-precision floating-point capacity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "eight P100 GPUs",
+    "target": "TFLOPS",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "eight P100 GPUs",
+    "target": "Extended Neural GPU",
+    "relation": "prerequisite"
+  }
+]

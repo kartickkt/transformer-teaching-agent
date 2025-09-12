@@ -1,0 +1,17 @@
+[
+  {
+    "source": "sequence modeling",
+    "target": "big transformer model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "sequential computation",
+    "relation": "prerequisite"
+  }
+]

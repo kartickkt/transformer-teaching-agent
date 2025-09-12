@@ -1,0 +1,17 @@
+[
+  {
+    "source": "recurrent layer",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent layer",
+    "target": "end-to-end memory networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent layer",
+    "target": "continuous representations",
+    "relation": "prerequisite"
+  }
+]

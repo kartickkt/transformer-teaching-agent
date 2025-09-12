@@ -1,0 +1,27 @@
+[
+  {
+    "source": "RNN sequence-to-sequence models",
+    "target": "rnn encoder-decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "RNN sequence-to-sequence models",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "RNN sequence-to-sequence models",
+    "target": "point-wise feed-forward layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "RNN sequence-to-sequence models",
+    "target": "learning phrase representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "RNN sequence-to-sequence models",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  }
+]

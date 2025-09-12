@@ -1,0 +1,12 @@
+[
+  {
+    "source": "convolutional layer",
+    "target": "ReLU activation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutional layer",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  }
+]

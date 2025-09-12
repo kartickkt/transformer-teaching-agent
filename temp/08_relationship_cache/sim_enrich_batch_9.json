@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Transformer",
+    "target": "Transformer (big)",
+    "relation": "example_of"
+  },
+  {
+    "source": "Transformer models",
+    "target": "Transformer (base model)",
+    "relation": "example_of"
+  },
+  {
+    "source": "Transformer models",
+    "target": "big transformer model",
+    "relation": "related_topic"
+  },
+  {
+    "source": "Transformer models",
+    "target": "Transformer architecture",
+    "relation": "related_topic"
+  },
+  {
+    "source": "linear transformations",
+    "target": "learned linear transformation",
+    "relation": "related_topic"
+  }
+]

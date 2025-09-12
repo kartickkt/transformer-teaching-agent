@@ -1,0 +1,7 @@
+[
+  {
+    "source": "sequential computation",
+    "target": "rnn encoder-decoder",
+    "relation": "prerequisite"
+  }
+]

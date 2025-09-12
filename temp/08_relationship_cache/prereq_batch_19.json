@@ -1,0 +1,17 @@
+[
+  {
+    "source": "figures",
+    "target": "best models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "figures",
+    "target": "model variants",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "figures",
+    "target": "model performance",
+    "relation": "prerequisite"
+  }
+]

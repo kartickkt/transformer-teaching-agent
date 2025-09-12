@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Convolutional sequence to sequence learning",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Convolutional sequence to sequence learning",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  }
+]

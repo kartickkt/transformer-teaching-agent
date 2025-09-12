@@ -1,0 +1,12 @@
+[
+  {
+    "source": "keys",
+    "target": "key-value pairs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "keys",
+    "target": "queries",
+    "relation": "prerequisite"
+  }
+]

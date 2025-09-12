@@ -1,0 +1,12 @@
+[
+  {
+    "source": "encoder-decoder attention",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder attention",
+    "target": "decoder",
+    "relation": "prerequisite"
+  }
+]

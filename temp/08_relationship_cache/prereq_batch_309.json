@@ -1,0 +1,22 @@
+[
+  {
+    "source": "heads",
+    "target": "decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "heads",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "heads",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "heads",
+    "target": "softmax",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "O(n) sequential operations",
+    "target": "O(n/r)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "O(n) sequential operations",
+    "target": "O(logk(n))",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "O(n) sequential operations",
+    "target": "FLOPs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "O(n) sequential operations",
+    "target": "floating point operations",
+    "relation": "prerequisite"
+  }
+]

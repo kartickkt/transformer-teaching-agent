@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Outrageously large neural networks",
+    "target": "eight P100 GPUs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Outrageously large neural networks",
+    "target": "total computational complexity per layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Outrageously large neural networks",
+    "target": "large inputs and outputs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Outrageously large neural networks",
+    "target": "large training data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Outrageously large neural networks",
+    "target": "big models",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Effective approaches to attention-based neural machine translation",
+    "target": "attention function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Effective approaches to attention-based neural machine translation",
+    "target": "Attention(Q, K, V)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Effective approaches to attention-based neural machine translation",
+    "target": "additive attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Effective approaches to attention-based neural machine translation",
+    "target": "dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Effective approaches to attention-based neural machine translation",
+    "target": "single attention head",
+    "relation": "prerequisite"
+  }
+]

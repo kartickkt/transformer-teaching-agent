@@ -1,0 +1,7 @@
+[
+  {
+    "source": "attention heads",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  }
+]

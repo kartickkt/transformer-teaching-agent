@@ -1,0 +1,12 @@
+[
+  {
+    "source": "rnn encoder-decoder",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "rnn encoder-decoder",
+    "target": "softmax function",
+    "relation": "prerequisite"
+  }
+]

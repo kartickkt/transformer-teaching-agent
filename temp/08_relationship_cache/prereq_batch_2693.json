@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Parser Training",
+    "target": "NAACL",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Parser Training",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Parser Training",
+    "target": "machine translation tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Parser Training",
+    "target": "sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Parser Training",
+    "target": "4.5 million sentence pairs",
+    "relation": "prerequisite"
+  }
+]

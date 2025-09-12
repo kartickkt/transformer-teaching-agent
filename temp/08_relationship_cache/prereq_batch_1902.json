@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequential computation",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "convolutions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "efficient inference",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "ConvS2S",
+    "relation": "prerequisite"
+  }
+]

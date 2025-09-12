@@ -1,0 +1,12 @@
+[
+  {
+    "source": "geometric progression",
+    "target": "sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "geometric progression",
+    "target": "order of the sequence",
+    "relation": "prerequisite"
+  }
+]

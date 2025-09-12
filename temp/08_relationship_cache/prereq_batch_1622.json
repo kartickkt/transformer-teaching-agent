@@ -1,0 +1,17 @@
+[
+  {
+    "source": "averaging attention-weighted positions",
+    "target": "Attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "averaging attention-weighted positions",
+    "target": "attention distributions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "averaging attention-weighted positions",
+    "target": "attention heads",
+    "relation": "prerequisite"
+  }
+]

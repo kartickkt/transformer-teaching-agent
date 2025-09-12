@@ -1,0 +1,27 @@
+[
+  {
+    "source": "model architecture",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model architecture",
+    "target": "Transformer models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model architecture",
+    "target": "Transformer (base model)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model architecture",
+    "target": "big transformer model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model architecture",
+    "target": "Transformer architecture",
+    "relation": "prerequisite"
+  }
+]

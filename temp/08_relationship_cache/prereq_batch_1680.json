@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Attention(Q, K, V)",
+    "target": "Structured attention networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention(Q, K, V)",
+    "target": "decomposable attention model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention(Q, K, V)",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention(Q, K, V)",
+    "target": "attention key size dk",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention(Q, K, V)",
+    "target": "Effective approaches to attention-based neural machine translation",
+    "relation": "prerequisite"
+  }
+]

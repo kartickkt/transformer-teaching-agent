@@ -1,0 +1,17 @@
+[
+  {
+    "source": "model variants",
+    "target": "model architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model variants",
+    "target": "training examples",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model variants",
+    "target": "model performance",
+    "relation": "prerequisite"
+  }
+]

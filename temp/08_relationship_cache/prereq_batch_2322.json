@@ -1,0 +1,22 @@
+[
+  {
+    "source": "dimension",
+    "target": "position",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension",
+    "target": "vectors",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension",
+    "target": "scaling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension",
+    "target": "mean",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Computational linguistics",
+    "target": "learning task-independent sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Computational linguistics",
+    "target": "International Conference on Learning Representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Computational linguistics",
+    "target": "computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Computational linguistics",
+    "target": "computation time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Computational linguistics",
+    "target": "computational efficiency",
+    "relation": "prerequisite"
+  }
+]

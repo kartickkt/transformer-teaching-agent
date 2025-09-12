@@ -1,0 +1,17 @@
+[
+  {
+    "source": "decomposable attention model",
+    "target": "attention distributions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decomposable attention model",
+    "target": "attention heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decomposable attention model",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  }
+]

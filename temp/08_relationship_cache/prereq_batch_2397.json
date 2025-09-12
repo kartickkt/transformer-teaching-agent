@@ -1,0 +1,17 @@
+[
+  {
+    "source": "complex recurrent neural networks",
+    "target": "recurrence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "complex recurrent neural networks",
+    "target": "auto-regressive",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "complex recurrent neural networks",
+    "target": "encoder",
+    "relation": "prerequisite"
+  }
+]

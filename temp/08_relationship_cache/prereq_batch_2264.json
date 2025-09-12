@@ -1,0 +1,27 @@
+[
+  {
+    "source": "dmodel",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel",
+    "target": "best models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel",
+    "target": "model variants",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  }
+]

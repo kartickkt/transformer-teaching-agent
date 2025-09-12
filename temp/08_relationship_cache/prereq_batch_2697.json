@@ -1,0 +1,27 @@
+[
+  {
+    "source": "statistical machine translation",
+    "target": "stochastic optimization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "statistical machine translation",
+    "target": "limited training data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "statistical machine translation",
+    "target": "ConvS2S",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "statistical machine translation",
+    "target": "softmax function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "statistical machine translation",
+    "target": "softmax",
+    "relation": "prerequisite"
+  }
+]

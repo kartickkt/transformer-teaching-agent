@@ -1,0 +1,27 @@
+[
+  {
+    "source": "parameters",
+    "target": "model quality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameters",
+    "target": "dmodel = 1024",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tokens",
+    "target": "tables",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tokens",
+    "target": "figures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tokens",
+    "target": "symbol positions",
+    "relation": "prerequisite"
+  }
+]

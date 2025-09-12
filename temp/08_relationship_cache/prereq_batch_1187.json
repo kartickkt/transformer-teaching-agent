@@ -1,0 +1,12 @@
+[
+  {
+    "source": "decoder output",
+    "target": "output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder output",
+    "target": "output tokens",
+    "relation": "prerequisite"
+  }
+]

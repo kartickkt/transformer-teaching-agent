@@ -1,0 +1,17 @@
+[
+  {
+    "source": "parsing",
+    "target": "computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parsing",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parsing",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  }
+]

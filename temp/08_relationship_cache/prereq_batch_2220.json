@@ -1,0 +1,22 @@
+[
+  {
+    "source": "model performance",
+    "target": "task-specific tuning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model performance",
+    "target": "evaluate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model performance",
+    "target": "limited training data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model performance",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "big transformer model",
+    "target": "big models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "big transformer model",
+    "target": "model quality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "big transformer model",
+    "target": "Outrageously large neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer architecture",
+    "target": "network architecture",
+    "relation": "prerequisite"
+  }
+]

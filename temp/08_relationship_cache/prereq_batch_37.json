@@ -1,0 +1,17 @@
+[
+  {
+    "source": "existing best results",
+    "target": "state of the art",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "existing best results",
+    "target": "effective resolution",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "existing best results",
+    "target": "output",
+    "relation": "prerequisite"
+  }
+]

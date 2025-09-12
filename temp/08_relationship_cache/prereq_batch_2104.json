@@ -1,0 +1,17 @@
+[
+  {
+    "source": "floating point operations",
+    "target": "FLOPs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "floating point operations",
+    "target": "sustained single-precision floating-point capacity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "floating point operations",
+    "target": "computational performance",
+    "relation": "prerequisite"
+  }
+]

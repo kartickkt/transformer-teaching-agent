@@ -1,0 +1,17 @@
+[
+  {
+    "source": "code",
+    "target": "evaluate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "code",
+    "target": "algorithms",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "code",
+    "target": "ACL",
+    "relation": "prerequisite"
+  }
+]

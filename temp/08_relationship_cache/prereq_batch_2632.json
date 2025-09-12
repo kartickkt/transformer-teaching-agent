@@ -1,0 +1,7 @@
+[
+  {
+    "source": "reading comprehension",
+    "target": "textual entailment",
+    "relation": "prerequisite"
+  }
+]

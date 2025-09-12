@@ -1,0 +1,27 @@
+[
+  {
+    "source": "N = 6 identical layers",
+    "target": "connected layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "N = 6 identical layers",
+    "target": "single hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "N = 6 identical layers",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "N = 6 identical layers",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "N = 6 identical layers",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  }
+]

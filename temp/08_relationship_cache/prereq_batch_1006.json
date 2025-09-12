@@ -1,0 +1,22 @@
+[
+  {
+    "source": "encoder stack",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder stack",
+    "target": "Convolutional sequence to sequence learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder stack",
+    "target": "Multi-task sequence to sequence learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder stack",
+    "target": "self-training",
+    "relation": "prerequisite"
+  }
+]

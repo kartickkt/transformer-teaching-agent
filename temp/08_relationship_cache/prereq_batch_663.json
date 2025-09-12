@@ -1,0 +1,27 @@
+[
+  {
+    "source": "task-specific tuning",
+    "target": "Training Data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "task-specific tuning",
+    "target": "training batch",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "task-specific tuning",
+    "target": "machine translation tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "task-specific tuning",
+    "target": "translation quality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "task-specific tuning",
+    "target": "Effective approaches to attention-based neural machine translation",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "training costs",
+    "target": "Training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training costs",
+    "target": "dropout rate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training costs",
+    "target": "training time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training costs",
+    "target": "train",
+    "relation": "prerequisite"
+  }
+]

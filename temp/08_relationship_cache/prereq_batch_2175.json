@@ -1,0 +1,12 @@
+[
+  {
+    "source": "sequence modeling",
+    "target": "representation of the sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "sequential nature",
+    "relation": "prerequisite"
+  }
+]

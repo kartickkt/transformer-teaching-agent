@@ -1,0 +1,27 @@
+[
+  {
+    "source": "embedding layers",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "end-to-end memory networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "connected layers",
+    "relation": "prerequisite"
+  }
+]

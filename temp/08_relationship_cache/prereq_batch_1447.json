@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Multi-task sequence to sequence learning",
+    "target": "multi-task",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Multi-task sequence to sequence learning",
+    "target": "multi-head attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Multi-task sequence to sequence learning",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  }
+]

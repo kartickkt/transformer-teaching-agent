@@ -1,0 +1,27 @@
+[
+  {
+    "source": "2048",
+    "target": "1024",
+    "relation": "contrasts_with"
+  },
+  {
+    "source": "maximum path lengths",
+    "target": "length of the paths",
+    "relation": "related_topic"
+  },
+  {
+    "source": "per-layer complexity",
+    "target": "total computational complexity per layer",
+    "relation": "related_topic"
+  },
+  {
+    "source": "minimum number of sequential operations",
+    "target": "constant number of sequentially executed operations",
+    "relation": "contrasts_with"
+  },
+  {
+    "source": "minimum number of sequential operations",
+    "target": "O(n) sequential operations",
+    "relation": "contrasts_with"
+  }
+]

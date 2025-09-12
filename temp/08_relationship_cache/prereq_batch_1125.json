@@ -1,0 +1,12 @@
+[
+  {
+    "source": "sequence-to-sequence models",
+    "target": "Convolutional sequence to sequence learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-to-sequence models",
+    "target": "Multi-task sequence to sequence learning",
+    "relation": "prerequisite"
+  }
+]

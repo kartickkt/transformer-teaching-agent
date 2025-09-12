@@ -1,0 +1,27 @@
+[
+  {
+    "source": "language modeling",
+    "target": "model performance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "model architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "dmodel-dimensional keys",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "dimensionality",
+    "relation": "prerequisite"
+  }
+]

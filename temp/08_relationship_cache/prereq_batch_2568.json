@@ -1,0 +1,27 @@
+[
+  {
+    "source": "neural networks",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "local, restricted attention mechanisms",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "Structured attention networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "models",
+    "relation": "prerequisite"
+  }
+]

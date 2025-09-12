@@ -1,0 +1,27 @@
+[
+  {
+    "source": "embedding",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding",
+    "target": "single hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  }
+]

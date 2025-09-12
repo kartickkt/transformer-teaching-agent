@@ -1,0 +1,12 @@
+[
+  {
+    "source": "rnn encoder-decoder",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "rnn encoder-decoder",
+    "target": "decoder",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Neural computation",
+    "target": "convolutional layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural computation",
+    "target": "point-wise feed-forward layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural computation",
+    "target": "tensorflow",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural computation",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural computation",
+    "target": "Deep residual learning",
+    "relation": "prerequisite"
+  }
+]

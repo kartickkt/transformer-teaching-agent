@@ -1,0 +1,22 @@
+[
+  {
+    "source": "backward signals",
+    "target": "previous layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "backward signals",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "network",
+    "target": "network architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "network",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  }
+]

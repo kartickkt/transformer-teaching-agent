@@ -1,0 +1,12 @@
+[
+  {
+    "source": "theoretical complexity",
+    "target": "computational complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "theoretical complexity",
+    "target": "models",
+    "relation": "prerequisite"
+  }
+]

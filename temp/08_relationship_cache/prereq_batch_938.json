@@ -1,0 +1,27 @@
+[
+  {
+    "source": "continuous representations",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "continuous representations",
+    "target": "representation of the sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "continuous representations",
+    "target": "symbol representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "continuous representations",
+    "target": "point-wise",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "continuous representations",
+    "target": "residual connection",
+    "relation": "prerequisite"
+  }
+]

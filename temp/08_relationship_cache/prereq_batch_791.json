@@ -1,0 +1,22 @@
+[
+  {
+    "source": "convolutional neural networks",
+    "target": "Learning Representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutional neural networks",
+    "target": "learned linear transformation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutional neural networks",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutional neural networks",
+    "target": "sequential computation",
+    "relation": "prerequisite"
+  }
+]

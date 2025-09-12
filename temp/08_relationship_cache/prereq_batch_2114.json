@@ -1,0 +1,12 @@
+[
+  {
+    "source": "TFLOPS",
+    "target": "number of operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "TFLOPS",
+    "target": "2048",
+    "relation": "prerequisite"
+  }
+]

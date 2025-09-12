@@ -1,0 +1,17 @@
+[
+  {
+    "source": "constant number of sequentially executed operations",
+    "target": "minimum number of sequential operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "constant number of sequentially executed operations",
+    "target": "O(n) sequential operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "constant number of sequentially executed operations",
+    "target": "computational complexity",
+    "relation": "prerequisite"
+  }
+]

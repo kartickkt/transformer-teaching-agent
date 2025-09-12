@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Google\u00e2\u20ac\u2122s neural machine translation system",
+    "target": "WMT 2014 English-to-French translation task",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Google\u00e2\u20ac\u2122s neural machine translation system",
+    "target": "translation quality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Google\u00e2\u20ac\u2122s neural machine translation system",
+    "target": "English-to-German base translation model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Google\u00e2\u20ac\u2122s neural machine translation system",
+    "target": "Parser Training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Google\u00e2\u20ac\u2122s neural machine translation system",
+    "target": "statistical machine translation",
+    "relation": "prerequisite"
+  }
+]

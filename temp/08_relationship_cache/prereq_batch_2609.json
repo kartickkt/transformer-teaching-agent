@@ -1,0 +1,7 @@
+[
+  {
+    "source": "machine translation tasks",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  }
+]

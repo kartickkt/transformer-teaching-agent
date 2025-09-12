@@ -1,0 +1,22 @@
+[
+  {
+    "source": "train",
+    "target": "Sequential",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "train",
+    "target": "sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "train",
+    "target": "tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "train",
+    "target": "input",
+    "relation": "prerequisite"
+  }
+]

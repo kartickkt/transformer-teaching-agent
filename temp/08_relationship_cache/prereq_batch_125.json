@@ -1,0 +1,22 @@
+[
+  {
+    "source": "symbol representations",
+    "target": "sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "symbol representations",
+    "target": "code",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "symbol representations",
+    "target": "Recognition",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "symbol representations",
+    "target": "parameter-free position representation",
+    "relation": "prerequisite"
+  }
+]

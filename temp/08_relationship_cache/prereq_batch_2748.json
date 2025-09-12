@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Neural machine translation of rare words with subword units",
+    "target": "shared source-target vocabulary",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural machine translation of rare words with subword units",
+    "target": "32000 word-piece vocabulary",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural machine translation of rare words with subword units",
+    "target": "per-wordpiece",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural machine translation of rare words with subword units",
+    "target": "per-word perplexities",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural machine translation of rare words with subword units",
+    "target": "English-to-German base translation model",
+    "relation": "prerequisite"
+  }
+]

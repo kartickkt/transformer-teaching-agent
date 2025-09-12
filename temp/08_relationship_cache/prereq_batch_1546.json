@@ -1,0 +1,27 @@
+[
+  {
+    "source": "forward signals",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "forward signals",
+    "target": "connected layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "forward signals",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "forward signals",
+    "target": "softmax function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "forward signals",
+    "target": "feed-forward network",
+    "relation": "prerequisite"
+  }
+]

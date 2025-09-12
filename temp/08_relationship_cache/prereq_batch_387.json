@@ -1,0 +1,27 @@
+[
+  {
+    "source": "P E(pos,2i)",
+    "target": "O(n/r)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "P E(pos,2i)",
+    "target": "floating point operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "pos",
+    "target": "tables",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "pos",
+    "target": "figures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "pos",
+    "target": "symbol positions",
+    "relation": "prerequisite"
+  }
+]

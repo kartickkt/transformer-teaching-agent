@@ -1,0 +1,12 @@
+[
+  {
+    "source": "large training data",
+    "target": "over-fitting",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "large training data",
+    "target": "semi-supervised setting",
+    "relation": "prerequisite"
+  }
+]

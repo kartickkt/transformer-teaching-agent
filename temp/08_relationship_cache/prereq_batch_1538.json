@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence transduction encoder",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction encoder",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction encoder",
+    "target": "statistical machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction encoder",
+    "target": "human and machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction tasks",
+    "target": "sequence",
+    "relation": "prerequisite"
+  }
+]

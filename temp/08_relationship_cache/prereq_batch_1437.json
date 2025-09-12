@@ -1,0 +1,27 @@
+[
+  {
+    "source": "structured self-attentive sentence embedding",
+    "target": "Deep-Att + PosUnk Ensemble",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "structured self-attentive sentence embedding",
+    "target": "positional embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "structured self-attentive sentence embedding",
+    "target": "semi-supervised setting",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "structured self-attentive sentence embedding",
+    "target": "learning phrase representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "structured self-attentive sentence embedding",
+    "target": "self-training",
+    "relation": "prerequisite"
+  }
+]

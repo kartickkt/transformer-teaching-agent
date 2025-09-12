@@ -1,0 +1,27 @@
+[
+  {
+    "source": "attention mechanism",
+    "target": "attention heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention mechanism",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention mechanism",
+    "target": "local, restricted attention mechanisms",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention mechanism",
+    "target": "active memory",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention mechanism",
+    "target": "Structured attention networks",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence length n",
+    "target": "sequence lengths",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence length n",
+    "target": "sequential computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence length n",
+    "target": "number of operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence length n",
+    "target": "sequence-aligned recurrence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence length n",
+    "target": "N = 6 identical layers",
+    "relation": "prerequisite"
+  }
+]

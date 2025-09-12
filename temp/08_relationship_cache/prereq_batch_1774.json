@@ -1,0 +1,22 @@
+[
+  {
+    "source": "attention-based models",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention-based models",
+    "target": "end-to-end memory networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention-based models",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention-based models",
+    "target": "feed-forward network",
+    "relation": "prerequisite"
+  }
+]

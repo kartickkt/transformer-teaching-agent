@@ -1,0 +1,22 @@
+[
+  {
+    "source": "convolutions",
+    "target": "FLOPs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutions",
+    "target": "TFLOPS",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutions",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutions",
+    "target": "Neural computation",
+    "relation": "prerequisite"
+  }
+]

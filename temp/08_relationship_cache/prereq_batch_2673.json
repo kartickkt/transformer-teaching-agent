@@ -1,0 +1,12 @@
+[
+  {
+    "source": "per-word perplexities",
+    "target": "perplexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "per-word perplexities",
+    "target": "vocabulary",
+    "relation": "prerequisite"
+  }
+]

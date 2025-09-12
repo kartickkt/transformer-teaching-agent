@@ -1,0 +1,12 @@
+[
+  {
+    "source": "point-wise feed-forward layer",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise feed-forward layer",
+    "target": "positional embedding",
+    "relation": "prerequisite"
+  }
+]

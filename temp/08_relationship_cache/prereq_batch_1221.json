@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Positional Encoding",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Positional Encoding",
+    "target": "positional embedding",
+    "relation": "prerequisite"
+  }
+]

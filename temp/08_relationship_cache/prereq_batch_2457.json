@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Extended Neural GPU",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Extended Neural GPU",
+    "target": "Transformer architecture",
+    "relation": "prerequisite"
+  }
+]

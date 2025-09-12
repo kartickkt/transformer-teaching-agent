@@ -1,0 +1,27 @@
+[
+  {
+    "source": "input",
+    "target": "tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "output tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "weights",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "Sequential",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "pos",
+    "relation": "prerequisite"
+  }
+]

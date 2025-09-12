@@ -1,0 +1,17 @@
+[
+  {
+    "source": "encoder",
+    "target": "rnn encoder-decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder",
+    "target": "Convolutional sequence to sequence learning",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "input",
+    "target": "tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "hyperparameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "dropout",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "train",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "params",
+    "relation": "prerequisite"
+  }
+]

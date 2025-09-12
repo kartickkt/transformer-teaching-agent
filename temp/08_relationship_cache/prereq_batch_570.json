@@ -1,0 +1,27 @@
+[
+  {
+    "source": "dropout",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dropout",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dropout",
+    "target": "decoder output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dropout",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dropout",
+    "target": "embedding",
+    "relation": "prerequisite"
+  }
+]

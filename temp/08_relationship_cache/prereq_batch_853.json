@@ -1,0 +1,27 @@
+[
+  {
+    "source": "tensor2tensor",
+    "target": "parameter matrices",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensor2tensor",
+    "target": "weight matrix",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensor2tensor",
+    "target": "dimensionality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensor2tensor",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensor2tensor",
+    "target": "RNNs",
+    "relation": "prerequisite"
+  }
+]

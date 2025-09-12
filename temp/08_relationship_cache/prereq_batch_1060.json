@@ -1,0 +1,27 @@
+[
+  {
+    "source": "feed-forward network",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "feed-forward network",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "feed-forward network",
+    "target": "Position-wise Feed-Forward Networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "feed-forward network",
+    "target": "ReLU activation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "feed-forward network",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  }
+]

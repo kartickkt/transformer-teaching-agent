@@ -1,0 +1,27 @@
+[
+  {
+    "source": "512",
+    "target": "ACL",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "512",
+    "target": "decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "512",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "512",
+    "target": "decoder output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "512",
+    "target": "decoder stacks",
+    "relation": "prerequisite"
+  }
+]

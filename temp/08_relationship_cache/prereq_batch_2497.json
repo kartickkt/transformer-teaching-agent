@@ -1,0 +1,22 @@
+[
+  {
+    "source": "neural machine translation architectures",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural machine translation architectures",
+    "target": "RNNs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural machine translation architectures",
+    "target": "gated recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural machine translation architectures",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  }
+]

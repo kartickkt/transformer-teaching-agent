@@ -1,0 +1,17 @@
+[
+  {
+    "source": "learned embeddings",
+    "target": "single hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned embeddings",
+    "target": "learned linear projections",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned embeddings",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  }
+]

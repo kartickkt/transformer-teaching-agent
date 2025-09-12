@@ -1,0 +1,22 @@
+[
+  {
+    "source": "parameter matrices",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameter matrices",
+    "target": "model variants",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameter matrices",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameter matrices",
+    "target": "model performance",
+    "relation": "prerequisite"
+  }
+]

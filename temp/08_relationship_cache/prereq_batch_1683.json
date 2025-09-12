@@ -1,0 +1,17 @@
+[
+  {
+    "source": "additive attention",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "additive attention",
+    "target": "structured self-attentive sentence embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "additive attention",
+    "target": "deep reinforced model for abstractive summarization",
+    "relation": "prerequisite"
+  }
+]

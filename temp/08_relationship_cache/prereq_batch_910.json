@@ -1,0 +1,17 @@
+[
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  }
+]

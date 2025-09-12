@@ -1,0 +1,17 @@
+[
+  {
+    "source": "single attention head",
+    "target": "scaled dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single attention head",
+    "target": "multi-head attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single attention head",
+    "target": "intra-attention",
+    "relation": "prerequisite"
+  }
+]

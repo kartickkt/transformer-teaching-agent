@@ -1,0 +1,17 @@
+[
+  {
+    "source": "hidden",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden",
+    "target": "decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden",
+    "target": "embedding",
+    "relation": "prerequisite"
+  }
+]

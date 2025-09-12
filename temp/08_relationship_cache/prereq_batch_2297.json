@@ -1,0 +1,12 @@
+[
+  {
+    "source": "layer types",
+    "target": "LayerNorm",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer types",
+    "target": "layer normalization",
+    "relation": "prerequisite"
+  }
+]

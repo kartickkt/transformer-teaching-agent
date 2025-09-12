@@ -1,0 +1,7 @@
+[
+  {
+    "source": "total computational complexity per layer",
+    "target": "number of operations",
+    "relation": "prerequisite"
+  }
+]

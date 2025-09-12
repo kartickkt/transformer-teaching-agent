@@ -1,0 +1,22 @@
+[
+  {
+    "source": "attention heads",
+    "target": "attention key and value dimensions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention heads",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention heads",
+    "target": "Attention Is All You Need",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention heads",
+    "target": "attention mechanism",
+    "relation": "prerequisite"
+  }
+]

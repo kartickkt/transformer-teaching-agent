@@ -1,0 +1,17 @@
+[
+  {
+    "source": "align and translate",
+    "target": "statistical machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "align and translate",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "align and translate",
+    "target": "translation quality",
+    "relation": "prerequisite"
+  }
+]

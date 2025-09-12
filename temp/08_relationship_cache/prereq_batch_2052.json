@@ -1,0 +1,17 @@
+[
+  {
+    "source": "computational performance",
+    "target": "parallelizable",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational performance",
+    "target": "computation time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational performance",
+    "target": "parallelization",
+    "relation": "prerequisite"
+  }
+]

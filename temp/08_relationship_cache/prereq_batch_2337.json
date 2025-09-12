@@ -1,0 +1,22 @@
+[
+  {
+    "source": "state-of-the-art models",
+    "target": "computational efficiency",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "state-of-the-art models",
+    "target": "theoretical complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "state-of-the-art models",
+    "target": "computational performance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "state-of-the-art models",
+    "target": "best models",
+    "relation": "prerequisite"
+  }
+]

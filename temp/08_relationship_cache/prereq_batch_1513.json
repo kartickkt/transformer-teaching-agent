@@ -1,0 +1,27 @@
+[
+  {
+    "source": "transduc",
+    "target": "Transformer (big)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "transduc",
+    "target": "big transformer model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "transduc",
+    "target": "translation quality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear transformations",
+    "target": "vectors",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear transformations",
+    "target": "matrices K and V",
+    "relation": "prerequisite"
+  }
+]

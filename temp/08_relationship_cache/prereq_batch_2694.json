@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Parser Training",
+    "target": "Penn Treebank",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Parser Training",
+    "target": "BerkleyParser corpora",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Parser Training",
+    "target": "Self-training PCFG grammars with latent annotations across languages",
+    "relation": "prerequisite"
+  }
+]

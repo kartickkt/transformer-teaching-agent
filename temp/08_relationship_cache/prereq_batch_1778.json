@@ -1,0 +1,27 @@
+[
+  {
+    "source": "attention-based models",
+    "target": "self-attention sub-layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention-based models",
+    "target": "attention function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention-based models",
+    "target": "intra-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention-based models",
+    "target": "recurrent attention mechanism",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention-based models",
+    "target": "averaging attention-weighted positions",
+    "relation": "prerequisite"
+  }
+]

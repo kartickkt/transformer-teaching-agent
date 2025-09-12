@@ -1,0 +1,7 @@
+[
+  {
+    "source": "registration",
+    "target": "Training",
+    "relation": "prerequisite"
+  }
+]

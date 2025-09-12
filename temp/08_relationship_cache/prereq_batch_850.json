@@ -1,0 +1,12 @@
+[
+  {
+    "source": "tensor2tensor",
+    "target": "tensorflow",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensor2tensor",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "source": "Factorization tricks for LSTM networks",
+    "target": "rnn encoder-decoder",
+    "relation": "prerequisite"
+  }
+]

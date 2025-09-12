@@ -1,0 +1,27 @@
+[
+  {
+    "source": "recurrent language models",
+    "target": "Learning Representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent language models",
+    "target": "structured self-attentive sentence embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent language models",
+    "target": "Multi-task sequence to sequence learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent language models",
+    "target": "self-training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent language models",
+    "target": "deep reinforced model for abstractive summarization",
+    "relation": "prerequisite"
+  }
+]

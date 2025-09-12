@@ -1,0 +1,17 @@
+[
+  {
+    "source": "pre-softmax",
+    "target": "predicted next-token probabilities",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "pre-softmax",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "pre-softmax",
+    "target": "point-wise feed-forward layer",
+    "relation": "prerequisite"
+  }
+]

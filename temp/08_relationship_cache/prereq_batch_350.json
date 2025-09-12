@@ -1,0 +1,7 @@
+[
+  {
+    "source": "output tokens",
+    "target": "tokens",
+    "relation": "prerequisite"
+  }
+]

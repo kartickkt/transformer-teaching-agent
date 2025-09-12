@@ -1,0 +1,17 @@
+[
+  {
+    "source": "textual entailment",
+    "target": "per-word perplexities",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "textual entailment",
+    "target": "human and machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "simple-language question answering",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  }
+]

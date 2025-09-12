@@ -1,0 +1,27 @@
+[
+  {
+    "source": "dependencies",
+    "target": "sequential nature",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dependencies",
+    "target": "conditional computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dependencies",
+    "target": "global dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dependencies",
+    "target": "output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dependencies",
+    "target": "residual connection",
+    "relation": "prerequisite"
+  }
+]

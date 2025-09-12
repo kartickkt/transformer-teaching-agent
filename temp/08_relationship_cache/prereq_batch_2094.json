@@ -1,0 +1,27 @@
+[
+  {
+    "source": "input length",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input length",
+    "target": "input positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input length",
+    "target": "output positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input length",
+    "target": "byte-pair",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input length",
+    "target": "input",
+    "relation": "prerequisite"
+  }
+]

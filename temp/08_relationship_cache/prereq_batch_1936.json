@@ -1,0 +1,7 @@
+[
+  {
+    "source": "N = 6 identical layers",
+    "target": "4-layer transformer",
+    "relation": "prerequisite"
+  }
+]

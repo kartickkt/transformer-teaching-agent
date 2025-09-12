@@ -1,0 +1,12 @@
+[
+  {
+    "source": "linear function",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear function",
+    "target": "softmax function",
+    "relation": "prerequisite"
+  }
+]

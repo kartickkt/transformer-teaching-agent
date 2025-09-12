@@ -1,0 +1,27 @@
+[
+  {
+    "source": "tasks",
+    "target": "sequence transduction tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "Attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "attention function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "multi-head attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  }
+]

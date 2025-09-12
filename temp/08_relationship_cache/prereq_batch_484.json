@@ -1,0 +1,17 @@
+[
+  {
+    "source": "input positions",
+    "target": "sinusoidal positional encoding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input positions",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input positions",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  }
+]

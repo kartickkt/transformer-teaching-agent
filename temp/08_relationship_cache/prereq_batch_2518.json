@@ -1,0 +1,27 @@
+[
+  {
+    "source": "NAACL",
+    "target": "deep reinforced model for abstractive summarization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "NAACL",
+    "target": "additive attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "NAACL",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "NAACL",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "NAACL",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  }
+]

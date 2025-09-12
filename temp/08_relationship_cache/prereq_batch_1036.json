@@ -1,0 +1,27 @@
+[
+  {
+    "source": "softmax function",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "softmax function",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "softmax function",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "softmax function",
+    "target": "Neural computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "softmax function",
+    "target": "parameter matrices",
+    "relation": "prerequisite"
+  }
+]

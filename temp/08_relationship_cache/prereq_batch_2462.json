@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Extended Neural GPU",
+    "target": "Sequence to sequence learning with neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Extended Neural GPU",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Extended Neural GPU",
+    "target": "Effective approaches to attention-based neural machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Extended Neural GPU",
+    "target": "Google\u00e2\u20ac\u2122s neural machine translation system",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Recurrent",
+    "target": "recurrence",
+    "relation": "prerequisite"
+  }
+]

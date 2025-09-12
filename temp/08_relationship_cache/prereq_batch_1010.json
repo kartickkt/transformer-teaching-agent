@@ -1,0 +1,17 @@
+[
+  {
+    "source": "output embeddings",
+    "target": "output tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output embeddings",
+    "target": "output positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output embeddings",
+    "target": "input positions",
+    "relation": "prerequisite"
+  }
+]

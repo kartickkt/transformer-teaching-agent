@@ -1,0 +1,27 @@
+[
+  {
+    "source": "best models",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "best models",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "best models",
+    "target": "model variants",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "best models",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "best models",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  }
+]

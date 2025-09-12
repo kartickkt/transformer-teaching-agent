@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Long short-term memory-networks",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Long short-term memory-networks",
+    "target": "end-to-end memory networks",
+    "relation": "prerequisite"
+  }
+]

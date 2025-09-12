@@ -1,0 +1,22 @@
+[
+  {
+    "source": "heads",
+    "target": "output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "heads",
+    "target": "stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "heads",
+    "target": "predictions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "heads",
+    "target": "position",
+    "relation": "prerequisite"
+  }
+]

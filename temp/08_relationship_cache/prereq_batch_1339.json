@@ -1,0 +1,17 @@
+[
+  {
+    "source": "tensorflow",
+    "target": "Transformer models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "Transformer architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  }
+]

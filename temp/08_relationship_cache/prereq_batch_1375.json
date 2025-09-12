@@ -1,0 +1,22 @@
+[
+  {
+    "source": "deep learning",
+    "target": "point-wise feed-forward layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "learning rate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "Residual Dropout",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "over-fitting",
+    "relation": "prerequisite"
+  }
+]

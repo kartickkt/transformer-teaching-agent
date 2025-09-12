@@ -1,0 +1,22 @@
+[
+  {
+    "source": "layer types",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer types",
+    "target": "recurrent layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer types",
+    "target": "convolutional layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer types",
+    "target": "point-wise feed-forward layer",
+    "relation": "prerequisite"
+  }
+]

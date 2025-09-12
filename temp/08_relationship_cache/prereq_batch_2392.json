@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Google Brain",
+    "target": "Extended Neural GPU",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Google Brain",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Google Brain",
+    "target": "Neural computation",
+    "relation": "prerequisite"
+  }
+]

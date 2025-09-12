@@ -1,0 +1,22 @@
+[
+  {
+    "source": "attention layers",
+    "target": "active memory",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention layers",
+    "target": "Structured attention networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention layers",
+    "target": "decomposable attention model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention layers",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  }
+]

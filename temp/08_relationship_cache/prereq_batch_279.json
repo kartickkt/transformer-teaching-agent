@@ -1,0 +1,27 @@
+[
+  {
+    "source": "mean",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "mean",
+    "target": "averaging attention-weighted positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "mean",
+    "target": "Attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "mean",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "mean",
+    "target": "dimension",
+    "relation": "prerequisite"
+  }
+]

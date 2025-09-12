@@ -1,0 +1,12 @@
+[
+  {
+    "source": "convolutions",
+    "target": "convolutional neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutions",
+    "target": "algorithms",
+    "relation": "prerequisite"
+  }
+]

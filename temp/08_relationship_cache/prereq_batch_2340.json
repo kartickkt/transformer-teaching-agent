@@ -1,0 +1,22 @@
+[
+  {
+    "source": "state-of-the-art models",
+    "target": "vectors of dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "state-of-the-art models",
+    "target": "dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "state-of-the-art models",
+    "target": "base models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "state-of-the-art models",
+    "target": "big models",
+    "relation": "prerequisite"
+  }
+]

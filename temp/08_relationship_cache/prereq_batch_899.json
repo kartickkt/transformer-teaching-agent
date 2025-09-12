@@ -1,0 +1,22 @@
+[
+  {
+    "source": "hidden representations",
+    "target": "figures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden representations",
+    "target": "visualizations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden representations",
+    "target": "symbol positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden representations",
+    "target": "hidden",
+    "relation": "prerequisite"
+  }
+]

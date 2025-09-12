@@ -1,0 +1,12 @@
+[
+  {
+    "source": "connected layers",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "connected layers",
+    "target": "feed-forward network",
+    "relation": "prerequisite"
+  }
+]

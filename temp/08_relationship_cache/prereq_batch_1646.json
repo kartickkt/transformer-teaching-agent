@@ -1,0 +1,22 @@
+[
+  {
+    "source": "sub-layers",
+    "target": "previous layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layers",
+    "target": "sub-layer input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layers",
+    "target": "local, restricted attention mechanisms",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layers",
+    "target": "N = 6 identical layers",
+    "relation": "prerequisite"
+  }
+]

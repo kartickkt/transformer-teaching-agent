@@ -1,0 +1,22 @@
+[
+  {
+    "source": "learning phrase representations",
+    "target": "Sequence to sequence learning with neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning phrase representations",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning phrase representations",
+    "target": "machine translation tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning phrase representations",
+    "target": "sentence representations",
+    "relation": "prerequisite"
+  }
+]

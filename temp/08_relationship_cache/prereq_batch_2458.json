@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Extended Neural GPU",
+    "target": "eight GPUs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Extended Neural GPU",
+    "target": "eight P100 GPUs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Extended Neural GPU",
+    "target": "amount of computation that can be parallelized",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Extended Neural GPU",
+    "target": "computational performance",
+    "relation": "prerequisite"
+  }
+]

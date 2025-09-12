@@ -1,0 +1,12 @@
+[
+  {
+    "source": "independent random variables",
+    "target": "auto-regressive",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "independent random variables",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  }
+]

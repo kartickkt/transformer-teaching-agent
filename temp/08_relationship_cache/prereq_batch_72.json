@@ -1,0 +1,27 @@
+[
+  {
+    "source": "input for position t",
+    "target": "input positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input for position t",
+    "target": "output positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input for position t",
+    "target": "input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input for position t",
+    "target": "step time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input for position t",
+    "target": "training time",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "translation quality",
+    "target": "English-to-German",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "translation quality",
+    "target": "English-to-French",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "translation quality",
+    "target": "English-to-German base translation model",
+    "relation": "prerequisite"
+  }
+]

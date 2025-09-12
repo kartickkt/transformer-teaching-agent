@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Transformer (base model)",
+    "target": "feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer (base model)",
+    "target": "ReLU activation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer (base model)",
+    "target": "sequence transduction models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer (base model)",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  }
+]

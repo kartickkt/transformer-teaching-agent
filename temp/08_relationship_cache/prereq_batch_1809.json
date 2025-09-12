@@ -1,0 +1,22 @@
+[
+  {
+    "source": "decomposable attention model",
+    "target": "self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decomposable attention model",
+    "target": "scaled dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decomposable attention model",
+    "target": "multi-head attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decomposable attention model",
+    "target": "intra-attention",
+    "relation": "prerequisite"
+  }
+]

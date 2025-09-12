@@ -1,0 +1,27 @@
+[
+  {
+    "source": "audio",
+    "target": "decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "audio",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "audio",
+    "target": "decoder output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "audio",
+    "target": "sub-layer input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "audio",
+    "target": "active memory",
+    "relation": "prerequisite"
+  }
+]

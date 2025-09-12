@@ -1,0 +1,27 @@
+[
+  {
+    "source": "LayerNorm",
+    "target": "per-layer complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "LayerNorm",
+    "target": "Layer Type Complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "LayerNorm",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "LayerNorm",
+    "target": "weight matrix",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "LayerNorm",
+    "target": "layer types",
+    "relation": "prerequisite"
+  }
+]

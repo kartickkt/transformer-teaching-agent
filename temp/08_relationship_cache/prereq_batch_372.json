@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Sequential",
+    "target": "parallelizable",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequential",
+    "target": "parallelization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequential",
+    "target": "sequential computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequential",
+    "target": "number of operations",
+    "relation": "prerequisite"
+  }
+]

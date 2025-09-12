@@ -1,0 +1,27 @@
+[
+  {
+    "source": "pos",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "pos",
+    "target": "tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "pos",
+    "target": "weights",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "pos",
+    "target": "P E(pos,2i)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "pos",
+    "target": "function",
+    "relation": "prerequisite"
+  }
+]

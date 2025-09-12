@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Google Brain",
+    "target": "human and machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Google Brain",
+    "target": "Google\u00e2\u20ac\u2122s neural machine translation system",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Google Brain",
+    "target": "Neural machine translation of rare words with subword units",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Google Research",
+    "target": "beam search",
+    "relation": "prerequisite"
+  }
+]

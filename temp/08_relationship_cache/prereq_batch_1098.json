@@ -1,0 +1,27 @@
+[
+  {
+    "source": "encoder-decoder attention",
+    "target": "Attention Is All You Need",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder attention",
+    "target": "attention mechanism",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder attention",
+    "target": "self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder attention",
+    "target": "scaled dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder attention",
+    "target": "multi-head attention",
+    "relation": "prerequisite"
+  }
+]

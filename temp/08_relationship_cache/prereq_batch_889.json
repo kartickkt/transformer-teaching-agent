@@ -1,0 +1,27 @@
+[
+  {
+    "source": "output sequences",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output sequences",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output sequences",
+    "target": "softmax function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output sequences",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output sequences",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  }
+]

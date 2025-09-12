@@ -1,0 +1,17 @@
+[
+  {
+    "source": "representation dimension",
+    "target": "quality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation dimension",
+    "target": "visualizations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation dimension",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  }
+]

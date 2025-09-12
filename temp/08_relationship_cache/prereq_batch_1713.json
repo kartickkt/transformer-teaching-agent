@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Attention",
+    "target": "recurrent attention mechanism",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention",
+    "target": "self-attention sub-layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention",
+    "target": "attention function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention",
+    "target": "Attention(Q, K, V)",
+    "relation": "prerequisite"
+  }
+]

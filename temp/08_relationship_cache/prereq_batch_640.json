@@ -1,0 +1,22 @@
+[
+  {
+    "source": "state-of-the-art results",
+    "target": "empirical evaluation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "state-of-the-art results",
+    "target": "efficient inference",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "state-of-the-art results",
+    "target": "computational efficiency",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "state-of-the-art results",
+    "target": "computational performance",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "computational efficiency",
+    "target": "theoretical complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational efficiency",
+    "target": "number of operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational efficiency",
+    "target": "memory constraints",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational efficiency",
+    "target": "space-efficient",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational efficiency",
+    "target": "sequential computation",
+    "relation": "prerequisite"
+  }
+]

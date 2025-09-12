@@ -1,0 +1,17 @@
+[
+  {
+    "source": "output embeddings",
+    "target": "softmax function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output embeddings",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output embeddings",
+    "target": "feed-forward network",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "heads",
+    "target": "head1",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "heads",
+    "target": "dot products",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "heads",
+    "target": "gradients",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "heads",
+    "target": "mean",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "heads",
+    "target": "Concat(head1, ..., headh)WO",
+    "relation": "prerequisite"
+  }
+]

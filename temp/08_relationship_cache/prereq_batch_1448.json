@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Multi-task sequence to sequence learning",
+    "target": "sequential computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Multi-task sequence to sequence learning",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Multi-task sequence to sequence learning",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Multi-task sequence to sequence learning",
+    "target": "RNNs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Multi-task sequence to sequence learning",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  }
+]

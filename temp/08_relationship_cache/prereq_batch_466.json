@@ -1,0 +1,12 @@
+[
+  {
+    "source": "backward signals",
+    "target": "decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "backward signals",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  }
+]

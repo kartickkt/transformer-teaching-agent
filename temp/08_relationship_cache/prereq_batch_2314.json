@@ -1,0 +1,22 @@
+[
+  {
+    "source": "dimension dmodel",
+    "target": "P_drop",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension dmodel",
+    "target": "params",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension dmodel",
+    "target": "attention key and value dimensions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension dmodel",
+    "target": "decoder",
+    "relation": "prerequisite"
+  }
+]

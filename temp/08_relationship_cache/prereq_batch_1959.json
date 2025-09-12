@@ -1,0 +1,22 @@
+[
+  {
+    "source": "matrix multiplication code",
+    "target": "dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "matrix multiplication code",
+    "target": "parallelization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "matrix multiplication code",
+    "target": "factorization tricks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "matrix multiplication code",
+    "target": "number of operations",
+    "relation": "prerequisite"
+  }
+]

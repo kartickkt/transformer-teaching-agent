@@ -1,0 +1,27 @@
+[
+  {
+    "source": "tensorflow",
+    "target": "hyperparameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "dropout",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "train",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "params",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "convolutional neural networks",
+    "relation": "prerequisite"
+  }
+]

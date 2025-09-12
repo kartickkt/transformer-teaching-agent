@@ -1,0 +1,17 @@
+[
+  {
+    "source": "O(logk(n))",
+    "target": "minimum number of sequential operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "O(logk(n))",
+    "target": "total computational complexity per layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "O(logk(n))",
+    "target": "computational complexity",
+    "relation": "prerequisite"
+  }
+]

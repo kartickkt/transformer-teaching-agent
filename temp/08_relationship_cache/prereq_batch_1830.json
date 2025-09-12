@@ -1,0 +1,17 @@
+[
+  {
+    "source": "layer 5",
+    "target": "LayerNorm",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer 5",
+    "target": "network architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer 5",
+    "target": "network",
+    "relation": "prerequisite"
+  }
+]

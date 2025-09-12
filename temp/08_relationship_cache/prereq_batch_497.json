@@ -1,0 +1,27 @@
+[
+  {
+    "source": "output positions",
+    "target": "sequence lengths",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output positions",
+    "target": "distance between positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output positions",
+    "target": "number of operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output positions",
+    "target": "fixed offset k",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output positions",
+    "target": "constant number of sequentially executed operations",
+    "relation": "prerequisite"
+  }
+]

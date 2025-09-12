@@ -1,0 +1,17 @@
+[
+  {
+    "source": "residual",
+    "target": "representation dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "inference",
+    "target": "predictions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "inference",
+    "target": "evaluate",
+    "relation": "prerequisite"
+  }
+]

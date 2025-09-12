@@ -1,0 +1,17 @@
+[
+  {
+    "source": "conditional computation",
+    "target": "queries",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "conditional computation",
+    "target": "function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "conditional computation",
+    "target": "linear function",
+    "relation": "prerequisite"
+  }
+]

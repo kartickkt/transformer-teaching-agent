@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Journal of Machine Learning Research",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Journal of Machine Learning Research",
+    "target": "Deep residual learning",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "parameters",
+    "target": "network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameters",
+    "target": "tasks",
+    "relation": "prerequisite"
+  }
+]

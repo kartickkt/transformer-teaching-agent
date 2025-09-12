@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Neural machine translation of rare words with subword units",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural machine translation of rare words with subword units",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  }
+]

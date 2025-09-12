@@ -1,0 +1,22 @@
+[
+  {
+    "source": "embedding layers",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "N = 6 identical layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "per-layer complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "Layer Type Complexity",
+    "relation": "prerequisite"
+  }
+]

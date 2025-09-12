@@ -1,0 +1,17 @@
+[
+  {
+    "source": "registration",
+    "target": "train",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "registration",
+    "target": "params",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "registration",
+    "target": "code",
+    "relation": "prerequisite"
+  }
+]

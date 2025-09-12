@@ -1,0 +1,12 @@
+[
+  {
+    "source": "factorization tricks",
+    "target": "softmax function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "factorization tricks",
+    "target": "Separable convolutions",
+    "relation": "prerequisite"
+  }
+]

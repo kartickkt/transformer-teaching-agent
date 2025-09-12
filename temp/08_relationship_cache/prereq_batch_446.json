@@ -1,0 +1,22 @@
+[
+  {
+    "source": "convolu-",
+    "target": "dilated convolutions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolu-",
+    "target": "convolutional neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolu-",
+    "target": "convolutions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolu-",
+    "target": "convolutional layer",
+    "relation": "prerequisite"
+  }
+]

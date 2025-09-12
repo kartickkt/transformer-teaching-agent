@@ -1,0 +1,27 @@
+[
+  {
+    "source": "hidden representations",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden representations",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden representations",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden representations",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden representations",
+    "target": "Positional Encoding",
+    "relation": "prerequisite"
+  }
+]

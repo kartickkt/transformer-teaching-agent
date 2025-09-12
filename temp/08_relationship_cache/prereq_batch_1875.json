@@ -1,0 +1,22 @@
+[
+  {
+    "source": "sequence lengths",
+    "target": "sequential computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence lengths",
+    "target": "distance between positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence lengths",
+    "target": "number of operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence lengths",
+    "target": "sequence-aligned recurrence",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "vectors",
+    "target": "matrices K and V",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "vectors",
+    "target": "gradients",
+    "relation": "prerequisite"
+  }
+]

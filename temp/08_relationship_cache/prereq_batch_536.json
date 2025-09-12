@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Training",
+    "target": "task-specific tuning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Training",
+    "target": "learning rate",
+    "relation": "prerequisite"
+  }
+]

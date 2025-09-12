@@ -1,0 +1,12 @@
+[
+  {
+    "source": "intra-attention",
+    "target": "scaled dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "intra-attention",
+    "target": "multi-head attention",
+    "relation": "prerequisite"
+  }
+]

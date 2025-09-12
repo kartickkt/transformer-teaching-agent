@@ -1,0 +1,22 @@
+[
+  {
+    "source": "connected layers",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "connected layers",
+    "target": "Deep residual learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "connected layers",
+    "target": "Learning Representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "connected layers",
+    "target": "linear transformations",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "dmodel = 1024",
+    "target": "dmodel-dimensional keys",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel = 1024",
+    "target": "dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel = 1024",
+    "target": "dimensionality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel = 1024",
+    "target": "vectors of dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel = 1024",
+    "target": "\u00e2\u02c6\u0161dmodel",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "heads",
+    "target": "visualizations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "heads",
+    "target": "hidden",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "heads",
+    "target": "previous hidden state ht\u00e2\u02c6\u20191",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "heads",
+    "target": "global dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "heads",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "connected layers",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "connected layers",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "connected layers",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "connected layers",
+    "target": "decoder stacks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "connected layers",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  }
+]

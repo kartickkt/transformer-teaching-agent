@@ -1,0 +1,27 @@
+[
+  {
+    "source": "feed-forward network",
+    "target": "information flow",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "feed-forward network",
+    "target": "backward signals",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "feed-forward network",
+    "target": "network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "feed-forward network",
+    "target": "fast-forward connections",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "feed-forward network",
+    "target": "convolutional neural networks",
+    "relation": "prerequisite"
+  }
+]

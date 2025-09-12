@@ -1,0 +1,17 @@
+[
+  {
+    "source": "sequential nature",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential nature",
+    "target": "sequence transduction models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential nature",
+    "target": "sequential computation",
+    "relation": "prerequisite"
+  }
+]

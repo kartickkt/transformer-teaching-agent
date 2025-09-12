@@ -1,0 +1,22 @@
+[
+  {
+    "source": "decoder output",
+    "target": "maximum output length",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder output",
+    "target": "input length",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder output",
+    "target": "attention key size dk",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder output",
+    "target": "large inputs and outputs",
+    "relation": "prerequisite"
+  }
+]

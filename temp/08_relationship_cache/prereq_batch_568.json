@@ -1,0 +1,17 @@
+[
+  {
+    "source": "dropout",
+    "target": "train",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dropout",
+    "target": "checkpoint averaging",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dropout",
+    "target": "residual",
+    "relation": "prerequisite"
+  }
+]

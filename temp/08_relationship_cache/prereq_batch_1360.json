@@ -1,0 +1,17 @@
+[
+  {
+    "source": "rnn encoder-decoder",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "rnn encoder-decoder",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "rnn encoder-decoder",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  }
+]

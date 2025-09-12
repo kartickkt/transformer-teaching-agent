@@ -1,0 +1,27 @@
+[
+  {
+    "source": "eight GPUs",
+    "target": "computational performance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "eight GPUs",
+    "target": "number of GPUs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "eight GPUs",
+    "target": "sustained single-precision floating-point capacity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "eight GPUs",
+    "target": "TFLOPS",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "eight GPUs",
+    "target": "16K tokens",
+    "relation": "prerequisite"
+  }
+]

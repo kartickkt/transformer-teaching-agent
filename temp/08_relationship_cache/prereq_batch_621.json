@@ -1,0 +1,22 @@
+[
+  {
+    "source": "checkpoint averaging",
+    "target": "accuracy",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "checkpoint averaging",
+    "target": "task-specific tuning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "checkpoint averaging",
+    "target": "evaluate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "checkpoint averaging",
+    "target": "efficient inference",
+    "relation": "prerequisite"
+  }
+]

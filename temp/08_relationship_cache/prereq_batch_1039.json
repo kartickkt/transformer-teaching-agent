@@ -1,0 +1,17 @@
+[
+  {
+    "source": "softmax",
+    "target": "predictions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "softmax",
+    "target": "weighted sum",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "softmax",
+    "target": "scaling",
+    "relation": "prerequisite"
+  }
+]

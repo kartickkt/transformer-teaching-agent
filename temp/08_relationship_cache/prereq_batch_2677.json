@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Penn Treebank",
+    "target": "Parser Training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Penn Treebank",
+    "target": "Self-training PCFG grammars with latent annotations across languages",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Penn Treebank",
+    "target": "Empirical Methods in Natural Language Processing",
+    "relation": "prerequisite"
+  }
+]

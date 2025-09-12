@@ -1,0 +1,27 @@
+[
+  {
+    "source": "previous layer",
+    "target": "hidden",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "previous layer",
+    "target": "previous hidden state ht\u00e2\u02c6\u20191",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "previous layer",
+    "target": "residual connection",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "previous layer",
+    "target": "LayerNorm",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "previous layer",
+    "target": "relative positions",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "layer normalization",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer normalization",
+    "target": "ReLU activation",
+    "relation": "prerequisite"
+  }
+]

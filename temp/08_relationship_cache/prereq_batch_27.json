@@ -1,0 +1,27 @@
+[
+  {
+    "source": "network architecture",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "network architecture",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "network architecture",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "network architecture",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrence",
+    "target": "sequential nature",
+    "relation": "prerequisite"
+  }
+]

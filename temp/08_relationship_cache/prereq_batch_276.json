@@ -1,0 +1,12 @@
+[
+  {
+    "source": "mean",
+    "target": "weighted sum",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "mean",
+    "target": "values",
+    "relation": "prerequisite"
+  }
+]

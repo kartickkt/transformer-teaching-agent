@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Effective approaches to attention-based neural machine translation",
+    "target": "multi-head attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Effective approaches to attention-based neural machine translation",
+    "target": "intra-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Effective approaches to attention-based neural machine translation",
+    "target": "self-attention sub-layer",
+    "relation": "prerequisite"
+  }
+]

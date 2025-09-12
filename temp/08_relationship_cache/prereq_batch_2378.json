@@ -1,0 +1,22 @@
+[
+  {
+    "source": "model quality",
+    "target": "evaluate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model quality",
+    "target": "over-fitting",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model quality",
+    "target": "Transformer models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model quality",
+    "target": "Transformer (base model)",
+    "relation": "prerequisite"
+  }
+]

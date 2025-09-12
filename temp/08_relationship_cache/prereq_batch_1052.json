@@ -1,0 +1,17 @@
+[
+  {
+    "source": "softmax",
+    "target": "scaled dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "softmax",
+    "target": "dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "softmax",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  }
+]

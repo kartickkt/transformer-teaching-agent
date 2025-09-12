@@ -1,0 +1,12 @@
+[
+  {
+    "source": "English-to-German base translation model",
+    "target": "WMT 2014 English-to-German translation task",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "English-to-German base translation model",
+    "target": "translation quality",
+    "relation": "prerequisite"
+  }
+]

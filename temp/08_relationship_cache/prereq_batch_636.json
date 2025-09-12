@@ -1,0 +1,22 @@
+[
+  {
+    "source": "structural challenges",
+    "target": "inception architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "structural challenges",
+    "target": "continuous representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "structural challenges",
+    "target": "connected layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "structural challenges",
+    "target": "decoder stacks",
+    "relation": "prerequisite"
+  }
+]

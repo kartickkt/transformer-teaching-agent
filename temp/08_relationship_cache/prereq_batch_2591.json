@@ -1,0 +1,27 @@
+[
+  {
+    "source": "computer vision",
+    "target": "computational efficiency",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computer vision",
+    "target": "computational complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computer vision",
+    "target": "computational performance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computer vision",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computer vision",
+    "target": "model architecture",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "long-range dependencies",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "long-range dependencies",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "long-range dependencies",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  }
+]

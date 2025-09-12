@@ -1,0 +1,17 @@
+[
+  {
+    "source": "byte-pair",
+    "target": "key-value pairs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "byte-pair",
+    "target": "keys",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "byte-pair",
+    "target": "dot product",
+    "relation": "prerequisite"
+  }
+]

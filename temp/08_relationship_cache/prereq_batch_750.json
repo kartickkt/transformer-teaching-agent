@@ -1,0 +1,27 @@
+[
+  {
+    "source": "parsing",
+    "target": "English constituency parsing",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parsing",
+    "target": "reading comprehension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parsing",
+    "target": "textual entailment",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parsing",
+    "target": "sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parsing",
+    "target": "Penn Treebank",
+    "relation": "prerequisite"
+  }
+]

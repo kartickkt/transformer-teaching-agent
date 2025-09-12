@@ -1,0 +1,12 @@
+[
+  {
+    "source": "simple, position-",
+    "target": "sinusoidal positional encoding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "simple, position-",
+    "target": "parameter-free position representation",
+    "relation": "prerequisite"
+  }
+]

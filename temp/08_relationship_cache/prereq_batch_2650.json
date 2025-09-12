@@ -1,0 +1,12 @@
+[
+  {
+    "source": "4.5 million sentence pairs",
+    "target": "Parser Training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "4.5 million sentence pairs",
+    "target": "statistical machine translation",
+    "relation": "prerequisite"
+  }
+]

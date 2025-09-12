@@ -1,0 +1,12 @@
+[
+  {
+    "source": "audio",
+    "target": "video",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "audio",
+    "target": "encoder",
+    "relation": "prerequisite"
+  }
+]

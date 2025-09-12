@@ -1,0 +1,22 @@
+[
+  {
+    "source": "models",
+    "target": "figures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "ensembles",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "visualizations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  }
+]

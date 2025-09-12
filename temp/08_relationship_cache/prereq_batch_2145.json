@@ -1,0 +1,27 @@
+[
+  {
+    "source": "models",
+    "target": "sequence transduction models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "Transformer models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "linear transformations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "learned linear transformation",
+    "relation": "prerequisite"
+  }
+]

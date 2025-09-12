@@ -1,0 +1,27 @@
+[
+  {
+    "source": "task-specific tuning",
+    "target": "training time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "task-specific tuning",
+    "target": "params",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "task-specific tuning",
+    "target": "development set",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "task-specific tuning",
+    "target": "checkpoint averaging",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "task-specific tuning",
+    "target": "stochastic optimization",
+    "relation": "prerequisite"
+  }
+]

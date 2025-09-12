@@ -1,0 +1,12 @@
+[
+  {
+    "source": "convolutional layer",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutional layer",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  }
+]

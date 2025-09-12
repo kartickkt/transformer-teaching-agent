@@ -1,0 +1,17 @@
+[
+  {
+    "source": "space-efficient",
+    "target": "minimum number of sequential operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "space-efficient",
+    "target": "computational performance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "space-efficient",
+    "target": "neighborhood of size r",
+    "relation": "prerequisite"
+  }
+]

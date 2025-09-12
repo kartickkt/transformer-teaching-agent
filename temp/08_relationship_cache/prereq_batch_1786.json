@@ -1,0 +1,22 @@
+[
+  {
+    "source": "local, restricted attention mechanisms",
+    "target": "task-specific tuning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "local, restricted attention mechanisms",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "local, restricted attention mechanisms",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "local, restricted attention mechanisms",
+    "target": "sparsely-gated mixture-of-experts",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "output tokens",
+    "target": "predicted next-token probabilities",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output tokens",
+    "target": "decoder stacks",
+    "relation": "prerequisite"
+  }
+]

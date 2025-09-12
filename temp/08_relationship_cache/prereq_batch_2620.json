@@ -1,0 +1,12 @@
+[
+  {
+    "source": "WMT 2014 English-to-German translation task",
+    "target": "human and machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "28.4 BLEU",
+    "target": "WMT 2014 English-to-French translation task",
+    "relation": "prerequisite"
+  }
+]

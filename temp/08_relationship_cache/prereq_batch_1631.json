@@ -1,0 +1,27 @@
+[
+  {
+    "source": "recurrent attention mechanism",
+    "target": "recurrence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent attention mechanism",
+    "target": "auto-regressive",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent attention mechanism",
+    "target": "residual connection",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent attention mechanism",
+    "target": "task-specific tuning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent attention mechanism",
+    "target": "learning task-independent sentence representations",
+    "relation": "prerequisite"
+  }
+]

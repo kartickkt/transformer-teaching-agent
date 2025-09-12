@@ -1,0 +1,27 @@
+[
+  {
+    "source": "total computational complexity per layer",
+    "target": "single hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "total computational complexity per layer",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "total computational complexity per layer",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "total computational complexity per layer",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "total computational complexity per layer",
+    "target": "recurrent layer",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "sequence",
+    "target": "Concat",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "Sequential",
+    "relation": "prerequisite"
+  }
+]

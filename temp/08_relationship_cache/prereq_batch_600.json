@@ -1,0 +1,22 @@
+[
+  {
+    "source": "params",
+    "target": "predictions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "params",
+    "target": "point-wise",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "params",
+    "target": "simple, position-",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "params",
+    "target": "position",
+    "relation": "prerequisite"
+  }
+]

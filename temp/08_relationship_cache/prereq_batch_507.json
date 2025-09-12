@@ -1,0 +1,27 @@
+[
+  {
+    "source": "tasks",
+    "target": "heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "output tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "weights",
+    "relation": "prerequisite"
+  }
+]

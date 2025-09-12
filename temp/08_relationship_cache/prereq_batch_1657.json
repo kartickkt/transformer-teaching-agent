@@ -1,0 +1,17 @@
+[
+  {
+    "source": "self-attention sub-layer",
+    "target": "layer types",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-attention sub-layer",
+    "target": "Effective approaches to attention-based neural machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention function",
+    "target": "heads",
+    "relation": "prerequisite"
+  }
+]

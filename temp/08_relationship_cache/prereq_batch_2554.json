@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Outrageously large neural networks",
+    "target": "Deep residual learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Outrageously large neural networks",
+    "target": "Factorization tricks for LSTM networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Outrageously large neural networks",
+    "target": "Transformer (big)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Outrageously large neural networks",
+    "target": "big transformer model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Outrageously large neural networks",
+    "target": "eight GPUs",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Gradient flow in recurrent nets",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Gradient flow in recurrent nets",
+    "target": "Sequence to sequence learning with neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Gradient flow in recurrent nets",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural computation",
+    "target": "conditional computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural computation",
+    "target": "algorithms",
+    "relation": "prerequisite"
+  }
+]

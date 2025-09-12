@@ -1,0 +1,22 @@
+[
+  {
+    "source": "parallelizable",
+    "target": "conditional computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallelizable",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallelizable",
+    "target": "point-wise",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallelizable",
+    "target": "Concat",
+    "relation": "prerequisite"
+  }
+]

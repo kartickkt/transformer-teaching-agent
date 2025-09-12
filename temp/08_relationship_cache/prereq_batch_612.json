@@ -1,0 +1,12 @@
+[
+  {
+    "source": "params",
+    "target": "dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "params",
+    "target": "representation dimension",
+    "relation": "prerequisite"
+  }
+]

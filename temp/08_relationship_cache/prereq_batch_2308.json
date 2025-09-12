@@ -1,0 +1,12 @@
+[
+  {
+    "source": "representation dimension",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation dimension",
+    "target": "continuous representations",
+    "relation": "prerequisite"
+  }
+]

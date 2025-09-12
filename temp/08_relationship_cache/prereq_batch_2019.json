@@ -1,0 +1,7 @@
+[
+  {
+    "source": "path length between long-range dependencies in the network",
+    "target": "long-range dependencies",
+    "relation": "prerequisite"
+  }
+]

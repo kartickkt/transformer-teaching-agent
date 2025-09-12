@@ -1,0 +1,27 @@
+[
+  {
+    "source": "gated recurrent neural networks",
+    "target": "Gradient flow in recurrent nets",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "gated recurrent neural networks",
+    "target": "Neural computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "gated recurrent neural networks",
+    "target": "Advances in Neural Information Processing Systems",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "gated recurrent neural networks",
+    "target": "Outrageously large neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "gated recurrent neural networks",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  }
+]

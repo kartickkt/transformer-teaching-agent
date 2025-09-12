@@ -1,0 +1,22 @@
+[
+  {
+    "source": "deep learning",
+    "target": "tensorflow",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "learning phrase representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "rnn encoder-decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "Convolutional sequence to sequence learning",
+    "relation": "prerequisite"
+  }
+]

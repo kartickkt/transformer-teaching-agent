@@ -1,0 +1,27 @@
+[
+  {
+    "source": "continuous representations",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "continuous representations",
+    "target": "model architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "continuous representations",
+    "target": "dimensionality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "continuous representations",
+    "target": "representation dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "continuous representations",
+    "target": "state-of-the-art models",
+    "relation": "prerequisite"
+  }
+]

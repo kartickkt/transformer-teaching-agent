@@ -1,0 +1,22 @@
+[
+  {
+    "source": "learning phrase representations",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning phrase representations",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning phrase representations",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning phrase representations",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  }
+]

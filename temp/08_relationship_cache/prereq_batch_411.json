@@ -1,0 +1,27 @@
+[
+  {
+    "source": "function",
+    "target": "FLOPs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "function",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "function",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "function",
+    "target": "model performance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "function",
+    "target": "dmodel",
+    "relation": "prerequisite"
+  }
+]

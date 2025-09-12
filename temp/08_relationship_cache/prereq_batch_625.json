@@ -1,0 +1,22 @@
+[
+  {
+    "source": "attention key and value dimensions",
+    "target": "keys",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention key and value dimensions",
+    "target": "values",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention key and value dimensions",
+    "target": "memory keys and values",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention key and value dimensions",
+    "target": "attention mechanism",
+    "relation": "prerequisite"
+  }
+]

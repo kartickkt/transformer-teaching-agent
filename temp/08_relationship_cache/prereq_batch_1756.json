@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sub-layer input",
+    "target": "sub-layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layer input",
+    "target": "self-attention sub-layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layer input",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layer input",
+    "target": "parallel attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layer input",
+    "target": "previous layer",
+    "relation": "prerequisite"
+  }
+]

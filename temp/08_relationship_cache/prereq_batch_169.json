@@ -1,0 +1,7 @@
+[
+  {
+    "source": "residual connection",
+    "target": "connected layers",
+    "relation": "prerequisite"
+  }
+]

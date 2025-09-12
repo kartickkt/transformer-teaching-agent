@@ -1,0 +1,12 @@
+[
+  {
+    "source": "computational performance",
+    "target": "state-of-the-art results",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational performance",
+    "target": "task-specific tuning",
+    "relation": "prerequisite"
+  }
+]

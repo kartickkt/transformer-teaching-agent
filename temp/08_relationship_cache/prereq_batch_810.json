@@ -1,0 +1,22 @@
+[
+  {
+    "source": "encoder",
+    "target": "model architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder",
+    "target": "dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder",
+    "target": "dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  }
+]

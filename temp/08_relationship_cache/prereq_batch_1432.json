@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Factorization tricks for LSTM networks",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Factorization tricks for LSTM networks",
+    "target": "RNNs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Factorization tricks for LSTM networks",
+    "target": "gated recurrent neural networks",
+    "relation": "prerequisite"
+  }
+]

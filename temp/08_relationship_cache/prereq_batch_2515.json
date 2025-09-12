@@ -1,0 +1,7 @@
+[
+  {
+    "source": "NAACL",
+    "target": "ACL",
+    "relation": "prerequisite"
+  }
+]

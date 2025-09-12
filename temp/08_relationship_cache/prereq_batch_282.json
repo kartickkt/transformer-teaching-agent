@@ -1,0 +1,22 @@
+[
+  {
+    "source": "variance",
+    "target": "representation dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "variance",
+    "target": "dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dot product",
+    "target": "output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dot product",
+    "target": "point-wise",
+    "relation": "prerequisite"
+  }
+]

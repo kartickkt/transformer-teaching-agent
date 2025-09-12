@@ -1,0 +1,22 @@
+[
+  {
+    "source": "models",
+    "target": "big models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "single model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "model quality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  }
+]

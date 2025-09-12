@@ -1,0 +1,17 @@
+[
+  {
+    "source": "sequence",
+    "target": "sequence transduction tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "sequential computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "sequence-aligned recurrence",
+    "relation": "prerequisite"
+  }
+]

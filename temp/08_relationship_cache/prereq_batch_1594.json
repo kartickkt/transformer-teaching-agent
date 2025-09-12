@@ -1,0 +1,17 @@
+[
+  {
+    "source": "self-attention",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-attention",
+    "target": "Structured attention networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-attention",
+    "target": "decomposable attention model",
+    "relation": "prerequisite"
+  }
+]

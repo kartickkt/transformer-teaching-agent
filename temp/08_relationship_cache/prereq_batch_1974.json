@@ -1,0 +1,17 @@
+[
+  {
+    "source": "2048",
+    "target": "TFLOPS",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "2048",
+    "target": "sustained single-precision floating-point capacity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "2048",
+    "target": "512",
+    "relation": "prerequisite"
+  }
+]

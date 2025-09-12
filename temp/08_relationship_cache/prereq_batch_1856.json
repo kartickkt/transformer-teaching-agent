@@ -1,0 +1,17 @@
+[
+  {
+    "source": "computation time",
+    "target": "sequence lengths",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computation time",
+    "target": "computational efficiency",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computation time",
+    "target": "number of operations",
+    "relation": "prerequisite"
+  }
+]

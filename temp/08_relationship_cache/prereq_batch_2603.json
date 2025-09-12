@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Deep recurrent models",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Deep recurrent models",
+    "target": "large training data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Deep recurrent models",
+    "target": "big models",
+    "relation": "prerequisite"
+  }
+]

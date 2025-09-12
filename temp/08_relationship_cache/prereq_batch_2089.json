@@ -1,0 +1,12 @@
+[
+  {
+    "source": "length penalty",
+    "target": "sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "maximum output length",
+    "target": "output",
+    "relation": "prerequisite"
+  }
+]

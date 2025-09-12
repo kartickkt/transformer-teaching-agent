@@ -1,0 +1,17 @@
+[
+  {
+    "source": "512",
+    "target": "eight GPUs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "512",
+    "target": "eight P100 GPUs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "512",
+    "target": "ByteNet",
+    "relation": "prerequisite"
+  }
+]

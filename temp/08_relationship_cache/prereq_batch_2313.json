@@ -1,0 +1,27 @@
+[
+  {
+    "source": "dimension dmodel",
+    "target": "figures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension dmodel",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension dmodel",
+    "target": "scaling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension dmodel",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension dmodel",
+    "target": "versions",
+    "relation": "prerequisite"
+  }
+]

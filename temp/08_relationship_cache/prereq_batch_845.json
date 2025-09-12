@@ -1,0 +1,12 @@
+[
+  {
+    "source": "parameter-free position representation",
+    "target": "parameter matrices",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameter-free position representation",
+    "target": "vectors of dimension dmodel",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "dot products",
+    "target": "output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dot products",
+    "target": "point-wise",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dot products",
+    "target": "known outputs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dot products",
+    "target": "query",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dot products",
+    "target": "dot product",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "RNNs",
+    "target": "Learning Representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "RNNs",
+    "target": "Factorization tricks for LSTM networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "RNNs",
+    "target": "Multi-task sequence to sequence learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "RNNs",
+    "target": "self-training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "RNNs",
+    "target": "recurrent attention mechanism",
+    "relation": "prerequisite"
+  }
+]

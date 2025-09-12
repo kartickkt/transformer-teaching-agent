@@ -1,0 +1,27 @@
+[
+  {
+    "source": "recurrent attention mechanism",
+    "target": "Attention(Q, K, V)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent attention mechanism",
+    "target": "additive attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent attention mechanism",
+    "target": "dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent attention mechanism",
+    "target": "single attention head",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent attention mechanism",
+    "target": "Attention",
+    "relation": "prerequisite"
+  }
+]

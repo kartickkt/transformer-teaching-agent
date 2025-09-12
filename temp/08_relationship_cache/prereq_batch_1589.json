@@ -1,0 +1,22 @@
+[
+  {
+    "source": "attention mechanism",
+    "target": "decomposable attention model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention mechanism",
+    "target": "Effective approaches to attention-based neural machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-attention",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-attention",
+    "target": "structured self-attentive sentence embedding",
+    "relation": "prerequisite"
+  }
+]

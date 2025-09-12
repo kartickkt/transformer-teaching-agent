@@ -1,0 +1,12 @@
+[
+  {
+    "source": "encoder self-attention",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder self-attention",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  }
+]

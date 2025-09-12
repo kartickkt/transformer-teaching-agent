@@ -1,0 +1,27 @@
+[
+  {
+    "source": "encoder",
+    "target": "output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder",
+    "target": "keys",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder",
+    "target": "scaling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder",
+    "target": "Sequential",
+    "relation": "prerequisite"
+  }
+]

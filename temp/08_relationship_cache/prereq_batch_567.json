@@ -1,0 +1,12 @@
+[
+  {
+    "source": "dropout",
+    "target": "dropout rate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dropout",
+    "target": "Pdrop",
+    "relation": "prerequisite"
+  }
+]

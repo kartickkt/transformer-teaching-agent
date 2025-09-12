@@ -1,0 +1,27 @@
+[
+  {
+    "source": "neural networks",
+    "target": "recurrent layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "convolutional layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "point-wise feed-forward layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "tensorflow",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "learning phrase representations",
+    "relation": "prerequisite"
+  }
+]

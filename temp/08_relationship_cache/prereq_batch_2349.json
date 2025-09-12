@@ -1,0 +1,22 @@
+[
+  {
+    "source": "training batch",
+    "target": "limited training data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training batch",
+    "target": "learning rate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training batch",
+    "target": "self-training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training batch",
+    "target": "training costs",
+    "relation": "prerequisite"
+  }
+]

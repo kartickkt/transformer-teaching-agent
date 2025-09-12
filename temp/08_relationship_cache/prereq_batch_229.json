@@ -1,0 +1,7 @@
+[
+  {
+    "source": "queries",
+    "target": "parameters",
+    "relation": "prerequisite"
+  }
+]

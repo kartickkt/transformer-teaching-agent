@@ -1,0 +1,22 @@
+[
+  {
+    "source": "tensorflow",
+    "target": "parallelizable",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "eight GPUs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "computational performance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "floating point operations",
+    "relation": "prerequisite"
+  }
+]

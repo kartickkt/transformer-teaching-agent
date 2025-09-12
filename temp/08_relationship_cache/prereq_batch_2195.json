@@ -1,0 +1,22 @@
+[
+  {
+    "source": "language modeling",
+    "target": "params",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "generative",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "task-specific tuning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "input and output modalities",
+    "relation": "prerequisite"
+  }
+]

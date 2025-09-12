@@ -1,0 +1,12 @@
+[
+  {
+    "source": "softmax",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "softmax",
+    "target": "point-wise feed-forward layer",
+    "relation": "prerequisite"
+  }
+]

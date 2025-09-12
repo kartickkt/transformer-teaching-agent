@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Effective approaches to attention-based neural machine translation",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Effective approaches to attention-based neural machine translation",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  }
+]

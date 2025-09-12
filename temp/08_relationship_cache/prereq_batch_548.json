@@ -1,0 +1,27 @@
+[
+  {
+    "source": "hyperparameters",
+    "target": "base models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hyperparameters",
+    "target": "model quality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hyperparameters",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "step time",
+    "target": "input for position t",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "step time",
+    "target": "batching",
+    "relation": "prerequisite"
+  }
+]

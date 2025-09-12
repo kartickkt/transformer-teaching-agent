@@ -1,0 +1,12 @@
+[
+  {
+    "source": "hidden layer",
+    "target": "dropout",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden layer",
+    "target": "residual",
+    "relation": "prerequisite"
+  }
+]

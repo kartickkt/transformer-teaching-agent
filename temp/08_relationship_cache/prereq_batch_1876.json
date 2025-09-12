@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence lengths",
+    "target": "maximum path lengths",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence lengths",
+    "target": "minimum number of sequential operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence lengths",
+    "target": "path length between long-range dependencies in the network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence lengths",
+    "target": "length of the paths",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence lengths",
+    "target": "constant number of sequentially executed operations",
+    "relation": "prerequisite"
+  }
+]

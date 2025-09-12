@@ -1,0 +1,17 @@
+[
+  {
+    "source": "tasks",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "training examples",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "model performance",
+    "relation": "prerequisite"
+  }
+]

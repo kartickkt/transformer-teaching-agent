@@ -1,0 +1,27 @@
+[
+  {
+    "source": "models",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "over-fitting",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "previously reported ensembles",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "tensorflow",
+    "relation": "prerequisite"
+  }
+]

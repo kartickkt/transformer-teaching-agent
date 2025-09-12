@@ -1,0 +1,17 @@
+[
+  {
+    "source": "task-specific tuning",
+    "target": "Training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "task-specific tuning",
+    "target": "hyperparameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "task-specific tuning",
+    "target": "label smoothing",
+    "relation": "prerequisite"
+  }
+]

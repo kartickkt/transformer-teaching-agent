@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Gradient flow in recurrent nets",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Gradient flow in recurrent nets",
+    "target": "recurrent layer",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "memory constraints",
+    "target": "local, restricted attention mechanisms",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "memory constraints",
+    "target": "active memory",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "memory constraints",
+    "target": "computational efficiency",
+    "relation": "prerequisite"
+  }
+]

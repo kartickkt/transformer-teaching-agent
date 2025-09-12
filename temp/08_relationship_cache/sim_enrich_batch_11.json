@@ -1,0 +1,27 @@
+[
+  {
+    "source": "self-attention",
+    "target": "self-attention sub-layer",
+    "relation": "example_of"
+  },
+  {
+    "source": "self-attention",
+    "target": "restricted self-attention",
+    "relation": "related_topic"
+  },
+  {
+    "source": "scaled dot-product attention",
+    "target": "dot-product attention",
+    "relation": "example_of"
+  },
+  {
+    "source": "long short-term memory",
+    "target": "Long short-term memory-networks",
+    "relation": "related_topic"
+  },
+  {
+    "source": "self-attention sub-layer",
+    "target": "restricted self-attention",
+    "relation": "related_topic"
+  }
+]

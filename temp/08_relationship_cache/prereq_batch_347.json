@@ -1,0 +1,22 @@
+[
+  {
+    "source": "tokens",
+    "target": "predicted next-token probabilities",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tokens",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tokens",
+    "target": "decoder stacks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tokens",
+    "target": "tensorflow",
+    "relation": "prerequisite"
+  }
+]

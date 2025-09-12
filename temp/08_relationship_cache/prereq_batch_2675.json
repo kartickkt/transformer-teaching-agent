@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Penn Treebank",
+    "target": "parsing",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Penn Treebank",
+    "target": "tree annotation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Penn Treebank",
+    "target": "References",
+    "relation": "prerequisite"
+  }
+]

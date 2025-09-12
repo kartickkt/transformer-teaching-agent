@@ -1,0 +1,12 @@
+[
+  {
+    "source": "encoder-decoder attention",
+    "target": "self-attention sub-layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder attention",
+    "target": "attention function",
+    "relation": "prerequisite"
+  }
+]

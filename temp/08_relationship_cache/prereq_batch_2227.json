@@ -1,0 +1,17 @@
+[
+  {
+    "source": "model performance",
+    "target": "big models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model performance",
+    "target": "single model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model performance",
+    "target": "model quality",
+    "relation": "prerequisite"
+  }
+]

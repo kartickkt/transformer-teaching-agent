@@ -1,0 +1,17 @@
+[
+  {
+    "source": "point-wise feed-forward layer",
+    "target": "self-attention sub-layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise feed-forward layer",
+    "target": "sub-layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise feed-forward layer",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  }
+]

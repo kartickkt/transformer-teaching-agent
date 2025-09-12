@@ -1,0 +1,17 @@
+[
+  {
+    "source": "computational complexity",
+    "target": "computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational complexity",
+    "target": "computation time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational complexity",
+    "target": "computational efficiency",
+    "relation": "prerequisite"
+  }
+]

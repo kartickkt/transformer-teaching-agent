@@ -1,0 +1,17 @@
+[
+  {
+    "source": "deep learning",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "RNNs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "gated recurrent neural networks",
+    "relation": "prerequisite"
+  }
+]

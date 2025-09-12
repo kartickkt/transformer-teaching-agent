@@ -1,0 +1,22 @@
+[
+  {
+    "source": "self-attention sub-layer",
+    "target": "attention mechanism",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-attention sub-layer",
+    "target": "self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-attention sub-layer",
+    "target": "scaled dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-attention sub-layer",
+    "target": "multi-head attention",
+    "relation": "prerequisite"
+  }
+]

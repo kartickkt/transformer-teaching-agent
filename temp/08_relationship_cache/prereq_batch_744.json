@@ -1,0 +1,17 @@
+[
+  {
+    "source": "stochastic optimization",
+    "target": "computational efficiency",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "stochastic optimization",
+    "target": "theoretical complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "stochastic optimization",
+    "target": "computational complexity",
+    "relation": "prerequisite"
+  }
+]

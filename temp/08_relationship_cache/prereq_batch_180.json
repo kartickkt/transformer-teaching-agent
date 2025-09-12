@@ -1,0 +1,27 @@
+[
+  {
+    "source": "predictions",
+    "target": "existing best results",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "predictions",
+    "target": "visualizations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "predictions",
+    "target": "symbol positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "predictions",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "predictions",
+    "target": "output",
+    "relation": "prerequisite"
+  }
+]

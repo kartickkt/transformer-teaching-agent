@@ -1,0 +1,17 @@
+[
+  {
+    "source": "residual",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "residual",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "residual",
+    "target": "recurrent layer",
+    "relation": "prerequisite"
+  }
+]

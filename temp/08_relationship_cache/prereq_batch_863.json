@@ -1,0 +1,27 @@
+[
+  {
+    "source": "encoder-decoder architectures",
+    "target": "tensor2tensor",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder architectures",
+    "target": "efficient inference",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder architectures",
+    "target": "learning task-independent sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder architectures",
+    "target": "end-to-end memory networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder architectures",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  }
+]

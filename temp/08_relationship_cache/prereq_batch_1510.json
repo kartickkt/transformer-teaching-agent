@@ -1,0 +1,12 @@
+[
+  {
+    "source": "transduction problems",
+    "target": "Transformer (big)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "transduction problems",
+    "target": "big transformer model",
+    "relation": "prerequisite"
+  }
+]

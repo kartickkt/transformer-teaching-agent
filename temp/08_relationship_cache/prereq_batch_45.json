@@ -1,0 +1,27 @@
+[
+  {
+    "source": "ensembles",
+    "target": "Deep-Att + PosUnk Ensemble",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ensembles",
+    "target": "ConvS2S Ensemble",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ensembles",
+    "target": "previously reported ensembles",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ensembles",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ensembles",
+    "target": "sentence pairs",
+    "relation": "prerequisite"
+  }
+]

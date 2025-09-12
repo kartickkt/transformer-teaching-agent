@@ -1,0 +1,12 @@
+[
+  {
+    "source": "learned embeddings",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned embeddings",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  }
+]

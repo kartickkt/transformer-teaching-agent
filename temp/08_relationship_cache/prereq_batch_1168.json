@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Embeddings",
+    "target": "learning phrase representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Embeddings",
+    "target": "rnn encoder-decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Embeddings",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Embeddings",
+    "target": "Convolutional sequence to sequence learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Embeddings",
+    "target": "Deep residual learning",
+    "relation": "prerequisite"
+  }
+]

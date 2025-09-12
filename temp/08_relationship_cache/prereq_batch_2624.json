@@ -1,0 +1,17 @@
+[
+  {
+    "source": "WMT 2014 English-to-French translation task",
+    "target": "Google\u00e2\u20ac\u2122s neural machine translation system",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "WMT 2014 English-to-French translation task",
+    "target": "human and machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "English constituency parsing",
+    "target": "parsing",
+    "relation": "prerequisite"
+  }
+]

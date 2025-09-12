@@ -1,0 +1,22 @@
+[
+  {
+    "source": "layer 5",
+    "target": "N = 6 identical layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer 5",
+    "target": "previous layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer 5",
+    "target": "sub-layer input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer 5",
+    "target": "per-layer complexity",
+    "relation": "prerequisite"
+  }
+]

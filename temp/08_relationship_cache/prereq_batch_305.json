@@ -1,0 +1,27 @@
+[
+  {
+    "source": "heads",
+    "target": "weights",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "heads",
+    "target": "pos",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "heads",
+    "target": "function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "heads",
+    "target": "relative positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "heads",
+    "target": "versions",
+    "relation": "prerequisite"
+  }
+]

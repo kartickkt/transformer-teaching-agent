@@ -1,0 +1,27 @@
+[
+  {
+    "source": "versions",
+    "target": "existing best results",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "versions",
+    "target": "visualizations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "versions",
+    "target": "batching",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "versions",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "versions",
+    "target": "symbol representations",
+    "relation": "prerequisite"
+  }
+]

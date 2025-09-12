@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Effective approaches to attention-based neural machine translation",
+    "target": "machine translation tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Effective approaches to attention-based neural machine translation",
+    "target": "WMT 2014 English-to-German translation task",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Effective approaches to attention-based neural machine translation",
+    "target": "WMT 2014 English-to-French translation task",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Effective approaches to attention-based neural machine translation",
+    "target": "translation quality",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "source": "masking",
+    "target": "label smoothing",
+    "relation": "prerequisite"
+  }
+]

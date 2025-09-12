@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Transformer architecture",
+    "target": "recurrent layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer architecture",
+    "target": "point-wise feed-forward layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer architecture",
+    "target": "sequence transduction models",
+    "relation": "prerequisite"
+  }
+]

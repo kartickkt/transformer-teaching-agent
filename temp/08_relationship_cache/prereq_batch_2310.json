@@ -1,0 +1,17 @@
+[
+  {
+    "source": "representation dimension",
+    "target": "model performance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation dimension",
+    "target": "model architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation dimension",
+    "target": "dimension dk",
+    "relation": "prerequisite"
+  }
+]

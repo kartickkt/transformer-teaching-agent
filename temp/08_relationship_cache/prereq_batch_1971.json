@@ -1,0 +1,22 @@
+[
+  {
+    "source": "512",
+    "target": "kernel width k",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "512",
+    "target": "maximum output length",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "512",
+    "target": "input length",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "512",
+    "target": "sustained single-precision floating-point capacity",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "parallel attention layers",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallel attention layers",
+    "target": "Attention(Q, K, V)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallel attention layers",
+    "target": "additive attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallel attention layers",
+    "target": "dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallel attention layers",
+    "target": "single attention head",
+    "relation": "prerequisite"
+  }
+]

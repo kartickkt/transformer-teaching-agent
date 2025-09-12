@@ -1,0 +1,17 @@
+[
+  {
+    "source": "long-range dependencies",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "long-range dependencies",
+    "target": "Deep residual learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "long-range dependencies",
+    "target": "sequence lengths",
+    "relation": "prerequisite"
+  }
+]

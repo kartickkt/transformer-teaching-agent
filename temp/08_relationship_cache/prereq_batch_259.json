@@ -1,0 +1,22 @@
+[
+  {
+    "source": "matrices K and V",
+    "target": "dmodel-dimensional keys",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "matrices K and V",
+    "target": "parameter matrices",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "matrices K and V",
+    "target": "vectors of dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "matrices K and V",
+    "target": "weight matrix",
+    "relation": "prerequisite"
+  }
+]

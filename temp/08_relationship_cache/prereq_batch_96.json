@@ -1,0 +1,22 @@
+[
+  {
+    "source": "state of the art",
+    "target": "quality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "state of the art",
+    "target": "existing best results",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "state of the art",
+    "target": "accuracy",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "state of the art",
+    "target": "state-of-the-art results",
+    "relation": "prerequisite"
+  }
+]

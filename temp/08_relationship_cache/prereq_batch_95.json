@@ -1,0 +1,27 @@
+[
+  {
+    "source": "global dependencies",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "global dependencies",
+    "target": "memory constraints",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "global dependencies",
+    "target": "path length between long-range dependencies in the network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "global dependencies",
+    "target": "large inputs and outputs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "global dependencies",
+    "target": "base models",
+    "relation": "prerequisite"
+  }
+]

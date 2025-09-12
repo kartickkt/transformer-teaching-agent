@@ -1,0 +1,17 @@
+[
+  {
+    "source": "train",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "train",
+    "target": "Transformer (base model)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "train",
+    "target": "training costs",
+    "relation": "prerequisite"
+  }
+]

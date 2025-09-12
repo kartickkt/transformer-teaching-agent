@@ -1,0 +1,12 @@
+[
+  {
+    "source": "tensorflow",
+    "target": "tensor2tensor",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "embedding",
+    "relation": "prerequisite"
+  }
+]

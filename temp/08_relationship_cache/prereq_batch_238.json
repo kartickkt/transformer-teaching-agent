@@ -1,0 +1,27 @@
+[
+  {
+    "source": "queries",
+    "target": "number of operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "queries",
+    "target": "computational performance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "queries",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "queries",
+    "target": "matrix Q",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "queries",
+    "target": "representation dimension",
+    "relation": "prerequisite"
+  }
+]

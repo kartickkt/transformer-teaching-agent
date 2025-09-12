@@ -1,0 +1,22 @@
+[
+  {
+    "source": "predicted next-token probabilities",
+    "target": "predictions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "predicted next-token probabilities",
+    "target": "tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "predicted next-token probabilities",
+    "target": "output tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "predicted next-token probabilities",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  }
+]

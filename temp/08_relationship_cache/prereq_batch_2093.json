@@ -1,0 +1,17 @@
+[
+  {
+    "source": "maximum output length",
+    "target": "input length",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "maximum output length",
+    "target": "sustained single-precision floating-point capacity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "maximum output length",
+    "target": "large inputs and outputs",
+    "relation": "prerequisite"
+  }
+]

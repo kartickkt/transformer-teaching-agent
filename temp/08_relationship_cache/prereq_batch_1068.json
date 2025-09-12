@@ -1,0 +1,17 @@
+[
+  {
+    "source": "feed-forward network",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "feed-forward network",
+    "target": "Gradient flow in recurrent nets",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "feed-forward network",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  }
+]

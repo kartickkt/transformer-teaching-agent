@@ -1,0 +1,22 @@
+[
+  {
+    "source": "theoretical complexity",
+    "target": "computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "theoretical complexity",
+    "target": "computation time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "theoretical complexity",
+    "target": "memory constraints",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "theoretical complexity",
+    "target": "computational efficiency",
+    "relation": "prerequisite"
+  }
+]

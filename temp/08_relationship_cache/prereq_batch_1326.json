@@ -1,0 +1,22 @@
+[
+  {
+    "source": "semi-supervised setting",
+    "target": "large training data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "semi-supervised setting",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "semi-supervised setting",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "semi-supervised setting",
+    "target": "single model",
+    "relation": "prerequisite"
+  }
+]

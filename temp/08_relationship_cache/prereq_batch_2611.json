@@ -1,0 +1,12 @@
+[
+  {
+    "source": "machine translation tasks",
+    "target": "sequence transduction tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "machine translation tasks",
+    "target": "large training data",
+    "relation": "prerequisite"
+  }
+]

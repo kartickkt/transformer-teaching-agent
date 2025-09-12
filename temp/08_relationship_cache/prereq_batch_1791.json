@@ -1,0 +1,27 @@
+[
+  {
+    "source": "local, restricted attention mechanisms",
+    "target": "attention heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "local, restricted attention mechanisms",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "local, restricted attention mechanisms",
+    "target": "active memory",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "local, restricted attention mechanisms",
+    "target": "Structured attention networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "local, restricted attention mechanisms",
+    "target": "decomposable attention model",
+    "relation": "prerequisite"
+  }
+]

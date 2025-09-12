@@ -1,0 +1,22 @@
+[
+  {
+    "source": "tensor2tensor",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensor2tensor",
+    "target": "Transformer models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensor2tensor",
+    "target": "learned linear transformation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensor2tensor",
+    "target": "big transformer model",
+    "relation": "prerequisite"
+  }
+]

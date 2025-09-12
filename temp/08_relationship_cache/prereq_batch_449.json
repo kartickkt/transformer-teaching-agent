@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "representation of the sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "symbol representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "point-wise",
+    "relation": "prerequisite"
+  }
+]

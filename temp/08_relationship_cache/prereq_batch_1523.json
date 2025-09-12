@@ -1,0 +1,17 @@
+[
+  {
+    "source": "learned linear transformation",
+    "target": "convolutional neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned linear transformation",
+    "target": "convolutions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned linear transformation",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  }
+]

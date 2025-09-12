@@ -1,0 +1,17 @@
+[
+  {
+    "source": "scaled dot-product attention",
+    "target": "attention function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaled dot-product attention",
+    "target": "Attention(Q, K, V)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaled dot-product attention",
+    "target": "self-attention sub-layer",
+    "relation": "prerequisite"
+  }
+]

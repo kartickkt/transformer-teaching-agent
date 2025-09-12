@@ -1,0 +1,27 @@
+[
+  {
+    "source": "tensorflow",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "point-wise feed-forward layer",
+    "relation": "prerequisite"
+  }
+]

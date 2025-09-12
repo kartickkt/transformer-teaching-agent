@@ -1,0 +1,22 @@
+[
+  {
+    "source": "parallelizable",
+    "target": "sequential computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallelizable",
+    "target": "computational efficiency",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallelizable",
+    "target": "memory constraints",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallelizable",
+    "target": "factorization tricks",
+    "relation": "prerequisite"
+  }
+]

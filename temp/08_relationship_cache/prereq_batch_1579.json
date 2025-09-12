@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Attention Is All You Need",
+    "target": "self-attention sub-layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention Is All You Need",
+    "target": "attention function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention Is All You Need",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention Is All You Need",
+    "target": "Attention(Q, K, V)",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "source": "fully connected feed-forward network",
+    "target": "learned linear transformation",
+    "relation": "prerequisite"
+  }
+]

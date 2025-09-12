@@ -1,0 +1,22 @@
+[
+  {
+    "source": "encoder stack",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder stack",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder stack",
+    "target": "softmax function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder stack",
+    "target": "softmax",
+    "relation": "prerequisite"
+  }
+]

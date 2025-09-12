@@ -1,0 +1,7 @@
+[
+  {
+    "source": "recurrent layer",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  }
+]

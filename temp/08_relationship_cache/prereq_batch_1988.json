@@ -1,0 +1,12 @@
+[
+  {
+    "source": "minimum number of sequential operations",
+    "target": "sequential computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "minimum number of sequential operations",
+    "target": "computational efficiency",
+    "relation": "prerequisite"
+  }
+]

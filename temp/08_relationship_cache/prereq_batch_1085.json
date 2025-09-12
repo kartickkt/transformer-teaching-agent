@@ -1,0 +1,17 @@
+[
+  {
+    "source": "learned linear projections",
+    "target": "gradients",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned linear projections",
+    "target": "linear function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned linear projections",
+    "target": "long-range dependencies",
+    "relation": "prerequisite"
+  }
+]

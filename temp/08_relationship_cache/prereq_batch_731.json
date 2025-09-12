@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Recognition",
+    "target": "Attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Recognition",
+    "target": "active memory",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "algorithms",
+    "target": "conditional computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "algorithms",
+    "target": "vectors",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "algorithms",
+    "target": "queries",
+    "relation": "prerequisite"
+  }
+]

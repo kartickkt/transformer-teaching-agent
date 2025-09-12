@@ -1,0 +1,27 @@
+[
+  {
+    "source": "fast and accurate shift-reduce constituent parsing",
+    "target": "Penn Treebank",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fast and accurate shift-reduce constituent parsing",
+    "target": "BerkleyParser corpora",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fast and accurate shift-reduce constituent parsing",
+    "target": "Parser Training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fast and accurate shift-reduce constituent parsing",
+    "target": "Self-training PCFG grammars with latent annotations across languages",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fast and accurate shift-reduce constituent parsing",
+    "target": "Computational linguistics",
+    "relation": "prerequisite"
+  }
+]

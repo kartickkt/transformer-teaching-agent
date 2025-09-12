@@ -1,0 +1,17 @@
+[
+  {
+    "source": "scaling",
+    "target": "scaling factor",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaling",
+    "target": "linear transformations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaling",
+    "target": "learned linear transformation",
+    "relation": "prerequisite"
+  }
+]

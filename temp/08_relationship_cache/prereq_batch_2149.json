@@ -1,0 +1,27 @@
+[
+  {
+    "source": "models",
+    "target": "dimensionality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "vectors of dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "weight matrix",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "\u00e2\u02c6\u0161dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "layer types",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "dependencies",
+    "target": "parallelizable",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dependencies",
+    "target": "parallelization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dependencies",
+    "target": "sequential computation",
+    "relation": "prerequisite"
+  }
+]

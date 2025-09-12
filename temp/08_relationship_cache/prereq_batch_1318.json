@@ -1,0 +1,12 @@
+[
+  {
+    "source": "over-fitting",
+    "target": "model performance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "over-fitting",
+    "target": "model quality",
+    "relation": "prerequisite"
+  }
+]

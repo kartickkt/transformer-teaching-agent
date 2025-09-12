@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Residual Dropout",
+    "target": "Recurrent",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Residual Dropout",
+    "target": "Recurrent Neural Network Grammar",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Residual Dropout",
+    "target": "Gradient flow in recurrent nets",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Residual Dropout",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "positional embedding",
+    "target": "symbol positions",
+    "relation": "prerequisite"
+  }
+]

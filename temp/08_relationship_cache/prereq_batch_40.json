@@ -1,0 +1,17 @@
+[
+  {
+    "source": "existing best results",
+    "target": "research goals",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "existing best results",
+    "target": "empirical evaluation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "existing best results",
+    "target": "efficient inference",
+    "relation": "prerequisite"
+  }
+]

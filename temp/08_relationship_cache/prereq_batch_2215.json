@@ -1,0 +1,27 @@
+[
+  {
+    "source": "training examples",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training examples",
+    "target": "training costs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training examples",
+    "target": "large training data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training examples",
+    "target": "model variants",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training examples",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "visualizations",
+    "target": "state-of-the-art models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "visualizations",
+    "target": "computer vision",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "cs.CL",
+    "target": "ACL",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "cs.CL",
+    "target": "ConvS2S",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "source": "label smoothing",
+    "target": "Regularization",
+    "relation": "prerequisite"
+  }
+]

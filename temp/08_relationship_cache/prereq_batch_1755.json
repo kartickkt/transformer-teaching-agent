@@ -1,0 +1,17 @@
+[
+  {
+    "source": "sub-layer input",
+    "target": "convolutional layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layer input",
+    "target": "point-wise feed-forward layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layer input",
+    "target": "4-layer transformer",
+    "relation": "prerequisite"
+  }
+]

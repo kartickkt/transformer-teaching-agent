@@ -1,0 +1,17 @@
+[
+  {
+    "source": "parallel attention layers",
+    "target": "N = 6 identical layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallel attention layers",
+    "target": "per-layer complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallel attention layers",
+    "target": "Layer Type Complexity",
+    "relation": "prerequisite"
+  }
+]

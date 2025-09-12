@@ -1,0 +1,27 @@
+[
+  {
+    "source": "query",
+    "target": "decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "query",
+    "target": "decoder output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "query",
+    "target": "decoder stacks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "query",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "query",
+    "target": "matrix Q",
+    "relation": "prerequisite"
+  }
+]

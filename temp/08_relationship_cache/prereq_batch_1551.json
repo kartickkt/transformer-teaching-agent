@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Transformer (base model)",
+    "target": "Transformer models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer (base model)",
+    "target": "sequence transduction encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer (base model)",
+    "target": "Transformer (big)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer (base model)",
+    "target": "big transformer model",
+    "relation": "prerequisite"
+  }
+]

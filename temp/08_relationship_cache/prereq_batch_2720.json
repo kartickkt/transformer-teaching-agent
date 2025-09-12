@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Effective approaches to attention-based neural machine translation",
+    "target": "RNN sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Effective approaches to attention-based neural machine translation",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  }
+]

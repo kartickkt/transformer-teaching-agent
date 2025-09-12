@@ -1,0 +1,12 @@
+[
+  {
+    "source": "vectors of dimension dmodel",
+    "target": "dmodel = 1024",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "weight matrix",
+    "target": "vectors",
+    "relation": "prerequisite"
+  }
+]

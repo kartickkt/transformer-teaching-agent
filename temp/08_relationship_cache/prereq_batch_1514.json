@@ -1,0 +1,12 @@
+[
+  {
+    "source": "linear transformations",
+    "target": "scaling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear transformations",
+    "target": "gradients",
+    "relation": "prerequisite"
+  }
+]

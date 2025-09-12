@@ -1,0 +1,12 @@
+[
+  {
+    "source": "representation of the sequence",
+    "target": "sequential nature",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation of the sequence",
+    "target": "order of the sequence",
+    "relation": "prerequisite"
+  }
+]

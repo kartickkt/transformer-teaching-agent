@@ -1,0 +1,22 @@
+[
+  {
+    "source": "train",
+    "target": "tables",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "train",
+    "target": "stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "train",
+    "target": "scaling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "train",
+    "target": "parameters",
+    "relation": "prerequisite"
+  }
+]

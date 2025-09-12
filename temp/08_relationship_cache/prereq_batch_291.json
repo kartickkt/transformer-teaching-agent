@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Concat",
+    "target": "Concat(head1, ..., headh)WO",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Concat",
+    "target": "Sequential",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Concat",
+    "target": "function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Concat",
+    "target": "convolu-",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Concat",
+    "target": "sequence",
+    "relation": "prerequisite"
+  }
+]

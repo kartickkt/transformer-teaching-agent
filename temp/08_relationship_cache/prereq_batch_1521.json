@@ -1,0 +1,27 @@
+[
+  {
+    "source": "linear transformations",
+    "target": "vectors of dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear transformations",
+    "target": "layer types",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear transformations",
+    "target": "machine translation tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear transformations",
+    "target": "statistical machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned linear transformation",
+    "target": "vectors",
+    "relation": "prerequisite"
+  }
+]

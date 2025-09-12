@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Recurrent",
+    "target": "sequential nature",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Recurrent",
+    "target": "auto-regressive",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Recurrent",
+    "target": "Sequential",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Recurrent",
+    "target": "sequence",
+    "relation": "prerequisite"
+  }
+]

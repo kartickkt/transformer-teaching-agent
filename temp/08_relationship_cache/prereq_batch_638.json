@@ -1,0 +1,17 @@
+[
+  {
+    "source": "structural challenges",
+    "target": "model architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "structural challenges",
+    "target": "layer types",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "state-of-the-art results",
+    "target": "existing best results",
+    "relation": "prerequisite"
+  }
+]

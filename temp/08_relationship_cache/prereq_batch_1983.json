@@ -1,0 +1,27 @@
+[
+  {
+    "source": "per-layer complexity",
+    "target": "N = 6 identical layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "per-layer complexity",
+    "target": "theoretical complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "per-layer complexity",
+    "target": "Layer Type Complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "per-layer complexity",
+    "target": "total computational complexity per layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "per-layer complexity",
+    "target": "amount of computation that can be parallelized",
+    "relation": "prerequisite"
+  }
+]

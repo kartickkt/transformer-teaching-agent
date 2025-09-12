@@ -1,0 +1,27 @@
+[
+  {
+    "source": "dimension dmodel",
+    "target": "state-of-the-art models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension dmodel",
+    "target": "base models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension dmodel",
+    "target": "big models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension dmodel",
+    "target": "single model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension dmodel",
+    "target": "model quality",
+    "relation": "prerequisite"
+  }
+]

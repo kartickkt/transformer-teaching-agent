@@ -1,0 +1,27 @@
+[
+  {
+    "source": "neural networks",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "rnn encoder-decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "Deep residual learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "Learning Representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "self-training",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "generative",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "task-specific tuning",
+    "target": "parameters",
+    "relation": "prerequisite"
+  }
+]

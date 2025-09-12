@@ -1,0 +1,27 @@
+[
+  {
+    "source": "scaling factor",
+    "target": "weight matrix",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaling factor",
+    "target": "representation dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaling factor",
+    "target": "dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaling factor",
+    "target": "dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaling factor",
+    "target": "dmodel = 1024",
+    "relation": "prerequisite"
+  }
+]

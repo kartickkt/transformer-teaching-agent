@@ -1,0 +1,22 @@
+[
+  {
+    "source": "network architecture",
+    "target": "inception architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "network architecture",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "network architecture",
+    "target": "end-to-end memory networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "network architecture",
+    "target": "connected layers",
+    "relation": "prerequisite"
+  }
+]

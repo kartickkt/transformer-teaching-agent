@@ -1,0 +1,22 @@
+[
+  {
+    "source": "O(logk(n))",
+    "target": "O(n/r)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "O(logk(n))",
+    "target": "kernel width k",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "37000 tokens",
+    "target": "tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "37000 tokens",
+    "target": "output tokens",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "fully",
+    "target": "function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fully",
+    "target": "evaluate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fully",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fully",
+    "target": "softmax",
+    "relation": "prerequisite"
+  }
+]

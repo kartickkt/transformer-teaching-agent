@@ -1,0 +1,22 @@
+[
+  {
+    "source": "kernel size 1",
+    "target": "attention key size dk",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "kernel size 1",
+    "target": "dimensionality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "kernel size 1",
+    "target": "dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "kernel size 1",
+    "target": "dimension",
+    "relation": "prerequisite"
+  }
+]

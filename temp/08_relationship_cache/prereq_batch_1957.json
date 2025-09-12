@@ -1,0 +1,17 @@
+[
+  {
+    "source": "space-efficient",
+    "target": "length penalty",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "matrix multiplication code",
+    "target": "matrices K and V",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "matrix multiplication code",
+    "target": "dot product",
+    "relation": "prerequisite"
+  }
+]

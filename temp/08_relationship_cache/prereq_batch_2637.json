@@ -1,0 +1,22 @@
+[
+  {
+    "source": "sentence representations",
+    "target": "representation of the sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sentence representations",
+    "target": "abstractive summarization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sentence representations",
+    "target": "output tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sentence representations",
+    "target": "sequence",
+    "relation": "prerequisite"
+  }
+]

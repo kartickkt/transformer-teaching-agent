@@ -1,0 +1,27 @@
+[
+  {
+    "source": "embedding layers",
+    "target": "learned linear transformation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "Transformer architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "4-layer transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "sub-layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "self-attention sub-layer",
+    "relation": "prerequisite"
+  }
+]

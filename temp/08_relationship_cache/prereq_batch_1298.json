@@ -1,0 +1,27 @@
+[
+  {
+    "source": "ConvS2S Ensemble",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ConvS2S Ensemble",
+    "target": "sequential computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ConvS2S Ensemble",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ConvS2S Ensemble",
+    "target": "sentence pairs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Residual Dropout",
+    "target": "residual connection",
+    "relation": "prerequisite"
+  }
+]

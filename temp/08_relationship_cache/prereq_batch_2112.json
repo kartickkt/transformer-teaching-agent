@@ -1,0 +1,17 @@
+[
+  {
+    "source": "TFLOPS",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "TFLOPS",
+    "target": "Transformer (big)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "TFLOPS",
+    "target": "4-layer transformer",
+    "relation": "prerequisite"
+  }
+]

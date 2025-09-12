@@ -1,0 +1,22 @@
+[
+  {
+    "source": "layer normalization",
+    "target": "scaling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer normalization",
+    "target": "gradients",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer normalization",
+    "target": "Regularization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer normalization",
+    "target": "normalized",
+    "relation": "prerequisite"
+  }
+]

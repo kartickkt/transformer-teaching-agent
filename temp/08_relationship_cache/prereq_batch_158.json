@@ -1,0 +1,27 @@
+[
+  {
+    "source": "stack",
+    "target": "dropout",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "stack",
+    "target": "train",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "stack",
+    "target": "checkpoint averaging",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "stack",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "stack",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  }
+]

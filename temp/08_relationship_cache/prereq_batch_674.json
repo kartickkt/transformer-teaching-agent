@@ -1,0 +1,17 @@
+[
+  {
+    "source": "audio",
+    "target": "input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "audio",
+    "target": "output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "audio",
+    "target": "input and output modalities",
+    "relation": "prerequisite"
+  }
+]

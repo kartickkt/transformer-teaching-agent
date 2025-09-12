@@ -1,0 +1,27 @@
+[
+  {
+    "source": "encoder",
+    "target": "decoder",
+    "relation": "contrasts_with"
+  },
+  {
+    "source": "limited training data",
+    "target": "large training data",
+    "relation": "contrasts_with"
+  },
+  {
+    "source": "encoder-decoder architectures",
+    "target": "encoder-decoder attention",
+    "relation": "related_topic"
+  },
+  {
+    "source": "input sequences",
+    "target": "output sequences",
+    "relation": "related_topic"
+  },
+  {
+    "source": "ConvS2S",
+    "target": "ConvS2S Ensemble",
+    "relation": "application_of"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Regularization",
+    "target": "over-fitting",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Regularization",
+    "target": "Residual Dropout",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Regularization",
+    "target": "Deep residual learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Regularization",
+    "target": "length penalty",
+    "relation": "prerequisite"
+  }
+]

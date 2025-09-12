@@ -1,0 +1,12 @@
+[
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "learning phrase representations",
+    "relation": "prerequisite"
+  }
+]

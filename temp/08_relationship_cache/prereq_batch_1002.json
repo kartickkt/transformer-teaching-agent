@@ -1,0 +1,17 @@
+[
+  {
+    "source": "encoder stack",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder stack",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder stack",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Transformer architecture",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer architecture",
+    "target": "Position-wise Feed-Forward Networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer architecture",
+    "target": "ReLU activation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer architecture",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer architecture",
+    "target": "decoder stacks",
+    "relation": "prerequisite"
+  }
+]

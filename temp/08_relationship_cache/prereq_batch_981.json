@@ -1,0 +1,22 @@
+[
+  {
+    "source": "layer normalization",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer normalization",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer normalization",
+    "target": "recurrent layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer normalization",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  }
+]

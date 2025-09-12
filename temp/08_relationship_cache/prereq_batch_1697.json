@@ -1,0 +1,22 @@
+[
+  {
+    "source": "single attention head",
+    "target": "Concat(head1, ..., headh)WO",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single attention head",
+    "target": "head1",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single attention head",
+    "target": "headh",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single attention head",
+    "target": "heads",
+    "relation": "prerequisite"
+  }
+]

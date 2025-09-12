@@ -1,0 +1,22 @@
+[
+  {
+    "source": "self-training",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-training",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-training",
+    "target": "learning rate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-training",
+    "target": "over-fitting",
+    "relation": "prerequisite"
+  }
+]

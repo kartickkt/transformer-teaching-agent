@@ -1,0 +1,7 @@
+[
+  {
+    "source": "over-fitting",
+    "target": "large training data",
+    "relation": "prerequisite"
+  }
+]

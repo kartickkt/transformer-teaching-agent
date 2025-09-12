@@ -1,0 +1,27 @@
+[
+  {
+    "source": "input length",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input length",
+    "target": "decoder output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input length",
+    "target": "Input-Input Layer5",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input length",
+    "target": "sub-layer input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input length",
+    "target": "computation time",
+    "relation": "prerequisite"
+  }
+]

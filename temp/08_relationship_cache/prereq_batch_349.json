@@ -1,0 +1,27 @@
+[
+  {
+    "source": "tokens",
+    "target": "25000 source tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tokens",
+    "target": "25000 target tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tokens",
+    "target": "16K tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output tokens",
+    "target": "output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output tokens",
+    "target": "known outputs",
+    "relation": "prerequisite"
+  }
+]

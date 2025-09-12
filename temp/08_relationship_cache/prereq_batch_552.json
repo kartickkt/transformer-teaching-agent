@@ -1,0 +1,17 @@
+[
+  {
+    "source": "step time",
+    "target": "constant number of sequentially executed operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "step time",
+    "target": "100,000 steps",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "step time",
+    "target": "step_num\u00e2\u02c6\u20190.5",
+    "relation": "prerequisite"
+  }
+]

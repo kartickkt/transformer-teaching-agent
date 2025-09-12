@@ -1,0 +1,22 @@
+[
+  {
+    "source": "reading comprehension",
+    "target": "vocabulary",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "reading comprehension",
+    "target": "literature",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "reading comprehension",
+    "target": "machine reading",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "reading comprehension",
+    "target": "parsing",
+    "relation": "prerequisite"
+  }
+]

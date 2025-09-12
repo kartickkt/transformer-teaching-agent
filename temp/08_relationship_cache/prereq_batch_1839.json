@@ -1,0 +1,7 @@
+[
+  {
+    "source": "parallelizable",
+    "target": "parallelization",
+    "relation": "prerequisite"
+  }
+]

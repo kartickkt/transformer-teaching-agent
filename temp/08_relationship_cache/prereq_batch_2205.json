@@ -1,0 +1,17 @@
+[
+  {
+    "source": "language modeling",
+    "target": "vectors of dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "representation dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "dimension dmodel",
+    "relation": "prerequisite"
+  }
+]

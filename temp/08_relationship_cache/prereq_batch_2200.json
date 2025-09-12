@@ -1,0 +1,17 @@
+[
+  {
+    "source": "language modeling",
+    "target": "learning phrase representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "structured self-attentive sentence embedding",
+    "relation": "prerequisite"
+  }
+]

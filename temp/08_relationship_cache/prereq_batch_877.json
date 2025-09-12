@@ -1,0 +1,22 @@
+[
+  {
+    "source": "input sequences",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input sequences",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input sequences",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input sequences",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  }
+]

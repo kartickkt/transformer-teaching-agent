@@ -1,0 +1,17 @@
+[
+  {
+    "source": "order of the sequence",
+    "target": "minimum number of sequential operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "order of the sequence",
+    "target": "O(n) sequential operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "order of the sequence",
+    "target": "sequence length n",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Long short-term memory-networks",
+    "target": "RNNs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Long short-term memory-networks",
+    "target": "gated recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Long short-term memory-networks",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Long short-term memory-networks",
+    "target": "RNN sequence-to-sequence models",
+    "relation": "prerequisite"
+  }
+]

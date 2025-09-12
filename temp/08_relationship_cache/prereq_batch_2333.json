@@ -1,0 +1,17 @@
+[
+  {
+    "source": "state-of-the-art models",
+    "target": "existing best results",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "state-of-the-art models",
+    "target": "visualizations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "state-of-the-art models",
+    "target": "state of the art",
+    "relation": "prerequisite"
+  }
+]

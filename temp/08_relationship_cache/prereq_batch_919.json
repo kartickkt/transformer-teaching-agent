@@ -1,0 +1,22 @@
+[
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "Sequence to sequence learning with neural networks",
+    "relation": "prerequisite"
+  }
+]

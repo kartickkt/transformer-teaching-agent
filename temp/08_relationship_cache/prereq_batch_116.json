@@ -1,0 +1,17 @@
+[
+  {
+    "source": "representation of the sequence",
+    "target": "sine functions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation of the sequence",
+    "target": "sinusoidal positional encoding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation of the sequence",
+    "target": "parameter-free position representation",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "single attention head",
+    "target": "Attention Is All You Need",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single attention head",
+    "target": "self-attention",
+    "relation": "prerequisite"
+  }
+]

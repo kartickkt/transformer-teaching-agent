@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Neural computation",
+    "target": "convolutional neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural computation",
+    "target": "convolutions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural computation",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural computation",
+    "target": "end-to-end memory networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural computation",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  }
+]

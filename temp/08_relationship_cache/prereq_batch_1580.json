@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Attention Is All You Need",
+    "target": "dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention Is All You Need",
+    "target": "single attention head",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention Is All You Need",
+    "target": "Attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention Is All You Need",
+    "target": "parallel attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention Is All You Need",
+    "target": "restricted self-attention",
+    "relation": "prerequisite"
+  }
+]

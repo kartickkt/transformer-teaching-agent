@@ -1,0 +1,12 @@
+[
+  {
+    "source": "verb \u00e2\u20ac\u02dcmaking\u00e2\u20ac\u2122",
+    "target": "phrase \u00e2\u20ac\u02dcmaking...more difficult\u00e2\u20ac\u2122",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "phrase \u00e2\u20ac\u02dcmaking...more difficult\u00e2\u20ac\u2122",
+    "target": "perplexity",
+    "relation": "prerequisite"
+  }
+]

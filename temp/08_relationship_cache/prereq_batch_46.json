@@ -1,0 +1,17 @@
+[
+  {
+    "source": "literature",
+    "target": "vocabulary",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "literature",
+    "target": "reading comprehension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "visualizations",
+    "target": "tables",
+    "relation": "prerequisite"
+  }
+]

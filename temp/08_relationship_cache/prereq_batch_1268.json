@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Separable convolutions",
+    "target": "convolutional layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Separable convolutions",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Separable convolutions",
+    "target": "ConvS2S Ensemble",
+    "relation": "prerequisite"
+  }
+]

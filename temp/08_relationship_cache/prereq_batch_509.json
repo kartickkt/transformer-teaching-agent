@@ -1,0 +1,27 @@
+[
+  {
+    "source": "tasks",
+    "target": "input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "input positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "output positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "long-range dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "network",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "English-to-French",
+    "target": "English-to-German base translation model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "per-wordpiece",
+    "target": "byte-pair",
+    "relation": "prerequisite"
+  }
+]

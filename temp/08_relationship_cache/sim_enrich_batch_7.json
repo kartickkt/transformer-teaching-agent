@@ -1,0 +1,22 @@
+[
+  {
+    "source": "sequence-to-sequence models",
+    "target": "RNN sequence-to-sequence models",
+    "relation": "example_of"
+  },
+  {
+    "source": "Position-wise Feed-Forward Networks",
+    "target": "point-wise feed-forward layer",
+    "relation": "related_topic"
+  },
+  {
+    "source": "Positional Encoding",
+    "target": "positional embedding",
+    "relation": "related_topic"
+  },
+  {
+    "source": "hidden layer",
+    "target": "previous layer",
+    "relation": "related_topic"
+  }
+]

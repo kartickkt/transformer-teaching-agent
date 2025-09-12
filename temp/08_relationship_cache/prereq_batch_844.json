@@ -1,0 +1,27 @@
+[
+  {
+    "source": "parameter-free position representation",
+    "target": "learning phrase representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameter-free position representation",
+    "target": "Learning Representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameter-free position representation",
+    "target": "learned linear transformation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameter-free position representation",
+    "target": "averaging attention-weighted positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameter-free position representation",
+    "target": "distance between positions",
+    "relation": "prerequisite"
+  }
+]

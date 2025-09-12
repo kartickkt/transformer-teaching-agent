@@ -1,0 +1,27 @@
+[
+  {
+    "source": "dmodel-dimensional keys",
+    "target": "hyperparameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel-dimensional keys",
+    "target": "attention key and value dimensions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel-dimensional keys",
+    "target": "learned linear projections",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel-dimensional keys",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel-dimensional keys",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  }
+]

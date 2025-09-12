@@ -1,0 +1,27 @@
+[
+  {
+    "source": "\u00e2\u02c6\u0161dmodel",
+    "target": "tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "\u00e2\u02c6\u0161dmodel",
+    "target": "P_drop",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "\u00e2\u02c6\u0161dmodel",
+    "target": "params",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "\u00e2\u02c6\u0161dmodel",
+    "target": "development set",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "\u00e2\u02c6\u0161dmodel",
+    "target": "evaluate",
+    "relation": "prerequisite"
+  }
+]

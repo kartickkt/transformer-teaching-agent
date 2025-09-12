@@ -1,0 +1,7 @@
+[
+  {
+    "source": "scaled dot-product attention",
+    "target": "Attention Is All You Need",
+    "relation": "prerequisite"
+  }
+]

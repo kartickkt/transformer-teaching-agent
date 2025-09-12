@@ -1,0 +1,27 @@
+[
+  {
+    "source": "dmodel",
+    "target": "dimension dmodel",
+    "relation": "example_of"
+  },
+  {
+    "source": "dmodel",
+    "target": "dmodel = 1024",
+    "relation": "application_of"
+  },
+  {
+    "source": "complex recurrent neural networks",
+    "target": "gated recurrent neural networks",
+    "relation": "related_topic"
+  },
+  {
+    "source": "complex recurrent neural networks",
+    "target": "Deep recurrent models",
+    "relation": "related_topic"
+  },
+  {
+    "source": "RNNs",
+    "target": "RNN sequence-to-sequence models",
+    "relation": "example_of"
+  }
+]

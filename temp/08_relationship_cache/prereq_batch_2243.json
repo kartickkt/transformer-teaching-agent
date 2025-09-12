@@ -1,0 +1,27 @@
+[
+  {
+    "source": "matrix Q",
+    "target": "model quality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "matrix Q",
+    "target": "dmodel = 1024",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "matrix Q",
+    "target": "GNMT + RL",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel-dimensional keys",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel-dimensional keys",
+    "target": "key-value pairs",
+    "relation": "prerequisite"
+  }
+]

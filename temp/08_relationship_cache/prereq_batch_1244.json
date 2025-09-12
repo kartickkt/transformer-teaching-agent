@@ -1,0 +1,27 @@
+[
+  {
+    "source": "hidden layer",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden layer",
+    "target": "Gradient flow in recurrent nets",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden layer",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden layer",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent layer",
+    "target": "recurrence",
+    "relation": "prerequisite"
+  }
+]

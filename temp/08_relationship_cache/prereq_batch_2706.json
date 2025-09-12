@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Self-training PCFG grammars with latent annotations across languages",
+    "target": "Recurrent Neural Network Grammar",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Self-training PCFG grammars with latent annotations across languages",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Self-training PCFG grammars with latent annotations across languages",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Self-training PCFG grammars with latent annotations across languages",
+    "target": "machine translation tasks",
+    "relation": "prerequisite"
+  }
+]

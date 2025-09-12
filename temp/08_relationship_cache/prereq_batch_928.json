@@ -1,0 +1,22 @@
+[
+  {
+    "source": "end-to-end memory networks",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "end-to-end memory networks",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "end-to-end memory networks",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "end-to-end memory networks",
+    "target": "decoder stacks",
+    "relation": "prerequisite"
+  }
+]

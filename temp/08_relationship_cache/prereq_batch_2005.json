@@ -1,0 +1,17 @@
+[
+  {
+    "source": "total computational complexity per layer",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "total computational complexity per layer",
+    "target": "Deep residual learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "total computational complexity per layer",
+    "target": "Factorization tricks for LSTM networks",
+    "relation": "prerequisite"
+  }
+]

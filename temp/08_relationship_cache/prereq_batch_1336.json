@@ -1,0 +1,27 @@
+[
+  {
+    "source": "tensorflow",
+    "target": "single hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "Position-wise Feed-Forward Networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "ReLU activation",
+    "relation": "prerequisite"
+  }
+]

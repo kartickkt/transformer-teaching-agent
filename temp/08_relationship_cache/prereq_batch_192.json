@@ -1,0 +1,22 @@
+[
+  {
+    "source": "position",
+    "target": "align and translate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "position",
+    "target": "registration",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "position",
+    "target": "parameter-free position representation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "position",
+    "target": "embedding",
+    "relation": "prerequisite"
+  }
+]

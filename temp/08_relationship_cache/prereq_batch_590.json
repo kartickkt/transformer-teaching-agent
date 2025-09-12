@@ -1,0 +1,27 @@
+[
+  {
+    "source": "training time",
+    "target": "training examples",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training time",
+    "target": "Training Data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training time",
+    "target": "training batch",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "P_drop",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "P_drop",
+    "target": "output",
+    "relation": "prerequisite"
+  }
+]

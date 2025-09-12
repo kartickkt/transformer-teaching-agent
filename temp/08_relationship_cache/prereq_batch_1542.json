@@ -1,0 +1,17 @@
+[
+  {
+    "source": "sequence transduction tasks",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction tasks",
+    "target": "machine translation tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "forward signals",
+    "target": "existing best results",
+    "relation": "prerequisite"
+  }
+]

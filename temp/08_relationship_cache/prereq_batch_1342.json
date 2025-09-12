@@ -1,0 +1,17 @@
+[
+  {
+    "source": "tensorflow",
+    "target": "RNNs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  }
+]

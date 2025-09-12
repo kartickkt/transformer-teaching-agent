@@ -1,0 +1,22 @@
+[
+  {
+    "source": "representation dimension",
+    "target": "effective resolution",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation dimension",
+    "target": "symbol representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation dimension",
+    "target": "queries",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation dimension",
+    "target": "values",
+    "relation": "prerequisite"
+  }
+]

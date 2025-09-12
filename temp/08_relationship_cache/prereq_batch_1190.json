@@ -1,0 +1,17 @@
+[
+  {
+    "source": "decoder output",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder output",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder output",
+    "target": "feed-forward network",
+    "relation": "prerequisite"
+  }
+]

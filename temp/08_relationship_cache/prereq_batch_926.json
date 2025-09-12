@@ -1,0 +1,27 @@
+[
+  {
+    "source": "end-to-end memory networks",
+    "target": "connected layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "end-to-end memory networks",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "end-to-end memory networks",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "end-to-end memory networks",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "end-to-end memory networks",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  }
+]

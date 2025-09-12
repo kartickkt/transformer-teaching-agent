@@ -1,0 +1,27 @@
+[
+  {
+    "source": "attention-based models",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention-based models",
+    "target": "model performance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention-based models",
+    "target": "model architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention-based models",
+    "target": "dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention-based models",
+    "target": "\u00e2\u02c6\u0161dmodel",
+    "relation": "prerequisite"
+  }
+]

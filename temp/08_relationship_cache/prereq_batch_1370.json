@@ -1,0 +1,27 @@
+[
+  {
+    "source": "deep learning",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "learning task-independent sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "end-to-end memory networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "connected layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  }
+]

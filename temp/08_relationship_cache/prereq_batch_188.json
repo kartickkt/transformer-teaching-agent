@@ -1,0 +1,27 @@
+[
+  {
+    "source": "position",
+    "target": "input for position t",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "position",
+    "target": "stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "position",
+    "target": "simple, position-",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "position",
+    "target": "predictions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "position",
+    "target": "values",
+    "relation": "prerequisite"
+  }
+]

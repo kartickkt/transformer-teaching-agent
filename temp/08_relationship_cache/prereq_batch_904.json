@@ -1,0 +1,22 @@
+[
+  {
+    "source": "hidden representations",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden representations",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden representations",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden representations",
+    "target": "single hidden layer",
+    "relation": "prerequisite"
+  }
+]

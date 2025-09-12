@@ -1,0 +1,17 @@
+[
+  {
+    "source": "forward signals",
+    "target": "predictions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "forward signals",
+    "target": "known outputs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "forward signals",
+    "target": "vectors",
+    "relation": "prerequisite"
+  }
+]

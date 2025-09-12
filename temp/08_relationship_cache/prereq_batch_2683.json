@@ -1,0 +1,17 @@
+[
+  {
+    "source": "English-to-German base translation model",
+    "target": "Transformer models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "English-to-German base translation model",
+    "target": "Transformer (base model)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "English-to-German base translation model",
+    "target": "model variants",
+    "relation": "prerequisite"
+  }
+]

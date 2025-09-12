@@ -1,0 +1,17 @@
+[
+  {
+    "source": "rnn encoder-decoder",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "rnn encoder-decoder",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "rnn encoder-decoder",
+    "target": "decoder output",
+    "relation": "prerequisite"
+  }
+]

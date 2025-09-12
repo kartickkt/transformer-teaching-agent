@@ -1,0 +1,22 @@
+[
+  {
+    "source": "versions",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "versions",
+    "target": "best models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "versions",
+    "target": "model variants",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "versions",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  }
+]

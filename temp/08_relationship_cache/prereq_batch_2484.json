@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Recurrent Neural Network Grammar",
+    "target": "RNNs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Recurrent Neural Network Grammar",
+    "target": "gated recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Recurrent Neural Network Grammar",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Recurrent Neural Network Grammar",
+    "target": "Extended Neural GPU",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Recurrent Neural Network Grammar",
+    "target": "Recurrent",
+    "relation": "prerequisite"
+  }
+]

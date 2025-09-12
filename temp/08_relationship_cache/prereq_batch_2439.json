@@ -1,0 +1,12 @@
+[
+  {
+    "source": "recurrent language models",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent language models",
+    "target": "continuous representations",
+    "relation": "prerequisite"
+  }
+]

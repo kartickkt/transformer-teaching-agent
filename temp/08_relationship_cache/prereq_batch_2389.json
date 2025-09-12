@@ -1,0 +1,27 @@
+[
+  {
+    "source": "dmodel = 1024",
+    "target": "dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel = 1024",
+    "target": "dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel = 1024",
+    "target": "state-of-the-art models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel = 1024",
+    "target": "base models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel = 1024",
+    "target": "big models",
+    "relation": "prerequisite"
+  }
+]

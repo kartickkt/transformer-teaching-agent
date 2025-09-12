@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Separable convolutions",
+    "target": "sequential computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise feed-forward layer",
+    "target": "point-wise",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise feed-forward layer",
+    "target": "convolutional neural networks",
+    "relation": "prerequisite"
+  }
+]

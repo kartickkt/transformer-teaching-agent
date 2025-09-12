@@ -1,0 +1,27 @@
+[
+  {
+    "source": "simple, position-",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "simple, position-",
+    "target": "Positional Encoding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "simple, position-",
+    "target": "positional embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "simple, position-",
+    "target": "averaging attention-weighted positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "simple, position-",
+    "target": "distance between positions",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "human and machine translation",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "human and machine translation",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "human and machine translation",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  }
+]

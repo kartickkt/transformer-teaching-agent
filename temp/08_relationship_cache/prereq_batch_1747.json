@@ -1,0 +1,22 @@
+[
+  {
+    "source": "attention distributions",
+    "target": "averaging attention-weighted positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention distributions",
+    "target": "intra-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention distributions",
+    "target": "self-attention sub-layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention distributions",
+    "target": "attention function",
+    "relation": "prerequisite"
+  }
+]

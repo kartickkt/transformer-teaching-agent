@@ -1,0 +1,22 @@
+[
+  {
+    "source": "layer normalization",
+    "target": "sub-layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer normalization",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer normalization",
+    "target": "parallel attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer normalization",
+    "target": "previous layer",
+    "relation": "prerequisite"
+  }
+]

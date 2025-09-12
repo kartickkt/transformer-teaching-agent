@@ -1,0 +1,27 @@
+[
+  {
+    "source": "embedding",
+    "target": "Concat",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding",
+    "target": "heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding",
+    "target": "fully",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding",
+    "target": "function",
+    "relation": "prerequisite"
+  }
+]

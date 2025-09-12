@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Deep recurrent models",
+    "target": "Transformer models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Deep recurrent models",
+    "target": "Transformer architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Deep recurrent models",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  }
+]

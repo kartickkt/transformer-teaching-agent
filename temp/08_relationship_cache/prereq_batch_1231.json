@@ -1,0 +1,22 @@
+[
+  {
+    "source": "hidden layer",
+    "target": "convolutional neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden layer",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden layer",
+    "target": "decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden layer",
+    "target": "convolutions",
+    "relation": "prerequisite"
+  }
+]

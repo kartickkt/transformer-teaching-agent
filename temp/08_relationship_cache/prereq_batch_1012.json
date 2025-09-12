@@ -1,0 +1,17 @@
+[
+  {
+    "source": "output embeddings",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output embeddings",
+    "target": "continuous representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output embeddings",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  }
+]

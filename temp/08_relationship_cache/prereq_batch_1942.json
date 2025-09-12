@@ -1,0 +1,27 @@
+[
+  {
+    "source": "scaling factor",
+    "target": "kernel size 1",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaling factor",
+    "target": "size of the neighborhood",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaling factor",
+    "target": "kernel width k",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaling factor",
+    "target": "step_num\u00e2\u02c6\u20190.5",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaling factor",
+    "target": "dimensionality",
+    "relation": "prerequisite"
+  }
+]

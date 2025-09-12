@@ -1,0 +1,17 @@
+[
+  {
+    "source": "parameters",
+    "target": "train",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameters",
+    "target": "params",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameters",
+    "target": "task-specific tuning",
+    "relation": "prerequisite"
+  }
+]

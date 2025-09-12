@@ -1,0 +1,22 @@
+[
+  {
+    "source": "encoder",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder",
+    "target": "gated recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder",
+    "target": "figures",
+    "relation": "prerequisite"
+  }
+]

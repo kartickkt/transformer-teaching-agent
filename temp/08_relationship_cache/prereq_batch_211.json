@@ -1,0 +1,12 @@
+[
+  {
+    "source": "vectors",
+    "target": "dot product",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "vectors",
+    "target": "variance",
+    "relation": "prerequisite"
+  }
+]

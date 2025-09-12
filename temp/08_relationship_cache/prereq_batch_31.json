@@ -1,0 +1,17 @@
+[
+  {
+    "source": "recurrence",
+    "target": "sequential computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrence",
+    "target": "sequence-aligned recurrence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrence",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  }
+]

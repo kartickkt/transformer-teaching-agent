@@ -1,0 +1,12 @@
+[
+  {
+    "source": "language modeling",
+    "target": "Regularization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "label smoothing",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "scaled dot-product attention",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "multi-head attention",
+    "target": "Concat(head1, ..., headh)WO",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Position-wise Feed-Forward Networks",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Position-wise Feed-Forward Networks",
+    "target": "rnn encoder-decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Position-wise Feed-Forward Networks",
+    "target": "Convolutional sequence to sequence learning",
+    "relation": "prerequisite"
+  }
+]

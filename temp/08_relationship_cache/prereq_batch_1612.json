@@ -1,0 +1,27 @@
+[
+  {
+    "source": "long short-term memory",
+    "target": "training time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "long short-term memory",
+    "target": "linear time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "long short-term memory",
+    "target": "limited training data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "long short-term memory",
+    "target": "learning task-independent sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "long short-term memory",
+    "target": "end-to-end memory networks",
+    "relation": "prerequisite"
+  }
+]

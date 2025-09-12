@@ -1,0 +1,17 @@
+[
+  {
+    "source": "hyperparameters",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hyperparameters",
+    "target": "model variants",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hyperparameters",
+    "target": "model performance",
+    "relation": "prerequisite"
+  }
+]

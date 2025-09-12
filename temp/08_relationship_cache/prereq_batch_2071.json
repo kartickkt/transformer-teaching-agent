@@ -1,0 +1,7 @@
+[
+  {
+    "source": "25000 target tokens",
+    "target": "predicted next-token probabilities",
+    "relation": "prerequisite"
+  }
+]

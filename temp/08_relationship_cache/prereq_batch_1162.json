@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Embeddings",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Embeddings",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  }
+]

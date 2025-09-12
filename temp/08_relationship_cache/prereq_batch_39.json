@@ -1,0 +1,7 @@
+[
+  {
+    "source": "existing best results",
+    "target": "state-of-the-art results",
+    "relation": "prerequisite"
+  }
+]

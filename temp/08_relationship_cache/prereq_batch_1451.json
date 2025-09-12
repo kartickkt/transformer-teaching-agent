@@ -1,0 +1,22 @@
+[
+  {
+    "source": "self-training",
+    "target": "train",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-training",
+    "target": "task-specific tuning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-training",
+    "target": "machine reading",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-training",
+    "target": "encoder",
+    "relation": "prerequisite"
+  }
+]

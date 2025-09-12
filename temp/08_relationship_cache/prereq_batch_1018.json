@@ -1,0 +1,22 @@
+[
+  {
+    "source": "output embeddings",
+    "target": "learning phrase representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output embeddings",
+    "target": "rnn encoder-decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output embeddings",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output embeddings",
+    "target": "Deep residual learning",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "32000 word-piece vocabulary",
+    "target": "per-wordpiece",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "32000 word-piece vocabulary",
+    "target": "per-word perplexities",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "32000 word-piece vocabulary",
+    "target": "Neural machine translation of rare words with subword units",
+    "relation": "prerequisite"
+  }
+]

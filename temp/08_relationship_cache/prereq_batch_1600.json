@@ -1,0 +1,17 @@
+[
+  {
+    "source": "scaled dot-product attention",
+    "target": "Attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaled dot-product attention",
+    "target": "single attention head",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaled dot-product attention",
+    "target": "parallel attention layers",
+    "relation": "prerequisite"
+  }
+]

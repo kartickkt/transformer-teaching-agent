@@ -1,0 +1,17 @@
+[
+  {
+    "source": "computation",
+    "target": "computer vision",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computation",
+    "target": "Computational linguistics",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computation time",
+    "target": "training time",
+    "relation": "prerequisite"
+  }
+]

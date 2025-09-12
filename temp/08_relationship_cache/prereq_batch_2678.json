@@ -1,0 +1,22 @@
+[
+  {
+    "source": "BerkleyParser corpora",
+    "target": "parsing",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "BerkleyParser corpora",
+    "target": "learning task-independent sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "BerkleyParser corpora",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "BerkleyParser corpora",
+    "target": "deep reinforced model for abstractive summarization",
+    "relation": "prerequisite"
+  }
+]

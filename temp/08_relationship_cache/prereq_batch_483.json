@@ -1,0 +1,27 @@
+[
+  {
+    "source": "input positions",
+    "target": "relative positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input positions",
+    "target": "output positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input positions",
+    "target": "tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input positions",
+    "target": "input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input positions",
+    "target": "params",
+    "relation": "prerequisite"
+  }
+]

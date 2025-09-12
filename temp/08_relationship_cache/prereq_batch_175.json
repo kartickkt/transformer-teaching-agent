@@ -1,0 +1,12 @@
+[
+  {
+    "source": "LayerNorm",
+    "target": "previous layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "LayerNorm",
+    "target": "N = 6 identical layers",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "sequence transduction encoder",
+    "target": "representation of the sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction encoder",
+    "target": "sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction encoder",
+    "target": "input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction encoder",
+    "target": "sinusoidal positional encoding",
+    "relation": "prerequisite"
+  }
+]

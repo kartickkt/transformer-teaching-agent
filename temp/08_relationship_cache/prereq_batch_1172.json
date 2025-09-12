@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Embeddings",
+    "target": "RNNs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Embeddings",
+    "target": "RNN sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Embeddings",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Embeddings",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Embeddings",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  }
+]

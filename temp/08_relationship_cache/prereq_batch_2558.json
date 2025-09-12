@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Outrageously large neural networks",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Outrageously large neural networks",
+    "target": "Sequence to sequence learning with neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Outrageously large neural networks",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Outrageously large neural networks",
+    "target": "Neural machine translation of rare words with subword units",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Attention Is All You Need",
+    "target": "scaled dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention Is All You Need",
+    "target": "multi-head attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention Is All You Need",
+    "target": "intra-attention",
+    "relation": "prerequisite"
+  }
+]

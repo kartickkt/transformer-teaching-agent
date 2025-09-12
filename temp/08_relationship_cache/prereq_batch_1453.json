@@ -1,0 +1,12 @@
+[
+  {
+    "source": "self-training",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-training",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  }
+]

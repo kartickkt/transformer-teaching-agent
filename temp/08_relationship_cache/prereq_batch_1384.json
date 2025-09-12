@@ -1,0 +1,17 @@
+[
+  {
+    "source": "deep learning",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "computer vision",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  }
+]

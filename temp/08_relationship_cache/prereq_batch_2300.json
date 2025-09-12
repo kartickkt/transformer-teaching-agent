@@ -1,0 +1,22 @@
+[
+  {
+    "source": "layer types",
+    "target": "self-attention sub-layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer types",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer types",
+    "target": "sub-layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer types",
+    "target": "4-layer transformer",
+    "relation": "prerequisite"
+  }
+]

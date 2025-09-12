@@ -1,0 +1,17 @@
+[
+  {
+    "source": "sequential computation",
+    "target": "sequence transduction tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "recurrent attention mechanism",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "computation time",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "sustained single-precision floating-point capacity",
+    "target": "TFLOPS",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sustained single-precision floating-point capacity",
+    "target": "floating point operations",
+    "relation": "prerequisite"
+  }
+]

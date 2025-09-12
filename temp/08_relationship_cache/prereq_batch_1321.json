@@ -1,0 +1,17 @@
+[
+  {
+    "source": "semi-supervised setting",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "semi-supervised setting",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "semi-supervised setting",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  }
+]

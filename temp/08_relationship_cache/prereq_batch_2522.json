@@ -1,0 +1,17 @@
+[
+  {
+    "source": "NAACL",
+    "target": "machine translation tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "NAACL",
+    "target": "Penn Treebank",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "NAACL",
+    "target": "Parser Training",
+    "relation": "prerequisite"
+  }
+]

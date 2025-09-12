@@ -1,0 +1,17 @@
+[
+  {
+    "source": "softmax",
+    "target": "dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "softmax",
+    "target": "dimensionality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "softmax",
+    "target": "dimension",
+    "relation": "prerequisite"
+  }
+]

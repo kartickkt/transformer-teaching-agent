@@ -1,0 +1,27 @@
+[
+  {
+    "source": "size of the neighborhood",
+    "target": "kernel size 1",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "size of the neighborhood",
+    "target": "neighborhood of size r",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "size of the neighborhood",
+    "target": "dimensionality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "size of the neighborhood",
+    "target": "dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Layer Type Complexity",
+    "target": "network architecture",
+    "relation": "prerequisite"
+  }
+]

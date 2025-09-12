@@ -1,0 +1,12 @@
+[
+  {
+    "source": "ReLU activation",
+    "target": "convolutional layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ReLU activation",
+    "target": "point-wise feed-forward layer",
+    "relation": "prerequisite"
+  }
+]

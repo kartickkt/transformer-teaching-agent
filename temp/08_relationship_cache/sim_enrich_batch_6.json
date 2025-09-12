@@ -1,0 +1,22 @@
+[
+  {
+    "source": "output embeddings",
+    "target": "learned embeddings",
+    "relation": "related_topic"
+  },
+  {
+    "source": "single hidden layer",
+    "target": "hidden layer",
+    "relation": "example_of"
+  },
+  {
+    "source": "learned linear projections",
+    "target": "learned linear transformation",
+    "relation": "related_topic"
+  },
+  {
+    "source": "decoder layer",
+    "target": "hidden layer",
+    "relation": "related_topic"
+  }
+]

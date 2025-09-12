@@ -1,0 +1,12 @@
+[
+  {
+    "source": "recurrent language models",
+    "target": "RNNs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent language models",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  }
+]

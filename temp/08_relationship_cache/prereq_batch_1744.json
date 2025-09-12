@@ -1,0 +1,27 @@
+[
+  {
+    "source": "attention distributions",
+    "target": "predictions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention distributions",
+    "target": "queries",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention distributions",
+    "target": "heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention distributions",
+    "target": "information flow",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention distributions",
+    "target": "input positions",
+    "relation": "prerequisite"
+  }
+]

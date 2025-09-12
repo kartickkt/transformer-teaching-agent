@@ -1,0 +1,17 @@
+[
+  {
+    "source": "machine reading",
+    "target": "Training Data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "machine reading",
+    "target": "model quality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "machine reading",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  }
+]

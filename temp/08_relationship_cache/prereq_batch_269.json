@@ -1,0 +1,17 @@
+[
+  {
+    "source": "scaling",
+    "target": "dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaling",
+    "target": "dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "gradients",
+    "target": "global dependencies",
+    "relation": "prerequisite"
+  }
+]

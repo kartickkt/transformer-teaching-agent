@@ -1,0 +1,27 @@
+[
+  {
+    "source": "deep learning",
+    "target": "large training data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "dimensionality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "Training Data",
+    "relation": "prerequisite"
+  }
+]

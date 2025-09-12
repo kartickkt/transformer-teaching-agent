@@ -1,0 +1,27 @@
+[
+  {
+    "source": "long short-term memory",
+    "target": "learning phrase representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "long short-term memory",
+    "target": "multi-head attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "long short-term memory",
+    "target": "intra-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "long short-term memory",
+    "target": "recurrent attention mechanism",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "long short-term memory",
+    "target": "self-attention sub-layer",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "learned embeddings",
+    "target": "self-training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned embeddings",
+    "target": "deep reinforced model for abstractive summarization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned embeddings",
+    "target": "linear transformations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned embeddings",
+    "target": "learned linear transformation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned embeddings",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  }
+]

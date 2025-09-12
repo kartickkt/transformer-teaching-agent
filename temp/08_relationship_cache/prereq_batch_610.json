@@ -1,0 +1,22 @@
+[
+  {
+    "source": "params",
+    "target": "memory constraints",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "params",
+    "target": "space-efficient",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "params",
+    "target": "length penalty",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "params",
+    "target": "input length",
+    "relation": "prerequisite"
+  }
+]

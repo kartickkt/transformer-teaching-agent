@@ -1,0 +1,22 @@
+[
+  {
+    "source": "learned embeddings",
+    "target": "machine translation tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned embeddings",
+    "target": "Effective approaches to attention-based neural machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned embeddings",
+    "target": "Neural machine translation of rare words with subword units",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned embeddings",
+    "target": "human and machine translation",
+    "relation": "prerequisite"
+  }
+]

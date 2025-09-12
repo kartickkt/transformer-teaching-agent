@@ -1,0 +1,22 @@
+[
+  {
+    "source": "end-to-end memory networks",
+    "target": "long short-term memory",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "end-to-end memory networks",
+    "target": "Transformer architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "end-to-end memory networks",
+    "target": "multi-head attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "end-to-end memory networks",
+    "target": "recurrent attention mechanism",
+    "relation": "prerequisite"
+  }
+]

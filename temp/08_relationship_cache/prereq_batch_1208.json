@@ -1,0 +1,27 @@
+[
+  {
+    "source": "embedding layers",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "parallel attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "previous layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "sub-layer input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  }
+]

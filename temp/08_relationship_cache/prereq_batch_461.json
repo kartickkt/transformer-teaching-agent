@@ -1,0 +1,22 @@
+[
+  {
+    "source": "sequence",
+    "target": "minimum number of sequential operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "constant number of sequentially executed operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "O(n) sequential operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "sequence length n",
+    "relation": "prerequisite"
+  }
+]

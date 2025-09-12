@@ -1,0 +1,22 @@
+[
+  {
+    "source": "keys",
+    "target": "params",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "keys",
+    "target": "attention key and value dimensions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "keys",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "keys",
+    "target": "decoder",
+    "relation": "prerequisite"
+  }
+]

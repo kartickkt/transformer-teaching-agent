@@ -1,0 +1,17 @@
+[
+  {
+    "source": "restricted self-attention",
+    "target": "local, restricted attention mechanisms",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "restricted self-attention",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "restricted self-attention",
+    "target": "Structured attention networks",
+    "relation": "prerequisite"
+  }
+]

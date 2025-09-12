@@ -1,0 +1,12 @@
+[
+  {
+    "source": "variance",
+    "target": "mean",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "variance",
+    "target": "independent random variables",
+    "relation": "prerequisite"
+  }
+]

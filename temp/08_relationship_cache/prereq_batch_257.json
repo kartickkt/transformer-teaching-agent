@@ -1,0 +1,17 @@
+[
+  {
+    "source": "dot products",
+    "target": "scaled dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dot products",
+    "target": "dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "matrices K and V",
+    "target": "key-value pairs",
+    "relation": "prerequisite"
+  }
+]

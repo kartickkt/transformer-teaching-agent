@@ -1,0 +1,27 @@
+[
+  {
+    "source": "transduc",
+    "target": "transduction problems",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "transduc",
+    "target": "sequence transduction encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "transduc",
+    "target": "sequence transduction tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "transduc",
+    "target": "forward signals",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "transduc",
+    "target": "Transformer (base model)",
+    "relation": "prerequisite"
+  }
+]

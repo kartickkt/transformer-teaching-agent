@@ -1,0 +1,12 @@
+[
+  {
+    "source": "feed-forward network",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single hidden layer",
+    "target": "hidden",
+    "relation": "prerequisite"
+  }
+]

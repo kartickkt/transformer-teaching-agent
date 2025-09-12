@@ -1,0 +1,22 @@
+[
+  {
+    "source": "base models",
+    "target": "state-of-the-art models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "base models",
+    "target": "big models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "base models",
+    "target": "single model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "base models",
+    "target": "model quality",
+    "relation": "prerequisite"
+  }
+]

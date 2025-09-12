@@ -1,0 +1,17 @@
+[
+  {
+    "source": "length penalty",
+    "target": "sequence length n",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "length penalty",
+    "target": "maximum output length",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "length penalty",
+    "target": "input length",
+    "relation": "prerequisite"
+  }
+]

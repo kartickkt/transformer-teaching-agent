@@ -1,0 +1,22 @@
+[
+  {
+    "source": "structured self-attentive sentence embedding",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "structured self-attentive sentence embedding",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "structured self-attentive sentence embedding",
+    "target": "continuous representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "structured self-attentive sentence embedding",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  }
+]

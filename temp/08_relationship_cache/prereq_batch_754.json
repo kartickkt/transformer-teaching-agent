@@ -1,0 +1,17 @@
+[
+  {
+    "source": "ACL",
+    "target": "accuracy",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ACL",
+    "target": "checkpoint averaging",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ACL",
+    "target": "evaluate",
+    "relation": "prerequisite"
+  }
+]

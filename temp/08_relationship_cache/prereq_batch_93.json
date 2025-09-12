@@ -1,0 +1,7 @@
+[
+  {
+    "source": "global dependencies",
+    "target": "long-range dependencies",
+    "relation": "prerequisite"
+  }
+]

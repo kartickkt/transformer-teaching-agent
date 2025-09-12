@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Transformer",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer",
+    "target": "decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer",
+    "target": "fast-forward connections",
+    "relation": "prerequisite"
+  }
+]

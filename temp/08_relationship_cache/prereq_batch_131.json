@@ -1,0 +1,27 @@
+[
+  {
+    "source": "output",
+    "target": "heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output",
+    "target": "output tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output",
+    "target": "Sequential",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output",
+    "target": "pos",
+    "relation": "prerequisite"
+  }
+]

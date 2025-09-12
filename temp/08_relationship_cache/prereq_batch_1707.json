@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Attention",
+    "target": "values",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention",
+    "target": "mean",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention",
+    "target": "head1",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention",
+    "target": "heads",
+    "relation": "prerequisite"
+  }
+]

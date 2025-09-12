@@ -1,0 +1,27 @@
+[
+  {
+    "source": "representation dimension",
+    "target": "vectors of dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation dimension",
+    "target": "weight matrix",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation dimension",
+    "target": "dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation dimension",
+    "target": "dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation dimension",
+    "target": "model quality",
+    "relation": "prerequisite"
+  }
+]

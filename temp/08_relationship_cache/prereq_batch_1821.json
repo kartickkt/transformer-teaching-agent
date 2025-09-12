@@ -1,0 +1,12 @@
+[
+  {
+    "source": "encoder self-attention",
+    "target": "structured self-attentive sentence embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder self-attention",
+    "target": "Multi-task sequence to sequence learning",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "attention distributions",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention distributions",
+    "target": "Attention(Q, K, V)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention distributions",
+    "target": "additive attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention distributions",
+    "target": "dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention distributions",
+    "target": "single attention head",
+    "relation": "prerequisite"
+  }
+]

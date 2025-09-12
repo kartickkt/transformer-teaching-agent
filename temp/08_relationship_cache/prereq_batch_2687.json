@@ -1,0 +1,27 @@
+[
+  {
+    "source": "English-to-German base translation model",
+    "target": "statistical machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "English-to-German base translation model",
+    "target": "Self-training PCFG grammars with latent annotations across languages",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "English-to-German base translation model",
+    "target": "Effective approaches to attention-based neural machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "English-to-German base translation model",
+    "target": "Neural machine translation of rare words with subword units",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "English-to-German base translation model",
+    "target": "Grammar as a foreign language",
+    "relation": "prerequisite"
+  }
+]

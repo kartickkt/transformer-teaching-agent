@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Transformer",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer",
+    "target": "Transformer models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer",
+    "target": "sequence transduction models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer",
+    "target": "transduction problems",
+    "relation": "prerequisite"
+  }
+]

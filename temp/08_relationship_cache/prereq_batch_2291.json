@@ -1,0 +1,27 @@
+[
+  {
+    "source": "\u00e2\u02c6\u0161dmodel",
+    "target": "decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "\u00e2\u02c6\u0161dmodel",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "\u00e2\u02c6\u0161dmodel",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "\u00e2\u02c6\u0161dmodel",
+    "target": "sequence transduction models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "\u00e2\u02c6\u0161dmodel",
+    "target": "Transformer models",
+    "relation": "prerequisite"
+  }
+]

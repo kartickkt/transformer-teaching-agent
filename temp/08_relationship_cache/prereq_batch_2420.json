@@ -1,0 +1,27 @@
+[
+  {
+    "source": "RNNs",
+    "target": "gated recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "RNNs",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "RNNs",
+    "target": "Extended Neural GPU",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "RNNs",
+    "target": "Recurrent",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "RNNs",
+    "target": "GNMT + RL",
+    "relation": "prerequisite"
+  }
+]

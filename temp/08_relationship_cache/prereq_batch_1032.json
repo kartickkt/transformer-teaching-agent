@@ -1,0 +1,17 @@
+[
+  {
+    "source": "softmax function",
+    "target": "pre-softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "softmax function",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "softmax function",
+    "target": "point-wise feed-forward layer",
+    "relation": "prerequisite"
+  }
+]

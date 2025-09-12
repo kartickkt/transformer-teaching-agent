@@ -1,0 +1,1824 @@
+{
+  "nodes": [
+    {
+      "id": "tables"
+    },
+    {
+      "id": "figures"
+    },
+    {
+      "id": "network architecture"
+    },
+    {
+      "id": "recurrence"
+    },
+    {
+      "id": "quality"
+    },
+    {
+      "id": "significantly"
+    },
+    {
+      "id": "existing best results"
+    },
+    {
+      "id": "ensembles"
+    },
+    {
+      "id": "literature"
+    },
+    {
+      "id": "visualizations"
+    },
+    {
+      "id": "cs.CL"
+    },
+    {
+      "id": "symbol positions"
+    },
+    {
+      "id": "hidden"
+    },
+    {
+      "id": "previous hidden state ht\u00e2\u02c6\u20191"
+    },
+    {
+      "id": "input for position t"
+    },
+    {
+      "id": "sequential nature"
+    },
+    {
+      "id": "batching"
+    },
+    {
+      "id": "conditional computation"
+    },
+    {
+      "id": "global dependencies"
+    },
+    {
+      "id": "state of the art"
+    },
+    {
+      "id": "dependencies"
+    },
+    {
+      "id": "effective resolution"
+    },
+    {
+      "id": "representation of the sequence"
+    },
+    {
+      "id": "abstractive summarization"
+    },
+    {
+      "id": "symbol representations"
+    },
+    {
+      "id": "output"
+    },
+    {
+      "id": "auto-regressive"
+    },
+    {
+      "id": "point-wise"
+    },
+    {
+      "id": "stack"
+    },
+    {
+      "id": "simple, position-"
+    },
+    {
+      "id": "residual connection"
+    },
+    {
+      "id": "LayerNorm"
+    },
+    {
+      "id": "masking"
+    },
+    {
+      "id": "predictions"
+    },
+    {
+      "id": "position"
+    },
+    {
+      "id": "known outputs"
+    },
+    {
+      "id": "query"
+    },
+    {
+      "id": "key-value pairs"
+    },
+    {
+      "id": "vectors"
+    },
+    {
+      "id": "weighted sum"
+    },
+    {
+      "id": "compatibility function"
+    },
+    {
+      "id": "queries"
+    },
+    {
+      "id": "keys"
+    },
+    {
+      "id": "values"
+    },
+    {
+      "id": "dot products"
+    },
+    {
+      "id": "matrices K and V"
+    },
+    {
+      "id": "scaling"
+    },
+    {
+      "id": "gradients"
+    },
+    {
+      "id": "independent random variables"
+    },
+    {
+      "id": "mean"
+    },
+    {
+      "id": "variance"
+    },
+    {
+      "id": "dot product"
+    },
+    {
+      "id": "Concat(head1, ..., headh)WO"
+    },
+    {
+      "id": "Concat"
+    },
+    {
+      "id": "head1"
+    },
+    {
+      "id": "headh"
+    },
+    {
+      "id": "heads"
+    },
+    {
+      "id": "memory keys and values"
+    },
+    {
+      "id": "leftward"
+    },
+    {
+      "id": "information flow"
+    },
+    {
+      "id": "illegal connections"
+    },
+    {
+      "id": "fully"
+    },
+    {
+      "id": "parameters"
+    },
+    {
+      "id": "tokens"
+    },
+    {
+      "id": "output tokens"
+    },
+    {
+      "id": "weights"
+    },
+    {
+      "id": "Sequential"
+    },
+    {
+      "id": "order of the sequence"
+    },
+    {
+      "id": "sine functions"
+    },
+    {
+      "id": "cosine functions"
+    },
+    {
+      "id": "frequencies"
+    },
+    {
+      "id": "P E(pos,2i)"
+    },
+    {
+      "id": "pos"
+    },
+    {
+      "id": "sinusoid"
+    },
+    {
+      "id": "wavelengths"
+    },
+    {
+      "id": "geometric progression"
+    },
+    {
+      "id": "function"
+    },
+    {
+      "id": "relative positions"
+    },
+    {
+      "id": "P Epos+k"
+    },
+    {
+      "id": "linear function"
+    },
+    {
+      "id": "P Epos"
+    },
+    {
+      "id": "versions"
+    },
+    {
+      "id": "sinusoidal version"
+    },
+    {
+      "id": "convolu-"
+    },
+    {
+      "id": "sequence"
+    },
+    {
+      "id": "desiderata"
+    },
+    {
+      "id": "backward signals"
+    },
+    {
+      "id": "network"
+    },
+    {
+      "id": "long-range dependencies"
+    },
+    {
+      "id": "input positions"
+    },
+    {
+      "id": "output positions"
+    },
+    {
+      "id": "byte-pair"
+    },
+    {
+      "id": "tasks"
+    },
+    {
+      "id": "input"
+    },
+    {
+      "id": "dilated convolutions"
+    },
+    {
+      "id": "Training"
+    },
+    {
+      "id": "Hardware and Schedule"
+    },
+    {
+      "id": "hyperparameters"
+    },
+    {
+      "id": "step time"
+    },
+    {
+      "id": "Regularization"
+    },
+    {
+      "id": "normalized"
+    },
+    {
+      "id": "dropout"
+    },
+    {
+      "id": "Pdrop"
+    },
+    {
+      "id": "label smoothing"
+    },
+    {
+      "id": "\u00cf\u00b5ls"
+    },
+    {
+      "id": "perplexity"
+    },
+    {
+      "id": "accuracy"
+    },
+    {
+      "id": "dropout rate"
+    },
+    {
+      "id": "beam search"
+    },
+    {
+      "id": "training time"
+    },
+    {
+      "id": "P_drop"
+    },
+    {
+      "id": "train"
+    },
+    {
+      "id": "params"
+    },
+    {
+      "id": "development set"
+    },
+    {
+      "id": "checkpoint averaging"
+    },
+    {
+      "id": "attention key and value dimensions"
+    },
+    {
+      "id": "sinusoidal positional encoding"
+    },
+    {
+      "id": "structural challenges"
+    },
+    {
+      "id": "state-of-the-art results"
+    },
+    {
+      "id": "vocabulary"
+    },
+    {
+      "id": "residual"
+    },
+    {
+      "id": "inference"
+    },
+    {
+      "id": "discriminative"
+    },
+    {
+      "id": "generative"
+    },
+    {
+      "id": "task-specific tuning"
+    },
+    {
+      "id": "input and output modalities"
+    },
+    {
+      "id": "images"
+    },
+    {
+      "id": "audio"
+    },
+    {
+      "id": "video"
+    },
+    {
+      "id": "research goals"
+    },
+    {
+      "id": "code"
+    },
+    {
+      "id": "evaluate"
+    },
+    {
+      "id": "comments"
+    },
+    {
+      "id": "corrections"
+    },
+    {
+      "id": "inspiration"
+    },
+    {
+      "id": "References"
+    },
+    {
+      "id": "align and translate"
+    },
+    {
+      "id": "machine reading"
+    },
+    {
+      "id": "Xception"
+    },
+    {
+      "id": "empirical evaluation"
+    },
+    {
+      "id": "Recognition"
+    },
+    {
+      "id": "algorithms"
+    },
+    {
+      "id": "linear time"
+    },
+    {
+      "id": "stochastic optimization"
+    },
+    {
+      "id": "parsing"
+    },
+    {
+      "id": "tree annotation"
+    },
+    {
+      "id": "ACL"
+    },
+    {
+      "id": "preprint"
+    },
+    {
+      "id": "inception architecture"
+    },
+    {
+      "id": "CoRR"
+    },
+    {
+      "id": "fast-forward connections"
+    },
+    {
+      "id": "pages 434\u00e2\u20ac\u201c443"
+    },
+    {
+      "id": "laws"
+    },
+    {
+      "id": "registration"
+    },
+    {
+      "id": "voting process"
+    },
+    {
+      "id": "verb \u00e2\u20ac\u02dcmaking\u00e2\u20ac\u2122"
+    },
+    {
+      "id": "phrase \u00e2\u20ac\u02dcmaking...more difficult\u00e2\u20ac\u2122"
+    },
+    {
+      "id": "anaphora resolution"
+    },
+    {
+      "id": "application"
+    },
+    {
+      "id": "convolutional neural networks"
+    },
+    {
+      "id": "encoder"
+    },
+    {
+      "id": "decoder"
+    },
+    {
+      "id": "convolutions"
+    },
+    {
+      "id": "limited training data"
+    },
+    {
+      "id": "parameter-free position representation"
+    },
+    {
+      "id": "tensor2tensor"
+    },
+    {
+      "id": "efficient inference"
+    },
+    {
+      "id": "encoder-decoder architectures"
+    },
+    {
+      "id": "input sequences"
+    },
+    {
+      "id": "output sequences"
+    },
+    {
+      "id": "ConvS2S"
+    },
+    {
+      "id": "hidden representations"
+    },
+    {
+      "id": "learning task-independent sentence representations"
+    },
+    {
+      "id": "end-to-end memory networks"
+    },
+    {
+      "id": "continuous representations"
+    },
+    {
+      "id": "connected layers"
+    },
+    {
+      "id": "fully connected feed-forward network"
+    },
+    {
+      "id": "layer normalization"
+    },
+    {
+      "id": "embedding"
+    },
+    {
+      "id": "encoder stack"
+    },
+    {
+      "id": "output embeddings"
+    },
+    {
+      "id": "softmax function"
+    },
+    {
+      "id": "softmax"
+    },
+    {
+      "id": "feed-forward network"
+    },
+    {
+      "id": "single hidden layer"
+    },
+    {
+      "id": "learned linear projections"
+    },
+    {
+      "id": "encoder-decoder attention"
+    },
+    {
+      "id": "decoder layer"
+    },
+    {
+      "id": "sequence-to-sequence models"
+    },
+    {
+      "id": "Position-wise Feed-Forward Networks"
+    },
+    {
+      "id": "ReLU activation"
+    },
+    {
+      "id": "Embeddings"
+    },
+    {
+      "id": "learned embeddings"
+    },
+    {
+      "id": "decoder output"
+    },
+    {
+      "id": "predicted next-token probabilities"
+    },
+    {
+      "id": "embedding layers"
+    },
+    {
+      "id": "pre-softmax"
+    },
+    {
+      "id": "Positional Encoding"
+    },
+    {
+      "id": "decoder stacks"
+    },
+    {
+      "id": "hidden layer"
+    },
+    {
+      "id": "recurrent layer"
+    },
+    {
+      "id": "convolutional layer"
+    },
+    {
+      "id": "Separable convolutions"
+    },
+    {
+      "id": "point-wise feed-forward layer"
+    },
+    {
+      "id": "learning rate"
+    },
+    {
+      "id": "Deep-Att + PosUnk Ensemble"
+    },
+    {
+      "id": "ConvS2S Ensemble"
+    },
+    {
+      "id": "Residual Dropout"
+    },
+    {
+      "id": "positional embedding"
+    },
+    {
+      "id": "over-fitting"
+    },
+    {
+      "id": "semi-supervised setting"
+    },
+    {
+      "id": "previously reported ensembles"
+    },
+    {
+      "id": "tensorflow"
+    },
+    {
+      "id": "learning phrase representations"
+    },
+    {
+      "id": "rnn encoder-decoder"
+    },
+    {
+      "id": "deep learning"
+    },
+    {
+      "id": "Convolutional sequence to sequence learning"
+    },
+    {
+      "id": "Deep residual learning"
+    },
+    {
+      "id": "image recognition"
+    },
+    {
+      "id": "International Conference on Learning Representations"
+    },
+    {
+      "id": "Learning Representations"
+    },
+    {
+      "id": "Factorization tricks for LSTM networks"
+    },
+    {
+      "id": "structured self-attentive sentence embedding"
+    },
+    {
+      "id": "Multi-task sequence to sequence learning"
+    },
+    {
+      "id": "self-training"
+    },
+    {
+      "id": "deep reinforced model for abstractive summarization"
+    },
+    {
+      "id": "sparsely-gated mixture-of-experts"
+    },
+    {
+      "id": "Input-Input Layer5"
+    },
+    {
+      "id": "sequence transduction models"
+    },
+    {
+      "id": "Transformer"
+    },
+    {
+      "id": "Transformer models"
+    },
+    {
+      "id": "transduction problems"
+    },
+    {
+      "id": "transduc"
+    },
+    {
+      "id": "linear transformations"
+    },
+    {
+      "id": "learned linear transformation"
+    },
+    {
+      "id": "sequence transduction encoder"
+    },
+    {
+      "id": "sequence transduction tasks"
+    },
+    {
+      "id": "forward signals"
+    },
+    {
+      "id": "Transformer (base model)"
+    },
+    {
+      "id": "Transformer (big)"
+    },
+    {
+      "id": "big transformer model"
+    },
+    {
+      "id": "Transformer architecture"
+    },
+    {
+      "id": "4-layer transformer"
+    },
+    {
+      "id": "Attention Is All You Need"
+    },
+    {
+      "id": "attention mechanism"
+    },
+    {
+      "id": "self-attention"
+    },
+    {
+      "id": "scaled dot-product attention"
+    },
+    {
+      "id": "multi-head attention"
+    },
+    {
+      "id": "long short-term memory"
+    },
+    {
+      "id": "averaging attention-weighted positions"
+    },
+    {
+      "id": "intra-attention"
+    },
+    {
+      "id": "recurrent attention mechanism"
+    },
+    {
+      "id": "sub-layers"
+    },
+    {
+      "id": "self-attention sub-layer"
+    },
+    {
+      "id": "attention function"
+    },
+    {
+      "id": "attention layers"
+    },
+    {
+      "id": "Attention(Q, K, V)"
+    },
+    {
+      "id": "additive attention"
+    },
+    {
+      "id": "dot-product attention"
+    },
+    {
+      "id": "single attention head"
+    },
+    {
+      "id": "MultiHead"
+    },
+    {
+      "id": "Attention"
+    },
+    {
+      "id": "parallel attention layers"
+    },
+    {
+      "id": "previous layer"
+    },
+    {
+      "id": "restricted self-attention"
+    },
+    {
+      "id": "attention distributions"
+    },
+    {
+      "id": "sub-layer input"
+    },
+    {
+      "id": "attention heads"
+    },
+    {
+      "id": "multi-task"
+    },
+    {
+      "id": "attention-based models"
+    },
+    {
+      "id": "local, restricted attention mechanisms"
+    },
+    {
+      "id": "active memory"
+    },
+    {
+      "id": "Structured attention networks"
+    },
+    {
+      "id": "decomposable attention model"
+    },
+    {
+      "id": "encoder self-attention"
+    },
+    {
+      "id": "layer 5"
+    },
+    {
+      "id": "parallelizable"
+    },
+    {
+      "id": "eight GPUs"
+    },
+    {
+      "id": "original codebase"
+    },
+    {
+      "id": "computation"
+    },
+    {
+      "id": "computation time"
+    },
+    {
+      "id": "parallelization"
+    },
+    {
+      "id": "sequence lengths"
+    },
+    {
+      "id": "memory constraints"
+    },
+    {
+      "id": "computational efficiency"
+    },
+    {
+      "id": "factorization tricks"
+    },
+    {
+      "id": "sequential computation"
+    },
+    {
+      "id": "eight P100 GPUs"
+    },
+    {
+      "id": "ByteNet"
+    },
+    {
+      "id": "distance between positions"
+    },
+    {
+      "id": "number of operations"
+    },
+    {
+      "id": "sequence-aligned recurrence"
+    },
+    {
+      "id": "N = 6 identical layers"
+    },
+    {
+      "id": "scaling factor"
+    },
+    {
+      "id": "theoretical complexity"
+    },
+    {
+      "id": "space-efficient"
+    },
+    {
+      "id": "matrix multiplication code"
+    },
+    {
+      "id": "kernel size 1"
+    },
+    {
+      "id": "512"
+    },
+    {
+      "id": "2048"
+    },
+    {
+      "id": "maximum path lengths"
+    },
+    {
+      "id": "per-layer complexity"
+    },
+    {
+      "id": "minimum number of sequential operations"
+    },
+    {
+      "id": "size of the neighborhood"
+    },
+    {
+      "id": "Layer Type Complexity"
+    },
+    {
+      "id": "fixed offset k"
+    },
+    {
+      "id": "total computational complexity per layer"
+    },
+    {
+      "id": "amount of computation that can be parallelized"
+    },
+    {
+      "id": "path length between long-range dependencies in the network"
+    },
+    {
+      "id": "length of the paths"
+    },
+    {
+      "id": "constant number of sequentially executed operations"
+    },
+    {
+      "id": "O(n) sequential operations"
+    },
+    {
+      "id": "computational complexity"
+    },
+    {
+      "id": "sequence length n"
+    },
+    {
+      "id": "computational performance"
+    },
+    {
+      "id": "neighborhood of size r"
+    },
+    {
+      "id": "O(n/r)"
+    },
+    {
+      "id": "kernel width k"
+    },
+    {
+      "id": "O(logk(n))"
+    },
+    {
+      "id": "37000 tokens"
+    },
+    {
+      "id": "25000 source tokens"
+    },
+    {
+      "id": "25000 target tokens"
+    },
+    {
+      "id": "100,000 steps"
+    },
+    {
+      "id": "step_num\u00e2\u02c6\u20190.5"
+    },
+    {
+      "id": "warmup_steps\u00e2\u02c6\u20191.5"
+    },
+    {
+      "id": "FLOPs"
+    },
+    {
+      "id": "averaging the last 5 checkpoints"
+    },
+    {
+      "id": "length penalty"
+    },
+    {
+      "id": "maximum output length"
+    },
+    {
+      "id": "input length"
+    },
+    {
+      "id": "floating point operations"
+    },
+    {
+      "id": "number of GPUs"
+    },
+    {
+      "id": "sustained single-precision floating-point capacity"
+    },
+    {
+      "id": "TFLOPS"
+    },
+    {
+      "id": "1024"
+    },
+    {
+      "id": "attention key size dk"
+    },
+    {
+      "id": "16K tokens"
+    },
+    {
+      "id": "large inputs and outputs"
+    },
+    {
+      "id": "models"
+    },
+    {
+      "id": "training costs"
+    },
+    {
+      "id": "best models"
+    },
+    {
+      "id": "large training data"
+    },
+    {
+      "id": "model variants"
+    },
+    {
+      "id": "sequence modeling"
+    },
+    {
+      "id": "language modeling"
+    },
+    {
+      "id": "training examples"
+    },
+    {
+      "id": "model performance"
+    },
+    {
+      "id": "model architecture"
+    },
+    {
+      "id": "dimension dk"
+    },
+    {
+      "id": "matrix Q"
+    },
+    {
+      "id": "dmodel-dimensional keys"
+    },
+    {
+      "id": "parameter matrices"
+    },
+    {
+      "id": "dmodel"
+    },
+    {
+      "id": "dimensionality"
+    },
+    {
+      "id": "vectors of dimension dmodel"
+    },
+    {
+      "id": "weight matrix"
+    },
+    {
+      "id": "\u00e2\u02c6\u0161dmodel"
+    },
+    {
+      "id": "layer types"
+    },
+    {
+      "id": "representation dimension"
+    },
+    {
+      "id": "dimension dmodel"
+    },
+    {
+      "id": "dimension"
+    },
+    {
+      "id": "state-of-the-art models"
+    },
+    {
+      "id": "Training Data"
+    },
+    {
+      "id": "training batch"
+    },
+    {
+      "id": "base models"
+    },
+    {
+      "id": "big models"
+    },
+    {
+      "id": "single model"
+    },
+    {
+      "id": "model quality"
+    },
+    {
+      "id": "dmodel = 1024"
+    },
+    {
+      "id": "Google Brain"
+    },
+    {
+      "id": "Google Research"
+    },
+    {
+      "id": "complex recurrent neural networks"
+    },
+    {
+      "id": "RNNs"
+    },
+    {
+      "id": "31st Conference on Neural Information Processing Systems (NIPS 2017)"
+    },
+    {
+      "id": "arXiv:1706.03762v7"
+    },
+    {
+      "id": "gated recurrent neural networks"
+    },
+    {
+      "id": "recurrent language models"
+    },
+    {
+      "id": "Extended Neural GPU"
+    },
+    {
+      "id": "Recurrent"
+    },
+    {
+      "id": "GNMT + RL"
+    },
+    {
+      "id": "RNN sequence-to-sequence models"
+    },
+    {
+      "id": "Recurrent Neural Network Grammar"
+    },
+    {
+      "id": "neural machine translation architectures"
+    },
+    {
+      "id": "Long short-term memory-networks"
+    },
+    {
+      "id": "NAACL"
+    },
+    {
+      "id": "arXiv"
+    },
+    {
+      "id": "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition"
+    },
+    {
+      "id": "Gradient flow in recurrent nets"
+    },
+    {
+      "id": "Neural computation"
+    },
+    {
+      "id": "Advances in Neural Information Processing Systems"
+    },
+    {
+      "id": "Outrageously large neural networks"
+    },
+    {
+      "id": "neural networks"
+    },
+    {
+      "id": "Journal of Machine Learning Research"
+    },
+    {
+      "id": "Sequence to sequence learning with neural networks"
+    },
+    {
+      "id": "computer vision"
+    },
+    {
+      "id": "Deep recurrent models"
+    },
+    {
+      "id": "machine translation tasks"
+    },
+    {
+      "id": "WMT 2014 English-to-German translation task"
+    },
+    {
+      "id": "28.4 BLEU"
+    },
+    {
+      "id": "WMT 2014 English-to-French translation task"
+    },
+    {
+      "id": "English constituency parsing"
+    },
+    {
+      "id": "translation quality"
+    },
+    {
+      "id": "reading comprehension"
+    },
+    {
+      "id": "textual entailment"
+    },
+    {
+      "id": "simple-language question answering"
+    },
+    {
+      "id": "sentence representations"
+    },
+    {
+      "id": "word-piece"
+    },
+    {
+      "id": "4.5 million sentence pairs"
+    },
+    {
+      "id": "shared source-target vocabulary"
+    },
+    {
+      "id": "2014 English-French dataset"
+    },
+    {
+      "id": "36M sentences"
+    },
+    {
+      "id": "32000 word-piece vocabulary"
+    },
+    {
+      "id": "sentence pairs"
+    },
+    {
+      "id": "English-to-German"
+    },
+    {
+      "id": "English-to-French"
+    },
+    {
+      "id": "per-wordpiece"
+    },
+    {
+      "id": "per-word perplexities"
+    },
+    {
+      "id": "Penn Treebank"
+    },
+    {
+      "id": "BerkleyParser corpora"
+    },
+    {
+      "id": "17M sentences"
+    },
+    {
+      "id": "English-to-German base translation model"
+    },
+    {
+      "id": "Parser Training"
+    },
+    {
+      "id": "statistical machine translation"
+    },
+    {
+      "id": "Self-training PCFG grammars with latent annotations across languages"
+    },
+    {
+      "id": "2009 Conference on Empirical Methods in Natural Language Processing"
+    },
+    {
+      "id": "Effective approaches to attention-based neural machine translation"
+    },
+    {
+      "id": "Computational linguistics"
+    },
+    {
+      "id": "Human Language Technology Conference"
+    },
+    {
+      "id": "Empirical Methods in Natural Language Processing"
+    },
+    {
+      "id": "21st International Conference on Computational Linguistics"
+    },
+    {
+      "id": "Neural machine translation of rare words with subword units"
+    },
+    {
+      "id": "Grammar as a foreign language"
+    },
+    {
+      "id": "Google\u00e2\u20ac\u2122s neural machine translation system"
+    },
+    {
+      "id": "human and machine translation"
+    },
+    {
+      "id": "fast and accurate shift-reduce constituent parsing"
+    },
+    {
+      "id": "Proceedings of the 51st Annual Meeting of the ACL"
+    }
+  ],
+  "edges": [
+    {
+      "source": "symbol positions",
+      "target": "symbol representations",
+      "weight": 0.7945714884163622
+    },
+    {
+      "source": "global dependencies",
+      "target": "long-range dependencies",
+      "weight": 0.7075865550033401
+    },
+    {
+      "source": "abstractive summarization",
+      "target": "deep reinforced model for abstractive summarization",
+      "weight": 0.7744161148034691
+    },
+    {
+      "source": "residual connection",
+      "target": "residual",
+      "weight": 0.7325738741941421
+    },
+    {
+      "source": "query",
+      "target": "queries",
+      "weight": 0.7828529526813144
+    },
+    {
+      "source": "dot products",
+      "target": "dot product",
+      "weight": 0.7186921529310283
+    },
+    {
+      "source": "dot product",
+      "target": "dot-product attention",
+      "weight": 0.7624691281966315
+    },
+    {
+      "source": "parameters",
+      "target": "params",
+      "weight": 0.7891316425505459
+    },
+    {
+      "source": "Sequential",
+      "target": "sequence",
+      "weight": 0.7374948113121842
+    },
+    {
+      "source": "sinusoid",
+      "target": "sinusoidal version",
+      "weight": 0.7922516210134606
+    },
+    {
+      "source": "P Epos+k",
+      "target": "P Epos",
+      "weight": 0.773453499760603
+    },
+    {
+      "source": "backward signals",
+      "target": "forward signals",
+      "weight": 0.7790844280313673
+    },
+    {
+      "source": "long-range dependencies",
+      "target": "path length between long-range dependencies in the network",
+      "weight": 0.7353103013533756
+    },
+    {
+      "source": "Pdrop",
+      "target": "P_drop",
+      "weight": 0.7228572209851933
+    },
+    {
+      "source": "convolutional neural networks",
+      "target": "convolutional layer",
+      "weight": 0.7785320666435628
+    },
+    {
+      "source": "encoder",
+      "target": "decoder",
+      "weight": 0.713056684775896
+    },
+    {
+      "source": "limited training data",
+      "target": "large training data",
+      "weight": 0.7961237189225011
+    },
+    {
+      "source": "encoder-decoder architectures",
+      "target": "encoder-decoder attention",
+      "weight": 0.7424753099756749
+    },
+    {
+      "source": "input sequences",
+      "target": "output sequences",
+      "weight": 0.7646568387429062
+    },
+    {
+      "source": "ConvS2S",
+      "target": "ConvS2S Ensemble",
+      "weight": 0.7970117621148449
+    },
+    {
+      "source": "learning task-independent sentence representations",
+      "target": "learning phrase representations",
+      "weight": 0.7284302559789374
+    },
+    {
+      "source": "end-to-end memory networks",
+      "target": "Long short-term memory-networks",
+      "weight": 0.700944016422204
+    },
+    {
+      "source": "connected layers",
+      "target": "embedding layers",
+      "weight": 0.7482130477917255
+    },
+    {
+      "source": "connected layers",
+      "target": "hidden layer",
+      "weight": 0.7079850901680569
+    },
+    {
+      "source": "connected layers",
+      "target": "sub-layers",
+      "weight": 0.7076546233354603
+    },
+    {
+      "source": "connected layers",
+      "target": "layer types",
+      "weight": 0.7085173311355205
+    },
+    {
+      "source": "fully connected feed-forward network",
+      "target": "feed-forward network",
+      "weight": 0.7742262415608823
+    },
+    {
+      "source": "fully connected feed-forward network",
+      "target": "Position-wise Feed-Forward Networks",
+      "weight": 0.7475850240109694
+    },
+    {
+      "source": "fully connected feed-forward network",
+      "target": "point-wise feed-forward layer",
+      "weight": 0.7329471990028015
+    },
+    {
+      "source": "encoder stack",
+      "target": "decoder stacks",
+      "weight": 0.7544621003133348
+    },
+    {
+      "source": "output embeddings",
+      "target": "learned embeddings",
+      "weight": 0.7032164385594023
+    },
+    {
+      "source": "single hidden layer",
+      "target": "hidden layer",
+      "weight": 0.7967990942155571
+    },
+    {
+      "source": "learned linear projections",
+      "target": "learned linear transformation",
+      "weight": 0.7596275408177634
+    },
+    {
+      "source": "decoder layer",
+      "target": "embedding layers",
+      "weight": 0.7201459277791578
+    },
+    {
+      "source": "decoder layer",
+      "target": "hidden layer",
+      "weight": 0.706616709440602
+    },
+    {
+      "source": "sequence-to-sequence models",
+      "target": "RNN sequence-to-sequence models",
+      "weight": 0.7734286915395278
+    },
+    {
+      "source": "Position-wise Feed-Forward Networks",
+      "target": "point-wise feed-forward layer",
+      "weight": 0.7556716912950248
+    },
+    {
+      "source": "embedding layers",
+      "target": "hidden layer",
+      "weight": 0.764119642849281
+    },
+    {
+      "source": "Positional Encoding",
+      "target": "positional embedding",
+      "weight": 0.7188422503657879
+    },
+    {
+      "source": "hidden layer",
+      "target": "previous layer",
+      "weight": 0.7026292138832558
+    },
+    {
+      "source": "deep learning",
+      "target": "Deep residual learning",
+      "weight": 0.743656633469625
+    },
+    {
+      "source": "Convolutional sequence to sequence learning",
+      "target": "Multi-task sequence to sequence learning",
+      "weight": 0.7173971589256334
+    },
+    {
+      "source": "Deep residual learning",
+      "target": "Deep recurrent models",
+      "weight": 0.7557787506772813
+    },
+    {
+      "source": "Input-Input Layer5",
+      "target": "sub-layer input",
+      "weight": 0.726417825136148
+    },
+    {
+      "source": "sequence transduction models",
+      "target": "sequence transduction tasks",
+      "weight": 0.7954712597298987
+    },
+    {
+      "source": "Transformer",
+      "target": "Transformer (big)",
+      "weight": 0.7254189211614082
+    },
+    {
+      "source": "Transformer models",
+      "target": "Transformer (base model)",
+      "weight": 0.7539086667015604
+    },
+    {
+      "source": "Transformer models",
+      "target": "big transformer model",
+      "weight": 0.7017279130317885
+    },
+    {
+      "source": "Transformer models",
+      "target": "Transformer architecture",
+      "weight": 0.7023704565171094
+    },
+    {
+      "source": "linear transformations",
+      "target": "learned linear transformation",
+      "weight": 0.7146550845769619
+    },
+    {
+      "source": "sequence transduction encoder",
+      "target": "sequence transduction tasks",
+      "weight": 0.7222871321914355
+    },
+    {
+      "source": "Transformer (base model)",
+      "target": "Transformer (big)",
+      "weight": 0.7071123458572794
+    },
+    {
+      "source": "Transformer (base model)",
+      "target": "big transformer model",
+      "weight": 0.7011179350594141
+    },
+    {
+      "source": "attention mechanism",
+      "target": "attention function",
+      "weight": 0.7709426599707979
+    },
+    {
+      "source": "self-attention",
+      "target": "intra-attention",
+      "weight": 0.7163029002956914
+    },
+    {
+      "source": "self-attention",
+      "target": "self-attention sub-layer",
+      "weight": 0.7722435056410828
+    },
+    {
+      "source": "self-attention",
+      "target": "restricted self-attention",
+      "weight": 0.7868393028090948
+    },
+    {
+      "source": "scaled dot-product attention",
+      "target": "dot-product attention",
+      "weight": 0.7800820768286556
+    },
+    {
+      "source": "long short-term memory",
+      "target": "Long short-term memory-networks",
+      "weight": 0.7174921991134184
+    },
+    {
+      "source": "self-attention sub-layer",
+      "target": "restricted self-attention",
+      "weight": 0.7032302708024591
+    },
+    {
+      "source": "parallelizable",
+      "target": "parallelization",
+      "weight": 0.7125137899887589
+    },
+    {
+      "source": "eight GPUs",
+      "target": "eight P100 GPUs",
+      "weight": 0.791381036783475
+    },
+    {
+      "source": "eight GPUs",
+      "target": "number of GPUs",
+      "weight": 0.7659267144135472
+    },
+    {
+      "source": "computation",
+      "target": "computation time",
+      "weight": 0.7408254188394079
+    },
+    {
+      "source": "sequence lengths",
+      "target": "sequence length n",
+      "weight": 0.7355863781988496
+    },
+    {
+      "source": "computational efficiency",
+      "target": "computational complexity",
+      "weight": 0.7305521329831087
+    },
+    {
+      "source": "computational efficiency",
+      "target": "computational performance",
+      "weight": 0.7924787289616904
+    },
+    {
+      "source": "eight P100 GPUs",
+      "target": "number of GPUs",
+      "weight": 0.7056688234641122
+    },
+    {
+      "source": "number of operations",
+      "target": "minimum number of sequential operations",
+      "weight": 0.72978263108158
+    },
+    {
+      "source": "number of operations",
+      "target": "constant number of sequentially executed operations",
+      "weight": 0.7215593104286229
+    },
+    {
+      "source": "2048",
+      "target": "1024",
+      "weight": 0.7487348812569278
+    },
+    {
+      "source": "maximum path lengths",
+      "target": "length of the paths",
+      "weight": 0.7393914957218353
+    },
+    {
+      "source": "per-layer complexity",
+      "target": "total computational complexity per layer",
+      "weight": 0.7519400050406052
+    },
+    {
+      "source": "minimum number of sequential operations",
+      "target": "constant number of sequentially executed operations",
+      "weight": 0.7851343437148354
+    },
+    {
+      "source": "minimum number of sequential operations",
+      "target": "O(n) sequential operations",
+      "weight": 0.7179997607101364
+    },
+    {
+      "source": "size of the neighborhood",
+      "target": "neighborhood of size r",
+      "weight": 0.7115891270621468
+    },
+    {
+      "source": "Layer Type Complexity",
+      "target": "layer types",
+      "weight": 0.7492192215966229
+    },
+    {
+      "source": "computational complexity",
+      "target": "computational performance",
+      "weight": 0.7008133813169299
+    },
+    {
+      "source": "37000 tokens",
+      "target": "25000 source tokens",
+      "weight": 0.7963737539574395
+    },
+    {
+      "source": "37000 tokens",
+      "target": "25000 target tokens",
+      "weight": 0.7806798439267706
+    },
+    {
+      "source": "37000 tokens",
+      "target": "16K tokens",
+      "weight": 0.7887968218150271
+    },
+    {
+      "source": "25000 source tokens",
+      "target": "25000 target tokens",
+      "weight": 0.7687723991613075
+    },
+    {
+      "source": "25000 source tokens",
+      "target": "16K tokens",
+      "weight": 0.717655169676773
+    },
+    {
+      "source": "FLOPs",
+      "target": "TFLOPS",
+      "weight": 0.7709613144187948
+    },
+    {
+      "source": "best models",
+      "target": "state-of-the-art models",
+      "weight": 0.7095857682345711
+    },
+    {
+      "source": "best models",
+      "target": "big models",
+      "weight": 0.7765849151608066
+    },
+    {
+      "source": "model variants",
+      "target": "model quality",
+      "weight": 0.7030323400449621
+    },
+    {
+      "source": "sequence modeling",
+      "target": "language modeling",
+      "weight": 0.7496329453602724
+    },
+    {
+      "source": "model performance",
+      "target": "model quality",
+      "weight": 0.796591610000376
+    },
+    {
+      "source": "dmodel",
+      "target": "\u00e2\u02c6\u0161dmodel",
+      "weight": 0.7350125723650854
+    },
+    {
+      "source": "dmodel",
+      "target": "dimension dmodel",
+      "weight": 0.7374939616113905
+    },
+    {
+      "source": "dmodel",
+      "target": "dmodel = 1024",
+      "weight": 0.712016782731131
+    },
+    {
+      "source": "complex recurrent neural networks",
+      "target": "gated recurrent neural networks",
+      "weight": 0.7989487443389006
+    },
+    {
+      "source": "complex recurrent neural networks",
+      "target": "Deep recurrent models",
+      "weight": 0.728084138895479
+    },
+    {
+      "source": "RNNs",
+      "target": "RNN sequence-to-sequence models",
+      "weight": 0.7415149560937279
+    },
+    {
+      "source": "arXiv:1706.03762v7",
+      "target": "arXiv",
+      "weight": 0.7559134588784824
+    },
+    {
+      "source": "machine translation tasks",
+      "target": "human and machine translation",
+      "weight": 0.7440283881806578
+    },
+    {
+      "source": "WMT 2014 English-to-German translation task",
+      "target": "WMT 2014 English-to-French translation task",
+      "weight": 0.7849078299931966
+    },
+    {
+      "source": "word-piece",
+      "target": "per-wordpiece",
+      "weight": 0.7864080275558984
+    },
+    {
+      "source": "statistical machine translation",
+      "target": "human and machine translation",
+      "weight": 0.7160186304565661
+    },
+    {
+      "source": "2009 Conference on Empirical Methods in Natural Language Processing",
+      "target": "Empirical Methods in Natural Language Processing",
+      "weight": 0.7396716904333787
+    },
+    {
+      "source": "Computational linguistics",
+      "target": "21st International Conference on Computational Linguistics",
+      "weight": 0.7097998849107515
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+[
+  {
+    "source": "learning phrase representations",
+    "target": "rnn encoder-decoder",
+    "relation": "prerequisite"
+  }
+]

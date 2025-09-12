@@ -1,0 +1,27 @@
+[
+  {
+    "source": "layer normalization",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer normalization",
+    "target": "dimensionality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer normalization",
+    "target": "weight matrix",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer normalization",
+    "target": "layer types",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer normalization",
+    "target": "base models",
+    "relation": "prerequisite"
+  }
+]

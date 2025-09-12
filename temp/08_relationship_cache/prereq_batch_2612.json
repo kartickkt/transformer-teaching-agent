@@ -1,0 +1,17 @@
+[
+  {
+    "source": "machine translation tasks",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "machine translation tasks",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "machine translation tasks",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  }
+]

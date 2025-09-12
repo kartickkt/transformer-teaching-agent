@@ -1,0 +1,27 @@
+[
+  {
+    "source": "dot products",
+    "target": "dot product",
+    "relation": "example_of"
+  },
+  {
+    "source": "dot product",
+    "target": "dot-product attention",
+    "relation": "related_topic"
+  },
+  {
+    "source": "parameters",
+    "target": "params",
+    "relation": "example_of"
+  },
+  {
+    "source": "Sequential",
+    "target": "sequence",
+    "relation": "related_topic"
+  },
+  {
+    "source": "sinusoid",
+    "target": "sinusoidal version",
+    "relation": "related_topic"
+  }
+]

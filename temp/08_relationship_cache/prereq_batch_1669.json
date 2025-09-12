@@ -1,0 +1,22 @@
+[
+  {
+    "source": "attention layers",
+    "target": "multi-head attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention layers",
+    "target": "intra-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention layers",
+    "target": "recurrent attention mechanism",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention layers",
+    "target": "sub-layers",
+    "relation": "prerequisite"
+  }
+]

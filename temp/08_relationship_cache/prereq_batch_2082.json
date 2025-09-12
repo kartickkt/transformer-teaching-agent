@@ -1,0 +1,12 @@
+[
+  {
+    "source": "FLOPs",
+    "target": "number of operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "FLOPs",
+    "target": "O(n) sequential operations",
+    "relation": "prerequisite"
+  }
+]

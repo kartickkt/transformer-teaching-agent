@@ -1,0 +1,22 @@
+[
+  {
+    "source": "single model",
+    "target": "dmodel = 1024",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single model",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single model",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model quality",
+    "target": "quality",
+    "relation": "prerequisite"
+  }
+]

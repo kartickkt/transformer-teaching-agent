@@ -1,0 +1,17 @@
+[
+  {
+    "source": "vectors of dimension dmodel",
+    "target": "learned linear projections",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "vectors of dimension dmodel",
+    "target": "linear transformations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "vectors of dimension dmodel",
+    "target": "learned linear transformation",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "encoder self-attention",
+    "target": "Attention Is All You Need",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder self-attention",
+    "target": "self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder self-attention",
+    "target": "attention mechanism",
+    "relation": "prerequisite"
+  }
+]

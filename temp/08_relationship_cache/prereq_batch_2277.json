@@ -1,0 +1,17 @@
+[
+  {
+    "source": "dimensionality",
+    "target": "dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimensionality",
+    "target": "dmodel = 1024",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "vectors of dimension dmodel",
+    "target": "input for position t",
+    "relation": "prerequisite"
+  }
+]

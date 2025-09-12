@@ -1,0 +1,27 @@
+[
+  {
+    "source": "tokens",
+    "target": "key-value pairs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tokens",
+    "target": "vectors",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tokens",
+    "target": "queries",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tokens",
+    "target": "keys",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tokens",
+    "target": "values",
+    "relation": "prerequisite"
+  }
+]

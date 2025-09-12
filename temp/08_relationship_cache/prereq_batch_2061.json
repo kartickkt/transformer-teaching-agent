@@ -1,0 +1,27 @@
+[
+  {
+    "source": "O(n/r)",
+    "target": "computational complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "O(n/r)",
+    "target": "sequence length n",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "O(n/r)",
+    "target": "neighborhood of size r",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "O(n/r)",
+    "target": "O(logk(n))",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "kernel width k",
+    "target": "matrices K and V",
+    "relation": "prerequisite"
+  }
+]

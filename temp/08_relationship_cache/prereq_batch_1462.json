@@ -1,0 +1,22 @@
+[
+  {
+    "source": "self-training",
+    "target": "statistical machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-training",
+    "target": "Self-training PCFG grammars with latent annotations across languages",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-training",
+    "target": "human and machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep reinforced model for abstractive summarization",
+    "target": "abstractive summarization",
+    "relation": "prerequisite"
+  }
+]

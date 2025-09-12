@@ -1,0 +1,12 @@
+[
+  {
+    "source": "output embeddings",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output embeddings",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  }
+]

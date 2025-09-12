@@ -1,0 +1,17 @@
+[
+  {
+    "source": "encoder",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder",
+    "target": "sequence transduction encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  }
+]

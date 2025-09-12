@@ -1,0 +1,27 @@
+[
+  {
+    "source": "language modeling",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "best models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "model variants",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "training examples",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "positional embedding",
+    "target": "input for position t",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "positional embedding",
+    "target": "simple, position-",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "positional embedding",
+    "target": "position",
+    "relation": "prerequisite"
+  }
+]

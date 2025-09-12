@@ -1,0 +1,27 @@
+[
+  {
+    "source": "deep learning",
+    "target": "layer normalization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "softmax function",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "connected layers",
+    "target": "global dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "connected layers",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "connected layers",
+    "target": "residual connection",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "connected layers",
+    "target": "LayerNorm",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "connected layers",
+    "target": "gradients",
+    "relation": "prerequisite"
+  }
+]

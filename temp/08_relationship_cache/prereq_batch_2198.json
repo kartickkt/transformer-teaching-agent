@@ -1,0 +1,22 @@
+[
+  {
+    "source": "language modeling",
+    "target": "softmax function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "learned linear projections",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "models",
+    "target": "output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "predictions",
+    "relation": "prerequisite"
+  }
+]

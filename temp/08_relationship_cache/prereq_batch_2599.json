@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Deep recurrent models",
+    "target": "Deep-Att + PosUnk Ensemble",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Deep recurrent models",
+    "target": "Residual Dropout",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Deep recurrent models",
+    "target": "semi-supervised setting",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Deep recurrent models",
+    "target": "learning phrase representations",
+    "relation": "prerequisite"
+  }
+]

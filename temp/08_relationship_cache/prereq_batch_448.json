@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence",
+    "target": "quality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "ensembles",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "symbol positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "sequential nature",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "batching",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Transformer",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer",
+    "target": "Sequential",
+    "relation": "prerequisite"
+  }
+]

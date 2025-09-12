@@ -1,0 +1,27 @@
+[
+  {
+    "source": "efficient inference",
+    "target": "sparsely-gated mixture-of-experts",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "efficient inference",
+    "target": "computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "efficient inference",
+    "target": "computational efficiency",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "efficient inference",
+    "target": "sequential computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "efficient inference",
+    "target": "space-efficient",
+    "relation": "prerequisite"
+  }
+]

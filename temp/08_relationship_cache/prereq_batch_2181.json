@@ -1,0 +1,17 @@
+[
+  {
+    "source": "sequence modeling",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "predicted next-token probabilities",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "ConvS2S Ensemble",
+    "relation": "prerequisite"
+  }
+]

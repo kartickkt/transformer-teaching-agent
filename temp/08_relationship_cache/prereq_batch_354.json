@@ -1,0 +1,17 @@
+[
+  {
+    "source": "output tokens",
+    "target": "sentence pairs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output tokens",
+    "target": "sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output tokens",
+    "target": "shared source-target vocabulary",
+    "relation": "prerequisite"
+  }
+]

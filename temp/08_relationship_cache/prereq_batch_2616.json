@@ -1,0 +1,27 @@
+[
+  {
+    "source": "machine translation tasks",
+    "target": "Computational linguistics",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "machine translation tasks",
+    "target": "Human Language Technology Conference",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "machine translation tasks",
+    "target": "Empirical Methods in Natural Language Processing",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "machine translation tasks",
+    "target": "Neural machine translation of rare words with subword units",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "machine translation tasks",
+    "target": "Grammar as a foreign language",
+    "relation": "prerequisite"
+  }
+]

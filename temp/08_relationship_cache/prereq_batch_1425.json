@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Learning Representations",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Learning Representations",
+    "target": "training examples",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Learning Representations",
+    "target": "Training Data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Learning Representations",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Learning Representations",
+    "target": "RNNs",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "averaging attention-weighted positions",
+    "target": "weighted sum",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "averaging attention-weighted positions",
+    "target": "mean",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "averaging attention-weighted positions",
+    "target": "weights",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "averaging attention-weighted positions",
+    "target": "relative positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "averaging attention-weighted positions",
+    "target": "input positions",
+    "relation": "prerequisite"
+  }
+]

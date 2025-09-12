@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sentence representations",
+    "target": "corrections",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sentence representations",
+    "target": "parsing",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sentence representations",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sentence representations",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sentence representations",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  }
+]

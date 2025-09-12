@@ -1,0 +1,12 @@
+[
+  {
+    "source": "sine functions",
+    "target": "cosine functions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sine functions",
+    "target": "sinusoid",
+    "relation": "prerequisite"
+  }
+]

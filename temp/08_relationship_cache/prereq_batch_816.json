@@ -1,0 +1,22 @@
+[
+  {
+    "source": "decoder",
+    "target": "code",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder",
+    "target": "evaluate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder",
+    "target": "machine reading",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder",
+    "target": "Recognition",
+    "relation": "prerequisite"
+  }
+]

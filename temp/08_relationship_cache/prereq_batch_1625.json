@@ -1,0 +1,27 @@
+[
+  {
+    "source": "intra-attention",
+    "target": "self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "intra-attention",
+    "target": "attention mechanism",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "intra-attention",
+    "target": "Attention Is All You Need",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "intra-attention",
+    "target": "structured self-attentive sentence embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "intra-attention",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  }
+]

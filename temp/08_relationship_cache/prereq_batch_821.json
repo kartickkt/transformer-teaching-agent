@@ -1,0 +1,27 @@
+[
+  {
+    "source": "decoder",
+    "target": "sub-layer input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder",
+    "target": "512",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder",
+    "target": "2048",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder",
+    "target": "models",
+    "relation": "prerequisite"
+  }
+]

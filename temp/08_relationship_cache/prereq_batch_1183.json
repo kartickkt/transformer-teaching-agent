@@ -1,0 +1,17 @@
+[
+  {
+    "source": "learned embeddings",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned embeddings",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned embeddings",
+    "target": "RNNs",
+    "relation": "prerequisite"
+  }
+]

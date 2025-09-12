@@ -1,0 +1,12 @@
+[
+  {
+    "source": "neural machine translation architectures",
+    "target": "Effective approaches to attention-based neural machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural machine translation architectures",
+    "target": "Neural machine translation of rare words with subword units",
+    "relation": "prerequisite"
+  }
+]

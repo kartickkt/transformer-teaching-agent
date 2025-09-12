@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Neural machine translation of rare words with subword units",
+    "target": "machine translation tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural machine translation of rare words with subword units",
+    "target": "WMT 2014 English-to-German translation task",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural machine translation of rare words with subword units",
+    "target": "WMT 2014 English-to-French translation task",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural machine translation of rare words with subword units",
+    "target": "translation quality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural machine translation of rare words with subword units",
+    "target": "4.5 million sentence pairs",
+    "relation": "prerequisite"
+  }
+]

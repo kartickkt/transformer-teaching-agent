@@ -1,0 +1,12 @@
+[
+  {
+    "source": "single hidden layer",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single hidden layer",
+    "target": "connected layers",
+    "relation": "prerequisite"
+  }
+]

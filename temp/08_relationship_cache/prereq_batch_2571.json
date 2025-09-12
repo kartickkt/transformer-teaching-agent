@@ -1,0 +1,22 @@
+[
+  {
+    "source": "neural networks",
+    "target": "RNN sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "Recurrent Neural Network Grammar",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  }
+]

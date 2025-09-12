@@ -1,0 +1,17 @@
+[
+  {
+    "source": "visualizations",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "visualizations",
+    "target": "continuous representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "visualizations",
+    "target": "connected layers",
+    "relation": "prerequisite"
+  }
+]

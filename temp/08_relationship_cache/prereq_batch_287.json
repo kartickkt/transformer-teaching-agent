@@ -1,0 +1,27 @@
+[
+  {
+    "source": "dot product",
+    "target": "parameter matrices",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dot product",
+    "target": "dimensionality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dot product",
+    "target": "vectors of dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dot product",
+    "target": "dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dot product",
+    "target": "per-wordpiece",
+    "relation": "prerequisite"
+  }
+]

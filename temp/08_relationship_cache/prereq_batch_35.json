@@ -1,0 +1,22 @@
+[
+  {
+    "source": "quality",
+    "target": "accuracy",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "quality",
+    "target": "evaluate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "quality",
+    "target": "representation dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "quality",
+    "target": "dimension",
+    "relation": "prerequisite"
+  }
+]

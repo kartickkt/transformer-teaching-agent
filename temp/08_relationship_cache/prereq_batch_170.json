@@ -1,0 +1,7 @@
+[
+  {
+    "source": "residual connection",
+    "target": "Deep residual learning",
+    "relation": "prerequisite"
+  }
+]

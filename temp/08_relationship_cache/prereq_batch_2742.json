@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Neural machine translation of rare words with subword units",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural machine translation of rare words with subword units",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural machine translation of rare words with subword units",
+    "target": "learning phrase representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural machine translation of rare words with subword units",
+    "target": "rnn encoder-decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural machine translation of rare words with subword units",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  }
+]

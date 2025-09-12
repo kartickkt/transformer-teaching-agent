@@ -1,0 +1,27 @@
+[
+  {
+    "source": "evaluate",
+    "target": "input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "evaluate",
+    "target": "normalized",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "evaluate",
+    "target": "accuracy",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "evaluate",
+    "target": "params",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "evaluate",
+    "target": "checkpoint averaging",
+    "relation": "prerequisite"
+  }
+]

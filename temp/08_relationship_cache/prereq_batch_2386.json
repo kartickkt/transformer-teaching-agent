@@ -1,0 +1,22 @@
+[
+  {
+    "source": "dmodel = 1024",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel = 1024",
+    "target": "large training data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel = 1024",
+    "target": "model variants",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel = 1024",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "gated recurrent neural networks",
+    "target": "RNNs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "gated recurrent neural networks",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "gated recurrent neural networks",
+    "target": "Recurrent",
+    "relation": "prerequisite"
+  }
+]

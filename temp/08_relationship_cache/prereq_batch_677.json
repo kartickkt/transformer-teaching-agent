@@ -1,0 +1,27 @@
+[
+  {
+    "source": "video",
+    "target": "input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "video",
+    "target": "output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "video",
+    "target": "sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "video",
+    "target": "versions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "video",
+    "target": "images",
+    "relation": "prerequisite"
+  }
+]

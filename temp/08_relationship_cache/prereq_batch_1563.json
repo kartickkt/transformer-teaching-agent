@@ -1,0 +1,22 @@
+[
+  {
+    "source": "big transformer model",
+    "target": "dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "big transformer model",
+    "target": "dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "big transformer model",
+    "target": "state-of-the-art models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "big transformer model",
+    "target": "base models",
+    "relation": "prerequisite"
+  }
+]

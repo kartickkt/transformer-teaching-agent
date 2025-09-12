@@ -1,0 +1,12 @@
+[
+  {
+    "source": "parameter matrices",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameter matrices",
+    "target": "model quality",
+    "relation": "prerequisite"
+  }
+]

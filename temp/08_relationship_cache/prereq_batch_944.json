@@ -1,0 +1,27 @@
+[
+  {
+    "source": "continuous representations",
+    "target": "International Conference on Learning Representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "continuous representations",
+    "target": "Learning Representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "continuous representations",
+    "target": "structured self-attentive sentence embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "continuous representations",
+    "target": "deep reinforced model for abstractive summarization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "continuous representations",
+    "target": "linear transformations",
+    "relation": "prerequisite"
+  }
+]

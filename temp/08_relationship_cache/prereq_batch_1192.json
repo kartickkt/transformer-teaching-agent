@@ -1,0 +1,17 @@
+[
+  {
+    "source": "decoder output",
+    "target": "rnn encoder-decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder output",
+    "target": "sequence transduction encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder output",
+    "target": "sub-layer input",
+    "relation": "prerequisite"
+  }
+]

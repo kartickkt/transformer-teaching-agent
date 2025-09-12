@@ -1,0 +1,27 @@
+[
+  {
+    "source": "encoder-decoder attention",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder attention",
+    "target": "Attention(Q, K, V)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder attention",
+    "target": "additive attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder attention",
+    "target": "dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder attention",
+    "target": "single attention head",
+    "relation": "prerequisite"
+  }
+]

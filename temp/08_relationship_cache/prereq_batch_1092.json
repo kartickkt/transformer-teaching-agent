@@ -1,0 +1,7 @@
+[
+  {
+    "source": "encoder-decoder attention",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  }
+]

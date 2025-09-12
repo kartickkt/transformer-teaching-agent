@@ -1,0 +1,22 @@
+[
+  {
+    "source": "maximum output length",
+    "target": "output positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "maximum output length",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "maximum output length",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "maximum output length",
+    "target": "decoder output",
+    "relation": "prerequisite"
+  }
+]

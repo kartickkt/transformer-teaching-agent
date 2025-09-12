@@ -1,0 +1,27 @@
+[
+  {
+    "source": "tasks",
+    "target": "machine translation tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "sentence pairs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "tables",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "figures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "hidden",
+    "relation": "prerequisite"
+  }
+]

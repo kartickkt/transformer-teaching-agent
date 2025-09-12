@@ -1,0 +1,22 @@
+[
+  {
+    "source": "constant number of sequentially executed operations",
+    "target": "parallelizable",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "constant number of sequentially executed operations",
+    "target": "computation time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "constant number of sequentially executed operations",
+    "target": "parallelization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "constant number of sequentially executed operations",
+    "target": "memory constraints",
+    "relation": "prerequisite"
+  }
+]

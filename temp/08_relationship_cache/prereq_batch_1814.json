@@ -1,0 +1,12 @@
+[
+  {
+    "source": "decomposable attention model",
+    "target": "Effective approaches to attention-based neural machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder self-attention",
+    "target": "encoder",
+    "relation": "prerequisite"
+  }
+]

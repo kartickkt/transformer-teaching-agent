@@ -1,0 +1,27 @@
+[
+  {
+    "source": "base models",
+    "target": "heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "base models",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "base models",
+    "target": "relative positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "base models",
+    "target": "versions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "base models",
+    "target": "hyperparameters",
+    "relation": "prerequisite"
+  }
+]

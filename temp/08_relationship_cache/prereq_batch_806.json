@@ -1,0 +1,22 @@
+[
+  {
+    "source": "encoder",
+    "target": "decoder stacks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder",
+    "target": "convolutional layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder",
+    "target": "point-wise feed-forward layer",
+    "relation": "prerequisite"
+  }
+]

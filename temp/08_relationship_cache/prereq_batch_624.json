@@ -1,0 +1,27 @@
+[
+  {
+    "source": "checkpoint averaging",
+    "target": "constant number of sequentially executed operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "checkpoint averaging",
+    "target": "warmup_steps\u00e2\u02c6\u20191.5",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "checkpoint averaging",
+    "target": "averaging the last 5 checkpoints",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "checkpoint averaging",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention key and value dimensions",
+    "target": "key-value pairs",
+    "relation": "prerequisite"
+  }
+]

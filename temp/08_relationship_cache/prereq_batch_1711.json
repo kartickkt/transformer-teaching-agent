@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Attention",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention",
+    "target": "Attention Is All You Need",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention",
+    "target": "attention mechanism",
+    "relation": "prerequisite"
+  }
+]

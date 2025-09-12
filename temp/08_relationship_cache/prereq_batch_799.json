@@ -1,0 +1,22 @@
+[
+  {
+    "source": "encoder",
+    "target": "hyperparameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder",
+    "target": "dropout",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder",
+    "target": "train",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder",
+    "target": "params",
+    "relation": "prerequisite"
+  }
+]

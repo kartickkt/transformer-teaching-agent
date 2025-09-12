@@ -1,0 +1,27 @@
+[
+  {
+    "source": "dimensionality",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimensionality",
+    "target": "dimension dk",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimensionality",
+    "target": "matrix Q",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimensionality",
+    "target": "dmodel-dimensional keys",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimensionality",
+    "target": "parameter matrices",
+    "relation": "prerequisite"
+  }
+]

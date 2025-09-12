@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequential computation",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "Convolutional sequence to sequence learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "Multi-task sequence to sequence learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "sequence transduction models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "sequence transduction encoder",
+    "relation": "prerequisite"
+  }
+]

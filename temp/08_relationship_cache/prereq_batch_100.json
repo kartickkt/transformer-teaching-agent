@@ -1,0 +1,12 @@
+[
+  {
+    "source": "dependencies",
+    "target": "independent random variables",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dependencies",
+    "target": "scaling",
+    "relation": "prerequisite"
+  }
+]

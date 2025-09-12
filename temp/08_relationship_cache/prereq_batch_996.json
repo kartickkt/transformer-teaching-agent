@@ -1,0 +1,17 @@
+[
+  {
+    "source": "embedding",
+    "target": "sub-layer input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding",
+    "target": "layer 5",
+    "relation": "prerequisite"
+  }
+]

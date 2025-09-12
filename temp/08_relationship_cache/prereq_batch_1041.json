@@ -1,0 +1,17 @@
+[
+  {
+    "source": "softmax",
+    "target": "weights",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "softmax",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "softmax",
+    "target": "output tokens",
+    "relation": "prerequisite"
+  }
+]

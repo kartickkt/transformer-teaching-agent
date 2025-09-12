@@ -1,0 +1,17 @@
+[
+  {
+    "source": "convolutional layer",
+    "target": "Layer Type Complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutional layer",
+    "target": "total computational complexity per layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutional layer",
+    "target": "layer types",
+    "relation": "prerequisite"
+  }
+]

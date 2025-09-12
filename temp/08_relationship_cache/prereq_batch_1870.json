@@ -1,0 +1,17 @@
+[
+  {
+    "source": "parallelization",
+    "target": "model performance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallelization",
+    "target": "dimensionality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence lengths",
+    "target": "recurrence",
+    "relation": "prerequisite"
+  }
+]

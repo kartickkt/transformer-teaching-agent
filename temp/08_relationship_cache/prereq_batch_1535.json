@@ -1,0 +1,22 @@
+[
+  {
+    "source": "sequence transduction encoder",
+    "target": "Convolutional sequence to sequence learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction encoder",
+    "target": "sequence transduction models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction encoder",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction encoder",
+    "target": "transduction problems",
+    "relation": "prerequisite"
+  }
+]

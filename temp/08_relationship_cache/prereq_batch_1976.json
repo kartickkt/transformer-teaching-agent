@@ -1,0 +1,12 @@
+[
+  {
+    "source": "maximum path lengths",
+    "target": "distance between positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "maximum path lengths",
+    "target": "path length between long-range dependencies in the network",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Google Brain",
+    "target": "Advances in Neural Information Processing Systems",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Google Brain",
+    "target": "Outrageously large neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Google Brain",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Google Brain",
+    "target": "Journal of Machine Learning Research",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Google Brain",
+    "target": "computer vision",
+    "relation": "prerequisite"
+  }
+]

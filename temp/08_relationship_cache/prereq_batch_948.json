@@ -1,0 +1,17 @@
+[
+  {
+    "source": "continuous representations",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "continuous representations",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "continuous representations",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  }
+]

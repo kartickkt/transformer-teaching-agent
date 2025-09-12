@@ -1,0 +1,27 @@
+[
+  {
+    "source": "big models",
+    "target": "sequence transduction models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "big models",
+    "target": "Transformer models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "big models",
+    "target": "Transformer (base model)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "big models",
+    "target": "big transformer model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "big models",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  }
+]

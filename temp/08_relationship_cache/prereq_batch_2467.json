@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Recurrent",
+    "target": "Gradient flow in recurrent nets",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Recurrent",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "GNMT + RL",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "GNMT + RL",
+    "target": "RNNs",
+    "relation": "prerequisite"
+  }
+]

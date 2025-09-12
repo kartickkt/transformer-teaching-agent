@@ -1,0 +1,27 @@
+[
+  {
+    "source": "output sequences",
+    "target": "representation of the sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output sequences",
+    "target": "output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output sequences",
+    "target": "predictions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output sequences",
+    "target": "known outputs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output sequences",
+    "target": "Concat",
+    "relation": "prerequisite"
+  }
+]

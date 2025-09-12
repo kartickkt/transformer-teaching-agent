@@ -1,0 +1,17 @@
+[
+  {
+    "source": "tensorflow",
+    "target": "Sequential",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "tasks",
+    "relation": "prerequisite"
+  }
+]

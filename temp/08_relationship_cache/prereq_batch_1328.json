@@ -1,0 +1,27 @@
+[
+  {
+    "source": "previously reported ensembles",
+    "target": "ensembles",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "previously reported ensembles",
+    "target": "visualizations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "previously reported ensembles",
+    "target": "predictions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "previously reported ensembles",
+    "target": "state-of-the-art results",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "previously reported ensembles",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  }
+]

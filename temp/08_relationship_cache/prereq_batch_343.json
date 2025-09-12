@@ -1,0 +1,27 @@
+[
+  {
+    "source": "tokens",
+    "target": "dot products",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tokens",
+    "target": "heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tokens",
+    "target": "memory keys and values",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tokens",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tokens",
+    "target": "output tokens",
+    "relation": "prerequisite"
+  }
+]

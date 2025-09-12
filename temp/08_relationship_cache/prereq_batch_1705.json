@@ -1,0 +1,17 @@
+[
+  {
+    "source": "MultiHead",
+    "target": "single attention head",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "MultiHead",
+    "target": "attention heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "MultiHead",
+    "target": "parallel attention layers",
+    "relation": "prerequisite"
+  }
+]

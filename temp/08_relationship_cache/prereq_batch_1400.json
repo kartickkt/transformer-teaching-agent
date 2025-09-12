@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Deep residual learning",
+    "target": "convolutional layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Deep residual learning",
+    "target": "point-wise feed-forward layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Deep residual learning",
+    "target": "learning rate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Deep residual learning",
+    "target": "Residual Dropout",
+    "relation": "prerequisite"
+  }
+]

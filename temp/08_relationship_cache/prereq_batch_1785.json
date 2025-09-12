@@ -1,0 +1,17 @@
+[
+  {
+    "source": "attention-based models",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention-based models",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention-based models",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  }
+]

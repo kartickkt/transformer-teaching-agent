@@ -1,0 +1,27 @@
+[
+  {
+    "source": "input",
+    "target": "input for position t",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "position",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "query",
+    "relation": "prerequisite"
+  }
+]

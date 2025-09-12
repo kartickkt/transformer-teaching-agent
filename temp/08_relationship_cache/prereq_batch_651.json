@@ -1,0 +1,27 @@
+[
+  {
+    "source": "discriminative",
+    "target": "efficient inference",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "discriminative",
+    "target": "over-fitting",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "discriminative",
+    "target": "semi-supervised setting",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "discriminative",
+    "target": "attention mechanism",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "discriminative",
+    "target": "restricted self-attention",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "4.5 million sentence pairs",
+    "target": "machine translation tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "4.5 million sentence pairs",
+    "target": "translation quality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "4.5 million sentence pairs",
+    "target": "sentence representations",
+    "relation": "prerequisite"
+  }
+]

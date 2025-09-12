@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence lengths",
+    "target": "O(n) sequential operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence lengths",
+    "target": "sequence length n",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence lengths",
+    "target": "length penalty",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence lengths",
+    "target": "maximum output length",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence lengths",
+    "target": "input length",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "decoder",
+    "target": "hidden",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder",
+    "target": "output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder",
+    "target": "predictions",
+    "relation": "prerequisite"
+  }
+]

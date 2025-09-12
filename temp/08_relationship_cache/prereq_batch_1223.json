@@ -1,0 +1,27 @@
+[
+  {
+    "source": "decoder stacks",
+    "target": "stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder stacks",
+    "target": "query",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder stacks",
+    "target": "heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder stacks",
+    "target": "memory keys and values",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder stacks",
+    "target": "tokens",
+    "relation": "prerequisite"
+  }
+]

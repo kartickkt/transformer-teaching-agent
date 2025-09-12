@@ -1,0 +1,12 @@
+[
+  {
+    "source": "ACL",
+    "target": "NAACL",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ACL",
+    "target": "Proceedings of the 51st Annual Meeting of the ACL",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "512",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "512",
+    "target": "scaling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "512",
+    "target": "Concat",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "512",
+    "target": "heads",
+    "relation": "prerequisite"
+  }
+]

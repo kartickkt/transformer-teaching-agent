@@ -1,0 +1,22 @@
+[
+  {
+    "source": "evaluate",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "evaluate",
+    "target": "output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "evaluate",
+    "target": "predictions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "evaluate",
+    "target": "query",
+    "relation": "prerequisite"
+  }
+]

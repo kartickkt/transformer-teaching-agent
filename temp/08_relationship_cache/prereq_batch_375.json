@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Sequential",
+    "target": "Recurrent",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "order of the sequence",
+    "target": "sequential nature",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "order of the sequence",
+    "target": "representation of the sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "order of the sequence",
+    "target": "Sequential",
+    "relation": "prerequisite"
+  }
+]

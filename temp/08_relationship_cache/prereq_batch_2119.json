@@ -1,0 +1,12 @@
+[
+  {
+    "source": "1024",
+    "target": "dmodel = 1024",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention key size dk",
+    "target": "keys",
+    "relation": "prerequisite"
+  }
+]

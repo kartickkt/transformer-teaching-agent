@@ -1,0 +1,12 @@
+[
+  {
+    "source": "positional embedding",
+    "target": "learning phrase representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "positional embedding",
+    "target": "structured self-attentive sentence embedding",
+    "relation": "prerequisite"
+  }
+]

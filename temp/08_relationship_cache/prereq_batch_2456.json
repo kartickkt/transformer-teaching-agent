@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Extended Neural GPU",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Extended Neural GPU",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Extended Neural GPU",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Extended Neural GPU",
+    "target": "convolutional layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Extended Neural GPU",
+    "target": "point-wise feed-forward layer",
+    "relation": "prerequisite"
+  }
+]

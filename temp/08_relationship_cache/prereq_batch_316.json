@@ -1,0 +1,27 @@
+[
+  {
+    "source": "memory keys and values",
+    "target": "attention key size dk",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "memory keys and values",
+    "target": "dmodel-dimensional keys",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "memory keys and values",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "leftward",
+    "target": "head1",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "leftward",
+    "target": "heads",
+    "relation": "prerequisite"
+  }
+]

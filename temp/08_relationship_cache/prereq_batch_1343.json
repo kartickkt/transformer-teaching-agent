@@ -1,0 +1,17 @@
+[
+  {
+    "source": "tensorflow",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "computer vision",
+    "relation": "prerequisite"
+  }
+]

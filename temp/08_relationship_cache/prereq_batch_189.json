@@ -1,0 +1,27 @@
+[
+  {
+    "source": "position",
+    "target": "heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "position",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "position",
+    "target": "P E(pos,2i)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "position",
+    "target": "pos",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "position",
+    "target": "function",
+    "relation": "prerequisite"
+  }
+]

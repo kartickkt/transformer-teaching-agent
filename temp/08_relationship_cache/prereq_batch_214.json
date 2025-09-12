@@ -1,0 +1,27 @@
+[
+  {
+    "source": "vectors",
+    "target": "sinusoidal positional encoding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "vectors",
+    "target": "vocabulary",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "vectors",
+    "target": "images",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "vectors",
+    "target": "align and translate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "vectors",
+    "target": "algorithms",
+    "relation": "prerequisite"
+  }
+]

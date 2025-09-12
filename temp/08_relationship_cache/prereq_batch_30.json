@@ -1,0 +1,17 @@
+[
+  {
+    "source": "recurrence",
+    "target": "recurrent layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrence",
+    "target": "recurrent attention mechanism",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrence",
+    "target": "sequence lengths",
+    "relation": "prerequisite"
+  }
+]

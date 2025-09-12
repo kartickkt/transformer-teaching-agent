@@ -1,0 +1,27 @@
+[
+  {
+    "source": "weighted sum",
+    "target": "sparsely-gated mixture-of-experts",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "weighted sum",
+    "target": "scaled dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "weighted sum",
+    "target": "multi-head attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "weighted sum",
+    "target": "averaging attention-weighted positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "weighted sum",
+    "target": "additive attention",
+    "relation": "prerequisite"
+  }
+]

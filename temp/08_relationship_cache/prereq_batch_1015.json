@@ -1,0 +1,22 @@
+[
+  {
+    "source": "output embeddings",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output embeddings",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output embeddings",
+    "target": "decoder output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output embeddings",
+    "target": "predicted next-token probabilities",
+    "relation": "prerequisite"
+  }
+]

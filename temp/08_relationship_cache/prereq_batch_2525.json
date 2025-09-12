@@ -1,0 +1,17 @@
+[
+  {
+    "source": "NAACL",
+    "target": "Proceedings of the 51st Annual Meeting of the ACL",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "arXiv",
+    "target": "preprint",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "arXiv",
+    "target": "CoRR",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "recurrence",
+    "target": "function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrence",
+    "target": "sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrence",
+    "target": "inference",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrence",
+    "target": "convolutions",
+    "relation": "prerequisite"
+  }
+]

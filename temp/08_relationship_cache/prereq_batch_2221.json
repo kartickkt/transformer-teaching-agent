@@ -1,0 +1,22 @@
+[
+  {
+    "source": "model performance",
+    "target": "over-fitting",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model performance",
+    "target": "self-training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model performance",
+    "target": "Transformer models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model performance",
+    "target": "Transformer (base model)",
+    "relation": "prerequisite"
+  }
+]

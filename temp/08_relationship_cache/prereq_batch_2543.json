@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Neural computation",
+    "target": "GNMT + RL",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural computation",
+    "target": "Recurrent Neural Network Grammar",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural computation",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural computation",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural computation",
+    "target": "NAACL",
+    "relation": "prerequisite"
+  }
+]

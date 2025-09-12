@@ -1,0 +1,17 @@
+[
+  {
+    "source": "sub-layers",
+    "target": "self-attention sub-layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layers",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layers",
+    "target": "parallel attention layers",
+    "relation": "prerequisite"
+  }
+]

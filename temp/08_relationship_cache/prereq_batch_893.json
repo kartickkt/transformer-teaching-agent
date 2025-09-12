@@ -1,0 +1,27 @@
+[
+  {
+    "source": "output sequences",
+    "target": "sequence-aligned recurrence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output sequences",
+    "target": "maximum path lengths",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output sequences",
+    "target": "minimum number of sequential operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output sequences",
+    "target": "constant number of sequentially executed operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output sequences",
+    "target": "O(n) sequential operations",
+    "relation": "prerequisite"
+  }
+]

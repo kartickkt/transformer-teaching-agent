@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Learning Representations",
+    "target": "convolutional neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Learning Representations",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Learning Representations",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "sinusoid",
+    "target": "sinusoidal positional encoding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "wavelengths",
+    "target": "frequencies",
+    "relation": "prerequisite"
+  }
+]

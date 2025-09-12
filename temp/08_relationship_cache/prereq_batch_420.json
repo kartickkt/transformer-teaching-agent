@@ -1,0 +1,17 @@
+[
+  {
+    "source": "relative positions",
+    "target": "Positional Encoding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "relative positions",
+    "target": "positional embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "relative positions",
+    "target": "averaging attention-weighted positions",
+    "relation": "prerequisite"
+  }
+]

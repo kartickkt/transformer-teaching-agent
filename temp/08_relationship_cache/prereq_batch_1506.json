@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Transformer models",
+    "target": "dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer models",
+    "target": "vectors of dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer models",
+    "target": "\u00e2\u02c6\u0161dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer models",
+    "target": "dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer models",
+    "target": "state-of-the-art models",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "sequence length n",
+    "target": "recurrence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence length n",
+    "target": "input for position t",
+    "relation": "prerequisite"
+  }
+]

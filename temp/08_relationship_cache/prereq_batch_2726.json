@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Computational linguistics",
+    "target": "theoretical complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Computational linguistics",
+    "target": "computational complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Computational linguistics",
+    "target": "computational performance",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "References",
+    "target": "existing best results",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "References",
+    "target": "global dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "References",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "References",
+    "target": "residual connection",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "References",
+    "target": "queries",
+    "relation": "prerequisite"
+  }
+]

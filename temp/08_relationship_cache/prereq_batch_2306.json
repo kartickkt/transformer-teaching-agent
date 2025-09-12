@@ -1,0 +1,22 @@
+[
+  {
+    "source": "representation dimension",
+    "target": "scaling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation dimension",
+    "target": "variance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation dimension",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation dimension",
+    "target": "weights",
+    "relation": "prerequisite"
+  }
+]

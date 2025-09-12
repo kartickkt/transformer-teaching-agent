@@ -1,0 +1,27 @@
+[
+  {
+    "source": "neural machine translation architectures",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural machine translation architectures",
+    "target": "feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural machine translation architectures",
+    "target": "single hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural machine translation architectures",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural machine translation architectures",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  }
+]

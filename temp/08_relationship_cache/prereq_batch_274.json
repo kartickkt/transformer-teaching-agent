@@ -1,0 +1,12 @@
+[
+  {
+    "source": "independent random variables",
+    "target": "variance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "independent random variables",
+    "target": "stochastic optimization",
+    "relation": "prerequisite"
+  }
+]

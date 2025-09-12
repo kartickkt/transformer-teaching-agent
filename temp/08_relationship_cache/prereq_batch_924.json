@@ -1,0 +1,22 @@
+[
+  {
+    "source": "end-to-end memory networks",
+    "target": "network architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "end-to-end memory networks",
+    "target": "memory keys and values",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "end-to-end memory networks",
+    "target": "long-range dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "end-to-end memory networks",
+    "target": "fast-forward connections",
+    "relation": "prerequisite"
+  }
+]

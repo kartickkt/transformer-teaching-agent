@@ -1,0 +1,12 @@
+[
+  {
+    "source": "softmax function",
+    "target": "rnn encoder-decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "softmax function",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  }
+]

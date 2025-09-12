@@ -1,0 +1,22 @@
+[
+  {
+    "source": "\u00e2\u02c6\u0161dmodel",
+    "target": "Transformer (base model)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "\u00e2\u02c6\u0161dmodel",
+    "target": "big transformer model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "\u00e2\u02c6\u0161dmodel",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "\u00e2\u02c6\u0161dmodel",
+    "target": "models",
+    "relation": "prerequisite"
+  }
+]

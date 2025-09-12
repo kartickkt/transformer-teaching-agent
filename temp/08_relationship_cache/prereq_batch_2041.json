@@ -1,0 +1,27 @@
+[
+  {
+    "source": "computational complexity",
+    "target": "total computational complexity per layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational complexity",
+    "target": "amount of computation that can be parallelized",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational complexity",
+    "target": "constant number of sequentially executed operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational complexity",
+    "target": "O(n) sequential operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational complexity",
+    "target": "sequence length n",
+    "relation": "prerequisite"
+  }
+]

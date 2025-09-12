@@ -1,0 +1,12 @@
+[
+  {
+    "source": "softmax",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "softmax",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  }
+]

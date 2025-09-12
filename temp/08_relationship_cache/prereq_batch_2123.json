@@ -1,0 +1,27 @@
+[
+  {
+    "source": "attention key size dk",
+    "target": "dimension dk",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention key size dk",
+    "target": "dmodel-dimensional keys",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "16K tokens",
+    "target": "tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "16K tokens",
+    "target": "output tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "16K tokens",
+    "target": "predicted next-token probabilities",
+    "relation": "prerequisite"
+  }
+]

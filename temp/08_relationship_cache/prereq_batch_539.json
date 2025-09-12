@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Training",
+    "target": "Parser Training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Hardware and Schedule",
+    "target": "training time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Hardware and Schedule",
+    "target": "training batch",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hyperparameters",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  }
+]

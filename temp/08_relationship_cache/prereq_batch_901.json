@@ -1,0 +1,22 @@
+[
+  {
+    "source": "hidden representations",
+    "target": "masking",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden representations",
+    "target": "queries",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden representations",
+    "target": "heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden representations",
+    "target": "memory keys and values",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "tensor2tensor",
+    "target": "convolutional neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensor2tensor",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensor2tensor",
+    "target": "ConvS2S",
+    "relation": "prerequisite"
+  }
+]

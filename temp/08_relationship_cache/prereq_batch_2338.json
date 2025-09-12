@@ -1,0 +1,27 @@
+[
+  {
+    "source": "state-of-the-art models",
+    "target": "large training data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "state-of-the-art models",
+    "target": "model variants",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "state-of-the-art models",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "state-of-the-art models",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "state-of-the-art models",
+    "target": "training examples",
+    "relation": "prerequisite"
+  }
+]

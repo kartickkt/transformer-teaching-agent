@@ -1,0 +1,27 @@
+[
+  {
+    "source": "task-specific tuning",
+    "target": "attention mechanism",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "task-specific tuning",
+    "target": "scaled dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "task-specific tuning",
+    "target": "averaging attention-weighted positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "task-specific tuning",
+    "target": "intra-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "task-specific tuning",
+    "target": "recurrent attention mechanism",
+    "relation": "prerequisite"
+  }
+]

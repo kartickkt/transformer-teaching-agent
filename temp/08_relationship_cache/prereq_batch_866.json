@@ -1,0 +1,22 @@
+[
+  {
+    "source": "encoder-decoder architectures",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder architectures",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder architectures",
+    "target": "Positional Encoding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder architectures",
+    "target": "decoder stacks",
+    "relation": "prerequisite"
+  }
+]

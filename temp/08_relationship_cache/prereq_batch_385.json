@@ -1,0 +1,27 @@
+[
+  {
+    "source": "P E(pos,2i)",
+    "target": "dot product",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "P E(pos,2i)",
+    "target": "pos",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "P E(pos,2i)",
+    "target": "relative positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "P E(pos,2i)",
+    "target": "P Epos+k",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "P E(pos,2i)",
+    "target": "P Epos",
+    "relation": "prerequisite"
+  }
+]

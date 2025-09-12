@@ -1,0 +1,7 @@
+[
+  {
+    "source": "neighborhood of size r",
+    "target": "size of the neighborhood",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "parallel attention layers",
+    "target": "LayerNorm",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallel attention layers",
+    "target": "relative positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallel attention layers",
+    "target": "backward signals",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallel attention layers",
+    "target": "task-specific tuning",
+    "relation": "prerequisite"
+  }
+]

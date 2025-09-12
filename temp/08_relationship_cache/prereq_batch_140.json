@@ -1,0 +1,12 @@
+[
+  {
+    "source": "auto-regressive",
+    "target": "Sequential",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "auto-regressive",
+    "target": "long-range dependencies",
+    "relation": "prerequisite"
+  }
+]

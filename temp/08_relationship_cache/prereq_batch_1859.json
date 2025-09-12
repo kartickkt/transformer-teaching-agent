@@ -1,0 +1,27 @@
+[
+  {
+    "source": "computation time",
+    "target": "O(logk(n))",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computation time",
+    "target": "input length",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computation time",
+    "target": "floating point operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computation time",
+    "target": "TFLOPS",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computation time",
+    "target": "Neural computation",
+    "relation": "prerequisite"
+  }
+]

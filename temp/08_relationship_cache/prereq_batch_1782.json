@@ -1,0 +1,12 @@
+[
+  {
+    "source": "attention-based models",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention-based models",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  }
+]

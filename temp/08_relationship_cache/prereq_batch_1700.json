@@ -1,0 +1,22 @@
+[
+  {
+    "source": "single attention head",
+    "target": "self-attention sub-layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single attention head",
+    "target": "attention function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single attention head",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single attention head",
+    "target": "Attention(Q, K, V)",
+    "relation": "prerequisite"
+  }
+]

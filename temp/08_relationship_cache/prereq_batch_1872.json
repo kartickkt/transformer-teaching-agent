@@ -1,0 +1,22 @@
+[
+  {
+    "source": "sequence lengths",
+    "target": "geometric progression",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence lengths",
+    "target": "long-range dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence lengths",
+    "target": "output positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence lengths",
+    "target": "step time",
+    "relation": "prerequisite"
+  }
+]

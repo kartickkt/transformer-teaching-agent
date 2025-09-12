@@ -1,0 +1,22 @@
+[
+  {
+    "source": "checkpoint averaging",
+    "target": "parallelizable",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "checkpoint averaging",
+    "target": "parallelization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "checkpoint averaging",
+    "target": "computational efficiency",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "checkpoint averaging",
+    "target": "amount of computation that can be parallelized",
+    "relation": "prerequisite"
+  }
+]

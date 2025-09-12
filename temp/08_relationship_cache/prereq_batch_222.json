@@ -1,0 +1,12 @@
+[
+  {
+    "source": "weighted sum",
+    "target": "dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "weighted sum",
+    "target": "weight matrix",
+    "relation": "prerequisite"
+  }
+]

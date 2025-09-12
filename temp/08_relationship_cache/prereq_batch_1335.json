@@ -1,0 +1,27 @@
+[
+  {
+    "source": "tensorflow",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "softmax function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "feed-forward network",
+    "relation": "prerequisite"
+  }
+]

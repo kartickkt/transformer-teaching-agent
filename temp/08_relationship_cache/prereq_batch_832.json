@@ -1,0 +1,27 @@
+[
+  {
+    "source": "convolutions",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutions",
+    "target": "computer vision",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "limited training data",
+    "target": "Training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "limited training data",
+    "target": "training time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "limited training data",
+    "target": "development set",
+    "relation": "prerequisite"
+  }
+]

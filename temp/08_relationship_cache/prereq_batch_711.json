@@ -1,0 +1,27 @@
+[
+  {
+    "source": "References",
+    "target": "application",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "References",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "References",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "References",
+    "target": "Attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "References",
+    "target": "models",
+    "relation": "prerequisite"
+  }
+]

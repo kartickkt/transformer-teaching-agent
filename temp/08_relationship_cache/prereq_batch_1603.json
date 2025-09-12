@@ -1,0 +1,12 @@
+[
+  {
+    "source": "multi-head attention",
+    "target": "heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "multi-head attention",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  }
+]

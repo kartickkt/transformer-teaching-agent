@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Attention",
+    "target": "additive attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention",
+    "target": "dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention",
+    "target": "single attention head",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention",
+    "target": "parallel attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention",
+    "target": "restricted self-attention",
+    "relation": "prerequisite"
+  }
+]

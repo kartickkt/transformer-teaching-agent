@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Structured attention networks",
+    "target": "Attention Is All You Need",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Structured attention networks",
+    "target": "self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Structured attention networks",
+    "target": "attention mechanism",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Structured attention networks",
+    "target": "structured self-attentive sentence embedding",
+    "relation": "prerequisite"
+  }
+]

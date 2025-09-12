@@ -1,0 +1,27 @@
+[
+  {
+    "source": "neural networks",
+    "target": "tensor2tensor",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "learning task-independent sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "end-to-end memory networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "connected layers",
+    "relation": "prerequisite"
+  }
+]

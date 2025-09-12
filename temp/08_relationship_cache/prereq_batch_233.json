@@ -1,0 +1,22 @@
+[
+  {
+    "source": "queries",
+    "target": "perplexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "queries",
+    "target": "accuracy",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "queries",
+    "target": "params",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "queries",
+    "target": "vocabulary",
+    "relation": "prerequisite"
+  }
+]

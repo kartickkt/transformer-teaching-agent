@@ -1,0 +1,12 @@
+[
+  {
+    "source": "1024",
+    "target": "512",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "1024",
+    "target": "2048",
+    "relation": "prerequisite"
+  }
+]

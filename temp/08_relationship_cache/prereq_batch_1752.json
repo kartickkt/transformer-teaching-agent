@@ -1,0 +1,12 @@
+[
+  {
+    "source": "sub-layer input",
+    "target": "input and output modalities",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layer input",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  }
+]

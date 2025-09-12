@@ -1,0 +1,27 @@
+[
+  {
+    "source": "corrections",
+    "target": "memory constraints",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "corrections",
+    "target": "sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "inspiration",
+    "target": "input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "inspiration",
+    "target": "inference",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "References",
+    "target": "figures",
+    "relation": "prerequisite"
+  }
+]

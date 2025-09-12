@@ -1,0 +1,12 @@
+[
+  {
+    "source": "decoder stacks",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder stacks",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  }
+]

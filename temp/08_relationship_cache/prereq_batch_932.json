@@ -1,0 +1,22 @@
+[
+  {
+    "source": "end-to-end memory networks",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "end-to-end memory networks",
+    "target": "active memory",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "end-to-end memory networks",
+    "target": "Structured attention networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "end-to-end memory networks",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  }
+]

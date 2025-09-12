@@ -1,0 +1,27 @@
+[
+  {
+    "source": "vectors",
+    "target": "forward signals",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "vectors",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "vectors",
+    "target": "matrix Q",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "vectors",
+    "target": "parameter matrices",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "vectors",
+    "target": "vectors of dimension dmodel",
+    "relation": "prerequisite"
+  }
+]

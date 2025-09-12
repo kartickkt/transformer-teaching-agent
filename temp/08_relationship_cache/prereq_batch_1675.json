@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Attention(Q, K, V)",
+    "target": "attention mechanism",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention(Q, K, V)",
+    "target": "Attention Is All You Need",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention(Q, K, V)",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention(Q, K, V)",
+    "target": "attention key and value dimensions",
+    "relation": "prerequisite"
+  }
+]

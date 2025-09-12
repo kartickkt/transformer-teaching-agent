@@ -1,0 +1,17 @@
+[
+  {
+    "source": "ReLU activation",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ReLU activation",
+    "target": "pre-softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ReLU activation",
+    "target": "recurrent layer",
+    "relation": "prerequisite"
+  }
+]

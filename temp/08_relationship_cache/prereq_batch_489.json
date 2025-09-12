@@ -1,0 +1,22 @@
+[
+  {
+    "source": "output positions",
+    "target": "existing best results",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output positions",
+    "target": "symbol positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output positions",
+    "target": "input for position t",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output positions",
+    "target": "output",
+    "relation": "prerequisite"
+  }
+]

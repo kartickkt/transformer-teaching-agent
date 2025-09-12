@@ -1,0 +1,27 @@
+[
+  {
+    "source": "figures",
+    "target": "network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "figures",
+    "target": "output positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "figures",
+    "target": "tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "figures",
+    "target": "input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "figures",
+    "target": "normalized",
+    "relation": "prerequisite"
+  }
+]

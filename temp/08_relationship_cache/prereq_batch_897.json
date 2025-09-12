@@ -1,0 +1,22 @@
+[
+  {
+    "source": "ConvS2S",
+    "target": "convolutions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ConvS2S",
+    "target": "softmax function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ConvS2S",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ConvS2S",
+    "target": "Separable convolutions",
+    "relation": "prerequisite"
+  }
+]

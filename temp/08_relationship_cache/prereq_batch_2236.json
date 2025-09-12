@@ -1,0 +1,27 @@
+[
+  {
+    "source": "model architecture",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model architecture",
+    "target": "computer vision",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension dk",
+    "target": "attention key size dk",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension dk",
+    "target": "dmodel-dimensional keys",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension dk",
+    "target": "dmodel",
+    "relation": "prerequisite"
+  }
+]

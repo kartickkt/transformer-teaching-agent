@@ -1,0 +1,7 @@
+[
+  {
+    "source": "attention layers",
+    "target": "decoder stacks",
+    "relation": "prerequisite"
+  }
+]

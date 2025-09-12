@@ -1,0 +1,27 @@
+[
+  {
+    "source": "O(n/r)",
+    "target": "CoRR",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "O(n/r)",
+    "target": "number of operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "O(n/r)",
+    "target": "sequence-aligned recurrence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "O(n/r)",
+    "target": "minimum number of sequential operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "O(n/r)",
+    "target": "O(n) sequential operations",
+    "relation": "prerequisite"
+  }
+]

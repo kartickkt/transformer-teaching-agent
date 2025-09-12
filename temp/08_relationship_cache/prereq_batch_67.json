@@ -1,0 +1,27 @@
+[
+  {
+    "source": "hidden",
+    "target": "Attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden",
+    "target": "previous layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden",
+    "target": "restricted self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden",
+    "target": "memory constraints",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden",
+    "target": "space-efficient",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "parallelization",
+    "target": "parallel attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallelization",
+    "target": "multi-task",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallelization",
+    "target": "parallelizable",
+    "relation": "prerequisite"
+  }
+]

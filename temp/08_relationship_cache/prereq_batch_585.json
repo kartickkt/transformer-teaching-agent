@@ -1,0 +1,12 @@
+[
+  {
+    "source": "beam search",
+    "target": "attention function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "beam search",
+    "target": "attention heads",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "RNN sequence-to-sequence models",
+    "target": "end-to-end memory networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "RNN sequence-to-sequence models",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "RNN sequence-to-sequence models",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "RNN sequence-to-sequence models",
+    "target": "feed-forward network",
+    "relation": "prerequisite"
+  }
+]

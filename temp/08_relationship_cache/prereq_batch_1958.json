@@ -1,0 +1,22 @@
+[
+  {
+    "source": "matrix multiplication code",
+    "target": "Factorization tricks for LSTM networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "matrix multiplication code",
+    "target": "linear transformations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "matrix multiplication code",
+    "target": "learned linear transformation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "matrix multiplication code",
+    "target": "sequence transduction encoder",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "big models",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "big models",
+    "target": "model performance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "big models",
+    "target": "model architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "big models",
+    "target": "dmodel-dimensional keys",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "big models",
+    "target": "dmodel",
+    "relation": "prerequisite"
+  }
+]

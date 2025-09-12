@@ -1,0 +1,22 @@
+[
+  {
+    "source": "parameters",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameters",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameters",
+    "target": "over-fitting",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameters",
+    "target": "tensorflow",
+    "relation": "prerequisite"
+  }
+]

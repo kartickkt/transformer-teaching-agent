@@ -1,0 +1,27 @@
+[
+  {
+    "source": "encoder stack",
+    "target": "sequence transduction encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder stack",
+    "target": "Transformer architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder stack",
+    "target": "4-layer transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder stack",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder stack",
+    "target": "parallel attention layers",
+    "relation": "prerequisite"
+  }
+]

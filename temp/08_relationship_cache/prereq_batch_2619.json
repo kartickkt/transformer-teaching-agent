@@ -1,0 +1,22 @@
+[
+  {
+    "source": "WMT 2014 English-to-German translation task",
+    "target": "English-to-German base translation model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "WMT 2014 English-to-German translation task",
+    "target": "statistical machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "WMT 2014 English-to-German translation task",
+    "target": "Effective approaches to attention-based neural machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "WMT 2014 English-to-German translation task",
+    "target": "Neural machine translation of rare words with subword units",
+    "relation": "prerequisite"
+  }
+]

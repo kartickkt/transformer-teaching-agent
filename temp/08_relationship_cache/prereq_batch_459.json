@@ -1,0 +1,22 @@
+[
+  {
+    "source": "sequence",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "sequence transduction models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "sequence transduction encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  }
+]

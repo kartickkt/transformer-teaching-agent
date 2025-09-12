@@ -1,0 +1,22 @@
+[
+  {
+    "source": "output embeddings",
+    "target": "RNNs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output embeddings",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output embeddings",
+    "target": "RNN sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output embeddings",
+    "target": "Recurrent Neural Network Grammar",
+    "relation": "prerequisite"
+  }
+]

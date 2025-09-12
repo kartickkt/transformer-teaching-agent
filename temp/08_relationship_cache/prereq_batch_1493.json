@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Transformer",
+    "target": "versions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer",
+    "target": "network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer",
+    "target": "tasks",
+    "relation": "prerequisite"
+  }
+]

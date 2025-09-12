@@ -1,0 +1,7 @@
+[
+  {
+    "source": "checkpoint averaging",
+    "target": "weighted sum",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "memory constraints",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "memory constraints",
+    "target": "long-range dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "memory constraints",
+    "target": "tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "memory constraints",
+    "target": "input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "memory constraints",
+    "target": "params",
+    "relation": "prerequisite"
+  }
+]

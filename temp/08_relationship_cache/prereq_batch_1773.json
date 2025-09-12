@@ -1,0 +1,12 @@
+[
+  {
+    "source": "multi-task",
+    "target": "machine translation tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention-based models",
+    "target": "attention key and value dimensions",
+    "relation": "prerequisite"
+  }
+]

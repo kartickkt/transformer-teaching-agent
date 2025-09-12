@@ -1,0 +1,17 @@
+[
+  {
+    "source": "attention distributions",
+    "target": "Attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention distributions",
+    "target": "attention heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention distributions",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  }
+]

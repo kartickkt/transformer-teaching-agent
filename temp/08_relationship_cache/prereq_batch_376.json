@@ -1,0 +1,22 @@
+[
+  {
+    "source": "order of the sequence",
+    "target": "relative positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "order of the sequence",
+    "target": "sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "order of the sequence",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "order of the sequence",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  }
+]

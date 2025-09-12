@@ -1,0 +1,17 @@
+[
+  {
+    "source": "encoder-decoder attention",
+    "target": "Multi-task sequence to sequence learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder attention",
+    "target": "sparsely-gated mixture-of-experts",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder attention",
+    "target": "sequence transduction encoder",
+    "relation": "prerequisite"
+  }
+]

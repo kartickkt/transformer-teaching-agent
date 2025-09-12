@@ -1,0 +1,22 @@
+[
+  {
+    "source": "dimension dmodel",
+    "target": "model architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension dmodel",
+    "target": "model performance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension dmodel",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension dmodel",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Transformer models",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer models",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer models",
+    "target": "best models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer models",
+    "target": "model variants",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer models",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  }
+]

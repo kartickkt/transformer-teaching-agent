@@ -1,0 +1,22 @@
+[
+  {
+    "source": "constant number of sequentially executed operations",
+    "target": "computational efficiency",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "constant number of sequentially executed operations",
+    "target": "sequential computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "constant number of sequentially executed operations",
+    "target": "number of operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "constant number of sequentially executed operations",
+    "target": "sequence-aligned recurrence",
+    "relation": "prerequisite"
+  }
+]

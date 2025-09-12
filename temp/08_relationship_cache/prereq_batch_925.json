@@ -1,0 +1,22 @@
+[
+  {
+    "source": "end-to-end memory networks",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "end-to-end memory networks",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "end-to-end memory networks",
+    "target": "learning task-independent sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "end-to-end memory networks",
+    "target": "continuous representations",
+    "relation": "prerequisite"
+  }
+]

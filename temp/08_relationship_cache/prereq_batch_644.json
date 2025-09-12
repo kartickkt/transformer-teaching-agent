@@ -1,0 +1,12 @@
+[
+  {
+    "source": "residual",
+    "target": "existing best results",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "residual",
+    "target": "effective resolution",
+    "relation": "prerequisite"
+  }
+]

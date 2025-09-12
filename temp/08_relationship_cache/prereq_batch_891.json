@@ -1,0 +1,27 @@
+[
+  {
+    "source": "output sequences",
+    "target": "rnn encoder-decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output sequences",
+    "target": "Convolutional sequence to sequence learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output sequences",
+    "target": "Multi-task sequence to sequence learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output sequences",
+    "target": "sequence transduction models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output sequences",
+    "target": "sequence transduction encoder",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "sub-layer input",
+    "target": "input for position t",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layer input",
+    "target": "known outputs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layer input",
+    "target": "input positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layer input",
+    "target": "input",
+    "relation": "prerequisite"
+  }
+]

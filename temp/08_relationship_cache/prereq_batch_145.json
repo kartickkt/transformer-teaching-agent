@@ -1,0 +1,27 @@
+[
+  {
+    "source": "point-wise",
+    "target": "simple, position-",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise",
+    "target": "key-value pairs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise",
+    "target": "vectors",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise",
+    "target": "weighted sum",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise",
+    "target": "dot products",
+    "relation": "prerequisite"
+  }
+]

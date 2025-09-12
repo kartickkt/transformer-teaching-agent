@@ -1,0 +1,12 @@
+[
+  {
+    "source": "ReLU activation",
+    "target": "convolutional neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ReLU activation",
+    "target": "encoder",
+    "relation": "prerequisite"
+  }
+]

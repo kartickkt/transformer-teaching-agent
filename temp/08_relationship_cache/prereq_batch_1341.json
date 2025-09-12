@@ -1,0 +1,17 @@
+[
+  {
+    "source": "tensorflow",
+    "target": "large training data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "Training Data",
+    "relation": "prerequisite"
+  }
+]

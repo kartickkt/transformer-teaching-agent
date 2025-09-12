@@ -1,0 +1,17 @@
+[
+  {
+    "source": "encoder-decoder architectures",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder architectures",
+    "target": "decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder architectures",
+    "target": "convolutional neural networks",
+    "relation": "prerequisite"
+  }
+]

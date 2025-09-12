@@ -1,0 +1,27 @@
+[
+  {
+    "source": "softmax",
+    "target": "big models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "softmax",
+    "target": "single model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "softmax",
+    "target": "statistical machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "feed-forward network",
+    "target": "network architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "feed-forward network",
+    "target": "auto-regressive",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Gradient flow in recurrent nets",
+    "target": "Factorization tricks for LSTM networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Gradient flow in recurrent nets",
+    "target": "recurrent attention mechanism",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Gradient flow in recurrent nets",
+    "target": "sequential computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Gradient flow in recurrent nets",
+    "target": "sequence-aligned recurrence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Gradient flow in recurrent nets",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  }
+]

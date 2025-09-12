@@ -1,0 +1,27 @@
+[
+  {
+    "source": "shared source-target vocabulary",
+    "target": "25000 source tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "shared source-target vocabulary",
+    "target": "25000 target tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "shared source-target vocabulary",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "shared source-target vocabulary",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "shared source-target vocabulary",
+    "target": "translation quality",
+    "relation": "prerequisite"
+  }
+]

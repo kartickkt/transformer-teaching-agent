@@ -1,0 +1,27 @@
+[
+  {
+    "source": "function",
+    "target": "input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "function",
+    "target": "normalized",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "function",
+    "target": "dropout",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "function",
+    "target": "params",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "function",
+    "target": "generative",
+    "relation": "prerequisite"
+  }
+]

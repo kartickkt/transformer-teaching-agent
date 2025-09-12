@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Gradient flow in recurrent nets",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Gradient flow in recurrent nets",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  }
+]

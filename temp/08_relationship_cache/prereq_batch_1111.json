@@ -1,0 +1,22 @@
+[
+  {
+    "source": "decoder layer",
+    "target": "decoder stacks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder layer",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder layer",
+    "target": "recurrent layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder layer",
+    "target": "point-wise feed-forward layer",
+    "relation": "prerequisite"
+  }
+]

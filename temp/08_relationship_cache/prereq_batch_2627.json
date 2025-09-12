@@ -1,0 +1,22 @@
+[
+  {
+    "source": "translation quality",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "translation quality",
+    "target": "model quality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "translation quality",
+    "target": "machine translation tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "translation quality",
+    "target": "WMT 2014 English-to-German translation task",
+    "relation": "prerequisite"
+  }
+]

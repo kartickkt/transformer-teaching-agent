@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequential computation",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "RNNs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "Recurrent",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "Gradient flow in recurrent nets",
+    "relation": "prerequisite"
+  }
+]

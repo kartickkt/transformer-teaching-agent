@@ -1,0 +1,27 @@
+[
+  {
+    "source": "state-of-the-art models",
+    "target": "model performance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "state-of-the-art models",
+    "target": "model architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "state-of-the-art models",
+    "target": "dmodel-dimensional keys",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "state-of-the-art models",
+    "target": "parameter matrices",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "state-of-the-art models",
+    "target": "dmodel",
+    "relation": "prerequisite"
+  }
+]

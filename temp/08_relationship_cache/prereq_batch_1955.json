@@ -1,0 +1,17 @@
+[
+  {
+    "source": "space-efficient",
+    "target": "memory constraints",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "space-efficient",
+    "target": "computational efficiency",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "space-efficient",
+    "target": "kernel size 1",
+    "relation": "prerequisite"
+  }
+]

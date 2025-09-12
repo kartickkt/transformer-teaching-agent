@@ -1,0 +1,22 @@
+[
+  {
+    "source": "convolutional neural networks",
+    "target": "dilated convolutions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutional neural networks",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutional neural networks",
+    "target": "convolutions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutional neural networks",
+    "target": "tensor2tensor",
+    "relation": "prerequisite"
+  }
+]

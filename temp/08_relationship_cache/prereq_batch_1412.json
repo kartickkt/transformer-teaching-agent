@@ -1,0 +1,27 @@
+[
+  {
+    "source": "International Conference on Learning Representations",
+    "target": "learning task-independent sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "International Conference on Learning Representations",
+    "target": "continuous representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "International Conference on Learning Representations",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "International Conference on Learning Representations",
+    "target": "learned linear projections",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "International Conference on Learning Representations",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "heads",
+    "target": "MultiHead",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "heads",
+    "target": "single attention head",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "heads",
+    "target": "attention distributions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "heads",
+    "target": "Attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "MultiHead",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  }
+]

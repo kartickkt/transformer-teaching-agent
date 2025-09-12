@@ -1,0 +1,17 @@
+[
+  {
+    "source": "task-specific tuning",
+    "target": "large training data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "task-specific tuning",
+    "target": "training examples",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "task-specific tuning",
+    "target": "model performance",
+    "relation": "prerequisite"
+  }
+]

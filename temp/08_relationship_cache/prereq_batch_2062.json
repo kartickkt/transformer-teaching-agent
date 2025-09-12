@@ -1,0 +1,17 @@
+[
+  {
+    "source": "kernel width k",
+    "target": "weights",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "kernel width k",
+    "target": "scaling factor",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "kernel width k",
+    "target": "kernel size 1",
+    "relation": "prerequisite"
+  }
+]

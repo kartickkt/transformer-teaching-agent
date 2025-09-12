@@ -1,0 +1,12 @@
+[
+  {
+    "source": "memory constraints",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "memory constraints",
+    "target": "sentence representations",
+    "relation": "prerequisite"
+  }
+]

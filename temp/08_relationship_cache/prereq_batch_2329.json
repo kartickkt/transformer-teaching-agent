@@ -1,0 +1,17 @@
+[
+  {
+    "source": "dimension",
+    "target": "size of the neighborhood",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension",
+    "target": "kernel width k",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension",
+    "target": "length penalty",
+    "relation": "prerequisite"
+  }
+]

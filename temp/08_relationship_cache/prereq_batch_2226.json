@@ -1,0 +1,17 @@
+[
+  {
+    "source": "model performance",
+    "target": "Training Data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model performance",
+    "target": "training batch",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model performance",
+    "target": "base models",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Recurrent Neural Network Grammar",
+    "target": "GNMT + RL",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Recurrent Neural Network Grammar",
+    "target": "RNN sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Recurrent Neural Network Grammar",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Recurrent Neural Network Grammar",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  }
+]

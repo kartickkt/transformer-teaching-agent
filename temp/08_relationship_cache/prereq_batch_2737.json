@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Empirical Methods in Natural Language Processing",
+    "target": "Parser Training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Empirical Methods in Natural Language Processing",
+    "target": "Self-training PCFG grammars with latent annotations across languages",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Empirical Methods in Natural Language Processing",
+    "target": "2009 Conference on Empirical Methods in Natural Language Processing",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Empirical Methods in Natural Language Processing",
+    "target": "Effective approaches to attention-based neural machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Empirical Methods in Natural Language Processing",
+    "target": "Computational linguistics",
+    "relation": "prerequisite"
+  }
+]

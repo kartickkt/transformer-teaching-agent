@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Concat",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Concat",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Concat",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Concat",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  }
+]

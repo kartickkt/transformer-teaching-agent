@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence length n",
+    "target": "sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence length n",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence length n",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence length n",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence length n",
+    "target": "computation time",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "hidden representations",
+    "target": "decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden representations",
+    "target": "parameter-free position representation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden representations",
+    "target": "learning task-independent sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden representations",
+    "target": "continuous representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden representations",
+    "target": "connected layers",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "rnn encoder-decoder",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "rnn encoder-decoder",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "rnn encoder-decoder",
+    "target": "recurrent layer",
+    "relation": "prerequisite"
+  }
+]

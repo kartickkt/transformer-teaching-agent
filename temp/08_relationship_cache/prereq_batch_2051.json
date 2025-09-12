@@ -1,0 +1,17 @@
+[
+  {
+    "source": "computational performance",
+    "target": "algorithms",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational performance",
+    "target": "efficient inference",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational performance",
+    "target": "tensorflow",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "complex recurrent neural networks",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "complex recurrent neural networks",
+    "target": "feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "complex recurrent neural networks",
+    "target": "single hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "complex recurrent neural networks",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "complex recurrent neural networks",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  }
+]

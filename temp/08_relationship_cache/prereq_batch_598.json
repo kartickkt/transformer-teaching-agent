@@ -1,0 +1,22 @@
+[
+  {
+    "source": "train",
+    "target": "large training data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "train",
+    "target": "training examples",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "train",
+    "target": "Training Data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "train",
+    "target": "training batch",
+    "relation": "prerequisite"
+  }
+]

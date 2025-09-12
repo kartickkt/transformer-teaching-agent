@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Sequence to sequence learning with neural networks",
+    "target": "rnn encoder-decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequence to sequence learning with neural networks",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequence to sequence learning with neural networks",
+    "target": "learning phrase representations",
+    "relation": "prerequisite"
+  }
+]

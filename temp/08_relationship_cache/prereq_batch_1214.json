@@ -1,0 +1,17 @@
+[
+  {
+    "source": "pre-softmax",
+    "target": "weighted sum",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "pre-softmax",
+    "target": "label smoothing",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "pre-softmax",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  }
+]

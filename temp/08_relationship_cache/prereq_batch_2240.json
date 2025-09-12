@@ -1,0 +1,27 @@
+[
+  {
+    "source": "matrix Q",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "matrix Q",
+    "target": "model variants",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "matrix Q",
+    "target": "model performance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "matrix Q",
+    "target": "model architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "matrix Q",
+    "target": "dmodel-dimensional keys",
+    "relation": "prerequisite"
+  }
+]

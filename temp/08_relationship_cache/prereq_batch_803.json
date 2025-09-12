@@ -1,0 +1,17 @@
+[
+  {
+    "source": "encoder",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  }
+]

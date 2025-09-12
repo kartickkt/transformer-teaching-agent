@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Pdrop",
+    "target": "dropout",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Pdrop",
+    "target": "P Epos",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Pdrop",
+    "target": "P Epos+k",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Pdrop",
+    "target": "dot product",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Pdrop",
+    "target": "dot products",
+    "relation": "prerequisite"
+  }
+]

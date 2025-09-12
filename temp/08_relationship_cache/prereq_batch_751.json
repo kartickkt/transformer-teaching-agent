@@ -1,0 +1,27 @@
+[
+  {
+    "source": "parsing",
+    "target": "BerkleyParser corpora",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parsing",
+    "target": "Parser Training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parsing",
+    "target": "fast and accurate shift-reduce constituent parsing",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tree annotation",
+    "target": "tables",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tree annotation",
+    "target": "figures",
+    "relation": "prerequisite"
+  }
+]

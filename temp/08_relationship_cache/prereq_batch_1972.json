@@ -1,0 +1,17 @@
+[
+  {
+    "source": "512",
+    "target": "dmodel = 1024",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "512",
+    "target": "dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "2048",
+    "target": "decoder",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "pos",
+    "target": "input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "pos",
+    "target": "dropout",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "pos",
+    "target": "params",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "pos",
+    "target": "images",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "pos",
+    "target": "code",
+    "relation": "prerequisite"
+  }
+]

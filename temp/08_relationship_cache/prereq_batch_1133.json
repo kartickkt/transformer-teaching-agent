@@ -1,0 +1,12 @@
+[
+  {
+    "source": "sequence-to-sequence models",
+    "target": "machine translation tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-to-sequence models",
+    "target": "statistical machine translation",
+    "relation": "prerequisite"
+  }
+]

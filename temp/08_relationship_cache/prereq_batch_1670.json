@@ -1,0 +1,27 @@
+[
+  {
+    "source": "attention layers",
+    "target": "self-attention sub-layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention layers",
+    "target": "attention function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention layers",
+    "target": "Attention(Q, K, V)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention layers",
+    "target": "additive attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention layers",
+    "target": "dot-product attention",
+    "relation": "prerequisite"
+  }
+]

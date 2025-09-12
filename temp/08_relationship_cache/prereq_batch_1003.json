@@ -1,0 +1,22 @@
+[
+  {
+    "source": "encoder stack",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder stack",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder stack",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder stack",
+    "target": "decoder output",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sub-layer input",
+    "target": "layer 5",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layer input",
+    "target": "N = 6 identical layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layer input",
+    "target": "per-layer complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layer input",
+    "target": "Layer Type Complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layer input",
+    "target": "total computational complexity per layer",
+    "relation": "prerequisite"
+  }
+]

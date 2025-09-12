@@ -1,0 +1,12 @@
+[
+  {
+    "source": "eight GPUs",
+    "target": "tensorflow",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "eight GPUs",
+    "target": "MultiHead",
+    "relation": "prerequisite"
+  }
+]

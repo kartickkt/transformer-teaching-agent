@@ -1,0 +1,12 @@
+[
+  {
+    "source": "active memory",
+    "target": "end-to-end memory networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "active memory",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  }
+]

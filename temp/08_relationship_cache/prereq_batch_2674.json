@@ -1,0 +1,12 @@
+[
+  {
+    "source": "per-word perplexities",
+    "target": "word-piece",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "per-word perplexities",
+    "target": "per-wordpiece",
+    "relation": "prerequisite"
+  }
+]

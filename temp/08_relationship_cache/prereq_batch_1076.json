@@ -1,0 +1,27 @@
+[
+  {
+    "source": "single hidden layer",
+    "target": "point-wise feed-forward layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single hidden layer",
+    "target": "learning rate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single hidden layer",
+    "target": "Residual Dropout",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single hidden layer",
+    "target": "semi-supervised setting",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single hidden layer",
+    "target": "tensorflow",
+    "relation": "prerequisite"
+  }
+]

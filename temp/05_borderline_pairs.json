@@ -1,0 +1,122 @@
+[
+  {
+    "concept_1": "symbol positions",
+    "concept_2": "symbol representations",
+    "similarity": 0.79
+  },
+  {
+    "concept_1": "query",
+    "concept_2": "queries",
+    "similarity": 0.78
+  },
+  {
+    "concept_1": "parameters",
+    "concept_2": "params",
+    "similarity": 0.79
+  },
+  {
+    "concept_1": "sinusoid",
+    "concept_2": "sinusoidal version",
+    "similarity": 0.79
+  },
+  {
+    "concept_1": "limited training data",
+    "concept_2": "large training data",
+    "similarity": 0.8
+  },
+  {
+    "concept_1": "ConvS2S",
+    "concept_2": "ConvS2S Ensemble",
+    "similarity": 0.8
+  },
+  {
+    "concept_1": "single hidden layer",
+    "concept_2": "hidden layer",
+    "similarity": 0.8
+  },
+  {
+    "concept_1": "sequence transduction models",
+    "concept_2": "sequence transduction tasks",
+    "similarity": 0.8
+  },
+  {
+    "concept_1": "sequence transduction tasks",
+    "concept_2": "sequence transduction model",
+    "similarity": 0.79
+  },
+  {
+    "concept_1": "self-attention",
+    "concept_2": "restricted self-attention",
+    "similarity": 0.79
+  },
+  {
+    "concept_1": "self-attention",
+    "concept_2": "self-attention layer",
+    "similarity": 0.8
+  },
+  {
+    "concept_1": "scaled dot-product attention",
+    "concept_2": "dot-product attention",
+    "similarity": 0.78
+  },
+  {
+    "concept_1": "eight GPUs",
+    "concept_2": "eight P100 GPUs",
+    "similarity": 0.79
+  },
+  {
+    "concept_1": "computational efficiency",
+    "concept_2": "computational performance",
+    "similarity": 0.79
+  },
+  {
+    "concept_1": "minimum number of sequential operations",
+    "concept_2": "constant number of sequentially executed operations",
+    "similarity": 0.79
+  },
+  {
+    "concept_1": "37000 tokens",
+    "concept_2": "25000 source tokens",
+    "similarity": 0.8
+  },
+  {
+    "concept_1": "37000 tokens",
+    "concept_2": "25000 target tokens",
+    "similarity": 0.78
+  },
+  {
+    "concept_1": "37000 tokens",
+    "concept_2": "16K tokens",
+    "similarity": 0.79
+  },
+  {
+    "concept_1": "model performance",
+    "concept_2": "model quality",
+    "similarity": 0.8
+  },
+  {
+    "concept_1": "dimensionality",
+    "concept_2": "representation dimensionality d",
+    "similarity": 0.8
+  },
+  {
+    "concept_1": "complex recurrent neural networks",
+    "concept_2": "gated recurrent neural networks",
+    "similarity": 0.8
+  },
+  {
+    "concept_1": "arXiv",
+    "concept_2": "arXiv:1703.03130",
+    "similarity": 0.8
+  },
+  {
+    "concept_1": "WMT 2014 English-to-German translation task",
+    "concept_2": "WMT 2014 English-to-French translation task",
+    "similarity": 0.78
+  },
+  {
+    "concept_1": "word-piece",
+    "concept_2": "per-wordpiece",
+    "similarity": 0.79
+  }
+]

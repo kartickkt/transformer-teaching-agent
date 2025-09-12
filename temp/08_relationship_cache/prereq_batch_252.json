@@ -1,0 +1,27 @@
+[
+  {
+    "source": "values",
+    "target": "Recognition",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "values",
+    "target": "laws",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "values",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "values",
+    "target": "Attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "values",
+    "target": "models",
+    "relation": "prerequisite"
+  }
+]

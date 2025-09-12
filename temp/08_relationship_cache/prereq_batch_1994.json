@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Layer Type Complexity",
+    "target": "single hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Layer Type Complexity",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Layer Type Complexity",
+    "target": "recurrent layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Layer Type Complexity",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Layer Type Complexity",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  }
+]

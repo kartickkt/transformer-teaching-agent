@@ -1,0 +1,27 @@
+[
+  {
+    "source": "embedding",
+    "target": "global dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding",
+    "target": "stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding",
+    "target": "position",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding",
+    "target": "scaling",
+    "relation": "prerequisite"
+  }
+]

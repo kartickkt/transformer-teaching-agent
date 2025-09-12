@@ -1,0 +1,27 @@
+[
+  {
+    "source": "model architecture",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model architecture",
+    "target": "decomposable attention model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model architecture",
+    "target": "theoretical complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model architecture",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model architecture",
+    "target": "best models",
+    "relation": "prerequisite"
+  }
+]

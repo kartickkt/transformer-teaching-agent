@@ -1,0 +1,22 @@
+[
+  {
+    "source": "rnn encoder-decoder",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "rnn encoder-decoder",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "rnn encoder-decoder",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "rnn encoder-decoder",
+    "target": "learning task-independent sentence representations",
+    "relation": "prerequisite"
+  }
+]

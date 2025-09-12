@@ -1,0 +1,27 @@
+[
+  {
+    "source": "linear function",
+    "target": "parallelizable",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear function",
+    "target": "sequential computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear function",
+    "target": "single model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "P Epos",
+    "target": "P E(pos,2i)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "P Epos",
+    "target": "P Epos+k",
+    "relation": "prerequisite"
+  }
+]

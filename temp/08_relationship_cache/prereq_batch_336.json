@@ -1,0 +1,22 @@
+[
+  {
+    "source": "parameters",
+    "target": "scaling factor",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameters",
+    "target": "length penalty",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameters",
+    "target": "input length",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameters",
+    "target": "large inputs and outputs",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "tokens",
+    "target": "Attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tokens",
+    "target": "eight GPUs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tokens",
+    "target": "ByteNet",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tokens",
+    "target": "512",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tokens",
+    "target": "37000 tokens",
+    "relation": "prerequisite"
+  }
+]

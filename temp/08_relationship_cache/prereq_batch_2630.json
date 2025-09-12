@@ -1,0 +1,27 @@
+[
+  {
+    "source": "translation quality",
+    "target": "statistical machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "translation quality",
+    "target": "Effective approaches to attention-based neural machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "translation quality",
+    "target": "Neural machine translation of rare words with subword units",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "translation quality",
+    "target": "Grammar as a foreign language",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "translation quality",
+    "target": "Google\u00e2\u20ac\u2122s neural machine translation system",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "input length",
+    "target": "params",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input length",
+    "target": "input and output modalities",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input length",
+    "target": "parsing",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input length",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input length",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "hyperparameters",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hyperparameters",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hyperparameters",
+    "target": "softmax function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hyperparameters",
+    "target": "softmax",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "kernel size 1",
+    "target": "neighborhood of size r",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "kernel size 1",
+    "target": "kernel width k",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "kernel size 1",
+    "target": "maximum output length",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "kernel size 1",
+    "target": "input length",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "kernel size 1",
+    "target": "sustained single-precision floating-point capacity",
+    "relation": "prerequisite"
+  }
+]

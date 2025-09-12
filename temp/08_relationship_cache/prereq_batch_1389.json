@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Convolutional sequence to sequence learning",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Convolutional sequence to sequence learning",
+    "target": "convolutional layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Convolutional sequence to sequence learning",
+    "target": "Separable convolutions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Convolutional sequence to sequence learning",
+    "target": "point-wise feed-forward layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Convolutional sequence to sequence learning",
+    "target": "ConvS2S Ensemble",
+    "relation": "prerequisite"
+  }
+]

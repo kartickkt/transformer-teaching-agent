@@ -1,0 +1,22 @@
+[
+  {
+    "source": "complex recurrent neural networks",
+    "target": "multi-head attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "complex recurrent neural networks",
+    "target": "additive attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "complex recurrent neural networks",
+    "target": "recurrent attention mechanism",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "complex recurrent neural networks",
+    "target": "Structured attention networks",
+    "relation": "prerequisite"
+  }
+]

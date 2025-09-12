@@ -1,0 +1,12 @@
+[
+  {
+    "source": "compatibility function",
+    "target": "softmax function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "compatibility function",
+    "target": "computational efficiency",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "sequence transduction encoder",
+    "target": "Transformer (base model)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction encoder",
+    "target": "Transformer (big)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction encoder",
+    "target": "sequence transduction tasks",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "vectors",
+    "target": "convolutions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "vectors",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "vectors",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "vectors",
+    "target": "learned linear projections",
+    "relation": "prerequisite"
+  }
+]

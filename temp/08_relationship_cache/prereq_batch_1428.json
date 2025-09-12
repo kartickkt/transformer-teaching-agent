@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Factorization tricks for LSTM networks",
+    "target": "convolutional neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Factorization tricks for LSTM networks",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Factorization tricks for LSTM networks",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Factorization tricks for LSTM networks",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "algorithms",
+    "target": "computation time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "algorithms",
+    "target": "computational efficiency",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "algorithms",
+    "target": "number of operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "algorithms",
+    "target": "sequence-aligned recurrence",
+    "relation": "prerequisite"
+  }
+]

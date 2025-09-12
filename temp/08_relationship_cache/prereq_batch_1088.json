@@ -1,0 +1,17 @@
+[
+  {
+    "source": "learned linear projections",
+    "target": "linear transformations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned linear projections",
+    "target": "learned linear transformation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned linear projections",
+    "target": "models",
+    "relation": "prerequisite"
+  }
+]

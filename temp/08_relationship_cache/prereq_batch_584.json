@@ -1,0 +1,7 @@
+[
+  {
+    "source": "dropout rate",
+    "target": "Residual Dropout",
+    "relation": "prerequisite"
+  }
+]

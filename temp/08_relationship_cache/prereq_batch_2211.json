@@ -1,0 +1,17 @@
+[
+  {
+    "source": "language modeling",
+    "target": "human and machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "Grammar as a foreign language",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training examples",
+    "target": "tasks",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "dot-product attention",
+    "target": "attention distributions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dot-product attention",
+    "target": "attention heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dot-product attention",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dot-product attention",
+    "target": "Structured attention networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dot-product attention",
+    "target": "decomposable attention model",
+    "relation": "prerequisite"
+  }
+]

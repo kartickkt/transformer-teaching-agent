@@ -1,0 +1,17 @@
+[
+  {
+    "source": "frequencies",
+    "target": "vectors",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "frequencies",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "frequencies",
+    "target": "weights",
+    "relation": "prerequisite"
+  }
+]

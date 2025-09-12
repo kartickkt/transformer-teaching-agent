@@ -1,0 +1,17 @@
+[
+  {
+    "source": "length of the paths",
+    "target": "sequence length n",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "length of the paths",
+    "target": "maximum output length",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "length of the paths",
+    "target": "input length",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "big models",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "big models",
+    "target": "best models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "big models",
+    "target": "large training data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "big models",
+    "target": "model variants",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "big models",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  }
+]

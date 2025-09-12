@@ -1,0 +1,27 @@
+[
+  {
+    "source": "representation of the sequence",
+    "target": "sequence lengths",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation of the sequence",
+    "target": "sequential computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation of the sequence",
+    "target": "sequence-aligned recurrence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation of the sequence",
+    "target": "minimum number of sequential operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation of the sequence",
+    "target": "O(n) sequential operations",
+    "relation": "prerequisite"
+  }
+]

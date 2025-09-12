@@ -1,0 +1,27 @@
+[
+  {
+    "source": "attention key and value dimensions",
+    "target": "attention function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention key and value dimensions",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention key and value dimensions",
+    "target": "Attention(Q, K, V)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention key and value dimensions",
+    "target": "dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention key and value dimensions",
+    "target": "Attention",
+    "relation": "prerequisite"
+  }
+]

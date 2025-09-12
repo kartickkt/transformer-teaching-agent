@@ -1,0 +1,27 @@
+[
+  {
+    "source": "amount of computation that can be parallelized",
+    "target": "Extended Neural GPU",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "amount of computation that can be parallelized",
+    "target": "Neural computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "path length between long-range dependencies in the network",
+    "target": "network architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "path length between long-range dependencies in the network",
+    "target": "global dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "path length between long-range dependencies in the network",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  }
+]

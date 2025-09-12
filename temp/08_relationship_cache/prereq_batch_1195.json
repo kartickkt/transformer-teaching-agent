@@ -1,0 +1,22 @@
+[
+  {
+    "source": "predicted next-token probabilities",
+    "target": "softmax function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "predicted next-token probabilities",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "predicted next-token probabilities",
+    "target": "pre-softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "predicted next-token probabilities",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  }
+]

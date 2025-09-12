@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Deep residual learning",
+    "target": "previous layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Deep residual learning",
+    "target": "total computational complexity per layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Deep residual learning",
+    "target": "large training data",
+    "relation": "prerequisite"
+  }
+]

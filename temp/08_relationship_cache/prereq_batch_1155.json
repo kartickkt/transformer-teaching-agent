@@ -1,0 +1,22 @@
+[
+  {
+    "source": "ReLU activation",
+    "target": "Transformer models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ReLU activation",
+    "target": "Transformer (base model)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ReLU activation",
+    "target": "Transformer architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ReLU activation",
+    "target": "scaled dot-product attention",
+    "relation": "prerequisite"
+  }
+]

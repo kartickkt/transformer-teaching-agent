@@ -1,0 +1,27 @@
+[
+  {
+    "source": "models",
+    "target": "network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "Training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "models",
+    "target": "hyperparameters",
+    "relation": "prerequisite"
+  }
+]

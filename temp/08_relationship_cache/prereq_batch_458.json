@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "continuous representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  }
+]

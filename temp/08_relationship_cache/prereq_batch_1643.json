@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sub-layers",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layers",
+    "target": "single hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layers",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layers",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layers",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  }
+]

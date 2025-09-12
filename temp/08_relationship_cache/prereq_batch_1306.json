@@ -1,0 +1,12 @@
+[
+  {
+    "source": "positional embedding",
+    "target": "sinusoidal positional encoding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "positional embedding",
+    "target": "parameter-free position representation",
+    "relation": "prerequisite"
+  }
+]

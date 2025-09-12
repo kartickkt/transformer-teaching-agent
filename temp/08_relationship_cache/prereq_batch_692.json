@@ -1,0 +1,22 @@
+[
+  {
+    "source": "evaluate",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "evaluate",
+    "target": "weights",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "evaluate",
+    "target": "tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "evaluate",
+    "target": "Sequential",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "structured self-attentive sentence embedding",
+    "target": "self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "structured self-attentive sentence embedding",
+    "target": "multi-head attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "structured self-attentive sentence embedding",
+    "target": "intra-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "structured self-attentive sentence embedding",
+    "target": "recurrent attention mechanism",
+    "relation": "prerequisite"
+  }
+]

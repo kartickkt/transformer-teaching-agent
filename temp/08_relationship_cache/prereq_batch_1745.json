@@ -1,0 +1,7 @@
+[
+  {
+    "source": "attention distributions",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  }
+]

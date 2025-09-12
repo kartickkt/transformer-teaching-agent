@@ -1,0 +1,12 @@
+[
+  {
+    "source": "inception architecture",
+    "target": "Xception",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "inception architecture",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "task-specific tuning",
+    "target": "memory constraints",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "task-specific tuning",
+    "target": "space-efficient",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "task-specific tuning",
+    "target": "computational performance",
+    "relation": "prerequisite"
+  }
+]

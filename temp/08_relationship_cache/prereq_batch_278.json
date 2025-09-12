@@ -1,0 +1,27 @@
+[
+  {
+    "source": "mean",
+    "target": "sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "mean",
+    "target": "input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "mean",
+    "target": "normalized",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "mean",
+    "target": "params",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "mean",
+    "target": "evaluate",
+    "relation": "prerequisite"
+  }
+]

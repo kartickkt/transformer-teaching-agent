@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Attention",
+    "target": "active memory",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention",
+    "target": "Structured attention networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention",
+    "target": "decomposable attention model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention",
+    "target": "memory constraints",
+    "relation": "prerequisite"
+  }
+]

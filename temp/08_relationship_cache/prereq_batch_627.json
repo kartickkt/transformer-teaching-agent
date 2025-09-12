@@ -1,0 +1,12 @@
+[
+  {
+    "source": "attention key and value dimensions",
+    "target": "attention key size dk",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention key and value dimensions",
+    "target": "dmodel-dimensional keys",
+    "relation": "prerequisite"
+  }
+]

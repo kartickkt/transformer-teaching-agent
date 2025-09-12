@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Learning Representations",
+    "target": "self-training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Learning Representations",
+    "target": "deep reinforced model for abstractive summarization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Learning Representations",
+    "target": "linear transformations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Learning Representations",
+    "target": "learned linear transformation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Learning Representations",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "translation quality",
+    "target": "accuracy",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "translation quality",
+    "target": "task-specific tuning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "translation quality",
+    "target": "align and translate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "translation quality",
+    "target": "machine reading",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "decoder",
+    "target": "reading comprehension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutions",
+    "target": "recurrence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutions",
+    "target": "conditional computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutions",
+    "target": "vectors",
+    "relation": "prerequisite"
+  }
+]

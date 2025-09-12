@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Sequential",
+    "target": "sequence length n",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequential",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequential",
+    "target": "training batch",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequential",
+    "target": "single model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequential",
+    "target": "RNNs",
+    "relation": "prerequisite"
+  }
+]

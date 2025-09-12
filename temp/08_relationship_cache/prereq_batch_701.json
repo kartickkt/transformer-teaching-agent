@@ -1,0 +1,27 @@
+[
+  {
+    "source": "comments",
+    "target": "pos",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "comments",
+    "target": "function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "comments",
+    "target": "versions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "comments",
+    "target": "output positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "comments",
+    "target": "tasks",
+    "relation": "prerequisite"
+  }
+]

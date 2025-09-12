@@ -1,0 +1,17 @@
+[
+  {
+    "source": "discriminative",
+    "target": "attention distributions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "discriminative",
+    "target": "representation dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "generative",
+    "target": "auto-regressive",
+    "relation": "prerequisite"
+  }
+]

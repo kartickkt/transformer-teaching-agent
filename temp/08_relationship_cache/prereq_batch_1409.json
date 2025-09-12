@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Deep residual learning",
+    "target": "Parser Training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Deep residual learning",
+    "target": "Self-training PCFG grammars with latent annotations across languages",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Deep residual learning",
+    "target": "Neural machine translation of rare words with subword units",
+    "relation": "prerequisite"
+  }
+]

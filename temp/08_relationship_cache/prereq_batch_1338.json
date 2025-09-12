@@ -1,0 +1,27 @@
+[
+  {
+    "source": "tensorflow",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "Deep residual learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "Factorization tricks for LSTM networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "self-training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  }
+]

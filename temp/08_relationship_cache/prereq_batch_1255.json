@@ -1,0 +1,17 @@
+[
+  {
+    "source": "recurrent layer",
+    "target": "Recurrent Neural Network Grammar",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent layer",
+    "target": "Gradient flow in recurrent nets",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent layer",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  }
+]

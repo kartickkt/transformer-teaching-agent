@@ -1,0 +1,12 @@
+[
+  {
+    "source": "encoder self-attention",
+    "target": "Sequence to sequence learning with neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder self-attention",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  }
+]

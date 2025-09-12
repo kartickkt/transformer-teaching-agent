@@ -1,0 +1,27 @@
+[
+  {
+    "source": "\u00e2\u02c6\u0161dmodel",
+    "target": "model architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "\u00e2\u02c6\u0161dmodel",
+    "target": "dimension dk",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "\u00e2\u02c6\u0161dmodel",
+    "target": "dmodel-dimensional keys",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "\u00e2\u02c6\u0161dmodel",
+    "target": "dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "\u00e2\u02c6\u0161dmodel",
+    "target": "vectors of dimension dmodel",
+    "relation": "prerequisite"
+  }
+]

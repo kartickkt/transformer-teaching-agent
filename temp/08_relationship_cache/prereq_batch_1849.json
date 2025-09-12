@@ -1,0 +1,27 @@
+[
+  {
+    "source": "computation",
+    "target": "function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computation",
+    "target": "inference",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computation",
+    "target": "code",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computation",
+    "target": "evaluate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computation",
+    "target": "algorithms",
+    "relation": "prerequisite"
+  }
+]

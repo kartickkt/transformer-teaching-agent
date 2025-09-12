@@ -1,0 +1,22 @@
+[
+  {
+    "source": "output embeddings",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output embeddings",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output embeddings",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output embeddings",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  }
+]

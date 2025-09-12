@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Embeddings",
+    "target": "Concat",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Embeddings",
+    "target": "output tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Embeddings",
+    "target": "sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Embeddings",
+    "target": "input positions",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Attention Is All You Need",
+    "target": "decomposable attention model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention Is All You Need",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention Is All You Need",
+    "target": "Effective approaches to attention-based neural machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention mechanism",
+    "target": "heads",
+    "relation": "prerequisite"
+  }
+]

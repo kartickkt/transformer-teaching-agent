@@ -1,0 +1,22 @@
+[
+  {
+    "source": "input sequences",
+    "target": "self-training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input sequences",
+    "target": "sequence transduction encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input sequences",
+    "target": "sequence transduction tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input sequences",
+    "target": "forward signals",
+    "relation": "prerequisite"
+  }
+]

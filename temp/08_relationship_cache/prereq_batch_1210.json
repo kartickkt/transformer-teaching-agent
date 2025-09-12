@@ -1,0 +1,17 @@
+[
+  {
+    "source": "embedding layers",
+    "target": "parameter matrices",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "dimensionality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "model architecture",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "number of operations",
+    "target": "computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "number of operations",
+    "target": "computation time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "number of operations",
+    "target": "computational efficiency",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "number of operations",
+    "target": "sequential computation",
+    "relation": "prerequisite"
+  }
+]

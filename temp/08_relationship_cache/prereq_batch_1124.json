@@ -1,0 +1,12 @@
+[
+  {
+    "source": "sequence-to-sequence models",
+    "target": "rnn encoder-decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-to-sequence models",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  }
+]

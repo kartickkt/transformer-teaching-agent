@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence lengths",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence lengths",
+    "target": "sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence lengths",
+    "target": "4.5 million sentence pairs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "memory constraints",
+    "target": "hidden",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "memory constraints",
+    "target": "conditional computation",
+    "relation": "prerequisite"
+  }
+]

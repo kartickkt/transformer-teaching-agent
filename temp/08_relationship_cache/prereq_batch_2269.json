@@ -1,0 +1,27 @@
+[
+  {
+    "source": "dimensionality",
+    "target": "figures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimensionality",
+    "target": "visualizations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimensionality",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimensionality",
+    "target": "scaling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimensionality",
+    "target": "variance",
+    "relation": "prerequisite"
+  }
+]

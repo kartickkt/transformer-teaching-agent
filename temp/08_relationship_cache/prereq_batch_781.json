@@ -1,0 +1,27 @@
+[
+  {
+    "source": "application",
+    "target": "params",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "application",
+    "target": "task-specific tuning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "application",
+    "target": "images",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "application",
+    "target": "audio",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "application",
+    "target": "code",
+    "relation": "prerequisite"
+  }
+]

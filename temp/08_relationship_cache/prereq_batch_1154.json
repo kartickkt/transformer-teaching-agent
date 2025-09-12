@@ -1,0 +1,27 @@
+[
+  {
+    "source": "ReLU activation",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ReLU activation",
+    "target": "Deep residual learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ReLU activation",
+    "target": "Learning Representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ReLU activation",
+    "target": "Factorization tricks for LSTM networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ReLU activation",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  }
+]

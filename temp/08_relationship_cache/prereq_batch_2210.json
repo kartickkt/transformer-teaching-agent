@@ -1,0 +1,22 @@
+[
+  {
+    "source": "language modeling",
+    "target": "statistical machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "Effective approaches to attention-based neural machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "Self-training PCFG grammars with latent annotations across languages",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "Computational linguistics",
+    "relation": "prerequisite"
+  }
+]

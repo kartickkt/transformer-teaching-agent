@@ -1,0 +1,22 @@
+[
+  {
+    "source": "computational efficiency",
+    "target": "efficient inference",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational efficiency",
+    "target": "parallelizable",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational efficiency",
+    "target": "computation time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational efficiency",
+    "target": "parallelization",
+    "relation": "prerequisite"
+  }
+]

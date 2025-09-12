@@ -1,0 +1,27 @@
+[
+  {
+    "source": "layer 5",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer 5",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer 5",
+    "target": "recurrent layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer 5",
+    "target": "convolutional layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer 5",
+    "target": "point-wise feed-forward layer",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "model performance",
+    "target": "big transformer model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model performance",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model performance",
+    "target": "parallelization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model performance",
+    "target": "theoretical complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model performance",
+    "target": "computational performance",
+    "relation": "prerequisite"
+  }
+]

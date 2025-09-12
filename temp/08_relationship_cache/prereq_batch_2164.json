@@ -1,0 +1,22 @@
+[
+  {
+    "source": "large training data",
+    "target": "dmodel = 1024",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "large training data",
+    "target": "Outrageously large neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "large training data",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "large training data",
+    "target": "machine translation tasks",
+    "relation": "prerequisite"
+  }
+]

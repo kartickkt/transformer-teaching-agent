@@ -1,0 +1,22 @@
+[
+  {
+    "source": "computation",
+    "target": "parsing",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computation",
+    "target": "efficient inference",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computation",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computation",
+    "target": "computation time",
+    "relation": "prerequisite"
+  }
+]

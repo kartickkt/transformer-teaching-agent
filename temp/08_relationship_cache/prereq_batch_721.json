@@ -1,0 +1,17 @@
+[
+  {
+    "source": "machine reading",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "machine reading",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "machine reading",
+    "target": "model performance",
+    "relation": "prerequisite"
+  }
+]

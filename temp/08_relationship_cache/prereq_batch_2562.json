@@ -1,0 +1,27 @@
+[
+  {
+    "source": "neural networks",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "layer normalization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "softmax function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "feed-forward network",
+    "relation": "prerequisite"
+  }
+]

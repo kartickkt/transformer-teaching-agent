@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequential computation",
+    "target": "parallelization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "sequence lengths",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "memory constraints",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "computational efficiency",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "number of operations",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "encoder",
+    "target": "function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder",
+    "target": "input",
+    "relation": "prerequisite"
+  }
+]

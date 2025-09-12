@@ -1,0 +1,22 @@
+[
+  {
+    "source": "gradients",
+    "target": "algorithms",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "gradients",
+    "target": "convolutions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "gradients",
+    "target": "connected layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "gradients",
+    "target": "layer normalization",
+    "relation": "prerequisite"
+  }
+]

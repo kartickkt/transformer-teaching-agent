@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Input-Input Layer5",
+    "target": "input positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Input-Input Layer5",
+    "target": "input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Input-Input Layer5",
+    "target": "input and output modalities",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Input-Input Layer5",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Input-Input Layer5",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  }
+]

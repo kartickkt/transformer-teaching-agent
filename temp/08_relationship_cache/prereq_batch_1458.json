@@ -1,0 +1,17 @@
+[
+  {
+    "source": "self-training",
+    "target": "large training data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-training",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-training",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "dimensionality",
+    "target": "continuous representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimensionality",
+    "target": "connected layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimensionality",
+    "target": "layer normalization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimensionality",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimensionality",
+    "target": "softmax",
+    "relation": "prerequisite"
+  }
+]

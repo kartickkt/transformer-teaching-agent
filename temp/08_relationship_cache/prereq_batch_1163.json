@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Embeddings",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Embeddings",
+    "target": "continuous representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Embeddings",
+    "target": "learning task-independent sentence representations",
+    "relation": "prerequisite"
+  }
+]

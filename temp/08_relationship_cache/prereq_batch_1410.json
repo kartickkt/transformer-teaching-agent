@@ -1,0 +1,17 @@
+[
+  {
+    "source": "image recognition",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "image recognition",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "image recognition",
+    "target": "semi-supervised setting",
+    "relation": "prerequisite"
+  }
+]

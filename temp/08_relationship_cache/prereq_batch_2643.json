@@ -1,0 +1,7 @@
+[
+  {
+    "source": "sentence representations",
+    "target": "Parser Training",
+    "relation": "prerequisite"
+  }
+]

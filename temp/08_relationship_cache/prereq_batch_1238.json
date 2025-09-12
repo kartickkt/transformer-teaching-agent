@@ -1,0 +1,22 @@
+[
+  {
+    "source": "hidden layer",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden layer",
+    "target": "tensorflow",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden layer",
+    "target": "rnn encoder-decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden layer",
+    "target": "Deep residual learning",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "output embeddings",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output embeddings",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output embeddings",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output embeddings",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  }
+]

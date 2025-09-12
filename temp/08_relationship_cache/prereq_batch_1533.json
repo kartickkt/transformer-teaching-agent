@@ -1,0 +1,22 @@
+[
+  {
+    "source": "sequence transduction encoder",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction encoder",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction encoder",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction encoder",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  }
+]

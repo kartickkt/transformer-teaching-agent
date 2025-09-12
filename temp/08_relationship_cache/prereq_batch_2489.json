@@ -1,0 +1,12 @@
+[
+  {
+    "source": "neural machine translation architectures",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural machine translation architectures",
+    "target": "convolutional neural networks",
+    "relation": "prerequisite"
+  }
+]

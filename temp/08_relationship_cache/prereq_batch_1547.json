@@ -1,0 +1,27 @@
+[
+  {
+    "source": "forward signals",
+    "target": "Position-wise Feed-Forward Networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "forward signals",
+    "target": "decoder output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "forward signals",
+    "target": "pre-softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "forward signals",
+    "target": "sequence transduction models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "forward signals",
+    "target": "transduction problems",
+    "relation": "prerequisite"
+  }
+]

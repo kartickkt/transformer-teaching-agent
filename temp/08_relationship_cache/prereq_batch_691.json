@@ -1,0 +1,17 @@
+[
+  {
+    "source": "evaluate",
+    "target": "queries",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "evaluate",
+    "target": "values",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "evaluate",
+    "target": "mean",
+    "relation": "prerequisite"
+  }
+]

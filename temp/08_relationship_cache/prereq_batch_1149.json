@@ -1,0 +1,17 @@
+[
+  {
+    "source": "ReLU activation",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ReLU activation",
+    "target": "connected layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ReLU activation",
+    "target": "layer normalization",
+    "relation": "prerequisite"
+  }
+]

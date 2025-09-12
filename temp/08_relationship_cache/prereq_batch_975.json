@@ -1,0 +1,22 @@
+[
+  {
+    "source": "fully connected feed-forward network",
+    "target": "gated recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fully connected feed-forward network",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fully connected feed-forward network",
+    "target": "RNN sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fully connected feed-forward network",
+    "target": "Recurrent Neural Network Grammar",
+    "relation": "prerequisite"
+  }
+]

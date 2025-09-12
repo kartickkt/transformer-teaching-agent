@@ -1,0 +1,12 @@
+[
+  {
+    "source": "efficient inference",
+    "target": "accuracy",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "efficient inference",
+    "target": "inference",
+    "relation": "prerequisite"
+  }
+]

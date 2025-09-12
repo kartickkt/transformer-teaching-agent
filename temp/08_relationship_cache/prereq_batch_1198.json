@@ -1,0 +1,17 @@
+[
+  {
+    "source": "embedding layers",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  }
+]

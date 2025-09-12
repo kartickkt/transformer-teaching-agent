@@ -1,0 +1,27 @@
+[
+  {
+    "source": "tasks",
+    "target": "multi-task",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "attention heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "active memory",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "memory constraints",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "number of operations",
+    "relation": "prerequisite"
+  }
+]

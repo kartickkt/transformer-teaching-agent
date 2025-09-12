@@ -1,0 +1,12 @@
+[
+  {
+    "source": "number of GPUs",
+    "target": "eight GPUs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "number of GPUs",
+    "target": "eight P100 GPUs",
+    "relation": "prerequisite"
+  }
+]

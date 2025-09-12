@@ -1,0 +1,22 @@
+[
+  {
+    "source": "self-training",
+    "target": "RNNs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-training",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-training",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-training",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  }
+]

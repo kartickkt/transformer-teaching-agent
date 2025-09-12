@@ -1,0 +1,12 @@
+[
+  {
+    "source": "gated recurrent neural networks",
+    "target": "recurrence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "gated recurrent neural networks",
+    "target": "encoder",
+    "relation": "prerequisite"
+  }
+]

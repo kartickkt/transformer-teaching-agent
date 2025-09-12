@@ -1,0 +1,17 @@
+[
+  {
+    "source": "relative positions",
+    "target": "input positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "relative positions",
+    "target": "output positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "relative positions",
+    "target": "long-range dependencies",
+    "relation": "prerequisite"
+  }
+]

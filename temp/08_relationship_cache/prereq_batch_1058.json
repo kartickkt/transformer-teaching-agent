@@ -1,0 +1,22 @@
+[
+  {
+    "source": "feed-forward network",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "feed-forward network",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "feed-forward network",
+    "target": "end-to-end memory networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "feed-forward network",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  }
+]

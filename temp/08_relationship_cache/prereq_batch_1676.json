@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Attention(Q, K, V)",
+    "target": "self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention(Q, K, V)",
+    "target": "scaled dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention(Q, K, V)",
+    "target": "multi-head attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention(Q, K, V)",
+    "target": "intra-attention",
+    "relation": "prerequisite"
+  }
+]

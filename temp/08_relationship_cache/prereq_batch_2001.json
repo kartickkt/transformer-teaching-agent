@@ -1,0 +1,12 @@
+[
+  {
+    "source": "fixed offset k",
+    "target": "kernel width k",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fixed offset k",
+    "target": "O(logk(n))",
+    "relation": "prerequisite"
+  }
+]

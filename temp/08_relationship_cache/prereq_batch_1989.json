@@ -1,0 +1,27 @@
+[
+  {
+    "source": "minimum number of sequential operations",
+    "target": "number of operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "minimum number of sequential operations",
+    "target": "sequence-aligned recurrence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "minimum number of sequential operations",
+    "target": "space-efficient",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "minimum number of sequential operations",
+    "target": "total computational complexity per layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "minimum number of sequential operations",
+    "target": "amount of computation that can be parallelized",
+    "relation": "prerequisite"
+  }
+]

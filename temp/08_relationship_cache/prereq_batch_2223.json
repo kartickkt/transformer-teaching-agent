@@ -1,0 +1,22 @@
+[
+  {
+    "source": "model performance",
+    "target": "best models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model performance",
+    "target": "large training data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model performance",
+    "target": "model variants",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model performance",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  }
+]

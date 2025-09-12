@@ -1,0 +1,27 @@
+[
+  {
+    "source": "large inputs and outputs",
+    "target": "Transformer (big)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "large inputs and outputs",
+    "target": "big transformer model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "large inputs and outputs",
+    "target": "Transformer architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "large inputs and outputs",
+    "target": "sub-layer input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "large inputs and outputs",
+    "target": "computational efficiency",
+    "relation": "prerequisite"
+  }
+]

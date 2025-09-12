@@ -1,0 +1,17 @@
+[
+  {
+    "source": "attention layers",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention layers",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention layers",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  }
+]

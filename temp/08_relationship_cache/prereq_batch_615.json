@@ -1,0 +1,17 @@
+[
+  {
+    "source": "development set",
+    "target": "task-specific tuning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "development set",
+    "target": "limited training data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "development set",
+    "target": "original codebase",
+    "relation": "prerequisite"
+  }
+]

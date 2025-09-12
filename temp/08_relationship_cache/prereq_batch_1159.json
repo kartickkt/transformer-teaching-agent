@@ -1,0 +1,7 @@
+[
+  {
+    "source": "Embeddings",
+    "target": "vectors",
+    "relation": "prerequisite"
+  }
+]

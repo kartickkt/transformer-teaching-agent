@@ -1,0 +1,22 @@
+[
+  {
+    "source": "deep learning",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "convolutions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "tensor2tensor",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "efficient inference",
+    "relation": "prerequisite"
+  }
+]

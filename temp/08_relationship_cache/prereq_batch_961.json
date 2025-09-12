@@ -1,0 +1,27 @@
+[
+  {
+    "source": "connected layers",
+    "target": "total computational complexity per layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "connected layers",
+    "target": "dimensionality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "connected layers",
+    "target": "layer types",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "connected layers",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "connected layers",
+    "target": "gated recurrent neural networks",
+    "relation": "prerequisite"
+  }
+]

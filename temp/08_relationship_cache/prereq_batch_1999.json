@@ -1,0 +1,12 @@
+[
+  {
+    "source": "fixed offset k",
+    "target": "P Epos+k",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fixed offset k",
+    "target": "input positions",
+    "relation": "prerequisite"
+  }
+]

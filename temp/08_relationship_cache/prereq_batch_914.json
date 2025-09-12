@@ -1,0 +1,22 @@
+[
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "Convolutional sequence to sequence learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "Deep residual learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "International Conference on Learning Representations",
+    "relation": "prerequisite"
+  }
+]

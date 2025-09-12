@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Embeddings",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Embeddings",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Embeddings",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Embeddings",
+    "target": "Position-wise Feed-Forward Networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Embeddings",
+    "target": "ReLU activation",
+    "relation": "prerequisite"
+  }
+]

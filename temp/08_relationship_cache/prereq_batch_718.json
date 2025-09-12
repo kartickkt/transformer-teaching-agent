@@ -1,0 +1,27 @@
+[
+  {
+    "source": "machine reading",
+    "target": "input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "machine reading",
+    "target": "train",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "machine reading",
+    "target": "algorithms",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "machine reading",
+    "target": "parsing",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "machine reading",
+    "target": "application",
+    "relation": "prerequisite"
+  }
+]

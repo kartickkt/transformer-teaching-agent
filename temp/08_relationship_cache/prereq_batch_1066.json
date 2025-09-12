@@ -1,0 +1,27 @@
+[
+  {
+    "source": "feed-forward network",
+    "target": "sub-layer input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "feed-forward network",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "feed-forward network",
+    "target": "Structured attention networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "feed-forward network",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "feed-forward network",
+    "target": "large inputs and outputs",
+    "relation": "prerequisite"
+  }
+]

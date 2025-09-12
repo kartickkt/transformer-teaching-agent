@@ -1,0 +1,17 @@
+[
+  {
+    "source": "decoder stacks",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder stacks",
+    "target": "decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder stacks",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  }
+]

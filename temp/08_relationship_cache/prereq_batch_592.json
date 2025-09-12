@@ -1,0 +1,27 @@
+[
+  {
+    "source": "P_drop",
+    "target": "Residual Dropout",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "P_drop",
+    "target": "FLOPs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "P_drop",
+    "target": "dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "P_drop",
+    "target": "vectors of dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "P_drop",
+    "target": "\u00e2\u02c6\u0161dmodel",
+    "relation": "prerequisite"
+  }
+]

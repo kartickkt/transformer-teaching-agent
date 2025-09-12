@@ -1,0 +1,7 @@
+[
+  {
+    "source": "encoder self-attention",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  }
+]

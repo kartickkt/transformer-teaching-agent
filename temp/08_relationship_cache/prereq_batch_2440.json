@@ -1,0 +1,17 @@
+[
+  {
+    "source": "recurrent language models",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent language models",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent language models",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  }
+]

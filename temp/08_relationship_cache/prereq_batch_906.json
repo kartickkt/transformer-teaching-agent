@@ -1,0 +1,17 @@
+[
+  {
+    "source": "hidden representations",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden representations",
+    "target": "positional embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden representations",
+    "target": "Learning Representations",
+    "relation": "prerequisite"
+  }
+]

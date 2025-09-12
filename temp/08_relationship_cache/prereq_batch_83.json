@@ -1,0 +1,27 @@
+[
+  {
+    "source": "batching",
+    "target": "registration",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "batching",
+    "target": "multi-task",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "batching",
+    "target": "parallelizable",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "batching",
+    "target": "parallelization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "batching",
+    "target": "averaging the last 5 checkpoints",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "TFLOPS",
+    "target": "computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "TFLOPS",
+    "target": "computation time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "TFLOPS",
+    "target": "parallelization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "TFLOPS",
+    "target": "eight GPUs",
+    "relation": "prerequisite"
+  }
+]

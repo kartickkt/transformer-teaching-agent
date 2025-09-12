@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Layer Type Complexity",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Layer Type Complexity",
+    "target": "parallel attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Layer Type Complexity",
+    "target": "previous layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Layer Type Complexity",
+    "target": "sub-layer input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Layer Type Complexity",
+    "target": "layer 5",
+    "relation": "prerequisite"
+  }
+]

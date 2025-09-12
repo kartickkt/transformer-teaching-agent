@@ -1,0 +1,22 @@
+[
+  {
+    "source": "input",
+    "target": "large inputs and outputs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dilated convolutions",
+    "target": "convolutional neural networks",
+    "relation": "prerequisite"
+  }
+]

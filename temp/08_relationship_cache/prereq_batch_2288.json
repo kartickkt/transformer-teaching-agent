@@ -1,0 +1,22 @@
+[
+  {
+    "source": "weight matrix",
+    "target": "layer types",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "weight matrix",
+    "target": "representation dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "weight matrix",
+    "target": "dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "weight matrix",
+    "target": "dimension",
+    "relation": "prerequisite"
+  }
+]

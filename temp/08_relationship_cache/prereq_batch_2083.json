@@ -1,0 +1,22 @@
+[
+  {
+    "source": "FLOPs",
+    "target": "floating point operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "FLOPs",
+    "target": "TFLOPS",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "averaging the last 5 checkpoints",
+    "target": "batching",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "averaging the last 5 checkpoints",
+    "target": "point-wise",
+    "relation": "prerequisite"
+  }
+]

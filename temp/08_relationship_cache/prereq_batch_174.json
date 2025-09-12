@@ -1,0 +1,17 @@
+[
+  {
+    "source": "LayerNorm",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "LayerNorm",
+    "target": "sub-layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "LayerNorm",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  }
+]

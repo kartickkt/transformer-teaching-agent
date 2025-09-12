@@ -1,0 +1,27 @@
+[
+  {
+    "source": "P Epos+k",
+    "target": "P Epos",
+    "relation": "example_of"
+  },
+  {
+    "source": "backward signals",
+    "target": "forward signals",
+    "relation": "contrasts_with"
+  },
+  {
+    "source": "long-range dependencies",
+    "target": "path length between long-range dependencies in the network",
+    "relation": "related_topic"
+  },
+  {
+    "source": "Pdrop",
+    "target": "P_drop",
+    "relation": "example_of"
+  },
+  {
+    "source": "convolutional neural networks",
+    "target": "convolutional layer",
+    "relation": "application_of"
+  }
+]

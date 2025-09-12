@@ -1,0 +1,22 @@
+[
+  {
+    "source": "single hidden layer",
+    "target": "previous layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single hidden layer",
+    "target": "sub-layer input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single hidden layer",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single hidden layer",
+    "target": "N = 6 identical layers",
+    "relation": "prerequisite"
+  }
+]

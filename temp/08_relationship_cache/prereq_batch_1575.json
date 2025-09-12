@@ -1,0 +1,27 @@
+[
+  {
+    "source": "4-layer transformer",
+    "target": "Transformer architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "4-layer transformer",
+    "target": "sub-layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "4-layer transformer",
+    "target": "parallel attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "4-layer transformer",
+    "target": "previous layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "4-layer transformer",
+    "target": "sub-layer input",
+    "relation": "prerequisite"
+  }
+]

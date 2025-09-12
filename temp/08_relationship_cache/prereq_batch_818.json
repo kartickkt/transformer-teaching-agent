@@ -1,0 +1,27 @@
+[
+  {
+    "source": "decoder",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  }
+]

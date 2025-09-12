@@ -1,0 +1,17 @@
+[
+  {
+    "source": "base models",
+    "target": "params",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "base models",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "base models",
+    "target": "layer normalization",
+    "relation": "prerequisite"
+  }
+]

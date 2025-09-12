@@ -1,0 +1,22 @@
+[
+  {
+    "source": "large inputs and outputs",
+    "target": "input and output modalities",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "large inputs and outputs",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "large inputs and outputs",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "large inputs and outputs",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  }
+]

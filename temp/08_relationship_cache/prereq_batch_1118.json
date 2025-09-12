@@ -1,0 +1,27 @@
+[
+  {
+    "source": "decoder layer",
+    "target": "Extended Neural GPU",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder layer",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder layer",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder layer",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-to-sequence models",
+    "target": "sequential nature",
+    "relation": "prerequisite"
+  }
+]

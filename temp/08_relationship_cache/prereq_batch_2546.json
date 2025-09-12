@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Advances in Neural Information Processing Systems",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Advances in Neural Information Processing Systems",
+    "target": "convolutional neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Advances in Neural Information Processing Systems",
+    "target": "Position-wise Feed-Forward Networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Advances in Neural Information Processing Systems",
+    "target": "International Conference on Learning Representations",
+    "relation": "prerequisite"
+  }
+]

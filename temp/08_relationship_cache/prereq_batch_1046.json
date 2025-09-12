@@ -1,0 +1,17 @@
+[
+  {
+    "source": "softmax",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "softmax",
+    "target": "decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "softmax",
+    "target": "efficient inference",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "averaging attention-weighted positions",
+    "target": "multi-head attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "averaging attention-weighted positions",
+    "target": "intra-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "averaging attention-weighted positions",
+    "target": "self-attention sub-layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "averaging attention-weighted positions",
+    "target": "attention function",
+    "relation": "prerequisite"
+  }
+]

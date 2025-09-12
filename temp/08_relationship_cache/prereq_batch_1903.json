@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequential computation",
+    "target": "end-to-end memory networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "continuous representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  }
+]

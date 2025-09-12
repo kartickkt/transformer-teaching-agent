@@ -1,0 +1,22 @@
+[
+  {
+    "source": "sequence modeling",
+    "target": "auto-regressive",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "masking",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "predictions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "scaling",
+    "relation": "prerequisite"
+  }
+]

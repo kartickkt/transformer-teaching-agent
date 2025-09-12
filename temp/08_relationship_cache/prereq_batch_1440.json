@@ -1,0 +1,27 @@
+[
+  {
+    "source": "structured self-attentive sentence embedding",
+    "target": "Structured attention networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "structured self-attentive sentence embedding",
+    "target": "decomposable attention model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "structured self-attentive sentence embedding",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "structured self-attentive sentence embedding",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "structured self-attentive sentence embedding",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "eight P100 GPUs",
+    "target": "FLOPs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "eight P100 GPUs",
+    "target": "computational performance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "eight P100 GPUs",
+    "target": "amount of computation that can be parallelized",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "dmodel",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel",
+    "target": "sequence transduction models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel",
+    "target": "Transformer models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel",
+    "target": "Transformer (base model)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel",
+    "target": "big transformer model",
+    "relation": "prerequisite"
+  }
+]

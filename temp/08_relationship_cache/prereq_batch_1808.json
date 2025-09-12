@@ -1,0 +1,12 @@
+[
+  {
+    "source": "decomposable attention model",
+    "target": "Attention Is All You Need",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decomposable attention model",
+    "target": "attention mechanism",
+    "relation": "prerequisite"
+  }
+]

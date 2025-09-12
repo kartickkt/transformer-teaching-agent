@@ -1,0 +1,27 @@
+[
+  {
+    "source": "layer types",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer types",
+    "target": "single hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer types",
+    "target": "learned linear projections",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer types",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer types",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "self-attention",
+    "target": "Attention(Q, K, V)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-attention",
+    "target": "additive attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-attention",
+    "target": "dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-attention",
+    "target": "single attention head",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-attention",
+    "target": "Attention",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "source": "averaging the last 5 checkpoints",
+    "target": "checkpoint averaging",
+    "relation": "prerequisite"
+  }
+]

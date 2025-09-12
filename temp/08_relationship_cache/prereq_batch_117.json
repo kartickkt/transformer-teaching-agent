@@ -1,0 +1,27 @@
+[
+  {
+    "source": "representation of the sequence",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation of the sequence",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation of the sequence",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation of the sequence",
+    "target": "continuous representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation of the sequence",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  }
+]

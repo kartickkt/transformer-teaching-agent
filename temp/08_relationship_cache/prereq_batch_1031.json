@@ -1,0 +1,7 @@
+[
+  {
+    "source": "softmax function",
+    "target": "predicted next-token probabilities",
+    "relation": "prerequisite"
+  }
+]

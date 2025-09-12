@@ -1,0 +1,27 @@
+[
+  {
+    "source": "theoretical complexity",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "theoretical complexity",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "theoretical complexity",
+    "target": "model performance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "theoretical complexity",
+    "target": "model architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "theoretical complexity",
+    "target": "dmodel-dimensional keys",
+    "relation": "prerequisite"
+  }
+]

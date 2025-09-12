@@ -1,0 +1,27 @@
+[
+  {
+    "source": "factorization tricks",
+    "target": "scaling factor",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "factorization tricks",
+    "target": "matrix multiplication code",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "factorization tricks",
+    "target": "amount of computation that can be parallelized",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "factorization tricks",
+    "target": "floating point operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "factorization tricks",
+    "target": "TFLOPS",
+    "relation": "prerequisite"
+  }
+]

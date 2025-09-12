@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Attention(Q, K, V)",
+    "target": "attention distributions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention(Q, K, V)",
+    "target": "attention heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention(Q, K, V)",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention(Q, K, V)",
+    "target": "local, restricted attention mechanisms",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Attention(Q, K, V)",
+    "target": "active memory",
+    "relation": "prerequisite"
+  }
+]

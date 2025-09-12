@@ -1,0 +1,12 @@
+[
+  {
+    "source": "decoder stacks",
+    "target": "output tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder stacks",
+    "target": "output positions",
+    "relation": "prerequisite"
+  }
+]

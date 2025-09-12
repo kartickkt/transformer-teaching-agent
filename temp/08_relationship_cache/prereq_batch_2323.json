@@ -1,0 +1,27 @@
+[
+  {
+    "source": "dimension",
+    "target": "variance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension",
+    "target": "dot product",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension",
+    "target": "heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension",
+    "target": "weights",
+    "relation": "prerequisite"
+  }
+]

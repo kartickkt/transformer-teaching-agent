@@ -1,0 +1,27 @@
+[
+  {
+    "source": "ConvS2S Ensemble",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ConvS2S Ensemble",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ConvS2S Ensemble",
+    "target": "ConvS2S",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ConvS2S Ensemble",
+    "target": "learning task-independent sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ConvS2S Ensemble",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  }
+]

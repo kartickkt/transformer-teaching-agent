@@ -1,0 +1,27 @@
+[
+  {
+    "source": "vectors",
+    "target": "visualizations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "vectors",
+    "target": "input for position t",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "vectors",
+    "target": "representation of the sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "vectors",
+    "target": "symbol representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "vectors",
+    "target": "point-wise",
+    "relation": "prerequisite"
+  }
+]

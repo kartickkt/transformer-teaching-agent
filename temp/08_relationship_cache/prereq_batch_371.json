@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Sequential",
+    "target": "decoder stacks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequential",
+    "target": "Multi-task sequence to sequence learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequential",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequential",
+    "target": "multi-task",
+    "relation": "prerequisite"
+  }
+]

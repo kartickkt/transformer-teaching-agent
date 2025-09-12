@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence modeling",
+    "target": "sequence-aligned recurrence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "theoretical complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "best models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "model variants",
+    "relation": "prerequisite"
+  }
+]

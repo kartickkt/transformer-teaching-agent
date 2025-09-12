@@ -1,0 +1,27 @@
+[
+  {
+    "source": "O(n) sequential operations",
+    "target": "parallelizable",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "O(n) sequential operations",
+    "target": "computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "O(n) sequential operations",
+    "target": "computation time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "O(n) sequential operations",
+    "target": "parallelization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "O(n) sequential operations",
+    "target": "sequence lengths",
+    "relation": "prerequisite"
+  }
+]

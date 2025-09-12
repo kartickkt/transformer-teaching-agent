@@ -1,0 +1,27 @@
+[
+  {
+    "source": "per-layer complexity",
+    "target": "4-layer transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "per-layer complexity",
+    "target": "sub-layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "per-layer complexity",
+    "target": "self-attention sub-layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "per-layer complexity",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "per-layer complexity",
+    "target": "parallel attention layers",
+    "relation": "prerequisite"
+  }
+]

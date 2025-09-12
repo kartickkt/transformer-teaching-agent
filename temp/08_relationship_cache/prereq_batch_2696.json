@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Parser Training",
+    "target": "human and machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Parser Training",
+    "target": "fast and accurate shift-reduce constituent parsing",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "statistical machine translation",
+    "target": "align and translate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "statistical machine translation",
+    "target": "machine reading",
+    "relation": "prerequisite"
+  }
+]

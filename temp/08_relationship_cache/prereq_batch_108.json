@@ -1,0 +1,27 @@
+[
+  {
+    "source": "dependencies",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dependencies",
+    "target": "tensorflow",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dependencies",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dependencies",
+    "target": "Attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dependencies",
+    "target": "attention distributions",
+    "relation": "prerequisite"
+  }
+]

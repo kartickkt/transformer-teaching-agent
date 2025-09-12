@@ -1,0 +1,17 @@
+[
+  {
+    "source": "parameter matrices",
+    "target": "weight matrix",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameter matrices",
+    "target": "dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameter matrices",
+    "target": "representation dimension",
+    "relation": "prerequisite"
+  }
+]

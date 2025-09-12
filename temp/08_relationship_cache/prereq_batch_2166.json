@@ -1,0 +1,27 @@
+[
+  {
+    "source": "model variants",
+    "target": "symbol representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model variants",
+    "target": "values",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model variants",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model variants",
+    "target": "versions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model variants",
+    "target": "hyperparameters",
+    "relation": "prerequisite"
+  }
+]

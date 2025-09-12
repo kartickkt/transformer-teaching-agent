@@ -1,0 +1,17 @@
+[
+  {
+    "source": "big transformer model",
+    "target": "4-layer transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "big transformer model",
+    "target": "large inputs and outputs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "big transformer model",
+    "target": "large training data",
+    "relation": "prerequisite"
+  }
+]

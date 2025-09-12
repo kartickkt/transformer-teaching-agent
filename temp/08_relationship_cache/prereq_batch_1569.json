@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Transformer architecture",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer architecture",
+    "target": "Transformer models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer architecture",
+    "target": "Transformer (base model)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer architecture",
+    "target": "Transformer (big)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer architecture",
+    "target": "big transformer model",
+    "relation": "prerequisite"
+  }
+]

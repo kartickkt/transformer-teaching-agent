@@ -1,0 +1,17 @@
+[
+  {
+    "source": "output",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output",
+    "target": "decoder output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  }
+]

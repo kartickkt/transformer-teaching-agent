@@ -1,0 +1,27 @@
+[
+  {
+    "source": "stack",
+    "target": "parallelization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "stack",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "stack",
+    "target": "single model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "simple, position-",
+    "target": "symbol positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "simple, position-",
+    "target": "input for position t",
+    "relation": "prerequisite"
+  }
+]

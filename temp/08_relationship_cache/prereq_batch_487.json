@@ -1,0 +1,27 @@
+[
+  {
+    "source": "input positions",
+    "target": "sub-layer input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input positions",
+    "target": "attention heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input positions",
+    "target": "distance between positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input positions",
+    "target": "fixed offset k",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input positions",
+    "target": "input length",
+    "relation": "prerequisite"
+  }
+]

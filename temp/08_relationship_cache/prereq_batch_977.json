@@ -1,0 +1,22 @@
+[
+  {
+    "source": "fully connected feed-forward network",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fully connected feed-forward network",
+    "target": "Sequence to sequence learning with neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fully connected feed-forward network",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "layer normalization",
+    "target": "LayerNorm",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "4-layer transformer",
+    "target": "point-wise feed-forward layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "4-layer transformer",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "embedding layers",
+    "target": "Learning Representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "Factorization tricks for LSTM networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "Transformer models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "linear transformations",
+    "relation": "prerequisite"
+  }
+]

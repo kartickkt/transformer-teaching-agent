@@ -1,0 +1,17 @@
+[
+  {
+    "source": "tokens",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tokens",
+    "target": "predictions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tokens",
+    "target": "query",
+    "relation": "prerequisite"
+  }
+]

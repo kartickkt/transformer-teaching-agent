@@ -1,0 +1,27 @@
+[
+  {
+    "source": "parameters",
+    "target": "query",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameters",
+    "target": "key-value pairs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameters",
+    "target": "vectors",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameters",
+    "target": "queries",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameters",
+    "target": "keys",
+    "relation": "prerequisite"
+  }
+]

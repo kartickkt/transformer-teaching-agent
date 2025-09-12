@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Outrageously large neural networks",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Outrageously large neural networks",
+    "target": "RNNs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Outrageously large neural networks",
+    "target": "gated recurrent neural networks",
+    "relation": "prerequisite"
+  }
+]

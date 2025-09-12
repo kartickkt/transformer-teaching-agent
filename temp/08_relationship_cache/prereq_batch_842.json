@@ -1,0 +1,17 @@
+[
+  {
+    "source": "parameter-free position representation",
+    "target": "sinusoidal positional encoding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameter-free position representation",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameter-free position representation",
+    "target": "learning task-independent sentence representations",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "point-wise feed-forward layer",
+    "target": "N = 6 identical layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise feed-forward layer",
+    "target": "per-layer complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise feed-forward layer",
+    "target": "total computational complexity per layer",
+    "relation": "prerequisite"
+  }
+]

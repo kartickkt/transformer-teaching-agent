@@ -1,0 +1,7 @@
+[
+  {
+    "source": "train",
+    "target": "self-training",
+    "relation": "prerequisite"
+  }
+]

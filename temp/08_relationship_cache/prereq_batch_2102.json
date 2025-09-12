@@ -1,0 +1,22 @@
+[
+  {
+    "source": "floating point operations",
+    "target": "computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "floating point operations",
+    "target": "computation time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "floating point operations",
+    "target": "computational efficiency",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "floating point operations",
+    "target": "factorization tricks",
+    "relation": "prerequisite"
+  }
+]

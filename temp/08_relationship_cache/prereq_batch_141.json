@@ -1,0 +1,7 @@
+[
+  {
+    "source": "auto-regressive",
+    "target": "recurrent layer",
+    "relation": "prerequisite"
+  }
+]

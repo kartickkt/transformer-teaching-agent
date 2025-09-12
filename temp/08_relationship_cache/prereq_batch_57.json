@@ -1,0 +1,17 @@
+[
+  {
+    "source": "symbol positions",
+    "target": "tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "symbol positions",
+    "target": "pos",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "symbol positions",
+    "target": "relative positions",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "convolutional neural networks",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutional neural networks",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutional neural networks",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  }
+]

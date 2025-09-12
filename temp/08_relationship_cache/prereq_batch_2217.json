@@ -1,0 +1,22 @@
+[
+  {
+    "source": "training examples",
+    "target": "base models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training examples",
+    "target": "model quality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training examples",
+    "target": "machine translation tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training examples",
+    "target": "Parser Training",
+    "relation": "prerequisite"
+  }
+]

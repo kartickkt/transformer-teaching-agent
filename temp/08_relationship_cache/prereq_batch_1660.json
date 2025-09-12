@@ -1,0 +1,17 @@
+[
+  {
+    "source": "attention function",
+    "target": "intra-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention function",
+    "target": "self-attention sub-layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention function",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  }
+]

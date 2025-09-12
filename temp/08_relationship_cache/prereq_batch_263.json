@@ -1,0 +1,27 @@
+[
+  {
+    "source": "scaling",
+    "target": "step time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaling",
+    "target": "Regularization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaling",
+    "target": "normalized",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaling",
+    "target": "label smoothing",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaling",
+    "target": "train",
+    "relation": "prerequisite"
+  }
+]

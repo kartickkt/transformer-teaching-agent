@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Long short-term memory-networks",
+    "target": "connected layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Long short-term memory-networks",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Long short-term memory-networks",
+    "target": "feed-forward network",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "symbol positions",
+    "target": "symbol representations",
+    "relation": "related_topic"
+  },
+  {
+    "source": "global dependencies",
+    "target": "long-range dependencies",
+    "relation": "related_topic"
+  },
+  {
+    "source": "abstractive summarization",
+    "target": "deep reinforced model for abstractive summarization",
+    "relation": "application_of"
+  },
+  {
+    "source": "residual connection",
+    "target": "residual",
+    "relation": "example_of"
+  },
+  {
+    "source": "query",
+    "target": "queries",
+    "relation": "related_topic"
+  }
+]

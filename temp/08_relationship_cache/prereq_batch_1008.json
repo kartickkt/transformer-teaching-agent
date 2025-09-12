@@ -1,0 +1,12 @@
+[
+  {
+    "source": "encoder stack",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder stack",
+    "target": "previous layer",
+    "relation": "prerequisite"
+  }
+]

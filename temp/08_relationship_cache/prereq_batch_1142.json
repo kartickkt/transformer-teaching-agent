@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Position-wise Feed-Forward Networks",
+    "target": "Transformer models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Position-wise Feed-Forward Networks",
+    "target": "Transformer architecture",
+    "relation": "prerequisite"
+  }
+]

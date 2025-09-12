@@ -1,0 +1,22 @@
+[
+  {
+    "source": "network",
+    "target": "Recognition",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "network",
+    "target": "registration",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "network",
+    "target": "application",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "network",
+    "target": "connected layers",
+    "relation": "prerequisite"
+  }
+]

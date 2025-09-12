@@ -1,0 +1,17 @@
+[
+  {
+    "source": "structured self-attentive sentence embedding",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "structured self-attentive sentence embedding",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "structured self-attentive sentence embedding",
+    "target": "Positional Encoding",
+    "relation": "prerequisite"
+  }
+]

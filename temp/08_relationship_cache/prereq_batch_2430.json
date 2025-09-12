@@ -1,0 +1,17 @@
+[
+  {
+    "source": "gated recurrent neural networks",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "gated recurrent neural networks",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "gated recurrent neural networks",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  }
+]

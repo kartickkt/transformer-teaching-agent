@@ -1,0 +1,22 @@
+[
+  {
+    "source": "values",
+    "target": "hyperparameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "values",
+    "target": "accuracy",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "values",
+    "target": "params",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "values",
+    "target": "attention key and value dimensions",
+    "relation": "prerequisite"
+  }
+]

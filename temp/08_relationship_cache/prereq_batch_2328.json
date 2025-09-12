@@ -1,0 +1,27 @@
+[
+  {
+    "source": "dimension",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension",
+    "target": "Attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension",
+    "target": "scaling factor",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension",
+    "target": "space-efficient",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension",
+    "target": "kernel size 1",
+    "relation": "prerequisite"
+  }
+]

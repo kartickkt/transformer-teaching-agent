@@ -1,0 +1,27 @@
+[
+  {
+    "source": "learning phrase representations",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning phrase representations",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning phrase representations",
+    "target": "single hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning phrase representations",
+    "target": "learned linear projections",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning phrase representations",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  }
+]

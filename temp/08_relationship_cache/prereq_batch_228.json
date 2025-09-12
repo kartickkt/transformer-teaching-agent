@@ -1,0 +1,27 @@
+[
+  {
+    "source": "queries",
+    "target": "query",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "queries",
+    "target": "stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "queries",
+    "target": "predictions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "queries",
+    "target": "keys",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "queries",
+    "target": "values",
+    "relation": "prerequisite"
+  }
+]

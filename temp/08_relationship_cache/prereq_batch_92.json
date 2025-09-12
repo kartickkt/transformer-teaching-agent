@@ -1,0 +1,17 @@
+[
+  {
+    "source": "global dependencies",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "global dependencies",
+    "target": "residual connection",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "global dependencies",
+    "target": "known outputs",
+    "relation": "prerequisite"
+  }
+]

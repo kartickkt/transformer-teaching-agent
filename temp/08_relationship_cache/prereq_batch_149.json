@@ -1,0 +1,22 @@
+[
+  {
+    "source": "point-wise",
+    "target": "softmax function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise",
+    "target": "Position-wise Feed-Forward Networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise",
+    "target": "point-wise feed-forward layer",
+    "relation": "prerequisite"
+  }
+]

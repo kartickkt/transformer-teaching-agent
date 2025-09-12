@@ -1,0 +1,22 @@
+[
+  {
+    "source": "matrix Q",
+    "target": "matrices K and V",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "matrix Q",
+    "target": "params",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "matrix Q",
+    "target": "linear transformations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "matrix Q",
+    "target": "matrix multiplication code",
+    "relation": "prerequisite"
+  }
+]

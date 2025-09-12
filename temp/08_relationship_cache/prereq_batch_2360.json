@@ -1,0 +1,7 @@
+[
+  {
+    "source": "base models",
+    "target": "English-to-German base translation model",
+    "relation": "prerequisite"
+  }
+]

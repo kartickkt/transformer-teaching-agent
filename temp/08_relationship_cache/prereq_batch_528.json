@@ -1,0 +1,27 @@
+[
+  {
+    "source": "input",
+    "target": "code",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "evaluate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "comments",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "inspiration",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input",
+    "target": "References",
+    "relation": "prerequisite"
+  }
+]

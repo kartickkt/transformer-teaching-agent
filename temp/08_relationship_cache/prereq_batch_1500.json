@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Transformer models",
+    "target": "tensor2tensor",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer models",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  }
+]

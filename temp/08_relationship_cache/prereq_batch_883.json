@@ -1,0 +1,27 @@
+[
+  {
+    "source": "input sequences",
+    "target": "RNNs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input sequences",
+    "target": "RNN sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input sequences",
+    "target": "Sequence to sequence learning with neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input sequences",
+    "target": "machine translation tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input sequences",
+    "target": "sentence representations",
+    "relation": "prerequisite"
+  }
+]

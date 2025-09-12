@@ -1,0 +1,17 @@
+[
+  {
+    "source": "total computational complexity per layer",
+    "target": "convolutional neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "total computational complexity per layer",
+    "target": "convolutions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "total computational complexity per layer",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "P Epos+k",
+    "target": "P E(pos,2i)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "P Epos+k",
+    "target": "dot product",
+    "relation": "prerequisite"
+  }
+]

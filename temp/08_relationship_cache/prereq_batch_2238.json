@@ -1,0 +1,22 @@
+[
+  {
+    "source": "dimension dk",
+    "target": "dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension dk",
+    "target": "dmodel = 1024",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "matrix Q",
+    "target": "query",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "matrix Q",
+    "target": "queries",
+    "relation": "prerequisite"
+  }
+]

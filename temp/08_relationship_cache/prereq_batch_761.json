@@ -1,0 +1,17 @@
+[
+  {
+    "source": "CoRR",
+    "target": "corrections",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "CoRR",
+    "target": "References",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "CoRR",
+    "target": "ACL",
+    "relation": "prerequisite"
+  }
+]

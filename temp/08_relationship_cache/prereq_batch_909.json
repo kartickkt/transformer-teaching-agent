@@ -1,0 +1,17 @@
+[
+  {
+    "source": "hidden representations",
+    "target": "representation dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden representations",
+    "target": "sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "limited training data",
+    "relation": "prerequisite"
+  }
+]

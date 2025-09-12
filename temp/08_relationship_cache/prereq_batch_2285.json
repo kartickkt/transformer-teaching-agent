@@ -1,0 +1,12 @@
+[
+  {
+    "source": "weight matrix",
+    "target": "weighted sum",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "weight matrix",
+    "target": "weights",
+    "relation": "prerequisite"
+  }
+]

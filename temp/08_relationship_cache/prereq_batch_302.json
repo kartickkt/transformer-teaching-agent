@@ -1,0 +1,27 @@
+[
+  {
+    "source": "heads",
+    "target": "query",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "heads",
+    "target": "vectors",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "heads",
+    "target": "queries",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "heads",
+    "target": "keys",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "heads",
+    "target": "values",
+    "relation": "prerequisite"
+  }
+]

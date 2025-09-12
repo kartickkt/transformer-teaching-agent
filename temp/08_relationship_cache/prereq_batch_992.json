@@ -1,0 +1,27 @@
+[
+  {
+    "source": "embedding",
+    "target": "end-to-end memory networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding",
+    "target": "continuous representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding",
+    "target": "connected layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  }
+]

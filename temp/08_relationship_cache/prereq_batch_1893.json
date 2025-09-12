@@ -1,0 +1,27 @@
+[
+  {
+    "source": "computational efficiency",
+    "target": "O(n) sequential operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational efficiency",
+    "target": "computational complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational efficiency",
+    "target": "computational performance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational efficiency",
+    "target": "floating point operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational efficiency",
+    "target": "TFLOPS",
+    "relation": "prerequisite"
+  }
+]

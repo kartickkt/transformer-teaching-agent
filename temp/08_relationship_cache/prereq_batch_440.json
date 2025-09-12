@@ -1,0 +1,12 @@
+[
+  {
+    "source": "versions",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "versions",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  }
+]

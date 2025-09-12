@@ -1,0 +1,27 @@
+[
+  {
+    "source": "parameter-free position representation",
+    "target": "P E(pos,2i)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameter-free position representation",
+    "target": "pos",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameter-free position representation",
+    "target": "relative positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameter-free position representation",
+    "target": "linear function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameter-free position representation",
+    "target": "input positions",
+    "relation": "prerequisite"
+  }
+]

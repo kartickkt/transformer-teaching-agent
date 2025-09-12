@@ -1,0 +1,27 @@
+[
+  {
+    "source": "MultiHead",
+    "target": "Concat(head1, ..., headh)WO",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "MultiHead",
+    "target": "head1",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "MultiHead",
+    "target": "headh",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "MultiHead",
+    "target": "heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "MultiHead",
+    "target": "multi-head attention",
+    "relation": "prerequisite"
+  }
+]

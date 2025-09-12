@@ -1,0 +1,22 @@
+[
+  {
+    "source": "key-value pairs",
+    "target": "attention key size dk",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "key-value pairs",
+    "target": "dmodel-dimensional keys",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "key-value pairs",
+    "target": "parameter matrices",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "key-value pairs",
+    "target": "sentence pairs",
+    "relation": "prerequisite"
+  }
+]

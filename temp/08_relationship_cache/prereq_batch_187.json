@@ -1,0 +1,27 @@
+[
+  {
+    "source": "predictions",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "position",
+    "target": "tables",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "position",
+    "target": "figures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "position",
+    "target": "symbol positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "position",
+    "target": "hidden",
+    "relation": "prerequisite"
+  }
+]

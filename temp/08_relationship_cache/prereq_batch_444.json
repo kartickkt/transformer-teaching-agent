@@ -1,0 +1,27 @@
+[
+  {
+    "source": "versions",
+    "target": "single model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "versions",
+    "target": "model quality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "versions",
+    "target": "translation quality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "versions",
+    "target": "shared source-target vocabulary",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "versions",
+    "target": "statistical machine translation",
+    "relation": "prerequisite"
+  }
+]

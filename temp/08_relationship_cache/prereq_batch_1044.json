@@ -1,0 +1,12 @@
+[
+  {
+    "source": "softmax",
+    "target": "dropout",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "softmax",
+    "target": "label smoothing",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "encoder-decoder architectures",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder architectures",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder architectures",
+    "target": "feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder architectures",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  }
+]

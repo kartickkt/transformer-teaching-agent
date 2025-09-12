@@ -1,0 +1,22 @@
+[
+  {
+    "source": "input sequences",
+    "target": "representation of the sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input sequences",
+    "target": "vectors",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input sequences",
+    "target": "output tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input sequences",
+    "target": "order of the sequence",
+    "relation": "prerequisite"
+  }
+]

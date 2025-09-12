@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Google Research",
+    "target": "Google Brain",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Google Research",
+    "target": "NAACL",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Google Research",
+    "target": "Journal of Machine Learning Research",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Google Research",
+    "target": "Google\u2019s neural machine translation system",
+    "relation": "prerequisite"
+  }
+]

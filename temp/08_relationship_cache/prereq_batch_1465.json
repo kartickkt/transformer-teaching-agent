@@ -1,0 +1,17 @@
+[
+  {
+    "source": "deep reinforced model for abstractive summarization",
+    "target": "additive attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep reinforced model for abstractive summarization",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep reinforced model for abstractive summarization",
+    "target": "decomposable attention model",
+    "relation": "prerequisite"
+  }
+]

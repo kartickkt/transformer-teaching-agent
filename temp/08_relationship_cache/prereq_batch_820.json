@@ -1,0 +1,17 @@
+[
+  {
+    "source": "decoder",
+    "target": "rnn encoder-decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder",
+    "target": "sequence transduction encoder",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "dimension dmodel",
+    "target": "Transformer models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension dmodel",
+    "target": "Transformer (base model)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension dmodel",
+    "target": "big transformer model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension dmodel",
+    "target": "scaling factor",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension dmodel",
+    "target": "theoretical complexity",
+    "relation": "prerequisite"
+  }
+]

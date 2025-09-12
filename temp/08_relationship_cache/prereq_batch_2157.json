@@ -1,0 +1,27 @@
+[
+  {
+    "source": "best models",
+    "target": "model performance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "best models",
+    "target": "model architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "best models",
+    "target": "dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "best models",
+    "target": "\u00e2\u02c6\u0161dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "best models",
+    "target": "dimension dmodel",
+    "relation": "prerequisite"
+  }
+]

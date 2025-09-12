@@ -1,0 +1,22 @@
+[
+  {
+    "source": "kernel width k",
+    "target": "dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "kernel width k",
+    "target": "dmodel = 1024",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "O(logk(n))",
+    "target": "computation time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "O(logk(n))",
+    "target": "number of operations",
+    "relation": "prerequisite"
+  }
+]

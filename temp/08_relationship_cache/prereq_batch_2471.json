@@ -1,0 +1,17 @@
+[
+  {
+    "source": "RNN sequence-to-sequence models",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "RNN sequence-to-sequence models",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "RNN sequence-to-sequence models",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  }
+]

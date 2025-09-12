@@ -1,0 +1,22 @@
+[
+  {
+    "source": "convolutions",
+    "target": "convolutional layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutions",
+    "target": "Separable convolutions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutions",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "convolutions",
+    "target": "Convolutional sequence to sequence learning",
+    "relation": "prerequisite"
+  }
+]

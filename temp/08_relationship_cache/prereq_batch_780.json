@@ -1,0 +1,27 @@
+[
+  {
+    "source": "application",
+    "target": "network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "application",
+    "target": "tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "application",
+    "target": "input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "application",
+    "target": "Training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "application",
+    "target": "train",
+    "relation": "prerequisite"
+  }
+]

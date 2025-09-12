@@ -1,0 +1,27 @@
+[
+  {
+    "source": "O(n) sequential operations",
+    "target": "sequential nature",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "O(n) sequential operations",
+    "target": "representation of the sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "O(n) sequential operations",
+    "target": "point-wise",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "O(n) sequential operations",
+    "target": "Sequential",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "O(n) sequential operations",
+    "target": "order of the sequence",
+    "relation": "prerequisite"
+  }
+]

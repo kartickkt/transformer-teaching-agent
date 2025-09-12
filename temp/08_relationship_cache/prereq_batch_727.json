@@ -1,0 +1,27 @@
+[
+  {
+    "source": "empirical evaluation",
+    "target": "research goals",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "empirical evaluation",
+    "target": "evaluate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "empirical evaluation",
+    "target": "efficient inference",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "empirical evaluation",
+    "target": "sparsely-gated mixture-of-experts",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "empirical evaluation",
+    "target": "2009 Conference on Empirical Methods in Natural Language Processing",
+    "relation": "prerequisite"
+  }
+]

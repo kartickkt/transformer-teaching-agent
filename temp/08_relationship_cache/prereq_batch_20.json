@@ -1,0 +1,27 @@
+[
+  {
+    "source": "figures",
+    "target": "parameter matrices",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "figures",
+    "target": "dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "figures",
+    "target": "dimensionality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "figures",
+    "target": "weight matrix",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "figures",
+    "target": "\u00e2\u02c6\u0161dmodel",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Google\u00e2\u20ac\u2122s neural machine translation system",
+    "target": "Effective approaches to attention-based neural machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Google\u00e2\u20ac\u2122s neural machine translation system",
+    "target": "Neural machine translation of rare words with subword units",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Google\u00e2\u20ac\u2122s neural machine translation system",
+    "target": "human and machine translation",
+    "relation": "prerequisite"
+  }
+]

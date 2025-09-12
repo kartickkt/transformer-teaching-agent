@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Recurrent Neural Network Grammar",
+    "target": "recurrent layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Recurrent Neural Network Grammar",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "learned linear transformation",
+    "target": "ReLU activation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned linear transformation",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned linear transformation",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned linear transformation",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned linear transformation",
+    "target": "convolutional layer",
+    "relation": "prerequisite"
+  }
+]

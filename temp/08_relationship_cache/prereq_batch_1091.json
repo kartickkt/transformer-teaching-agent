@@ -1,0 +1,17 @@
+[
+  {
+    "source": "encoder-decoder attention",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder attention",
+    "target": "end-to-end memory networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder attention",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "computational efficiency",
+    "target": "per-layer complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational efficiency",
+    "target": "total computational complexity per layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational efficiency",
+    "target": "amount of computation that can be parallelized",
+    "relation": "prerequisite"
+  }
+]

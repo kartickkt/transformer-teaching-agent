@@ -1,0 +1,17 @@
+[
+  {
+    "source": "fully connected feed-forward network",
+    "target": "sequential computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fully connected feed-forward network",
+    "target": "total computational complexity per layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fully connected feed-forward network",
+    "target": "large inputs and outputs",
+    "relation": "prerequisite"
+  }
+]

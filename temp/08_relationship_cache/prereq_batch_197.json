@@ -1,0 +1,27 @@
+[
+  {
+    "source": "known outputs",
+    "target": "forward signals",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "known outputs",
+    "target": "sub-layer input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "known outputs",
+    "target": "number of operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "known outputs",
+    "target": "constant number of sequentially executed operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "known outputs",
+    "target": "FLOPs",
+    "relation": "prerequisite"
+  }
+]

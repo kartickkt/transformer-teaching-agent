@@ -1,0 +1,17 @@
+[
+  {
+    "source": "complex recurrent neural networks",
+    "target": "Recurrent",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "complex recurrent neural networks",
+    "target": "RNN sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "complex recurrent neural networks",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  }
+]

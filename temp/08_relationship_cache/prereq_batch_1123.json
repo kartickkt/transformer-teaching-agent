@@ -1,0 +1,22 @@
+[
+  {
+    "source": "sequence-to-sequence models",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-to-sequence models",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-to-sequence models",
+    "target": "point-wise feed-forward layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-to-sequence models",
+    "target": "positional embedding",
+    "relation": "prerequisite"
+  }
+]

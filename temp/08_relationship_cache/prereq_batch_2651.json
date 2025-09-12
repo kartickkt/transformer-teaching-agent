@@ -1,0 +1,27 @@
+[
+  {
+    "source": "4.5 million sentence pairs",
+    "target": "Neural machine translation of rare words with subword units",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "4.5 million sentence pairs",
+    "target": "human and machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "shared source-target vocabulary",
+    "target": "global dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "shared source-target vocabulary",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "shared source-target vocabulary",
+    "target": "output tokens",
+    "relation": "prerequisite"
+  }
+]

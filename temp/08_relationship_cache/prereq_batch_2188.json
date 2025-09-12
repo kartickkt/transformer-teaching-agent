@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence modeling",
+    "target": "parameter matrices",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "vectors of dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "\u00e2\u02c6\u0161dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "layer types",
+    "relation": "prerequisite"
+  }
+]

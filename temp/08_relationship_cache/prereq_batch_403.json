@@ -1,0 +1,22 @@
+[
+  {
+    "source": "function",
+    "target": "query",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "function",
+    "target": "queries",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "function",
+    "target": "values",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "function",
+    "target": "mean",
+    "relation": "prerequisite"
+  }
+]

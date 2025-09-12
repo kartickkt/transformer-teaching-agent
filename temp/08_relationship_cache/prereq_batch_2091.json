@@ -1,0 +1,17 @@
+[
+  {
+    "source": "maximum output length",
+    "target": "sequence lengths",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "maximum output length",
+    "target": "maximum path lengths",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "maximum output length",
+    "target": "amount of computation that can be parallelized",
+    "relation": "prerequisite"
+  }
+]

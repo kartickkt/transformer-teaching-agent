@@ -1,0 +1,17 @@
+[
+  {
+    "source": "embedding layers",
+    "target": "gradients",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "hyperparameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "convolutional neural networks",
+    "relation": "prerequisite"
+  }
+]

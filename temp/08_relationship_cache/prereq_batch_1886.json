@@ -1,0 +1,17 @@
+[
+  {
+    "source": "memory constraints",
+    "target": "computational complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "memory constraints",
+    "target": "computational performance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "memory constraints",
+    "target": "input length",
+    "relation": "prerequisite"
+  }
+]

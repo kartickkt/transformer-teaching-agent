@@ -1,0 +1,27 @@
+[
+  {
+    "source": "input and output modalities",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "images",
+    "target": "tables",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "images",
+    "target": "figures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "images",
+    "target": "visualizations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "images",
+    "target": "symbol positions",
+    "relation": "prerequisite"
+  }
+]

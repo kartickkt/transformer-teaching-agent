@@ -1,0 +1,17 @@
+[
+  {
+    "source": "limited training data",
+    "target": "over-fitting",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "limited training data",
+    "target": "semi-supervised setting",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "limited training data",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  }
+]

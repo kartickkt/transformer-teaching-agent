@@ -1,0 +1,12 @@
+[
+  {
+    "source": "sequence-aligned recurrence",
+    "target": "algorithms",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-aligned recurrence",
+    "target": "long-range dependencies",
+    "relation": "prerequisite"
+  }
+]

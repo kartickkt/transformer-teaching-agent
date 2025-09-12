@@ -1,0 +1,17 @@
+[
+  {
+    "source": "37000 tokens",
+    "target": "25000 source tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "37000 tokens",
+    "target": "25000 target tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "37000 tokens",
+    "target": "100,000 steps",
+    "relation": "prerequisite"
+  }
+]

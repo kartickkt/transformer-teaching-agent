@@ -1,0 +1,17 @@
+[
+  {
+    "source": "task-specific tuning",
+    "target": "multi-task",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "task-specific tuning",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "task-specific tuning",
+    "target": "local, restricted attention mechanisms",
+    "relation": "prerequisite"
+  }
+]

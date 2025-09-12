@@ -1,0 +1,22 @@
+[
+  {
+    "source": "decoder layer",
+    "target": "parallel attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder layer",
+    "target": "previous layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder layer",
+    "target": "sub-layer input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder layer",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "recurrent layer",
+    "target": "N = 6 identical layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent layer",
+    "target": "per-layer complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent layer",
+    "target": "Layer Type Complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent layer",
+    "target": "total computational complexity per layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent layer",
+    "target": "layer types",
+    "relation": "prerequisite"
+  }
+]

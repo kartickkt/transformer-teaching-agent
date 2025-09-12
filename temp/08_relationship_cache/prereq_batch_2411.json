@@ -1,0 +1,17 @@
+[
+  {
+    "source": "RNNs",
+    "target": "auto-regressive",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "RNNs",
+    "target": "Sequential",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "RNNs",
+    "target": "encoder",
+    "relation": "prerequisite"
+  }
+]

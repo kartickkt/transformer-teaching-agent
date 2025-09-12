@@ -1,0 +1,27 @@
+[
+  {
+    "source": "visualizations",
+    "target": "evaluate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "visualizations",
+    "target": "images",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "visualizations",
+    "target": "input and output modalities",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "visualizations",
+    "target": "state-of-the-art results",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "visualizations",
+    "target": "tree annotation",
+    "relation": "prerequisite"
+  }
+]

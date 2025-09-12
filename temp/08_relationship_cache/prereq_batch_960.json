@@ -1,0 +1,27 @@
+[
+  {
+    "source": "connected layers",
+    "target": "Structured attention networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "connected layers",
+    "target": "layer 5",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "connected layers",
+    "target": "N = 6 identical layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "connected layers",
+    "target": "per-layer complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "connected layers",
+    "target": "Layer Type Complexity",
+    "relation": "prerequisite"
+  }
+]

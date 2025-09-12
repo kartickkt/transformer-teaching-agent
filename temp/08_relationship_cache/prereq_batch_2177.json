@@ -1,0 +1,22 @@
+[
+  {
+    "source": "sequence modeling",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "Sequential",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "tasks",
+    "relation": "prerequisite"
+  }
+]

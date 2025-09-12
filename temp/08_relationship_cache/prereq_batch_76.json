@@ -1,0 +1,22 @@
+[
+  {
+    "source": "sequential nature",
+    "target": "global dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential nature",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential nature",
+    "target": "representation of the sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential nature",
+    "target": "auto-regressive",
+    "relation": "prerequisite"
+  }
+]

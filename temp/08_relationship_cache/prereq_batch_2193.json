@@ -1,0 +1,17 @@
+[
+  {
+    "source": "sequence modeling",
+    "target": "statistical machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "masking",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "parameters",
+    "relation": "prerequisite"
+  }
+]

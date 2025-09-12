@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Recurrent Neural Network Grammar",
+    "target": "Gradient flow in recurrent nets",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Recurrent Neural Network Grammar",
+    "target": "Neural computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Recurrent Neural Network Grammar",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Recurrent Neural Network Grammar",
+    "target": "Sequence to sequence learning with neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Recurrent Neural Network Grammar",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  }
+]

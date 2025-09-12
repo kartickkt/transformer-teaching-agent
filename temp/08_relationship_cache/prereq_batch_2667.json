@@ -1,0 +1,17 @@
+[
+  {
+    "source": "sentence pairs",
+    "target": "4.5 million sentence pairs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sentence pairs",
+    "target": "36M sentences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sentence pairs",
+    "target": "17M sentences",
+    "relation": "prerequisite"
+  }
+]

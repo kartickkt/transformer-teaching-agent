@@ -1,0 +1,7 @@
+[
+  {
+    "source": "neural machine translation architectures",
+    "target": "rnn encoder-decoder",
+    "relation": "prerequisite"
+  }
+]

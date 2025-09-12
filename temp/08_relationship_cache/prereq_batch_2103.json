@@ -1,0 +1,17 @@
+[
+  {
+    "source": "floating point operations",
+    "target": "number of operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "floating point operations",
+    "target": "minimum number of sequential operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "floating point operations",
+    "target": "amount of computation that can be parallelized",
+    "relation": "prerequisite"
+  }
+]

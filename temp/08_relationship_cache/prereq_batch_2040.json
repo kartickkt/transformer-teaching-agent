@@ -1,0 +1,12 @@
+[
+  {
+    "source": "computational complexity",
+    "target": "theoretical complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational complexity",
+    "target": "minimum number of sequential operations",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "model architecture",
+    "target": "big models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model architecture",
+    "target": "single model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model architecture",
+    "target": "model quality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model architecture",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  }
+]

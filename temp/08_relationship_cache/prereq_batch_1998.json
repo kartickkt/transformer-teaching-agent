@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Layer Type Complexity",
+    "target": "layer types",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fixed offset k",
+    "target": "input for position t",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fixed offset k",
+    "target": "point-wise",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "fixed offset k",
+    "target": "simple, position-",
+    "relation": "prerequisite"
+  }
+]

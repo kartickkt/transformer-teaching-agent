@@ -1,0 +1,27 @@
+[
+  {
+    "source": "tasks",
+    "target": "queries",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "keys",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "values",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "dot products",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "scaling",
+    "relation": "prerequisite"
+  }
+]

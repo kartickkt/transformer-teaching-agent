@@ -1,0 +1,27 @@
+[
+  {
+    "source": "tensorflow",
+    "target": "output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "vectors",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "scaling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tensorflow",
+    "target": "parameters",
+    "relation": "prerequisite"
+  }
+]

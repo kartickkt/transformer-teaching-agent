@@ -1,0 +1,17 @@
+[
+  {
+    "source": "model performance",
+    "target": "training examples",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model performance",
+    "target": "model architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model performance",
+    "target": "dmodel-dimensional keys",
+    "relation": "prerequisite"
+  }
+]

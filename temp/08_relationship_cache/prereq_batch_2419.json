@@ -1,0 +1,12 @@
+[
+  {
+    "source": "RNNs",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "RNNs",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  }
+]

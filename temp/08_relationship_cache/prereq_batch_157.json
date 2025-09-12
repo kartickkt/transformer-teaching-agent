@@ -1,0 +1,17 @@
+[
+  {
+    "source": "stack",
+    "target": "Sequential",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "stack",
+    "target": "sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "stack",
+    "target": "tasks",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "recurrence",
+    "target": "auto-regressive",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrence",
+    "target": "Sequential",
+    "relation": "prerequisite"
+  }
+]

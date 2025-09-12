@@ -1,0 +1,22 @@
+[
+  {
+    "source": "dependencies",
+    "target": "tables",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dependencies",
+    "target": "figures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dependencies",
+    "target": "visualizations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dependencies",
+    "target": "hidden",
+    "relation": "prerequisite"
+  }
+]

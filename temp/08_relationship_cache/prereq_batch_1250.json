@@ -1,0 +1,17 @@
+[
+  {
+    "source": "recurrent layer",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent layer",
+    "target": "Deep residual learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent layer",
+    "target": "Transformer architecture",
+    "relation": "prerequisite"
+  }
+]

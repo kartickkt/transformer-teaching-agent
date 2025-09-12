@@ -1,0 +1,12 @@
+[
+  {
+    "source": "softmax",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "softmax",
+    "target": "model variants",
+    "relation": "prerequisite"
+  }
+]

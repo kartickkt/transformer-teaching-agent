@@ -1,0 +1,12 @@
+[
+  {
+    "source": "sparsely-gated mixture-of-experts",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sparsely-gated mixture-of-experts",
+    "target": "local, restricted attention mechanisms",
+    "relation": "prerequisite"
+  }
+]

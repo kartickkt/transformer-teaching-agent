@@ -1,0 +1,27 @@
+[
+  {
+    "source": "single model",
+    "target": "decomposable attention model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single model",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single model",
+    "target": "best models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single model",
+    "target": "large training data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single model",
+    "target": "model variants",
+    "relation": "prerequisite"
+  }
+]

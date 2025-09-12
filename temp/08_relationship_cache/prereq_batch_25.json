@@ -1,0 +1,17 @@
+[
+  {
+    "source": "network architecture",
+    "target": "Transformer architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "network architecture",
+    "target": "Structured attention networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "network architecture",
+    "target": "ByteNet",
+    "relation": "prerequisite"
+  }
+]

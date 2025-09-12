@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence modeling",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "learning task-independent sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "continuous representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "softmax function",
+    "relation": "prerequisite"
+  }
+]

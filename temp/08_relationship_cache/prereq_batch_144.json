@@ -1,0 +1,17 @@
+[
+  {
+    "source": "auto-regressive",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "auto-regressive",
+    "target": "Recurrent",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise",
+    "target": "abstractive summarization",
+    "relation": "prerequisite"
+  }
+]

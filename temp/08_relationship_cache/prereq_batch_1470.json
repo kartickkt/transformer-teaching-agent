@@ -1,0 +1,22 @@
+[
+  {
+    "source": "sparsely-gated mixture-of-experts",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sparsely-gated mixture-of-experts",
+    "target": "hyperparameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sparsely-gated mixture-of-experts",
+    "target": "checkpoint averaging",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sparsely-gated mixture-of-experts",
+    "target": "task-specific tuning",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "output tokens",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output tokens",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output tokens",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output tokens",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output tokens",
+    "target": "decoder output",
+    "relation": "prerequisite"
+  }
+]

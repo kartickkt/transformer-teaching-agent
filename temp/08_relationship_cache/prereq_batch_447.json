@@ -1,0 +1,12 @@
+[
+  {
+    "source": "convolu-",
+    "target": "Separable convolutions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "recurrence",
+    "relation": "prerequisite"
+  }
+]

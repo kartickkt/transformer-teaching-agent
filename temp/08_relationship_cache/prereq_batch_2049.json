@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence length n",
+    "target": "O(logk(n))",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence length n",
+    "target": "length penalty",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence length n",
+    "target": "maximum output length",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence length n",
+    "target": "input length",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational performance",
+    "target": "conditional computation",
+    "relation": "prerequisite"
+  }
+]

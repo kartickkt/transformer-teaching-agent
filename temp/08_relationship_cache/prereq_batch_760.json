@@ -1,0 +1,12 @@
+[
+  {
+    "source": "inception architecture",
+    "target": "model architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "inception architecture",
+    "target": "layer types",
+    "relation": "prerequisite"
+  }
+]

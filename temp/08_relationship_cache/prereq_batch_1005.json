@@ -1,0 +1,22 @@
+[
+  {
+    "source": "encoder stack",
+    "target": "convolutional layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder stack",
+    "target": "point-wise feed-forward layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder stack",
+    "target": "positional embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder stack",
+    "target": "rnn encoder-decoder",
+    "relation": "prerequisite"
+  }
+]

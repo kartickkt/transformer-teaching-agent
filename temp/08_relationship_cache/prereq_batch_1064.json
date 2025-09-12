@@ -1,0 +1,22 @@
+[
+  {
+    "source": "feed-forward network",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "feed-forward network",
+    "target": "Transformer models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "feed-forward network",
+    "target": "learned linear transformation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "feed-forward network",
+    "target": "forward signals",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "source": "Self-training PCFG grammars with latent annotations across languages",
+    "target": "self-training",
+    "relation": "prerequisite"
+  }
+]

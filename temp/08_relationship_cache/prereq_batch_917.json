@@ -1,0 +1,17 @@
+[
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learning task-independent sentence representations",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  }
+]

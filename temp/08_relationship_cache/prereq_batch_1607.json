@@ -1,0 +1,22 @@
+[
+  {
+    "source": "multi-head attention",
+    "target": "attention function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "multi-head attention",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "multi-head attention",
+    "target": "Attention(Q, K, V)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "multi-head attention",
+    "target": "dot-product attention",
+    "relation": "prerequisite"
+  }
+]

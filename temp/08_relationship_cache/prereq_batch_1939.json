@@ -1,0 +1,17 @@
+[
+  {
+    "source": "N = 6 identical layers",
+    "target": "layer types",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "N = 6 identical layers",
+    "target": "dmodel = 1024",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaling factor",
+    "target": "parameters",
+    "relation": "prerequisite"
+  }
+]

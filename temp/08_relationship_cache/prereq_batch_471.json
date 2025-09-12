@@ -1,0 +1,22 @@
+[
+  {
+    "source": "network",
+    "target": "sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "network",
+    "target": "tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "network",
+    "target": "normalized",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "network",
+    "target": "dropout",
+    "relation": "prerequisite"
+  }
+]

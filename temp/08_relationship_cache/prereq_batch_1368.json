@@ -1,0 +1,27 @@
+[
+  {
+    "source": "rnn encoder-decoder",
+    "target": "Parser Training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "rnn encoder-decoder",
+    "target": "Neural machine translation of rare words with subword units",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "long-range dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "machine reading",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "convolutional neural networks",
+    "relation": "prerequisite"
+  }
+]

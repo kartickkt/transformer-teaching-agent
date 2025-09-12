@@ -1,0 +1,7 @@
+[
+  {
+    "source": "training batch",
+    "target": "dropout",
+    "relation": "prerequisite"
+  }
+]

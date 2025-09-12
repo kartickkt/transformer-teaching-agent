@@ -1,0 +1,22 @@
+[
+  {
+    "source": "computational performance",
+    "target": "theoretical complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational performance",
+    "target": "space-efficient",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational performance",
+    "target": "per-layer complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational performance",
+    "target": "total computational complexity per layer",
+    "relation": "prerequisite"
+  }
+]

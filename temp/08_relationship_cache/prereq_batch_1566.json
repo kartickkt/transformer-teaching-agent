@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Transformer architecture",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer architecture",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer architecture",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer architecture",
+    "target": "feed-forward network",
+    "relation": "prerequisite"
+  }
+]

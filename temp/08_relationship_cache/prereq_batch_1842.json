@@ -1,0 +1,27 @@
+[
+  {
+    "source": "parallelizable",
+    "target": "constant number of sequentially executed operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallelizable",
+    "target": "O(n) sequential operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallelizable",
+    "target": "computational performance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallelizable",
+    "target": "FLOPs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallelizable",
+    "target": "floating point operations",
+    "relation": "prerequisite"
+  }
+]

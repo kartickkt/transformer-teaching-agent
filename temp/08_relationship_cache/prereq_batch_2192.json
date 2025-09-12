@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence modeling",
+    "target": "Sequence to sequence learning with neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "machine translation tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "Parser Training",
+    "relation": "prerequisite"
+  }
+]

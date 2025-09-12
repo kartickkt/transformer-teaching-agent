@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Learning Representations",
+    "target": "learning rate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Learning Representations",
+    "target": "learning phrase representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Learning Representations",
+    "target": "rnn encoder-decoder",
+    "relation": "prerequisite"
+  }
+]

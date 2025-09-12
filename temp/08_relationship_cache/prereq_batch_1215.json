@@ -1,0 +1,17 @@
+[
+  {
+    "source": "pre-softmax",
+    "target": "softmax function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "pre-softmax",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "pre-softmax",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  }
+]

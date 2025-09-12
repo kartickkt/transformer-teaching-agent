@@ -1,0 +1,12 @@
+[
+  {
+    "source": "output embeddings",
+    "target": "Learning Representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output embeddings",
+    "target": "Transformer models",
+    "relation": "prerequisite"
+  }
+]

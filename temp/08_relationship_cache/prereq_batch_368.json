@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Sequential",
+    "target": "train",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequential",
+    "target": "params",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequential",
+    "target": "checkpoint averaging",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequential",
+    "target": "evaluate",
+    "relation": "prerequisite"
+  }
+]

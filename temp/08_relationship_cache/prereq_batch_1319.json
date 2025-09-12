@@ -1,0 +1,17 @@
+[
+  {
+    "source": "semi-supervised setting",
+    "target": "limited training data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "semi-supervised setting",
+    "target": "efficient inference",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "semi-supervised setting",
+    "target": "learning task-independent sentence representations",
+    "relation": "prerequisite"
+  }
+]

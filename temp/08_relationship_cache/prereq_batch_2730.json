@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Computational linguistics",
+    "target": "21st International Conference on Computational Linguistics",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Computational linguistics",
+    "target": "Neural machine translation of rare words with subword units",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Computational linguistics",
+    "target": "Grammar as a foreign language",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Computational linguistics",
+    "target": "Google\u00e2\u20ac\u2122s neural machine translation system",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Computational linguistics",
+    "target": "human and machine translation",
+    "relation": "prerequisite"
+  }
+]

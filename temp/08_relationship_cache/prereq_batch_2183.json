@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence modeling",
+    "target": "Convolutional sequence to sequence learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "Multi-task sequence to sequence learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "self-training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "deep reinforced model for abstractive summarization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "sparsely-gated mixture-of-experts",
+    "relation": "prerequisite"
+  }
+]

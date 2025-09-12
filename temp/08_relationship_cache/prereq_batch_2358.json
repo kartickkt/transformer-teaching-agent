@@ -1,0 +1,17 @@
+[
+  {
+    "source": "base models",
+    "target": "dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "base models",
+    "target": "vectors of dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "base models",
+    "target": "dimension dmodel",
+    "relation": "prerequisite"
+  }
+]

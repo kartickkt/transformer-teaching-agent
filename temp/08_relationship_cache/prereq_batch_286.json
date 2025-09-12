@@ -1,0 +1,17 @@
+[
+  {
+    "source": "dot product",
+    "target": "dot-product attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dot product",
+    "target": "matrix multiplication code",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dot product",
+    "target": "dmodel-dimensional keys",
+    "relation": "prerequisite"
+  }
+]

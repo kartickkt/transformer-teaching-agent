@@ -1,0 +1,7 @@
+[
+  {
+    "source": "Transformer (big)",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  }
+]

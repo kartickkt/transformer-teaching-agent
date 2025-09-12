@@ -1,0 +1,17 @@
+[
+  {
+    "source": "statistical machine translation",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "statistical machine translation",
+    "target": "machine translation tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "statistical machine translation",
+    "target": "WMT 2014 English-to-German translation task",
+    "relation": "prerequisite"
+  }
+]

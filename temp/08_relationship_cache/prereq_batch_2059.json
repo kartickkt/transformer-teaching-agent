@@ -1,0 +1,22 @@
+[
+  {
+    "source": "neighborhood of size r",
+    "target": "sequence length n",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neighborhood of size r",
+    "target": "O(n/r)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "O(n/r)",
+    "target": "recurrence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "O(n/r)",
+    "target": "P E(pos,2i)",
+    "relation": "prerequisite"
+  }
+]

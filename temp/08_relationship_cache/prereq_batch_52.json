@@ -1,0 +1,12 @@
+[
+  {
+    "source": "visualizations",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "visualizations",
+    "target": "attention distributions",
+    "relation": "prerequisite"
+  }
+]

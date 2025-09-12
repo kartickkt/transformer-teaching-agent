@@ -1,0 +1,22 @@
+[
+  {
+    "source": "language modeling",
+    "target": "machine translation tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "WMT 2014 English-to-German translation task",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "WMT 2014 English-to-French translation task",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "translation quality",
+    "relation": "prerequisite"
+  }
+]

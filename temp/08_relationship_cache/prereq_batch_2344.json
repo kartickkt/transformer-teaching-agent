@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Training Data",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Training Data",
+    "target": "Deep residual learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Training Data",
+    "target": "Learning Representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Training Data",
+    "target": "self-training",
+    "relation": "prerequisite"
+  }
+]

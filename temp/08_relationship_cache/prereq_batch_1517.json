@@ -1,0 +1,27 @@
+[
+  {
+    "source": "linear transformations",
+    "target": "layer normalization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear transformations",
+    "target": "softmax function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear transformations",
+    "target": "learned linear projections",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear transformations",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear transformations",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  }
+]

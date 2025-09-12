@@ -1,0 +1,22 @@
+[
+  {
+    "source": "neural networks",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "parameter matrices",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "state-of-the-art models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  }
+]

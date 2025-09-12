@@ -1,0 +1,12 @@
+[
+  {
+    "source": "feed-forward network",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "feed-forward network",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  }
+]

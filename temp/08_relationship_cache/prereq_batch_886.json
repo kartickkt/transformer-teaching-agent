@@ -1,0 +1,17 @@
+[
+  {
+    "source": "output sequences",
+    "target": "output tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output sequences",
+    "target": "order of the sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output sequences",
+    "target": "relative positions",
+    "relation": "prerequisite"
+  }
+]

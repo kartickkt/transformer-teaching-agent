@@ -1,0 +1,17 @@
+[
+  {
+    "source": "softmax function",
+    "target": "label smoothing",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "softmax function",
+    "target": "stochastic optimization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "softmax function",
+    "target": "convolutional neural networks",
+    "relation": "prerequisite"
+  }
+]

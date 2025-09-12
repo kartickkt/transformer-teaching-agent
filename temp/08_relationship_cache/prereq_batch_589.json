@@ -1,0 +1,12 @@
+[
+  {
+    "source": "training time",
+    "target": "training costs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training time",
+    "target": "large training data",
+    "relation": "prerequisite"
+  }
+]

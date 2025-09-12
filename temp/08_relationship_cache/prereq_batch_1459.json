@@ -1,0 +1,22 @@
+[
+  {
+    "source": "self-training",
+    "target": "training examples",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-training",
+    "target": "Training Data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-training",
+    "target": "training batch",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "self-training",
+    "target": "single model",
+    "relation": "prerequisite"
+  }
+]

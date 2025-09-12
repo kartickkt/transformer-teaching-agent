@@ -1,0 +1,12 @@
+[
+  {
+    "source": "previous hidden state ht\u00e2\u02c6\u20191",
+    "target": "input for position t",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "previous hidden state ht\u00e2\u02c6\u20191",
+    "target": "Concat(head1, ..., headh)WO",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "restricted self-attention",
+    "target": "hidden",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "restricted self-attention",
+    "target": "abstractive summarization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "restricted self-attention",
+    "target": "dropout",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "restricted self-attention",
+    "target": "discriminative",
+    "relation": "prerequisite"
+  }
+]

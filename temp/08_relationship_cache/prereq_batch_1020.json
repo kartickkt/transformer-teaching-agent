@@ -1,0 +1,22 @@
+[
+  {
+    "source": "output embeddings",
+    "target": "Transformer architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output embeddings",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output embeddings",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output embeddings",
+    "target": "dimensionality",
+    "relation": "prerequisite"
+  }
+]

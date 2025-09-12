@@ -1,0 +1,17 @@
+[
+  {
+    "source": "per-layer complexity",
+    "target": "LayerNorm",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "per-layer complexity",
+    "target": "perplexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "per-layer complexity",
+    "target": "convolutions",
+    "relation": "prerequisite"
+  }
+]

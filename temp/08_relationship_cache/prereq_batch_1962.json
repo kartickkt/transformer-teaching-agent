@@ -1,0 +1,12 @@
+[
+  {
+    "source": "kernel size 1",
+    "target": "size of the neighborhood",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "kernel size 1",
+    "target": "fixed offset k",
+    "relation": "prerequisite"
+  }
+]

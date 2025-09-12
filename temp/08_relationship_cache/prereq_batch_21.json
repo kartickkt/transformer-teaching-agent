@@ -1,0 +1,27 @@
+[
+  {
+    "source": "figures",
+    "target": "representation dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "figures",
+    "target": "dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "figures",
+    "target": "dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "figures",
+    "target": "state-of-the-art models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "figures",
+    "target": "base models",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "point-wise feed-forward layer",
+    "target": "previous layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "point-wise feed-forward layer",
+    "target": "sub-layer input",
+    "relation": "prerequisite"
+  }
+]

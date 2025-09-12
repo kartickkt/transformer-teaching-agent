@@ -1,0 +1,27 @@
+[
+  {
+    "source": "32000 word-piece vocabulary",
+    "target": "25000 source tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "32000 word-piece vocabulary",
+    "target": "25000 target tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "32000 word-piece vocabulary",
+    "target": "16K tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "32000 word-piece vocabulary",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "32000 word-piece vocabulary",
+    "target": "translation quality",
+    "relation": "prerequisite"
+  }
+]

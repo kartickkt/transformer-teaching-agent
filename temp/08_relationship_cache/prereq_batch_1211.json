@@ -1,0 +1,22 @@
+[
+  {
+    "source": "embedding layers",
+    "target": "layer types",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "base models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "RNNs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "gated recurrent neural networks",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "parallel attention layers",
+    "target": "Attention Is All You Need",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallel attention layers",
+    "target": "4-layer transformer",
+    "relation": "prerequisite"
+  }
+]

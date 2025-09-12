@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Google Brain",
+    "target": "beam search",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Google Brain",
+    "target": "machine reading",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Google Brain",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  }
+]

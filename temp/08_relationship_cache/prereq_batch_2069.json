@@ -1,0 +1,17 @@
+[
+  {
+    "source": "25000 source tokens",
+    "target": "tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "25000 source tokens",
+    "target": "output tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "25000 source tokens",
+    "target": "predicted next-token probabilities",
+    "relation": "prerequisite"
+  }
+]

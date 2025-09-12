@@ -1,0 +1,27 @@
+[
+  {
+    "source": "kernel width k",
+    "target": "maximum path lengths",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "kernel width k",
+    "target": "fixed offset k",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "kernel width k",
+    "target": "path length between long-range dependencies in the network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "kernel width k",
+    "target": "O(logk(n))",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "kernel width k",
+    "target": "maximum output length",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "32000 word-piece vocabulary",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "32000 word-piece vocabulary",
+    "target": "learning phrase representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "32000 word-piece vocabulary",
+    "target": "37000 tokens",
+    "relation": "prerequisite"
+  }
+]

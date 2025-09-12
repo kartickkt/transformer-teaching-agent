@@ -1,0 +1,12 @@
+[
+  {
+    "source": "sequential computation",
+    "target": "Sequence to sequence learning with neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "eight P100 GPUs",
+    "target": "eight GPUs",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "computation",
+    "target": "figures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computation",
+    "target": "recurrence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computation",
+    "target": "conditional computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computation",
+    "target": "output",
+    "relation": "prerequisite"
+  }
+]

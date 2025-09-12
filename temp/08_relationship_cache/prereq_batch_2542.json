@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Neural computation",
+    "target": "RNNs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural computation",
+    "target": "gated recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural computation",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural computation",
+    "target": "Extended Neural GPU",
+    "relation": "prerequisite"
+  }
+]

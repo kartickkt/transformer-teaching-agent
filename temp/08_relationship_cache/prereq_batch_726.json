@@ -1,0 +1,17 @@
+[
+  {
+    "source": "empirical evaluation",
+    "target": "existing best results",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "empirical evaluation",
+    "target": "hyperparameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "empirical evaluation",
+    "target": "state-of-the-art results",
+    "relation": "prerequisite"
+  }
+]

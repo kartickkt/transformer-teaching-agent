@@ -1,0 +1,27 @@
+[
+  {
+    "source": "linear transformations",
+    "target": "matrix multiplication code",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear transformations",
+    "target": "floating point operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear transformations",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear transformations",
+    "target": "matrix Q",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "linear transformations",
+    "target": "parameter matrices",
+    "relation": "prerequisite"
+  }
+]

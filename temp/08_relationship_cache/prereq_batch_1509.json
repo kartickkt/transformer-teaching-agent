@@ -1,0 +1,22 @@
+[
+  {
+    "source": "transduction problems",
+    "target": "sequence transduction models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "transduction problems",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "transduction problems",
+    "target": "sequence transduction encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "transduction problems",
+    "target": "sequence transduction tasks",
+    "relation": "prerequisite"
+  }
+]

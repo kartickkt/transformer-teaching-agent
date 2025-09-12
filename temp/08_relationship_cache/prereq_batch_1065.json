@@ -1,0 +1,17 @@
+[
+  {
+    "source": "feed-forward network",
+    "target": "Transformer architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "feed-forward network",
+    "target": "attention mechanism",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "feed-forward network",
+    "target": "additive attention",
+    "relation": "prerequisite"
+  }
+]

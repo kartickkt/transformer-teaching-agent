@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sub-layers",
+    "target": "recurrent layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layers",
+    "target": "convolutional layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layers",
+    "target": "point-wise feed-forward layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layers",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sub-layers",
+    "target": "Deep residual learning",
+    "relation": "prerequisite"
+  }
+]

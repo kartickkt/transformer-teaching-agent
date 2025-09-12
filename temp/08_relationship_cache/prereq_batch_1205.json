@@ -1,0 +1,27 @@
+[
+  {
+    "source": "embedding layers",
+    "target": "learning phrase representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "rnn encoder-decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "Convolutional sequence to sequence learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "embedding layers",
+    "target": "Deep residual learning",
+    "relation": "prerequisite"
+  }
+]

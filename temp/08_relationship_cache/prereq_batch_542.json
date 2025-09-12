@@ -1,0 +1,22 @@
+[
+  {
+    "source": "hyperparameters",
+    "target": "attention key and value dimensions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hyperparameters",
+    "target": "task-specific tuning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hyperparameters",
+    "target": "stochastic optimization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hyperparameters",
+    "target": "encoder",
+    "relation": "prerequisite"
+  }
+]

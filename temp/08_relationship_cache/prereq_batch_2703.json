@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Self-training PCFG grammars with latent annotations across languages",
+    "target": "limited training data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Self-training PCFG grammars with latent annotations across languages",
+    "target": "learning task-independent sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Self-training PCFG grammars with latent annotations across languages",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Self-training PCFG grammars with latent annotations across languages",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Self-training PCFG grammars with latent annotations across languages",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  }
+]

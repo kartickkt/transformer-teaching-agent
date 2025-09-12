@@ -1,0 +1,27 @@
+[
+  {
+    "source": "continuous representations",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "continuous representations",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "continuous representations",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "continuous representations",
+    "target": "learned linear projections",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "continuous representations",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  }
+]

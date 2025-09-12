@@ -1,0 +1,22 @@
+[
+  {
+    "source": "recurrent language models",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent language models",
+    "target": "recurrent layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent language models",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent language models",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  }
+]

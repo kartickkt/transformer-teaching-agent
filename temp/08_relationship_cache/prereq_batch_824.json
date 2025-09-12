@@ -1,0 +1,7 @@
+[
+  {
+    "source": "convolutions",
+    "target": "dilated convolutions",
+    "relation": "prerequisite"
+  }
+]

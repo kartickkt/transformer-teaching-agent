@@ -1,0 +1,7 @@
+[
+  {
+    "source": "fast-forward connections",
+    "target": "residual connection",
+    "relation": "prerequisite"
+  }
+]

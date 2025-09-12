@@ -1,0 +1,12 @@
+[
+  {
+    "source": "backward signals",
+    "target": "previous hidden state ht\u00e2\u02c6\u20191",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "backward signals",
+    "target": "predictions",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "hidden representations",
+    "target": "structured self-attentive sentence embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden representations",
+    "target": "sub-layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden representations",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden representations",
+    "target": "parallel attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden representations",
+    "target": "restricted self-attention",
+    "relation": "prerequisite"
+  }
+]

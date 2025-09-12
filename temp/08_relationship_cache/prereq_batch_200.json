@@ -1,0 +1,27 @@
+[
+  {
+    "source": "query",
+    "target": "tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "query",
+    "target": "dot products",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "query",
+    "target": "heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "query",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "query",
+    "target": "output tokens",
+    "relation": "prerequisite"
+  }
+]

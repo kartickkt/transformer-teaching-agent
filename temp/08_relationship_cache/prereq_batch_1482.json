@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Input-Input Layer5",
+    "target": "layer 5",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Input-Input Layer5",
+    "target": "N = 6 identical layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Input-Input Layer5",
+    "target": "per-layer complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Input-Input Layer5",
+    "target": "Layer Type Complexity",
+    "relation": "prerequisite"
+  }
+]

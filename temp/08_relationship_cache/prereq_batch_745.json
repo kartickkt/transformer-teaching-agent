@@ -1,0 +1,17 @@
+[
+  {
+    "source": "stochastic optimization",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "stochastic optimization",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "stochastic optimization",
+    "target": "statistical machine translation",
+    "relation": "prerequisite"
+  }
+]

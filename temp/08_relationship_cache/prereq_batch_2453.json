@@ -1,0 +1,17 @@
+[
+  {
+    "source": "recurrent language models",
+    "target": "Google\u00e2\u20ac\u2122s neural machine translation system",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent language models",
+    "target": "human and machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Extended Neural GPU",
+    "target": "tensor2tensor",
+    "relation": "prerequisite"
+  }
+]

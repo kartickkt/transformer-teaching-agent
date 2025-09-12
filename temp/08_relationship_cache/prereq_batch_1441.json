@@ -1,0 +1,7 @@
+[
+  {
+    "source": "structured self-attentive sentence embedding",
+    "target": "sentence representations",
+    "relation": "prerequisite"
+  }
+]

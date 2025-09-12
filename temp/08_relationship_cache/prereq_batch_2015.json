@@ -1,0 +1,17 @@
+[
+  {
+    "source": "amount of computation that can be parallelized",
+    "target": "theoretical complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "amount of computation that can be parallelized",
+    "target": "per-layer complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "amount of computation that can be parallelized",
+    "target": "minimum number of sequential operations",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "normalized",
+    "target": "scaling factor",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "normalized",
+    "target": "representation dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "normalized",
+    "target": "dimension",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequential computation",
+    "target": "recurrence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "sequential nature",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "conditional computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequential computation",
+    "target": "representation of the sequence",
+    "relation": "prerequisite"
+  }
+]

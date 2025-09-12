@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Sequential",
+    "target": "recurrence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequential",
+    "target": "sequential nature",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Sequential",
+    "target": "batching",
+    "relation": "prerequisite"
+  }
+]

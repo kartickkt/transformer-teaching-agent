@@ -1,0 +1,17 @@
+[
+  {
+    "source": "sentence representations",
+    "target": "Positional Encoding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sentence representations",
+    "target": "positional embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sentence representations",
+    "target": "structured self-attentive sentence embedding",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "feed-forward network",
+    "target": "RNNs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "feed-forward network",
+    "target": "gated recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "feed-forward network",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "feed-forward network",
+    "target": "RNN sequence-to-sequence models",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "known outputs",
+    "target": "output tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "known outputs",
+    "target": "versions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "known outputs",
+    "target": "output positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "known outputs",
+    "target": "tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "known outputs",
+    "target": "state-of-the-art results",
+    "relation": "prerequisite"
+  }
+]

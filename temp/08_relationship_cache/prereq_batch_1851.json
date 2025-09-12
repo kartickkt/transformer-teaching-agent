@@ -1,0 +1,22 @@
+[
+  {
+    "source": "computation",
+    "target": "parallelization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computation",
+    "target": "computational efficiency",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computation",
+    "target": "sequential computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computation",
+    "target": "number of operations",
+    "relation": "prerequisite"
+  }
+]

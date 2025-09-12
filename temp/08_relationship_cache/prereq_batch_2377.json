@@ -1,0 +1,17 @@
+[
+  {
+    "source": "model quality",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model quality",
+    "target": "hyperparameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model quality",
+    "target": "development set",
+    "relation": "prerequisite"
+  }
+]

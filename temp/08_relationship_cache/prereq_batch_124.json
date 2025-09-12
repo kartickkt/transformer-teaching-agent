@@ -1,0 +1,17 @@
+[
+  {
+    "source": "symbol representations",
+    "target": "vectors",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "symbol representations",
+    "target": "tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "symbol representations",
+    "target": "relative positions",
+    "relation": "prerequisite"
+  }
+]

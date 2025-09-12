@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Deep recurrent models",
+    "target": "long-range dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Deep recurrent models",
+    "target": "convolutional neural networks",
+    "relation": "prerequisite"
+  }
+]

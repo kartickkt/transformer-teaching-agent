@@ -1,0 +1,12 @@
+[
+  {
+    "source": "language modeling",
+    "target": "parsing",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "encoder",
+    "relation": "prerequisite"
+  }
+]

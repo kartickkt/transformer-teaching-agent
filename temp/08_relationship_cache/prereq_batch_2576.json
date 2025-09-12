@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Journal of Machine Learning Research",
+    "target": "31st Conference on Neural Information Processing Systems (NIPS 2017)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Journal of Machine Learning Research",
+    "target": "NAACL",
+    "relation": "prerequisite"
+  }
+]

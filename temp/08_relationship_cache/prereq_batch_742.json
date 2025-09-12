@@ -1,0 +1,12 @@
+[
+  {
+    "source": "stochastic optimization",
+    "target": "independent random variables",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "stochastic optimization",
+    "target": "hyperparameters",
+    "relation": "prerequisite"
+  }
+]

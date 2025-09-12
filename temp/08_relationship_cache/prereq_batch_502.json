@@ -1,0 +1,22 @@
+[
+  {
+    "source": "byte-pair",
+    "target": "word-piece",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "byte-pair",
+    "target": "sentence pairs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "byte-pair",
+    "target": "4.5 million sentence pairs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "byte-pair",
+    "target": "per-wordpiece",
+    "relation": "prerequisite"
+  }
+]

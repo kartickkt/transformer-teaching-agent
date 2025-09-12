@@ -1,0 +1,27 @@
+[
+  {
+    "source": "large training data",
+    "target": "Training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "large training data",
+    "target": "training time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "large training data",
+    "target": "train",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "large training data",
+    "target": "task-specific tuning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "large training data",
+    "target": "machine reading",
+    "relation": "prerequisite"
+  }
+]

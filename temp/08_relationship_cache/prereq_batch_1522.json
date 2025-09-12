@@ -1,0 +1,12 @@
+[
+  {
+    "source": "learned linear transformation",
+    "target": "linear function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned linear transformation",
+    "target": "Training",
+    "relation": "prerequisite"
+  }
+]

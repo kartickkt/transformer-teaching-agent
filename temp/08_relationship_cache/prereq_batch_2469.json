@@ -1,0 +1,17 @@
+[
+  {
+    "source": "RNN sequence-to-sequence models",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "RNN sequence-to-sequence models",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "RNN sequence-to-sequence models",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  }
+]

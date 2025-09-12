@@ -1,0 +1,17 @@
+[
+  {
+    "source": "tasks",
+    "target": "algorithms",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "machine reading",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "corrections",
+    "relation": "prerequisite"
+  }
+]

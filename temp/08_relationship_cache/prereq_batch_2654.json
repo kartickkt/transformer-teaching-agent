@@ -1,0 +1,27 @@
+[
+  {
+    "source": "shared source-target vocabulary",
+    "target": "32000 word-piece vocabulary",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "shared source-target vocabulary",
+    "target": "sentence pairs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "shared source-target vocabulary",
+    "target": "English-to-German base translation model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "shared source-target vocabulary",
+    "target": "Neural machine translation of rare words with subword units",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "2014 English-French dataset",
+    "target": "large training data",
+    "relation": "prerequisite"
+  }
+]

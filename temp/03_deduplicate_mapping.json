@@ -1,0 +1,488 @@
+{
+  "encoder": [
+    "encoder",
+    "encoder",
+    "encoder",
+    "encoder",
+    "encoder",
+    "encoder",
+    "encoder"
+  ],
+  "decoder": [
+    "decoder",
+    "decoder",
+    "decoder",
+    "decoder",
+    "decoder",
+    "decoder",
+    "decoder"
+  ],
+  "Transformer": [
+    "Transformer",
+    "Transformer",
+    "Transformer",
+    "Transformer",
+    "Transformer",
+    "Transformer",
+    "Transformer",
+    "Transformer",
+    "The Transformer",
+    "Transformer",
+    "Transformer",
+    "Transformer",
+    "Transformer",
+    "Transformer",
+    "Transformer"
+  ],
+  "tensor2tensor": [
+    "tensor2tensor",
+    "tensor2tensor"
+  ],
+  "Google Brain": [
+    "Google Brain"
+  ],
+  "Google Research": [
+    "Google Research"
+  ],
+  "attention mechanisms": [
+    "Attention mechanisms",
+    "attention mechanisms"
+  ],
+  "sequence modeling": [
+    "sequence modeling",
+    "sequence modeling"
+  ],
+  "recurrence": [
+    "recurrence"
+  ],
+  "attention mechanism": [
+    "attention mechanism",
+    "attention mechanism",
+    "attention mechanism"
+  ],
+  "parallelization": [
+    "parallelization"
+  ],
+  "convolutional neural networks": [
+    "convolutional neural networks"
+  ],
+  "ConvS2S": [
+    "ConvS2S",
+    "ConvS2S"
+  ],
+  "ByteNet": [
+    "ByteNet",
+    "ByteNet"
+  ],
+  "multi-head attention": [
+    "Multi-Head Attention",
+    "multi-head attention",
+    "Multi-Head Attention",
+    "Multi-Head Attention",
+    "Multi-Head Attention",
+    "Multi-head attention",
+    "multi-head attention"
+  ],
+  "self-attention": [
+    "self-attention",
+    "self-attention",
+    "self-attention",
+    "self-attention",
+    "Self-Attention",
+    "self-attention",
+    "self-attention"
+  ],
+  "language modeling tasks": [
+    "language modeling tasks"
+  ],
+  "RNNs": [
+    "RNNs"
+  ],
+  "model architecture": [
+    "model architecture"
+  ],
+  "layer normalization": [
+    "layer normalization",
+    "Layer normalization"
+  ],
+  "output": [
+    "output",
+    "output",
+    "output"
+  ],
+  "scaled dot-product attention": [
+    "Scaled Dot-Product Attention",
+    "Scaled Dot-Product Attention",
+    "scaled dot-product attention"
+  ],
+  "attention function": [
+    "attention function",
+    "attention function"
+  ],
+  "compatibility function": [
+    "compatibility function",
+    "compatibility function"
+  ],
+  "dot-product attention": [
+    "dot-product attention",
+    "dot product attention"
+  ],
+  "additive attention": [
+    "additive attention"
+  ],
+  "softmax function": [
+    "softmax function",
+    "softmax function"
+  ],
+  "keys": [
+    "keys",
+    "keys",
+    "keys"
+  ],
+  "values": [
+    "values",
+    "values",
+    "values"
+  ],
+  "queries": [
+    "queries",
+    "queries",
+    "queries",
+    "queries"
+  ],
+  "dot products": [
+    "dot products"
+  ],
+  "dk": [
+    "dk"
+  ],
+  "dv": [
+    "dv"
+  ],
+  "input sequence": [
+    "input sequence",
+    "input sequence"
+  ],
+  "self-attention layers": [
+    "self-attention layers",
+    "self-attention layers",
+    "self-attention layers"
+  ],
+  "masking": [
+    "masking"
+  ],
+  "softmax": [
+    "softmax",
+    "Softmax"
+  ],
+  "convolutions": [
+    "convolutions",
+    "convolutions"
+  ],
+  "dmodel": [
+    "dmodel"
+  ],
+  "sequence transduction models": [
+    "sequence transduction models"
+  ],
+  "embedding layers": [
+    "embedding layers"
+  ],
+  "restricted self-attention": [
+    "restricted Self-Attention"
+  ],
+  "tokens": [
+    "tokens"
+  ],
+  "Positional Encoding": [
+    "positional encoding"
+  ],
+  "Recurrent": [
+    "recurrent"
+  ],
+  "symbol representations": [
+    "symbol representations"
+  ],
+  "dependencies": [
+    "dependencies"
+  ],
+  "Maximum Path Length": [
+    "maximum path length",
+    "maximum path length"
+  ],
+  "n": [
+    "n",
+    "N"
+  ],
+  "recurrent layers": [
+    "recurrent layers",
+    "recurrent layers"
+  ],
+  "self-attention layer": [
+    "self-attention layer"
+  ],
+  "batching": [
+    "Batching"
+  ],
+  "sequence length": [
+    "sequence length"
+  ],
+  "3.5 days": [
+    "3.5 days"
+  ],
+  "learning rate": [
+    "learning rate"
+  ],
+  "state-of-the-art models": [
+    "state-of-the-art models"
+  ],
+  "Deep-Att + PosUnk Ensemble": [
+    "Deep-Att + PosUnk Ensemble"
+  ],
+  "Embeddings": [
+    "embeddings"
+  ],
+  "positional encodings": [
+    "positional encodings"
+  ],
+  "decoder stacks": [
+    "decoder stacks"
+  ],
+  "WMT 2014 English-to-German translation task": [
+    "WMT 2014 English-to-German translation task"
+  ],
+  "Transformer (big)": [
+    "Transformer (big)",
+    "Transformer (big)"
+  ],
+  "BLEU": [
+    "BLEU",
+    "BLEU",
+    "BLEU",
+    "BLEU"
+  ],
+  "base model": [
+    "base model"
+  ],
+  "WMT 2014 English-to-French translation task": [
+    "WMT 2014 English-to-French translation task"
+  ],
+  "BLEU score": [
+    "BLEU score"
+  ],
+  "English-to-French": [
+    "English-to-French"
+  ],
+  "base models": [
+    "base models"
+  ],
+  "translation quality": [
+    "translation quality"
+  ],
+  "training costs": [
+    "training costs"
+  ],
+  "English-to-German translation": [
+    "English-to-German translation"
+  ],
+  "byte-pair encoding": [
+    "byte-pair encoding"
+  ],
+  "d": [
+    "d"
+  ],
+  "model": [
+    "model",
+    "model"
+  ],
+  "dff": [
+    "dff"
+  ],
+  "h": [
+    "h"
+  ],
+  "PPL": [
+    "PPL"
+  ],
+  "512": [
+    "512"
+  ],
+  "2048": [
+    "2048"
+  ],
+  "0.0": [
+    "0.0"
+  ],
+  "newstest2013": [
+    "newstest2013"
+  ],
+  "beam search": [
+    "beam search"
+  ],
+  "Table 3": [
+    "Table 3"
+  ],
+  "computation": [
+    "computation"
+  ],
+  "dot product": [
+    "dot product"
+  ],
+  "dropout": [
+    "dropout",
+    "dropout",
+    "Dropout"
+  ],
+  "learned positional embeddings": [
+    "learned positional embeddings"
+  ],
+  "English constituency parsing": [
+    "English constituency parsing",
+    "English constituency parsing"
+  ],
+  "semi-supervised setting": [
+    "semi-supervised setting"
+  ],
+  "Attention": [
+    "attention",
+    "attention",
+    "attention"
+  ],
+  "beam size": [
+    "beam size",
+    "beam size"
+  ],
+  "McClosky et al. (2006)": [
+    "McClosky et al. (2006)"
+  ],
+  "Vinyals & Kaiser el al. (2014)": [
+    "Vinyals & Kaiser el al. (2014)"
+  ],
+  "Dyer et al. (2016)": [
+    "Dyer et al. (2016)"
+  ],
+  "maximum output length": [
+    "maximum output length"
+  ],
+  "WSJ": [
+    "WSJ"
+  ],
+  "RNN sequence-to-sequence models": [
+    "RNN sequence-to-sequence models"
+  ],
+  "encoder-decoder architectures": [
+    "encoder-decoder architectures"
+  ],
+  "multi-headed self-attention": [
+    "multi-headed self-attention"
+  ],
+  "state of the art": [
+    "state of the art"
+  ],
+  "train": [
+    "train"
+  ],
+  "models": [
+    "models"
+  ],
+  "comments": [
+    "comments"
+  ],
+  "corrections": [
+    "corrections"
+  ],
+  "inspiration": [
+    "inspiration"
+  ],
+  "Kyunghyun Cho": [
+    "Kyunghyun Cho"
+  ],
+  "gated recurrent neural networks": [
+    "gated recurrent neural networks"
+  ],
+  "Recurrent neural networks": [
+    "recurrent neural networks"
+  ],
+  "long short-term memory": [
+    "Long short-term memory"
+  ],
+  "Noam Shazeer": [
+    "Noam Shazeer",
+    "Noam Shazeer"
+  ],
+  "language modeling": [
+    "language modeling"
+  ],
+  "Neural machine translation": [
+    "Neural machine translation",
+    "neural machine translation"
+  ],
+  "arXiv preprint": [
+    "arXiv preprint",
+    "arXiv preprint"
+  ],
+  "International Conference on Learning Representations": [
+    "International Conference on Learning Representations"
+  ],
+  "Minh-Thang Luong": [
+    "Minh-Thang Luong"
+  ],
+  "Quoc V . Le": [
+    "Quoc V . Le"
+  ],
+  "Oriol Vinyals": [
+    "Oriol Vinyals",
+    "Oriol Vinyals"
+  ],
+  "Penn Treebank": [
+    "penn treebank"
+  ],
+  "NAACL": [
+    "NAACL"
+  ],
+  "Jakob Uszkoreit": [
+    "Jakob Uszkoreit"
+  ],
+  "arXiv": [
+    "arXiv"
+  ],
+  "Ilya Sutskever": [
+    "Ilya Sutskever"
+  ],
+  "Advances in Neural Information Processing Systems": [
+    "Advances in Neural Information Processing Systems"
+  ],
+  "2015": [
+    "2015"
+  ],
+  "Yonghui Wu": [
+    "Yonghui Wu"
+  ],
+  "Mike Schuster": [
+    "Mike Schuster"
+  ],
+  "CoRR": [
+    "CoRR"
+  ],
+  "ACL": [
+    "ACL"
+  ],
+  "attention heads": [
+    "attention heads",
+    "attention heads",
+    "attention heads"
+  ],
+  "layer 5": [
+    "layer 5"
+  ],
+  "Law": [
+    "Law",
+    "Law"
+  ],
+  "application": [
+    "application"
+  ],
+  "encoder self-attention": [
+    "encoder self-attention"
+  ]
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Grammar as a foreign language",
+    "target": "English-to-German base translation model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Grammar as a foreign language",
+    "target": "Parser Training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Grammar as a foreign language",
+    "target": "Self-training PCFG grammars with latent annotations across languages",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Grammar as a foreign language",
+    "target": "Computational linguistics",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Google\u00e2\u20ac\u2122s neural machine translation system",
+    "target": "align and translate",
+    "relation": "prerequisite"
+  }
+]

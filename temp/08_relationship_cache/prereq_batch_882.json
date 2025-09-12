@@ -1,0 +1,27 @@
+[
+  {
+    "source": "input sequences",
+    "target": "sequence length n",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input sequences",
+    "target": "maximum output length",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input sequences",
+    "target": "input length",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input sequences",
+    "target": "large inputs and outputs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input sequences",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  }
+]

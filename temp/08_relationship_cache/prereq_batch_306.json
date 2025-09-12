@@ -1,0 +1,27 @@
+[
+  {
+    "source": "heads",
+    "target": "sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "heads",
+    "target": "input positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "heads",
+    "target": "output positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "heads",
+    "target": "tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "heads",
+    "target": "input",
+    "relation": "prerequisite"
+  }
+]

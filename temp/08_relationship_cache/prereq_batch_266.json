@@ -1,0 +1,22 @@
+[
+  {
+    "source": "scaling",
+    "target": "learning rate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaling",
+    "target": "over-fitting",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaling",
+    "target": "tensorflow",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaling",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  }
+]

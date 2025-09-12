@@ -1,0 +1,17 @@
+[
+  {
+    "source": "output sequences",
+    "target": "decoder output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output sequences",
+    "target": "decoder stacks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output sequences",
+    "target": "ConvS2S Ensemble",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "tasks",
+    "target": "train",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "params",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "development set",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "structural challenges",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "tasks",
+    "target": "residual",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "attention function",
+    "target": "parallel attention layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention function",
+    "target": "restricted self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention function",
+    "target": "attention distributions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention function",
+    "target": "attention heads",
+    "relation": "prerequisite"
+  }
+]

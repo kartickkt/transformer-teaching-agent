@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Training",
+    "target": "self-training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Training",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Training",
+    "target": "Attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Training",
+    "target": "learned linear transformation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Training",
+    "target": "models",
+    "relation": "prerequisite"
+  }
+]

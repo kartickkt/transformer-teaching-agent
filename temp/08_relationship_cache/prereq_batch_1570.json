@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Transformer architecture",
+    "target": "4-layer transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer architecture",
+    "target": "Layer Type Complexity",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer architecture",
+    "target": "model architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer architecture",
+    "target": "complex recurrent neural networks",
+    "relation": "prerequisite"
+  }
+]

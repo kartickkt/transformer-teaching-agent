@@ -1,0 +1,22 @@
+[
+  {
+    "source": "frequencies",
+    "target": "wavelengths",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "P E(pos,2i)",
+    "target": "input for position t",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "P E(pos,2i)",
+    "target": "simple, position-",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "P E(pos,2i)",
+    "target": "position",
+    "relation": "prerequisite"
+  }
+]

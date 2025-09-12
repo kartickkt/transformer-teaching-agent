@@ -1,0 +1,17 @@
+[
+  {
+    "source": "weighted sum",
+    "target": "softmax function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "weighted sum",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "weighted sum",
+    "target": "pre-softmax",
+    "relation": "prerequisite"
+  }
+]

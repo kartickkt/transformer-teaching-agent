@@ -1,0 +1,17 @@
+[
+  {
+    "source": "weights",
+    "target": "scaling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "weights",
+    "target": "mean",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "weights",
+    "target": "parameters",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Multi-task sequence to sequence learning",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Multi-task sequence to sequence learning",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  }
+]

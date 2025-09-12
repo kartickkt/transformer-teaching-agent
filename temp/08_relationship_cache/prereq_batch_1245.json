@@ -1,0 +1,17 @@
+[
+  {
+    "source": "recurrent layer",
+    "target": "auto-regressive",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent layer",
+    "target": "residual connection",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent layer",
+    "target": "residual",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "ReLU activation",
+    "target": "Recurrent Neural Network Grammar",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ReLU activation",
+    "target": "Gradient flow in recurrent nets",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ReLU activation",
+    "target": "Neural computation",
+    "relation": "prerequisite"
+  }
+]

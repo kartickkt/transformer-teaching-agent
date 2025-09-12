@@ -1,0 +1,17 @@
+[
+  {
+    "source": "sequence lengths",
+    "target": "sequential nature",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence lengths",
+    "target": "representation of the sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence lengths",
+    "target": "order of the sequence",
+    "relation": "prerequisite"
+  }
+]

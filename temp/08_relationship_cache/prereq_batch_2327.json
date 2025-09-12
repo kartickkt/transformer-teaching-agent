@@ -1,0 +1,17 @@
+[
+  {
+    "source": "dimension",
+    "target": "embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dimension",
+    "target": "decoder",
+    "relation": "prerequisite"
+  }
+]

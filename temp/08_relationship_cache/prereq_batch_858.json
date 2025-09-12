@@ -1,0 +1,12 @@
+[
+  {
+    "source": "efficient inference",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "efficient inference",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  }
+]

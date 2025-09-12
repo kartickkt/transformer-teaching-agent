@@ -1,0 +1,17 @@
+[
+  {
+    "source": "queries",
+    "target": "weights",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "queries",
+    "target": "pos",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "queries",
+    "target": "relative positions",
+    "relation": "prerequisite"
+  }
+]

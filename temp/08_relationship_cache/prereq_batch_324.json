@@ -1,0 +1,17 @@
+[
+  {
+    "source": "parameters",
+    "target": "output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameters",
+    "target": "predictions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parameters",
+    "target": "position",
+    "relation": "prerequisite"
+  }
+]

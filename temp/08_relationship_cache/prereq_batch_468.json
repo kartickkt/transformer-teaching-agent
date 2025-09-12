@@ -1,0 +1,22 @@
+[
+  {
+    "source": "backward signals",
+    "target": "forward signals",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "backward signals",
+    "target": "sequence transduction tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "backward signals",
+    "target": "sequence transduction encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "backward signals",
+    "target": "parallel attention layers",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "model variants",
+    "target": "vectors of dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model variants",
+    "target": "dimension dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model variants",
+    "target": "representation dimension",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model variants",
+    "target": "\u00e2\u02c6\u0161dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model variants",
+    "target": "layer types",
+    "relation": "prerequisite"
+  }
+]

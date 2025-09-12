@@ -1,0 +1,17 @@
+[
+  {
+    "source": "limited training data",
+    "target": "training costs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "limited training data",
+    "target": "large training data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "limited training data",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "queries",
+    "target": "versions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "queries",
+    "target": "sequence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "queries",
+    "target": "network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "queries",
+    "target": "long-range dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "queries",
+    "target": "output positions",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "training time",
+    "target": "input for position t",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training time",
+    "target": "tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "training time",
+    "target": "Training",
+    "relation": "prerequisite"
+  }
+]

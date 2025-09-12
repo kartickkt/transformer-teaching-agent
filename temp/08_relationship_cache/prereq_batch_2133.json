@@ -1,0 +1,12 @@
+[
+  {
+    "source": "large inputs and outputs",
+    "target": "large training data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "large inputs and outputs",
+    "target": "Outrageously large neural networks",
+    "relation": "prerequisite"
+  }
+]

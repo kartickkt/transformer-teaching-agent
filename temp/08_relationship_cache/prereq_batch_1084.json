@@ -1,0 +1,22 @@
+[
+  {
+    "source": "single hidden layer",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned linear projections",
+    "target": "visualizations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned linear projections",
+    "target": "vectors",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "learned linear projections",
+    "target": "scaling",
+    "relation": "prerequisite"
+  }
+]

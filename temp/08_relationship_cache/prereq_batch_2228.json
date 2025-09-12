@@ -1,0 +1,7 @@
+[
+  {
+    "source": "model architecture",
+    "target": "inception architecture",
+    "relation": "prerequisite"
+  }
+]

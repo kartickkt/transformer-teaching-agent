@@ -1,0 +1,27 @@
+[
+  {
+    "source": "computational efficiency",
+    "target": "computational complexity",
+    "relation": "contrasts_with"
+  },
+  {
+    "source": "computational efficiency",
+    "target": "computational performance",
+    "relation": "related_topic"
+  },
+  {
+    "source": "eight P100 GPUs",
+    "target": "number of GPUs",
+    "relation": "example_of"
+  },
+  {
+    "source": "number of operations",
+    "target": "minimum number of sequential operations",
+    "relation": "related_topic"
+  },
+  {
+    "source": "number of operations",
+    "target": "constant number of sequentially executed operations",
+    "relation": "related_topic"
+  }
+]

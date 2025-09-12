@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence",
+    "target": "parsing",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "registration",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "application",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence",
+    "target": "decoder",
+    "relation": "prerequisite"
+  }
+]

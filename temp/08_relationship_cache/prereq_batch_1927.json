@@ -1,0 +1,22 @@
+[
+  {
+    "source": "number of operations",
+    "target": "TFLOPS",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-aligned recurrence",
+    "target": "recurrence",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-aligned recurrence",
+    "target": "sequential nature",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence-aligned recurrence",
+    "target": "conditional computation",
+    "relation": "prerequisite"
+  }
+]

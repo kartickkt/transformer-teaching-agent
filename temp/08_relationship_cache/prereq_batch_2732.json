@@ -1,0 +1,7 @@
+[
+  {
+    "source": "Human Language Technology Conference",
+    "target": "NAACL",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Parser Training",
+    "target": "Learning Representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Parser Training",
+    "target": "self-training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Parser Training",
+    "target": "large training data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Parser Training",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Parser Training",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "hidden layer",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden layer",
+    "target": "Position-wise Feed-Forward Networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden layer",
+    "target": "ReLU activation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden layer",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden layer",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  }
+]

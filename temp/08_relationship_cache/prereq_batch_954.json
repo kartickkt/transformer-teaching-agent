@@ -1,0 +1,27 @@
+[
+  {
+    "source": "connected layers",
+    "target": "single hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "connected layers",
+    "target": "learned linear projections",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "connected layers",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "connected layers",
+    "target": "Position-wise Feed-Forward Networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "connected layers",
+    "target": "ReLU activation",
+    "relation": "prerequisite"
+  }
+]

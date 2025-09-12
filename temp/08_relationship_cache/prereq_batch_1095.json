@@ -1,0 +1,22 @@
+[
+  {
+    "source": "encoder-decoder attention",
+    "target": "recurrent layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder attention",
+    "target": "convolutional layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder attention",
+    "target": "point-wise feed-forward layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "encoder-decoder attention",
+    "target": "learning phrase representations",
+    "relation": "prerequisite"
+  }
+]

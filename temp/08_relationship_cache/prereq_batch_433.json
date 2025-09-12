@@ -1,0 +1,17 @@
+[
+  {
+    "source": "versions",
+    "target": "scaling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "versions",
+    "target": "variance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "versions",
+    "target": "parameters",
+    "relation": "prerequisite"
+  }
+]

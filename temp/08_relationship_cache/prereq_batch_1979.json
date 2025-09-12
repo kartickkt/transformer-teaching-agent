@@ -1,0 +1,27 @@
+[
+  {
+    "source": "per-layer complexity",
+    "target": "connected layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "per-layer complexity",
+    "target": "layer normalization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "per-layer complexity",
+    "target": "single hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "per-layer complexity",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "per-layer complexity",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  }
+]

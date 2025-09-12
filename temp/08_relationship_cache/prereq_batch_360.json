@@ -1,0 +1,17 @@
+[
+  {
+    "source": "weights",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "weights",
+    "target": "averaging attention-weighted positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "weights",
+    "target": "tensorflow",
+    "relation": "prerequisite"
+  }
+]

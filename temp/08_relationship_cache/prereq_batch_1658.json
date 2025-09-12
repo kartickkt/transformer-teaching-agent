@@ -1,0 +1,27 @@
+[
+  {
+    "source": "attention function",
+    "target": "tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention function",
+    "target": "beam search",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention function",
+    "target": "attention key and value dimensions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention function",
+    "target": "task-specific tuning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention function",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  }
+]

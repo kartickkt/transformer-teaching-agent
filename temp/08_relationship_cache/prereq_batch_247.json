@@ -1,0 +1,17 @@
+[
+  {
+    "source": "values",
+    "target": "mean",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "values",
+    "target": "variance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "values",
+    "target": "parameters",
+    "relation": "prerequisite"
+  }
+]

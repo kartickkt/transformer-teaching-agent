@@ -1,0 +1,27 @@
+[
+  {
+    "source": "deep learning",
+    "target": "learned embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "embedding layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "recurrent layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "convolutional layer",
+    "relation": "prerequisite"
+  }
+]

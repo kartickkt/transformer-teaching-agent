@@ -1,0 +1,17 @@
+[
+  {
+    "source": "keys",
+    "target": "attention heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "keys",
+    "target": "attention key size dk",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "keys",
+    "target": "dmodel-dimensional keys",
+    "relation": "prerequisite"
+  }
+]

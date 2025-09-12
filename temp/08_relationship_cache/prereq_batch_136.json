@@ -1,0 +1,27 @@
+[
+  {
+    "source": "output",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output",
+    "target": "decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output",
+    "target": "softmax function",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "kernel width k",
+    "target": "input length",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "kernel width k",
+    "target": "attention key size dk",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "kernel width k",
+    "target": "dimension dmodel",
+    "relation": "prerequisite"
+  }
+]

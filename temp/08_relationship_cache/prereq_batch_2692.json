@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Parser Training",
+    "target": "training examples",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Parser Training",
+    "target": "Training Data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Parser Training",
+    "target": "training batch",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Parser Training",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Parser Training",
+    "target": "Recurrent Neural Network Grammar",
+    "relation": "prerequisite"
+  }
+]

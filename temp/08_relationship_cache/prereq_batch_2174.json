@@ -1,0 +1,17 @@
+[
+  {
+    "source": "model variants",
+    "target": "model quality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model variants",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model variants",
+    "target": "English-to-German base translation model",
+    "relation": "prerequisite"
+  }
+]

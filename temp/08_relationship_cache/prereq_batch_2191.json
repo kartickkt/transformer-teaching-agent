@@ -1,0 +1,27 @@
+[
+  {
+    "source": "sequence modeling",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "RNN sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "Recurrent Neural Network Grammar",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence modeling",
+    "target": "neural networks",
+    "relation": "prerequisite"
+  }
+]

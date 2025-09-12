@@ -1,0 +1,17 @@
+[
+  {
+    "source": "queries",
+    "target": "visualizations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "queries",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "queries",
+    "target": "output",
+    "relation": "prerequisite"
+  }
+]

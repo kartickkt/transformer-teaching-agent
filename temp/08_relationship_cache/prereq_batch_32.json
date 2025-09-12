@@ -1,0 +1,17 @@
+[
+  {
+    "source": "recurrence",
+    "target": "gated recurrent neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrence",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrence",
+    "target": "Recurrent Neural Network Grammar",
+    "relation": "prerequisite"
+  }
+]

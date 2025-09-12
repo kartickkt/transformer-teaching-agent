@@ -1,0 +1,22 @@
+[
+  {
+    "source": "2009 Conference on Empirical Methods in Natural Language Processing",
+    "target": "empirical evaluation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "2009 Conference on Empirical Methods in Natural Language Processing",
+    "target": "learning task-independent sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "2009 Conference on Empirical Methods in Natural Language Processing",
+    "target": "International Conference on Learning Representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "2009 Conference on Empirical Methods in Natural Language Processing",
+    "target": "deep reinforced model for abstractive summarization",
+    "relation": "prerequisite"
+  }
+]

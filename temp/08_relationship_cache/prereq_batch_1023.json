@@ -1,0 +1,17 @@
+[
+  {
+    "source": "output embeddings",
+    "target": "sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output embeddings",
+    "target": "shared source-target vocabulary",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output embeddings",
+    "target": "32000 word-piece vocabulary",
+    "relation": "prerequisite"
+  }
+]

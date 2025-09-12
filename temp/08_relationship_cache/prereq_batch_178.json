@@ -1,0 +1,12 @@
+[
+  {
+    "source": "masking",
+    "target": "over-fitting",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "masking",
+    "target": "attention layers",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "computational efficiency",
+    "target": "large inputs and outputs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational efficiency",
+    "target": "state-of-the-art models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational efficiency",
+    "target": "Neural computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational efficiency",
+    "target": "computer vision",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "computational efficiency",
+    "target": "statistical machine translation",
+    "relation": "prerequisite"
+  }
+]

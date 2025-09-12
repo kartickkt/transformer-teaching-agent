@@ -1,0 +1,12 @@
+[
+  {
+    "source": "ConvS2S Ensemble",
+    "target": "convolutional neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "ConvS2S Ensemble",
+    "target": "tensor2tensor",
+    "relation": "prerequisite"
+  }
+]

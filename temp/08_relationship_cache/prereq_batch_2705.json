@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Self-training PCFG grammars with latent annotations across languages",
+    "target": "large training data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Self-training PCFG grammars with latent annotations across languages",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Self-training PCFG grammars with latent annotations across languages",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Self-training PCFG grammars with latent annotations across languages",
+    "target": "RNN sequence-to-sequence models",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "deep learning",
+    "target": "softmax",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "feed-forward network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "single hidden layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "learned linear projections",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep learning",
+    "target": "encoder-decoder attention",
+    "relation": "prerequisite"
+  }
+]

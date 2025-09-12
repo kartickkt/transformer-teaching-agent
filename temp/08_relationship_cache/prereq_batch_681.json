@@ -1,0 +1,27 @@
+[
+  {
+    "source": "code",
+    "target": "query",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "code",
+    "target": "queries",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "code",
+    "target": "keys",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "code",
+    "target": "values",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "code",
+    "target": "heads",
+    "relation": "prerequisite"
+  }
+]

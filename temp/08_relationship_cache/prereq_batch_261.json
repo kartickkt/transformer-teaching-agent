@@ -1,0 +1,22 @@
+[
+  {
+    "source": "scaling",
+    "target": "values",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaling",
+    "target": "gradients",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaling",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaling",
+    "target": "weights",
+    "relation": "prerequisite"
+  }
+]

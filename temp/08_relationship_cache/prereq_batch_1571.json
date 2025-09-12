@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Transformer architecture",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer architecture",
+    "target": "Long short-term memory-networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Transformer architecture",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "source": "shared source-target vocabulary",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  }
+]

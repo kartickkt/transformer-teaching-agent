@@ -1,0 +1,27 @@
+[
+  {
+    "source": "predictions",
+    "target": "evaluate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "predictions",
+    "target": "decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "predictions",
+    "target": "efficient inference",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "predictions",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "predictions",
+    "target": "softmax",
+    "relation": "prerequisite"
+  }
+]

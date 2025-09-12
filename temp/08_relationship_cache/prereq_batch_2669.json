@@ -1,0 +1,12 @@
+[
+  {
+    "source": "English-to-German",
+    "target": "English-to-German base translation model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "English-to-German",
+    "target": "human and machine translation",
+    "relation": "prerequisite"
+  }
+]

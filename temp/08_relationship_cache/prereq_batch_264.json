@@ -1,0 +1,27 @@
+[
+  {
+    "source": "scaling",
+    "target": "params",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaling",
+    "target": "evaluate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaling",
+    "target": "align and translate",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaling",
+    "target": "stochastic optimization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "scaling",
+    "target": "application",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "parsing",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parsing",
+    "target": "masking",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parsing",
+    "target": "query",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parsing",
+    "target": "queries",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parsing",
+    "target": "parameters",
+    "relation": "prerequisite"
+  }
+]

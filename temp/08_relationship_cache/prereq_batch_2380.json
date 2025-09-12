@@ -1,0 +1,12 @@
+[
+  {
+    "source": "model quality",
+    "target": "model performance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "model quality",
+    "target": "model architecture",
+    "relation": "prerequisite"
+  }
+]

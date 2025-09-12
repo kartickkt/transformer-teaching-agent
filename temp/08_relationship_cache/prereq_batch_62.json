@@ -1,0 +1,27 @@
+[
+  {
+    "source": "hidden",
+    "target": "previous hidden state ht\u00e2\u02c6\u20191",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden",
+    "target": "stack",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden",
+    "target": "masking",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden",
+    "target": "position",
+    "relation": "prerequisite"
+  }
+]

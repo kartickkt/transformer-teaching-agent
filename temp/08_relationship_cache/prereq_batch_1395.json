@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Deep residual learning",
+    "target": "residual connection",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Deep residual learning",
+    "target": "long-range dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Deep residual learning",
+    "target": "Regularization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Deep residual learning",
+    "target": "residual",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Deep residual learning",
+    "target": "convolutional neural networks",
+    "relation": "prerequisite"
+  }
+]

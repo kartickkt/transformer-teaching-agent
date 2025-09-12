@@ -1,0 +1,27 @@
+[
+  {
+    "source": "information flow",
+    "target": "visualizations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "information flow",
+    "target": "network",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "information flow",
+    "target": "input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "information flow",
+    "target": "input and output modalities",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "information flow",
+    "target": "application",
+    "relation": "prerequisite"
+  }
+]

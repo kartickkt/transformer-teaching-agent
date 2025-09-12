@@ -1,0 +1,17 @@
+[
+  {
+    "source": "sequence lengths",
+    "target": "long short-term memory",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence lengths",
+    "target": "parallelization",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence lengths",
+    "target": "memory constraints",
+    "relation": "prerequisite"
+  }
+]

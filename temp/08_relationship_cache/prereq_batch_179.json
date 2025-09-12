@@ -1,0 +1,27 @@
+[
+  {
+    "source": "masking",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "masking",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "masking",
+    "target": "model performance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "predictions",
+    "target": "tables",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "predictions",
+    "target": "figures",
+    "relation": "prerequisite"
+  }
+]

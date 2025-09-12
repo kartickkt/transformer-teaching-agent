@@ -1,0 +1,17 @@
+[
+  {
+    "source": "Factorization tricks for LSTM networks",
+    "target": "Sequence to sequence learning with neural networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Factorization tricks for LSTM networks",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "structured self-attentive sentence embedding",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Neural computation",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural computation",
+    "target": "Effective approaches to attention-based neural machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural computation",
+    "target": "Computational linguistics",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural computation",
+    "target": "Neural machine translation of rare words with subword units",
+    "relation": "prerequisite"
+  }
+]

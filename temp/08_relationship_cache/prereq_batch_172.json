@@ -1,0 +1,22 @@
+[
+  {
+    "source": "LayerNorm",
+    "target": "scaling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "LayerNorm",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "LayerNorm",
+    "target": "function",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "LayerNorm",
+    "target": "network",
+    "relation": "prerequisite"
+  }
+]

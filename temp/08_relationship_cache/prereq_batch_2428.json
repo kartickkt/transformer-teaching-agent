@@ -1,0 +1,17 @@
+[
+  {
+    "source": "gated recurrent neural networks",
+    "target": "encoder-decoder architectures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "gated recurrent neural networks",
+    "target": "end-to-end memory networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "gated recurrent neural networks",
+    "target": "fully connected feed-forward network",
+    "relation": "prerequisite"
+  }
+]

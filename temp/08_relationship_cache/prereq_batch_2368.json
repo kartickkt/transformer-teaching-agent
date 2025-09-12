@@ -1,0 +1,7 @@
+[
+  {
+    "source": "single model",
+    "target": "single hidden layer",
+    "relation": "prerequisite"
+  }
+]

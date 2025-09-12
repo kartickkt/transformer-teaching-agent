@@ -1,0 +1,22 @@
+[
+  {
+    "source": "hidden layer",
+    "target": "Learning Representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden layer",
+    "target": "Factorization tricks for LSTM networks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden layer",
+    "target": "self-training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "hidden layer",
+    "target": "4-layer transformer",
+    "relation": "prerequisite"
+  }
+]

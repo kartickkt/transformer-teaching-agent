@@ -1,0 +1,17 @@
+[
+  {
+    "source": "known outputs",
+    "target": "existing best results",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "known outputs",
+    "target": "output",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "known outputs",
+    "target": "dot products",
+    "relation": "prerequisite"
+  }
+]

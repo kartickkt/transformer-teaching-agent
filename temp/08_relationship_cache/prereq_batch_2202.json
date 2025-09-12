@@ -1,0 +1,22 @@
+[
+  {
+    "source": "language modeling",
+    "target": "Transformer (base model)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "big transformer model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "language modeling",
+    "target": "theoretical complexity",
+    "relation": "prerequisite"
+  }
+]

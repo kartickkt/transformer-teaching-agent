@@ -1,0 +1,17 @@
+[
+  {
+    "source": "recurrent layer",
+    "target": "previous layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent layer",
+    "target": "sub-layer input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "recurrent layer",
+    "target": "sequence-aligned recurrence",
+    "relation": "prerequisite"
+  }
+]

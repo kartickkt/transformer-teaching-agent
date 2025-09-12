@@ -1,0 +1,27 @@
+[
+  {
+    "source": "dmodel",
+    "target": "tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel",
+    "target": "P_drop",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel",
+    "target": "params",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel",
+    "target": "development set",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dmodel",
+    "target": "evaluate",
+    "relation": "prerequisite"
+  }
+]

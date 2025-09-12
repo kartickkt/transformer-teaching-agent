@@ -1,0 +1,12 @@
+[
+  {
+    "source": "development set",
+    "target": "training batch",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "development set",
+    "target": "model quality",
+    "relation": "prerequisite"
+  }
+]

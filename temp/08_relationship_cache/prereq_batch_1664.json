@@ -1,0 +1,22 @@
+[
+  {
+    "source": "attention function",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention function",
+    "target": "Effective approaches to attention-based neural machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention layers",
+    "target": "LayerNorm",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "attention layers",
+    "target": "masking",
+    "relation": "prerequisite"
+  }
+]

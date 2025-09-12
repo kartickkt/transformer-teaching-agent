@@ -1,0 +1,12 @@
+[
+  {
+    "source": "additive attention",
+    "target": "weighted sum",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "additive attention",
+    "target": "abstractive summarization",
+    "relation": "prerequisite"
+  }
+]

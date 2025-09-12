@@ -1,0 +1,7 @@
+[
+  {
+    "source": "sparsely-gated mixture-of-experts",
+    "target": "state-of-the-art models",
+    "relation": "prerequisite"
+  }
+]

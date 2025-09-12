@@ -1,0 +1,12 @@
+[
+  {
+    "source": "floating point operations",
+    "target": "P E(pos,2i)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "floating point operations",
+    "target": "sinusoidal positional encoding",
+    "relation": "prerequisite"
+  }
+]

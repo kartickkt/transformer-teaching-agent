@@ -1,0 +1,27 @@
+[
+  {
+    "source": "base models",
+    "target": "big transformer model",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "base models",
+    "target": "sub-layers",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "base models",
+    "target": "attention-based models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "base models",
+    "target": "original codebase",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "base models",
+    "target": "models",
+    "relation": "prerequisite"
+  }
+]

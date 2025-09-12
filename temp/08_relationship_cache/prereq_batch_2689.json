@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Parser Training",
+    "target": "parsing",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Parser Training",
+    "target": "limited training data",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Parser Training",
+    "target": "input sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Parser Training",
+    "target": "learning task-independent sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Parser Training",
+    "target": "output embeddings",
+    "relation": "prerequisite"
+  }
+]

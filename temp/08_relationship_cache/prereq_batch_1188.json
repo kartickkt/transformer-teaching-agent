@@ -1,0 +1,27 @@
+[
+  {
+    "source": "decoder output",
+    "target": "backward signals",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder output",
+    "target": "output positions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder output",
+    "target": "input",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder output",
+    "target": "dropout",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder output",
+    "target": "input and output modalities",
+    "relation": "prerequisite"
+  }
+]

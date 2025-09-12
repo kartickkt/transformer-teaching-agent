@@ -1,0 +1,12 @@
+[
+  {
+    "source": "abstractive summarization",
+    "target": "anaphora resolution",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "abstractive summarization",
+    "target": "deep reinforced model for abstractive summarization",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "input positions",
+    "target": "heads",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input positions",
+    "target": "parameters",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input positions",
+    "target": "output tokens",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input positions",
+    "target": "P E(pos,2i)",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "input positions",
+    "target": "pos",
+    "relation": "prerequisite"
+  }
+]

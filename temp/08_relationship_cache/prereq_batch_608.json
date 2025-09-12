@@ -1,0 +1,22 @@
+[
+  {
+    "source": "params",
+    "target": "encoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "params",
+    "target": "decoder",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "params",
+    "target": "hidden representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "params",
+    "target": "embedding",
+    "relation": "prerequisite"
+  }
+]

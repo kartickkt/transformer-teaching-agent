@@ -1,0 +1,22 @@
+[
+  {
+    "source": "sequence transduction encoder",
+    "target": "Embeddings",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction encoder",
+    "target": "Positional Encoding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction encoder",
+    "target": "decoder stacks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction encoder",
+    "target": "rnn encoder-decoder",
+    "relation": "prerequisite"
+  }
+]

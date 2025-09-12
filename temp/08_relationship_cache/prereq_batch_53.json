@@ -1,0 +1,17 @@
+[
+  {
+    "source": "visualizations",
+    "target": "models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "visualizations",
+    "target": "dimensionality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "visualizations",
+    "target": "representation dimension",
+    "relation": "prerequisite"
+  }
+]

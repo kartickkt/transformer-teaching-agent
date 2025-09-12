@@ -1,0 +1,17 @@
+[
+  {
+    "source": "28.4 BLEU",
+    "target": "4.5 million sentence pairs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "28.4 BLEU",
+    "target": "human and machine translation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "WMT 2014 English-to-French translation task",
+    "target": "machine translation tasks",
+    "relation": "prerequisite"
+  }
+]

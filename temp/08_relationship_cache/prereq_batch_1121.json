@@ -1,0 +1,7 @@
+[
+  {
+    "source": "sequence-to-sequence models",
+    "target": "encoder stack",
+    "relation": "prerequisite"
+  }
+]

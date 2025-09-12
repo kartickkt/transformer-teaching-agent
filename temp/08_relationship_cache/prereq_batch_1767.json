@@ -1,0 +1,12 @@
+[
+  {
+    "source": "multi-task",
+    "target": "Sequential",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "multi-task",
+    "target": "tasks",
+    "relation": "prerequisite"
+  }
+]

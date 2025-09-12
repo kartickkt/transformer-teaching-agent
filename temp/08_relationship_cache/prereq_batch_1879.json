@@ -1,0 +1,27 @@
+[
+  {
+    "source": "memory constraints",
+    "target": "global dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "memory constraints",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "memory constraints",
+    "target": "residual connection",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "memory constraints",
+    "target": "queries",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "memory constraints",
+    "target": "memory keys and values",
+    "relation": "prerequisite"
+  }
+]

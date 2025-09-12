@@ -1,0 +1,27 @@
+[
+  {
+    "source": "number of operations",
+    "target": "tasks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "number of operations",
+    "target": "algorithms",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "number of operations",
+    "target": "convolutions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "number of operations",
+    "target": "output sequences",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "number of operations",
+    "target": "linear transformations",
+    "relation": "prerequisite"
+  }
+]

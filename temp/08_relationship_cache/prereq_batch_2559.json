@@ -1,0 +1,22 @@
+[
+  {
+    "source": "neural networks",
+    "target": "network architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "vectors",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "gradients",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "neural networks",
+    "target": "network",
+    "relation": "prerequisite"
+  }
+]

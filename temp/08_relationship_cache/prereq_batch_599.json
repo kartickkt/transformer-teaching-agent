@@ -1,0 +1,27 @@
+[
+  {
+    "source": "train",
+    "target": "Parser Training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "params",
+    "target": "tables",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "params",
+    "target": "figures",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "params",
+    "target": "hidden",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "params",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  }
+]

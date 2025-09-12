@@ -1,0 +1,27 @@
+[
+  {
+    "source": "100,000 steps",
+    "target": "warmup_steps\u00e2\u02c6\u20191.5",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "step_num\u00e2\u02c6\u20190.5",
+    "target": "previous hidden state ht\u00e2\u02c6\u20191",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "step_num\u00e2\u02c6\u20190.5",
+    "target": "simple, position-",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "step_num\u00e2\u02c6\u20190.5",
+    "target": "scaling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "step_num\u00e2\u02c6\u20190.5",
+    "target": "step time",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "deep reinforced model for abstractive summarization",
+    "target": "deep learning",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep reinforced model for abstractive summarization",
+    "target": "Learning Representations",
+    "relation": "prerequisite"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "source": "decoder output",
+    "target": "decoder layer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder output",
+    "target": "decoder stacks",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "decoder output",
+    "target": "Residual Dropout",
+    "relation": "prerequisite"
+  }
+]

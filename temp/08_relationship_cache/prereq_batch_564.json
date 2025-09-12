@@ -1,0 +1,22 @@
+[
+  {
+    "source": "dropout",
+    "target": "hidden",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dropout",
+    "target": "batching",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dropout",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dropout",
+    "target": "output",
+    "relation": "prerequisite"
+  }
+]

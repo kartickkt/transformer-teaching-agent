@@ -1,0 +1,22 @@
+[
+  {
+    "source": "continuous representations",
+    "target": "Deep recurrent models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "continuous representations",
+    "target": "sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "connected layers",
+    "target": "network architecture",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "connected layers",
+    "target": "hidden",
+    "relation": "prerequisite"
+  }
+]

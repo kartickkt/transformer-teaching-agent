@@ -1,0 +1,27 @@
+[
+  {
+    "source": "representation dimension",
+    "target": "matrix Q",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation dimension",
+    "target": "dmodel-dimensional keys",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation dimension",
+    "target": "parameter matrices",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation dimension",
+    "target": "dmodel",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "representation dimension",
+    "target": "dimensionality",
+    "relation": "prerequisite"
+  }
+]

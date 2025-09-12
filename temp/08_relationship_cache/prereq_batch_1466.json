@@ -1,0 +1,27 @@
+[
+  {
+    "source": "deep reinforced model for abstractive summarization",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep reinforced model for abstractive summarization",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep reinforced model for abstractive summarization",
+    "target": "recurrent language models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep reinforced model for abstractive summarization",
+    "target": "RNN sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "deep reinforced model for abstractive summarization",
+    "target": "neural machine translation architectures",
+    "relation": "prerequisite"
+  }
+]

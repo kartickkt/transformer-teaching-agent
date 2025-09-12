@@ -1,0 +1,17 @@
+[
+  {
+    "source": "parallelization",
+    "target": "batching",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallelization",
+    "target": "conditional computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "parallelization",
+    "target": "dependencies",
+    "relation": "prerequisite"
+  }
+]

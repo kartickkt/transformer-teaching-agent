@@ -1,0 +1,22 @@
+[
+  {
+    "source": "sequence transduction models",
+    "target": "sequence-to-sequence models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction models",
+    "target": "Transformer",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction models",
+    "target": "Transformer models",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sequence transduction models",
+    "target": "transduction problems",
+    "relation": "prerequisite"
+  }
+]

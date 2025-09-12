@@ -1,0 +1,22 @@
+[
+  {
+    "source": "pos",
+    "target": "positional embedding",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sinusoid",
+    "target": "sine functions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sinusoid",
+    "target": "cosine functions",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "sinusoid",
+    "target": "sinusoidal version",
+    "relation": "prerequisite"
+  }
+]

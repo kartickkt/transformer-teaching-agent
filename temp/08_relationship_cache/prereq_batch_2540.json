@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Neural computation",
+    "target": "computation",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural computation",
+    "target": "computation time",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural computation",
+    "target": "computational efficiency",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "Neural computation",
+    "target": "theoretical complexity",
+    "relation": "prerequisite"
+  }
+]

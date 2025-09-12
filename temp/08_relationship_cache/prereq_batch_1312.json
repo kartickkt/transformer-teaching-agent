@@ -1,0 +1,22 @@
+[
+  {
+    "source": "positional embedding",
+    "target": "parameter matrices",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "positional embedding",
+    "target": "dimensionality",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "positional embedding",
+    "target": "sentence representations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "positional embedding",
+    "target": "sentence pairs",
+    "relation": "prerequisite"
+  }
+]

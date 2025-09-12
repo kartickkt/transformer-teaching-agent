@@ -1,0 +1,27 @@
+[
+  {
+    "source": "output positions",
+    "target": "maximum output length",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output positions",
+    "target": "input length",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output positions",
+    "target": "FLOPs",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output positions",
+    "target": "floating point operations",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "output positions",
+    "target": "TFLOPS",
+    "relation": "prerequisite"
+  }
+]

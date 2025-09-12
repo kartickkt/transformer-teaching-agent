@@ -1,0 +1,17 @@
+[
+  {
+    "source": "dot product",
+    "target": "vectors",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dot product",
+    "target": "weighted sum",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "dot product",
+    "target": "dot products",
+    "relation": "prerequisite"
+  }
+]

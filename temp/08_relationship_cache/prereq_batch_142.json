@@ -1,0 +1,22 @@
+[
+  {
+    "source": "auto-regressive",
+    "target": "self-training",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "auto-regressive",
+    "target": "recurrent attention mechanism",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "auto-regressive",
+    "target": "encoder self-attention",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "auto-regressive",
+    "target": "sequential computation",
+    "relation": "prerequisite"
+  }
+]

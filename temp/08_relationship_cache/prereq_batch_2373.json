@@ -1,0 +1,22 @@
+[
+  {
+    "source": "single model",
+    "target": "sequence modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single model",
+    "target": "language modeling",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single model",
+    "target": "model performance",
+    "relation": "prerequisite"
+  },
+  {
+    "source": "single model",
+    "target": "model architecture",
+    "relation": "prerequisite"
+  }
+]
